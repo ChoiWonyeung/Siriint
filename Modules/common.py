@@ -45,7 +45,6 @@ def req_bsEncoding(url):
     """
     req = requests.get(url)
     html = req.text
-    global soup
     soup = BeautifulSoup(html, 'html.parser')
     return soup
 
@@ -94,7 +93,6 @@ def df_bigWaveRobotics():
     """
     :return: DataFrame
     """
-    global Columns
     Columns = ['No',
                'brand',
                'type1',
@@ -182,7 +180,7 @@ def ls_driverStyle(selector):
     return result
 
 
-def textmake(selector, normalize_unicode=False, encoding_type='NFC', makeList=True):
+def textmake(soup, selector, normalize_unicode=False, encoding_type='NFC', makeList=True):
     ls = []
     if normalize_unicode == False and makeList == True:
         for text_soup in soup.select(selector):
@@ -203,14 +201,14 @@ def textmake(selector, normalize_unicode=False, encoding_type='NFC', makeList=Tr
             return unicodedata.normalize(encoding_type, text_soup.text)
 
 
-def ls_hrefmake(selector, str_add=''):  # href->리스트 반환 함수
+def ls_hrefmake(soup ,selector, str_add=''):  # href->리스트 반환 함수
     ls_href = []
     for href_soup in soup.select(selector):
         ls_href.append(str_add + href_soup['href'])
     return ls_href
 
 
-def ls_srcmake(selector, str_add=''):
+def ls_srcmake(soup, selector, str_add=''):
     ls_src = []
     for src_soup in soup.select(selector):
         ls_src.append(str_add + src_soup['src'])

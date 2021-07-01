@@ -18,9 +18,8 @@ len = 길이
 """
 
 
-def BWR_json(source):
-    BWR_json =\
-            {
+def format_json(key=''):
+    key =      {
                 'slug': String,  # 상품 고유 슬러그
                 'type': 'tangible' or 'downloadable' or 'ticket' or 'custom',  # 필수 항목
                 'available': Boolean,  # 상품 구매 가능 여부
@@ -115,4 +114,4 @@ def BWR_json(source):
                 'related_doc_url_6': {},    # varchar(255)
                 'meta': Object              # 상품의 커스텀 정보
             }
-    return BWR_json
+    return key
