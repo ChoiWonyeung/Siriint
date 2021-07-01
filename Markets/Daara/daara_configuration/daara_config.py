@@ -19,10 +19,20 @@ selector_description2 = '.table tbody'
 selector_delivery = '.common-rw-table.prdc-detail span'
 selector_image = 'div.detailTopImg > img'
 
-dic_selector = {'catlog': selector_catalog,
-                'type1': selector_type1,
-                'type2': selector_type2,
-                'description1': selector_description1,
-                'description2': selector_description2,
-                'delivery': selector_delivery,
-                'image': selector_image}
+# 셀렉터 항목 딕셔너리 화
+dic_selector = {
+    'type1': selector_type1,
+    'type2': selector_type2,
+    'catalog': selector_catalog,
+    'highlight': selector_highlight,
+    'order': selector_order,
+    'seller': selector_seller,
+    'description1': selector_description1,
+    'description2': selector_description2,
+    'delivery': selector_delivery,
+    'image': selector_image
+}
+
+# 경로
+path_pickle = '/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/Markets/Daara/daara_pickles/'
+path_dataResult = '/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/Markets/Daara/daara_dataResults/'
