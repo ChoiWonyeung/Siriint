@@ -17,6 +17,11 @@ selector_seller = '.common-row-table.prdc-detail'
 selector_description1 = '.table thead'
 selector_description2 = '.table tbody'
 selector_delivery = '.common-rw-table.prdc-detail span'
+
+# 2차 - 이미지
+image_start = 'pimg.daara.co.kr/mall/photo'
+image_format = 'png', 'jpg', ''
+
 selector_image = 'div.detailTopImg > img'
 
 # 셀렉터 항목 딕셔너리 화

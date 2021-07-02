@@ -3,144 +3,194 @@ from common import *
 
 
 # description1 정제
-def pp_description1(source, dic_daara):
+def pp_description1(dic_daara):
     """
     description1 항목에 대한 정제
-    :param source:
     :param dic_daara:
     :return:
     """
-    for i in source:
+    dsc1 = 'description1'
+    for key, value in dic_daara.items():
         try:
-            dic_daara[i]['description1'][0] = dic_daara[i]['description1'][0].split('\n')
+            value[dsc1][0] = value[dsc1][0].split('\n')
         except Exception as e:
             print(e)
 
         try:
-            dic_daara[i]['description1'][0] = list(filter(None, dic_daara[i]['description1'][0]))
+            value[dsc1][0] = list(filter(None, value[dsc1][0]))
         except Exception as e:
             print(e)
 
         try:
-            dic_daara[i]['description1'] = dic_daara[i]['description1'][0][1:]
+            value[dsc1] = value[dsc1][0][1:]
+        except Exception as e:
+            print(e)
+
+        try:
+            value[dsc1][0] = value[dsc1][0].split()
+        except Exception as e:
+            print(e)
+
+        for j in range(len(value[dsc1][0])):
+            try:
+                value[dsc1].insert(j, value[dsc1][j][j])
+            except Exception as e:
+                print(e)
+
+        try:
+            for idx, desc in enumerate(value[dsc1]):
+                if type(desc) == type(list()):
+                    value[dsc1].pop(idx)
         except Exception as e:
             print(e)
     return dic_daara
 
 
 # description2 정제
-def pp_description2(source, dic_daara):
+def pp_description2(dic_daara):
     """
     description2에 대한 정제
-    :param source:
     :param dic_daara:
     :return:
     """
-    for i in source:
+    dsc2 = 'description2'
+    for key, value in dic_daara.items():
         try:
-            dic_daara[i]['description2'] = dic_daara[i]['description2'][0].split('\n')
+            value[dsc2] = value[dsc2][0].split('\n')
         except Exception as e:
             print(e)
 
         try:
-            dic_daara[i]['description2'] = list(filter(None, dic_daara[i]['description2']))
+            value[dsc2] = list(filter(None, value[dsc2]))
         except Exception as e:
             print(e)
 
         try:
-            del dic_daara[i]['description2'][0], dic_daara[i]['description2'][1]
+            del value[dsc2][0], value[dsc2][1]
         except Exception as e:
             print(e)
 
-        for j in range(len(dic_daara[i]['description2'])):
+        for j in range(len(value[dsc2])):
             try:
-                dic_daara[i]['description2'][j] = dic_daara[i]['description2'][j].strip()
+                value[dsc2][j] = value[dsc2][j].strip()
             except Exception as e:
                 print(e)
+
+        try:
+            value[dsc2][0] = value[dsc2][0].split(' ', 1)
+        except Exception as e:
+            print(e)
+
+        for j in range(len(value[dsc2][0])):
+            try:
+                value[dsc2].insert(j, value[dsc2][j][j])
+            except Exception as e:
+                print(e)
+
+        for idx, desc in enumerate(value[dsc2]):
+            try:
+                if type(desc) == type(list()):
+                    value[dsc2].pop(idx)
+            except Exception as e:
+                print(e)
+
     return dic_daara
 
 
 # order 정제
-def pp_order(source, dic_daara):
+def pp_order(dic_daara):
     """
     order 항목에 대한 정제
     :param source:
     :param dic_daara:
     :return:
     """
-    for i in source:
+    ord = 'order'
+    for key, value in dic_daara.items():
         try:
-            dic_daara[i]['order'][0] = dic_daara[i]['order'][0].replace(u'\xa0', u'')
+            value[ord][0] = value[ord][0].replace(u'\xa0', u'')
         except Exception as e:
             print(e)
 
         try:
-            dic_daara[i]['order'][1] = dic_daara[i]['order'][1].replace(u'\xa0', u'')
+            value[ord][1] = value[ord][1].replace(u'\xa0', u'')
         except Exception as e:
             print(e)
     return dic_daara
 
 
 # delivery 정제
-def pp_delivery(source, dic_daara):
+def pp_delivery(dic_daara):
     """
     delivery 항목에 대한 정제
     :param source:
     :param dic_daara:
     :return:
     """
-    for i in source:
-        if dic_daara[i]['delivery'] == []:
+    deliv = 'delivery'
+    for key, value in dic_daara.items():
+        if value[deliv] == []:
             try:
-                dic_daara[i]['delivery'] = [dic_daara[i]['seller'][3]]
+                value[deliv] = [value['seller'][3]]
             except Exception as e:
                 print(e)
 
         try:
-            dic_daara[i]['delivery'] = dic_daara[i]['delivery'][0].split('\n')
+            value[deliv] = value[deliv][0].split('\n')
         except Exception as e:
             print(e)
 
         try:
-            dic_daara[i]['delivery'] = list(filter(None, dic_daara[i]['delivery']))
+            value[deliv] = list(filter(None, value[deliv]))
         except Exception as e:
             print(e)
 
-        for j in range(len(dic_daara[i]['delivery'])):
+        for j in range(len(value[deliv])):
             try:
-                dic_daara[i]['delivery'][j] = dic_daara[i]['delivery'][j].strip()
+                value[deliv][j] = value[deliv][j].strip()
             except Exception as e:
                 print(e)
     return dic_daara
 
 
 # seller 정제
-def pp_seller(source, dic_daara):
+def pp_seller(dic_daara):
     """
     seller 항목에 대한 정제
-    :param source:
     :param dic_daara:
     :return:
     """
-    for i in source:
-        if dic_daara[i]['deilvery'] == []:
+    sell = 'seller'
+    for key, value in dic_daara.items():
+        if value['delivery'] == []:
             try:
-                dic_daara[i]['delivery'] = [dic_daara[i]['seller'][3]]
+                value['delivery'] = [value[sell][3]]
             except Exception as e:
                 print(e)
 
         try:
-            dic_daara[i]['seller'] = dic_daara[i]['seller'][:3]
+            value[sell] = value[sell][:3]
         except Exception as e:
             print(e)
 
         try:
-            dic_daara[i]['seller'] = dic_daara[i]['seller'][0].split('\n')
+            value[sell] = value[sell][0].split('\n')
         except Exception as e:
             print(e)
 
         try:
-            dic_daara[i]['seller'] = list(filter(None, dic_daara[i]['seller']))
+            value[sell] = list(filter(None, value[sell]))
         except Exception as e:
             print(e)
     return dic_daara
+
+
+if __name__ == '__main__':
+    dic_daara = pickle_load(config.path_pickle + 'dic_daara.pkl')
+    source = pickle_load(config.path_pickle + 'source.pkl')
+
+    dic_daara = pp_description1(dic_daara)
+    dic_daara = pp_description2(dic_daara)
+    dic_daara = pp_order(dic_daara)
+    dic_daara = pp_delivery(dic_daara)
+    dic_daara = pp_seller(dic_daara)

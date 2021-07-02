@@ -47,3 +47,4 @@ def crawl_detail(source, product, brand, price):
                     print('Error occurred\n', key_dict, e3)
                     pass
     return dic_daara
+

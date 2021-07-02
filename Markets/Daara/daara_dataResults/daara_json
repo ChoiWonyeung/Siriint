@@ -1,0 +1,2239 @@
+{
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=38776": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "엡손",
+		"collections": [
+			"string"
+		],
+		"catalogs": [],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "엡손 다관절 로봇 C4/C4L"
+		},
+		"summary": {
+			"{lang}0": "뛰어난 정밀도와 최고 수준의 빠른 사이클 타임",
+			"{lang}1": "최대의 유연성을 위한 소형 디자인",
+			"{lang}2": "ISO Clean 및 ESD 준수모델"
+		},
+		"description": {
+			"제품코드": "C4-A601",
+			"제조사코드": "EPSON",
+			"제품가격": "견적거래",
+			"최대 동작 영역": "600 mm",
+			"가반중량": "정격 1kg / 최대 2.5kg",
+			"설치 방법": "가대 설치",
+			"반복 정밀도": "±0.02 mm",
+			"본체 중량": "27kg"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=34704": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "스토브리",
+		"collections": [
+			"string"
+		],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201710/1508128856_95.pdf"
+			},
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201710/1508128861_30.pdf"
+			}
+		],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "[스토브리] TX2-40 협동로봇"
+		},
+		"summary": {
+			"{lang}0": "깨끗한 환경이나 더러운 환경에서 청소 및 사용 용이",
+			"{lang}1": "견고한 구조 / 더 나아진 동적 성능",
+			"{lang}2": "다양한 설치 위치 / 셀 디자인의 적응성 및 유연성",
+			"{lang}3": "감속 기어 시스템 / 유지 보수 감소와 더불어 정밀성, 유연성 및 속도",
+			"{lang}4": "넓은 작업 반경 / 모든 작업 영역에서 최적의 동작 가능"
+		},
+		"description": {
+			"제조사코드": "TX2-40",
+			"제품가격": "견적거래",
+			"운반 하중 범위": "1.7 kg ~ 2.3 kg",
+			"작업반경 범위": "515 mm",
+			"반복정밀도": "±0.02 mm"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=41131": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "현대로보틱스",
+		"collections": [
+			"string"
+		],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201801/1516060917_86.STEP"
+			},
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201801/1516060925_39.dwg"
+			}
+		],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "[현대로보틱스] HX400 산업용로봇"
+		},
+		"summary": {
+			"{lang}0": "High Speed",
+			"{lang}1": "High accuracy",
+			"{lang}2": "Large working envelope",
+			"{lang}3": "High reliability & flexibility"
+		},
+		"description": {
+			"제품코드": "HX400",
+			"제품가격": "견적거래",
+			"Payload": "400 kg",
+			"Max.reach": "2573mm",
+			"Installation": "Floor"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=44996": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "도시바",
+		"collections": [
+			"string"
+		],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": "http://www.acteng.co.kr/sub.asp?maincode=455&sub_sequence=505&sub_sub_sequence=&mskin=&exec=view&strBoardID=kui_505&intPage=1&intCategory=0&strSearchCategory=|s_name|s_subject||&strSearchWord=%EC%B9%B4%EB%8B%A4%EB%A1%9C%EA%B7%B8&intSeq=1619"
+			}
+		],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "도시바 스카라  THL300 조립 로봇"
+		},
+		"summary": {
+			"{lang}0": "가성비가 우수한제품",
+			"{lang}1": "최적화된 사이클 타임,  에너지 효율이 높은 로봇, 경량화, 촤적화 설계돤 로봇",
+			"{lang}2": "직관적인 프로그램, 3D Simulation 무료 제공( Application별 )",
+			"{lang}3": "로봇 프로그램 무상 교육 ( 전화 문의, 031 - 497 - 2255 )"
+		},
+		"description": {
+			"제품코드": "스카라",
+			"형번코드": "SCARA THL300",
+			"제품가격": "견적거래",
+			"PAYLOAD": "5Kg",
+			"팔길이": "300mm",
+			"Cycle Time": "0.48Sec",
+			"핸드 I/O": "8/8",
+			"범용I/O": "8/8"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=38747": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "엡손",
+		"collections": [
+			"string"
+		],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201712/"
+			}
+		],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "엡손 스카라 로봇 LS20"
+		},
+		"summary": {
+			"{lang}0": "가반하중 20kg 경제적 스카라 모델",
+			"{lang}1": "암 길이 800, 1,000 mm",
+			"{lang}2": "중량물 반송에서도 고속 위치 결정, 실제 사이클",
+			"{lang}3": "타임 단축으로 생산성 기여"
+		},
+		"description": {
+			"제품코드": "LS20-804",
+			"제조사코드": "EPSON",
+			"제품가격": "견적거래",
+			"Arm 길이": "800 mm",
+			"가반중량": "정격 10kg / 최대 20kg",
+			"표준 사이클 타임": "0.42 sec",
+			"반복 정밀도 제1~2관절": "±0.025 mm",
+			"반복 정밀도 제4관절": "±0.01˚"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=44404": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "도시바",
+		"collections": [
+			"string"
+		],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": "http://www.acteng.co.kr/sub.asp?maincode=455&sub_sequence=505&sub_sub_sequence=&mskin=&exec=view&strBoardID=kui_505&intPage=1&intCategory=0&strSearchCategory=|s_name|s_subject||&strSearchWord=%EC%B9%B4%EB%8B%A4%EB%A1%9C%EA%B7%B8&intSeq=1619"
+			}
+		],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "도시바 스카라  THL900 핸드링 로봇"
+		},
+		"summary": {
+			"{lang}0": "가성비가 우수한제품",
+			"{lang}1": "최적화된 사이클 타임,  에너지 효율이 높은 로봇, 경량화, 촤적화 설계돤 로봇",
+			"{lang}2": "직관적인 프로그램, 3D Simulation 무료 제공( Application별 )",
+			"{lang}3": "로봇 프로그램 무상 교육 ( 전화 문의, 031 - 497 - 2255 )",
+			"{lang}4": "팔길이 300mm ~ 1200mm까지 다양한 라인업 ( 100mm 간격 )"
+		},
+		"description": {
+			"제품코드": "스카라",
+			"형번코드": "SCARA THL900",
+			"제품가격": "견적거래",
+			"PAYLOAD": "10Kg",
+			"팔길이": "900mm",
+			"Cycle Time": "0.48Sec",
+			"범용 I/O": "16/16",
+			"시스템I/O": "12/9"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=30863": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "유니버셜로봇",
+		"collections": [
+			"string"
+		],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201710/1507797647_72.pdf"
+			}
+		],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "유니버설로봇 UR5 협동로봇"
+		},
+		"summary": {
+			"{lang}0": "[쉬운 프로그래밍] 로봇 팔을 원하는 지점으로 움직여서 프로그래밍 가능",
+			"{lang}1": "[빠른 배치 설정] 로봇 배치 작업의 평균적인 설정시간은 반나절",
+			"{lang}2": "[유연한 배치] 공간 절약형 경량 로봇 / 생산 레이아웃 변경없이 쉽게 배치 가능",
+			"{lang}3": "[협업이 가능한 안전한 로봇] TUV(The German Technicl Inspection Association) 승인"
+		},
+		"description": {
+			"제품코드": "UR5",
+			"제품가격": "견적거래",
+			"적재량": "5 kg / 11 lb",
+			"도달 범위": "850 mm / 33.5in",
+			"자유도": "6개의 회전 조인트"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=121601": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "야스카와",
+		"collections": [
+			"string"
+		],
+		"catalogs": [],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "[Handling] 핸들링 최적화 로봇 GP25"
+		},
+		"summary": {
+			"{lang}0": "컨트롤러 : YRC1000",
+			"{lang}1": "가반중량 : 25kg",
+			"{lang}2": "수평리치 : 1730mm"
+		},
+		"description": {
+			"제품코드": "GP25",
+			"제조사코드": "YASKAWA YRC1000",
+			"형번코드": "견적거래"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=30867": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "유니버셜로봇",
+		"collections": [
+			"string"
+		],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201710/1507797647_72.pdf"
+			}
+		],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "유니버설로봇 UR5 협동로봇"
+		},
+		"summary": {
+			"{lang}0": "[쉬운 프로그래밍] 로봇 팔을 원하는 지점으로 움직여서 프로그래밍 가능",
+			"{lang}1": "[빠른 배치 설정] 로봇 배치 작업의 평균적인 설정시간은 반나절",
+			"{lang}2": "[유연한 배치] 공간 절약형 경량 로봇 / 생산 레이아웃 변경없이 쉽게 배치 가능",
+			"{lang}3": "[협업이 가능한 안전한 로봇] TUV(The German Technicl Inspection Association) 승인"
+		},
+		"description": {
+			"제품코드": "UR5",
+			"제품가격": "견적거래",
+			"적재량": "5 kg / 11 lb",
+			"도달 범위": "850 mm / 33.5in",
+			"자유도": "6개의 회전 조인트"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=34722": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "스토브리",
+		"collections": [
+			"string"
+		],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201710/1508129763_33.pdf"
+			},
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201710/1508129768_57.pdf"
+			}
+		],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "[스토브리] TX2-60 협동로봇"
+		},
+		"summary": {
+			"{lang}0": "깨끗한 환경이나 더러운 환경에서 청소 및 사용 용이",
+			"{lang}1": "견고한 구조 / 향상된 동적 성능",
+			"{lang}2": "다양한 설치 위치 / 셀 디자인의 적응성 및 유연성",
+			"{lang}3": "감속 기어 시스템 / 유지 보수 감소와 더불어 정밀성, 유연성 및 속도",
+			"{lang}4": "넓은 작업 반경 / 모든 작업 영역에서 최적의 동작 가능"
+		},
+		"description": {
+			"제조사코드": "TX2-60",
+			"제품가격": "견적거래",
+			"운반 하중 범위": "3.5 kg ~ 9 kg",
+			"작업반경 범위": "670 mm",
+			"반복정밀도": "±0.02 mm"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=131268": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "미쓰비시 일렉트릭",
+		"collections": [
+			"string"
+		],
+		"catalogs": [],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션"
+		},
+		"summary": {
+			"{lang}0": "\"사람ㆍ기계ㆍIT의 협조\"",
+			"{lang}1": "현장을 기점으로 한 경영 개선을 목표로, \"사람ㆍ기계ㆍIT의 협조\"에 의한 유연한 제품 생산",
+			"{lang}2": "생산 현장을 활용하여, 공급망ㆍ엔지니어링망 전체의 비용을 절감",
+			"{lang}3": "한 발 앞선 제조업을 위한 기업의 TCO 절감, 기업 가치 향상을 지원"
+		},
+		"description": {
+			"제품코드": "e-F@ctory",
+			"제품가격": "Solution"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=24558": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "쿠카",
+		"collections": [
+			"string"
+		],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201709/1506233854_68.pdf"
+			}
+		],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "KUKA 소형로봇 아길러스 시리즈"
+		},
+		"summary": {
+			"{lang}0": "가반하중 범위 : 3 ~ 10 Kg",
+			"{lang}1": "작업반경 범위 : 541 ~ 1101 mm",
+			"{lang}2": "반복 정밀도 : ± 0.02 ~ ±0.03 mm"
+		},
+		"description": {
+			"제조사코드": "KUKA",
+			"제품가격": "소형로봇 아길러스 시리즈",
+			"가반하중 범위": "견적거래",
+			"작업반경 범위": "3 ~ 10 kg",
+			"반복정밀도": "541 ~ 1101 mm"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=30870": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "유니버셜로봇",
+		"collections": [
+			"string"
+		],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201710/1507797647_72.pdf"
+			}
+		],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "유니버설로봇 UR10 협동로봇"
+		},
+		"summary": {
+			"{lang}0": "[쉬운 프로그래밍] 로봇 팔을 원하는 지점으로 움직여서 프로그래밍 가능",
+			"{lang}1": "[빠른 배치 설정] 로봇 배치 작업의 평균적인 설정시간은 반나절",
+			"{lang}2": "[유연한 배치] 공간 절약형 경량 로봇 / 생산 레이아웃 변경없이 쉽게 배치 가능",
+			"{lang}3": "[협업이 가능한 안전한 로봇] TUV(The German Technicl Inspection Association) 승인"
+		},
+		"description": {
+			"제품코드": "UR10",
+			"제품가격": "견적거래",
+			"적재량": "10 kg / 22 lb",
+			"도달 범위": "1300 mm / 51.2in",
+			"자유도": "6개의 회전 조인트"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=101613": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "한양로보틱스",
+		"collections": [
+			"string"
+		],
+		"catalogs": [],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "[한양로보틱스] 취출로보트 NEXIA SERIES 280~1300Ton (중•소형 톤수)"
+		},
+		"summary": {
+			"{lang}0": "취출 로보트",
+			"{lang}1": "대상성형기 : 280~1300Ton",
+			"{lang}2": "중•소형 톤수용",
+			"{lang}3": "전후진 구조 : 양측 지지형",
+			"{lang}4": "상하강 구조 : 2배속 승강식"
+		},
+		"description": {
+			"제품코드": "NEXIA-400S",
+			"제품가격": "견적거래",
+			"주행(표준)": "1700mm",
+			"주행(L-Type)": "2000mm",
+			"상하강(제품)": "1100mm",
+			"상하강(런너측)": "-",
+			"전후진(제품)": "935mm",
+			"전후진(런너측)": "-",
+			"최대전력소요": "단상/AC 220V S:11.6A / D:15.7A",
+			"공기소모량": "7 l/Cycle",
+			"최대가반하중(척헤드포함)": "8 Kgf",
+			"대상사출기": "280~450Ton"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=131286": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "미쓰비시 일렉트릭",
+		"collections": [
+			"string"
+		],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": "https://kr.mitsubishielectric.com/fa/ko/showroom.do?act=efactory&menu=2&floor=ef"
+			}
+		],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*"
+		},
+		"summary": {
+			"{lang}0": "** 신청페이지에서 회사명/학교명 뒤에 (다아라) 라고 추가기입해주셔야 이벤트에 응모됩니다. **",
+			"{lang}1": "제조업이 직면하고 있는 다양한 문제해결을 위해 스마트제조혁신센터에 모델라인을 구축",
+			"{lang}2": "미쓰비시전기가 보유한 최첨단 기술을 적용, 지금까지 쌓아온 노하우를 바탕으로 제조 현장의 스마트팩토리화를 제안",
+			"{lang}3": "각 분야의 유수한 파트너사와 함께 국내 제조업 발전에 공헌하겠습니다.",
+			"{lang}4": "제조현장의 모든것을 최적화하는 e-F@ctory를 직접 경험하십시오."
+		},
+		"description": {
+			"제품코드": "e-F@ctory",
+			"제품가격": "Model Line"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=129960": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "두산로보틱스",
+		"collections": [
+			"string"
+		],
+		"catalogs": [],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "H2017 H-SERIES 협동로봇 두산로보틱스"
+		},
+		"summary": {
+			"{lang}0": "가반중량 20kg / 작업 반경 1,700mm / 반복정밀도 ±0.1mm",
+			"{lang}1": "최대 20kg에 달하는 중량물도 손쉽게 운영이 가능한 압도적인 가반하중을 경험할 수 있습니다.",
+			"{lang}2": "6개 토크센서와 중력보상 알고리즘으로 구현되는 업계 최고의 충돌민감도로 작업자의 안전을 철저히 보호합니다.",
+			"{lang}3": "동급 협동로봇 절반 수준의 경량화로 현장에서 로봇 재배치가 쉽고, ARM 결합 및 설치도 간편해 더 유연한 작업환경 셋팅가능",
+			"{lang}4": "높은 가반하중을 기반으로 동시에 여러 작업물을 핸들링할 수 있어 보다 높은 생산성을 제공합니다."
+		},
+		"description": {
+			"제품코드": "H2017",
+			"제품가격": "견적거래",
+			"가반중량": "20kg",
+			"작업 반경": "1,700mm",
+			"반복정밀도": "±0.1mm"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=131282": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "미쓰비시 일렉트릭",
+		"collections": [
+			"string"
+		],
+		"catalogs": [],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션"
+		},
+		"summary": {
+			"{lang}0": "\"사람ㆍ기계ㆍIT의 협조\"",
+			"{lang}1": "현장을 기점으로 한 경영 개선을 목표로, \"사람ㆍ기계ㆍIT의 협조\"에 의한 유연한 제품 생산",
+			"{lang}2": "생산 현장을 활용하여, 공급망ㆍ엔지니어링망 전체의 비용을 절감",
+			"{lang}3": "한 발 앞선 제조업을 위한 기업의 TCO 절감, 기업 가치 향상을 지원"
+		},
+		"description": {
+			"제품코드": "e-F@ctory",
+			"제품가격": "Solution"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=24619": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "쿠카",
+		"collections": [
+			"string"
+		],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201709/1506508356_67.pdf"
+			}
+		],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "[KUKA] 초고 가반하중용 로봇"
+		},
+		"summary": {
+			"{lang}0": "가반하중 범위 : 240 ~ 1000 Kg",
+			"{lang}1": "작업반경 범위 : 2826 ~  3601 mm",
+			"{lang}2": "반복 정밀도 : ± 0.08 ~ ±0.10 mm"
+		},
+		"description": {
+			"제조사코드": "[KUKA]",
+			"제품가격": "초고 가반하중용 로봇",
+			"가반하중 범위": "견적거래",
+			"작업반경 범위": "240 ~ 1000 Kg",
+			"반복정밀도": "2826 ~  3601 mm"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=38768": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "엡손",
+		"collections": [
+			"string"
+		],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201712/"
+			}
+		],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "엡손 스카라 로봇 RS4"
+		},
+		"summary": {
+			"{lang}0": "천장 부착형 360 선회형 로봇 ",
+			"{lang}1": "가반하중 4kg, 암길이 550mm의 초고속 스카라",
+			"{lang}2": "스파이더 로봇 대비 획기적 저진동 실현"
+		},
+		"description": {
+			"제품코드": "RS4-551",
+			"제조사코드": "EPSON",
+			"제품가격": "견적거래",
+			"Arm 길이": "550 mm",
+			"가반중량": "정격 1kg / 최대 4kg",
+			"표준 사이클 타임": "0.39 sec",
+			"반복 정밀도 제1~2관절": "±0.015 mm",
+			"반복 정밀도 제4관절": "±0.01˚"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&page=1&p_seq=34674": {
+		"slug": "string",
+		"type": "tangible",
+		"available": "bollean",
+		"bundled": "bollean",
+		"vendor": "string",
+		"brand": "스토브리",
+		"collections": [
+			"string"
+		],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201710/1508126843_17.pdf"
+			},
+			{
+				"title": {},
+				"description": {},
+				"image": "http://pimg.daara.co.kr/mall/file/201710/1508126849_53.pdf"
+			}
+		],
+		"thumbnail": "string",
+		"name": {
+			"{lang}": "[스토브리] TS40 SCARA 로봇"
+		},
+		"summary": {
+			"{lang}0": "정밀도 저하 없이 분당 최대 100피크(ppm)",
+			"{lang}1": "표준 직경 25mm의 퀼을 이용, 고속을 유지하면서 높은 하중을 처리",
+			"{lang}2": "바닥이나 벽 장착 옵션으로 높은 적용성과 유연성 제공",
+			"{lang}3": "다양한 사용자 커넥션 / 툴 플랜지에서 전기, 공기압 및 입력/출력 연결이 가능",
+			"{lang}4": "넓은 작업 반경 / 200 또는 400mm 스트로크 버전으로 높은 작업량을 처리"
+		},
+		"description": {
+			"제조사코드": "TS40",
+			"제품가격": "SCARA",
+			"운반 하중 범위": "견적거래",
+			"작업반경 범위": "2 kg ~ 8 kg",
+			"반복정밀도": "400 mm"
+		},
+		"notices": [
+			{
+				"slug": "string",
+				"title": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"title": {
+							"{lang}": "string"
+						},
+						"description": {
+							"{lang}": "string"
+						}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "견적거래 제품",
+			"type": "string"
+		},
+		"discount": {
+			"type": "percentage",
+			"value": "number"
+		},
+		"taxCategories": [
+			"string"
+		],
+		"shipping": {
+			"methods": "제품은 기본적으로 택배로 배송되며, 제품에 따라 화물로 배송 될 수도 있습니다.",
+			"calculation": "string"
+		},
+		"options": [
+			{
+				"name": {
+					"{lang}": "string"
+				},
+				"priority": "number",
+				"variations": [
+					{
+						"value": {
+							"{lang}": "string"
+						},
+						"priority": "number"
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "bollean",
+				"name": {
+					"{lang}": "string"
+				},
+				"items": [
+					{
+						"product": "string",
+						"variant": "string"
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	}
+}
