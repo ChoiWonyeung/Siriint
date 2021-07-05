@@ -19,8 +19,8 @@ selector_description2 = '.table tbody'
 selector_delivery = '.common-rw-table.prdc-detail span'
 
 # 2차 - 이미지
-image_start = 'pimg.daara.co.kr/mall/photo'
-image_format = 'png', 'jpg', ''
+# image_start = 'pimg.daara.co.kr/mall/photo'
+# image_format = 'png', 'jpg', ''
 
 selector_image = 'div.detailTopImg > img'
 

@@ -30,6 +30,7 @@ def crawl_key(make_breakpoint=False):
             print('크롤링이 곧 종료됩니다.')
             break
         else:
+            break
             page += 1
             if make_breakpoint is True:
                 breakpoint()   # 테스트를 위한 break point

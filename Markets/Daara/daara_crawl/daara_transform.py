@@ -1,8 +1,7 @@
-import json
 from common import *
 import daara_configuration.daara_config as config
 from ETC import format_json
-from daara_postprocess import *
+from daara_crawl.daara_postprocess import *
 
 dic_daara = pickle_load(config.path_pickle + 'dic_daara.pkl')
 source = pickle_load(config.path_pickle + 'source.pkl')
@@ -15,6 +14,11 @@ dic_daara = pp_seller(dic_daara)
 
 
 def trans(dic_daara):
+    '''
+    빅웨이브 로보틱스의 양식에 맞추는 함수
+    :param dic_daara:
+    :return:
+    '''
     json_daara = {}
     for key, value in dic_daara.items():
         json_daara[key] = format_json.format_json(key)
@@ -56,6 +60,3 @@ def trans(dic_daara):
 
     return json_daara
 
-# path = '/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/Markets/Daara/daara_dataResults/'
-# with open(path+'daara_json.json', 'w', encoding='utf-8') as file_json:
-#     json.dump(json_daara, file_json, indent='\t', ensure_ascii=False)

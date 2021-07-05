@@ -1,7 +1,3 @@
-import daara_configuration.daara_config as config
-from common import *
-
-
 # description1 정제
 def pp_description1(dic_daara):
     """
@@ -183,14 +179,3 @@ def pp_seller(dic_daara):
         except Exception as e:
             print(e)
     return dic_daara
-
-
-if __name__ == '__main__':
-    dic_daara = pickle_load(config.path_pickle + 'dic_daara.pkl')
-    source = pickle_load(config.path_pickle + 'source.pkl')
-
-    dic_daara = pp_description1(dic_daara)
-    dic_daara = pp_description2(dic_daara)
-    dic_daara = pp_order(dic_daara)
-    dic_daara = pp_delivery(dic_daara)
-    dic_daara = pp_seller(dic_daara)
