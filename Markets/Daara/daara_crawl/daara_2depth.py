@@ -15,12 +15,14 @@ def crawl_detail(source, product, brand, price):
     dic_daara = {}
     cnt = 1
     for url2 in source:
+        idx = source.index(url2)
         dic_daara[url2] = dic_bigWaveRobotics(url2)
-        dic_daara[url2]['product'] = [product[source.index(url2)]]
-        dic_daara[url2]['brand'] = [brand[source.index(url2)]]
-        dic_daara[url2]['price'] = [price[source.index(url2)]]
+        dic_daara[url2]['product'] = [product[idx]]
+        dic_daara[url2]['brand'] = [brand[idx]]
+        dic_daara[url2]['price'] = [price[idx]]
 
         print(f'{cnt}번째 반복문 실행중...')
+        print('--------------------------------')
         cnt += 1
         soup = req_bsEncoding(url2)
         sleep_random(print_time=True)  # 무작위 n초동안 슬립 (default : 2 ~ 10)
