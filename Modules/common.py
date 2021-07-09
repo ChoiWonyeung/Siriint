@@ -1,4 +1,4 @@
-import numpy as np
+import os
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
@@ -7,6 +7,8 @@ import random
 import unicodedata
 from selenium import webdriver
 import pickle
+import json
+
 
 path_webdriver = '/Users/kimkangnam/Desktop/Chromedriver/chromedriver'
 
@@ -22,6 +24,11 @@ def pickle_load(file):
     with open(file, 'rb') as f:
         obj = pickle.load(f)
         return obj
+
+
+def json_save(file, object):
+    with open(file, 'w', encoding='utf-8') as file_json:
+        json.dump(object, file_json, indent='\t', ensure_ascii=False)
 
 
 def get_webdriver(path_webdriver, wait_time = 10):
@@ -77,6 +84,7 @@ def check_response(url):
 
 def sleep_random(start_second=2, end_second=10, print_time=False):
     """
+    2~10초 사이의 랜덤 sleep
     :param start_second: default = 2 s
     :param end_second:   default = 10 s
     :param print_time:   default = False
@@ -180,28 +188,14 @@ def ls_driverStyle(selector):
     return result
 
 
-def textmake(soup, selector, normalize_unicode=False, encoding_type='NFC', makeList=True):
+def textmake(soup, selector):
     ls = []
-    if normalize_unicode == False and makeList == True:
-        for text_soup in soup.select(selector):
-            ls.append(text_soup.text)
-        return ls
-
-    elif normalize_unicode == False and makeList == False:
-        for text_soup in soup.select(selector):
-            return text_soup.text
-
-    elif normalize_unicode == True and makeList == True:
-        for text_soup in soup.select(selector):
-            ls.append(unicodedata.normalize(encoding_type, text_soup.text))
-        return ls
-
-    elif normalize_unicode == True and makeList == False:
-        for text_soup in soup.select(selector):
-            return unicodedata.normalize(encoding_type, text_soup.text)
+    for text_soup in soup.select(selector):
+        ls.append(text_soup.text)
+    return ls
 
 
-def ls_hrefmake(soup ,selector, str_add=''):  # href->리스트 반환 함수
+def ls_hrefmake(soup, selector, str_add=''):  # href->리스트 반환 함수
     ls_href = []
     for href_soup in soup.select(selector):
         ls_href.append(str_add + href_soup['href'])
@@ -213,3 +207,10 @@ def ls_srcmake(soup, selector, str_add=''):
     for src_soup in soup.select(selector):
         ls_src.append(str_add + src_soup['src'])
     return ls_src
+
+
+# def numbering_duplicatedFile(save_path, save_file, save_ext):
+#     unique_number = 1
+#     while os.path.exists(save_path):
+#         result = '/%s%(%d)%(%s)' % (file_name, unique_number, file_ext)
+#         unique_number += 1

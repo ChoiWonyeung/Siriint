@@ -2,7 +2,7 @@
 url_main = 'https://www.cobotwebshop.com/en/'
 
 # 메뉴 셀렉터
-selector_menu = '.main-menu.mega-menu > li > a'
+selector_menu = 'div.menu-center'
 
 # 다음 페이지 셀렉터
 selector_nextPage = '.next.page-numbers'

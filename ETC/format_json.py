@@ -33,17 +33,17 @@ def format_json_____(key=''):
                 ],  # 상품이 소속된 콜렉션 목록 # unique # ls_len[,10]
             'catalogs':  # 상품 카탈로그 목록
                 [
-                     {
-                         'title':
-                             {
-                                 '{lang}': String or None  # 카탈로그 제목 # {lang}len[0, 100]
-                             },
-                         'description':
-                             {
-                                 '{lang}': String or None  # 카탈로그 설명 # {lang}len[0,10000]
-                             },
-                         'image': String or None  # 카탈로그 이미지
-                     }
+                    {
+                        'title':
+                            {
+                                '{lang}': String or None  # 카탈로그 제목 # {lang}len[0, 100]
+                            },
+                        'description':
+                            {
+                                '{lang}': String or None  # 카탈로그 설명 # {lang}len[0,10000]
+                            },
+                        'image': String or None  # 카탈로그 이미지
+                    }
                 ],
             'thumbnail': String or None,  # 상품 썸네일
             'name':
@@ -103,8 +103,8 @@ def format_json_____(key=''):
                         [
                             String  # 상품이 지원하는 배송 방식 목록
                         ],
-                        'calculation': String or 'bundled' or 'separated' or None  # 상품의 계산 방식 # 필수
-                    },
+                    'calculation': String or 'bundled' or 'separated' or None  # 상품의 계산 방식 # 필수
+                },
             'options':  # 상품의 옵션 len[,5]
                 [
                     {

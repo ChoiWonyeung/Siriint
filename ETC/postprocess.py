@@ -1,9 +1,6 @@
-from config_postprocess import *
+from Dummy.config_postprocess import *
 import numpy
 from collections import Counter
-import itertools as it
-import numpy as np
-import re
 
 # 1단계 : 개별처리
 df_daara['상품고시정보'] = df_daara['상품 고시 정보']

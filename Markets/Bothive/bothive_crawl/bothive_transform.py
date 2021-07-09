@@ -1,56 +1,32 @@
-from common import *
-import Markets.Bothive.bothive_configuration.bothive_config as config
 from ETC import format_json
-from Markets.Bothive.bothive_crawl.bothive_postprocess import postProcess, dic_bothive
+
+# dic_bothive = pickle_load(config.path_pickles + '/dic_bothive_postProcess.pkl')
 
 def trans(dic_bothive):
+    """
+    dic_bothive를 수요업체측의 양식인 json_bothive로 맞추는 함수
+    :param dic_bothive:
+    :return:
+    """
     json_bothive = {}
-    for K, V in dic_bothive.items():
-        json_bothive[K] = format_json.format_json(K)
-        json_bothive[K]['brand'] = dic_bothive[K]['brand'][0]
+    for dic_key, dic_value in dic_bothive.items():
+        json_bothive[dic_key] = format_json.format_json(dic_key)
+        json_bothive[dic_key]['name'] = dic_bothive[dic_key]['product'][0]
+        json_bothive[dic_key]['brand'] = dic_bothive[dic_key]['brand'][0]
+        json_bothive[dic_key]['type'] = dic_bothive[dic_key]['type'][0]
+        json_bothive[dic_key]['thumbnail'] = dic_bothive[dic_key]['image'][0]
+        json_bothive[dic_key]['summary'][0] = dic_bothive[dic_key]['highlight']
+        json_bothive[dic_key]['warranty']['Servicing (Months)'] = dic_bothive[dic_key]['highlight']['Servicing (Months)']
+        json_bothive[dic_key]['description'][0] = dic_value['description'][0]
 
-        try:
-            json_bothive[K]['description'] = V['description1']
-        except Exception as e:
-            print(e)
-
-        try:
-            json_bothive[K]['shipping'] = V['delivery']
-        except Exception as e:
-            print(e)
-
-        try:
-            json_bothive[K]['model_name'] = {'': V['product']}
-        except Exception as e:
-            print(e)
-
-        try:
-            json_bothive[K]['summary'] = {'{lang}' + str(j): dic_bothive[K]['highlight'][j] for j in range(len(dic_bothive[K]['highlight']))}
-        except Exception as e:
-            print(e)
-
-        if len(dic_bothive[K]['price']) >= 1:
-            try:
-                json_bothive[K]['price']['original'] = dic_bothive[K]['price'][0]
-            except Exception as e:
-                print(e)
-
-        for i in dic_bothive[K]['spec']:
-            if 'Payload' in i:
+        str_match = {}
+        for Str in dic_value['delivery']:
+            if 'Price' in Str:
                 try:
-                    json_bothive[K]['payload'] = {'': i}
+                    str_match[dic_key] = [Str]
                 except Exception as e:
                     print(e)
 
-            if 'Reach' in i:
-                try:
-                    json_bothive[K]['reach'] = {'': i}
-                except Exception as e:
-                    print(e)
-
-            if 'Weight' in i:
-                try:
-                    json_bothive[K]['weight'] = {'': i}
-                except Exception as e:
-                    print(e)
+        for i in str_match.keys():
+            json_bothive[dic_key]['price']['original'] = str_match[i][0]
     return json_bothive

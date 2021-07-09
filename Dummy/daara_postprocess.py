@@ -5,10 +5,10 @@ def pp_description1(dic_daara):
     :param dic_daara:
     :return:
     """
-    dsc1 = 'description1'
+    dsc1 = "description1"
     for key, value in dic_daara.items():
         try:
-            value[dsc1][0] = value[dsc1][0].split('\n')
+            value[dsc1][0] = value[dsc1][0].split("\n")
         except Exception as e:
             print(e)
 
@@ -49,10 +49,10 @@ def pp_description2(dic_daara):
     :param dic_daara:
     :return:
     """
-    dsc2 = 'description2'
+    dsc2 = "description2"
     for key, value in dic_daara.items():
         try:
-            value[dsc2] = value[dsc2][0].split('\n')
+            value[dsc2] = value[dsc2][0].split("\n")
         except Exception as e:
             print(e)
 
@@ -73,7 +73,7 @@ def pp_description2(dic_daara):
                 print(e)
 
         try:
-            value[dsc2][0] = value[dsc2][0].split(' ', 1)
+            value[dsc2][0] = value[dsc2][0].split(" ", 1)
         except Exception as e:
             print(e)
 
@@ -101,15 +101,15 @@ def pp_order(dic_daara):
     :param dic_daara:
     :return:
     """
-    ord = 'order'
+    ord = "order"
     for key, value in dic_daara.items():
         try:
-            value[ord][0] = value[ord][0].replace(u'\xa0', u'')
+            value[ord][0] = value[ord][0].replace(u"\xa0", u"")
         except Exception as e:
             print(e)
 
         try:
-            value[ord][1] = value[ord][1].replace(u'\xa0', u'')
+            value[ord][1] = value[ord][1].replace(u"\xa0", u"")
         except Exception as e:
             print(e)
     return dic_daara
@@ -123,16 +123,16 @@ def pp_delivery(dic_daara):
     :param dic_daara:
     :return:
     """
-    deliv = 'delivery'
+    deliv = "delivery"
     for key, value in dic_daara.items():
         if value[deliv] == []:
             try:
-                value[deliv] = [value['seller'][3]]
+                value[deliv] = [value["seller"][3]]
             except Exception as e:
                 print(e)
 
         try:
-            value[deliv] = value[deliv][0].split('\n')
+            value[deliv] = value[deliv][0].split("\n")
         except Exception as e:
             print(e)
 
@@ -156,11 +156,11 @@ def pp_seller(dic_daara):
     :param dic_daara:
     :return:
     """
-    sell = 'seller'
+    sell = "seller"
     for key, value in dic_daara.items():
-        if value['delivery'] == []:
+        if value["delivery"] == []:
             try:
-                value['delivery'] = [value[sell][3]]
+                value["delivery"] = [value[sell][3]]
             except Exception as e:
                 print(e)
 
@@ -170,7 +170,7 @@ def pp_seller(dic_daara):
             print(e)
 
         try:
-            value[sell] = value[sell][0].split('\n')
+            value[sell] = value[sell][0].split("\n")
         except Exception as e:
             print(e)
 

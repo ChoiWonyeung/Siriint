@@ -1,5 +1,5 @@
 from common import *
-import thinkbotsolutions_config
+import thinkbotsolutions_config_backup
 
 def textmake(selector, normalize_unicode=False, encoding_type='NFKD', makeList=True):
     ls = []
@@ -55,13 +55,13 @@ range_sample = range(1, 3)
 
 # 1차 크롤링 시행
 for page in range_actual:
-    soup = req_bsEncoding(thinkbotsolutions_config.url_noNumber + str(page))
+    soup = req_bsEncoding(thinkbotsolutions_config_backup.url_noNumber + str(page))
     sleep_random()
 
-    product += textmake(thinkbotsolutions_config.selector_product)
-    company += textmake(thinkbotsolutions_config.selector_company)
-    price += textmake(thinkbotsolutions_config.selector_price)
-    source += ls_hrefmake(thinkbotsolutions_config.selector_source, 'https://thinkbotsolutions.com/')
+    product += textmake(thinkbotsolutions_config_backup.selector_product)
+    company += textmake(thinkbotsolutions_config_backup.selector_company)
+    price += textmake(thinkbotsolutions_config_backup.selector_price)
+    source += ls_hrefmake(thinkbotsolutions_config_backup.selector_source, 'https://thinkbotsolutions.com/')
 
 # 데이터 프레임화 및 csv저장
 df_thinkBotSolutions = df_bigWaveRobotics()
@@ -75,11 +75,11 @@ for i in df_thinkBotSolutions['source']:
     sleep_random()
 
     try:
-        dic_sku[i] = textmake(thinkbotsolutions_config.selector_sku)
-        dic_description[i] = textmake(thinkbotsolutions_config.selector_description)
-        dic_specifications[i] = textmake(thinkbotsolutions_config.selector_specifications)
-        dic_video[i] = ls_srcmake(thinkbotsolutions_config.selector_video)
-        dic_image[i] = ls_srcmake(thinkbotsolutions_config.selector_image)
+        dic_sku[i] = textmake(thinkbotsolutions_config_backup.selector_sku)
+        dic_description[i] = textmake(thinkbotsolutions_config_backup.selector_description)
+        dic_specifications[i] = textmake(thinkbotsolutions_config_backup.selector_specifications)
+        dic_video[i] = ls_srcmake(thinkbotsolutions_config_backup.selector_video)
+        dic_image[i] = ls_srcmake(thinkbotsolutions_config_backup.selector_image)
 
         df_thinkBotSolutions['description1'] = df_thinkBotSolutions['source'].map(dic_description)
         df_thinkBotSolutions['spec'] = df_thinkBotSolutions['source'].map(dic_specifications)

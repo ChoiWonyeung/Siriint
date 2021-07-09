@@ -1,83 +1,64 @@
 from common import *
-import cobot_config
+import cobot_config as config
 
+def crawl_key(save=False):
+    """
 
-def textmake(selector, normalize_unicode=False, encoding_type='NFKD', makeList=True):
-    ls = []
-    if normalize_unicode == False and makeList == True:
-        for text_soup in soup.select(selector):
-            ls.append(text_soup.text)
-        return ls
+    :param save:
+    :return:
+    """
+    # cobot url 설정
+    soup = req_bsEncoding(config.url_main)  # request
+    sleep_random(2, 4, print_time=True)
 
-    elif normalize_unicode == False and makeList == False:
-        for text_soup in soup.select(selector):
-            return text_soup.text
+    # 메뉴 url 가져오기
+    div_menu = soup.select(config.selector_menu)
+    menu = div_menu[0].select('li > a')
+    url_menu = [i['href'] for i in menu]
 
-    elif normalize_unicode == True and makeList == True:
-        for text_soup in soup.select(selector):
-            ls.append(unicodedata.normalize(encoding_type, text_soup.text))
-        return ls
+    # 메뉴 -> 페이지 순으로 돌아가며 크롤링
+    pages = []
+    dic_cobot = {}
+    for url1 in url_menu:
+        url_page = []
+        soup = req_bsEncoding(url1)
+        sleep_random(2, 4, print_time=True)
 
-    elif normalize_unicode == True and makeList == False:
-        for text_soup in soup.select(selector):
-            return unicodedata.normalize(encoding_type, text_soup.text)
+        # 제품 리스트 받아오기
+        product_things1 = soup.select('ul.products.products-container')
+        try:
+            product_things2 = product_things1[0].select('li> div > div > a')  # 이름 수정 요망
 
+            for i in product_things2:
+                dic_cobot[i['href']] = {}
+        except Exception as e:
+            print('Exception occurred')
 
-def ls_hrefmake(selector, str_add=''):  # href->리스트 반환 함수
-    ls_href = []
-    for href_soup in soup.select(selector):
-        ls_href.append(str_add + href_soup['href'])
-    return ls_href
+        # 다음 페이지 정보 받아오기
+        try:
+            ul_page = soup.select('ul.page-numbers')
+            page = ul_page[0].select('li > a')
+            for i in page:
+                if i['href'] not in url_page:
+                    pages.append(i['href'])
+        except:
+            pass
 
+    for url2 in pages:
+        soup = req_bsEncoding(url2)
+        sleep_random(2, 4, print_time=True)
 
-# cobot url 설정
-soup = req_bsEncoding(cobot_config.url_main)  # request
+        product_things1 = soup.select('ul.products.products-container')
+        try:
+            product_things2 = product_things1[0].select('li> div > div > a')  # 이름 수정 요망
 
-# 메뉴 url 가져오기
-menu = ls_hrefmake(cobot_config.selector_menu)
+            for i in product_things2:
+                dic_cobot[i['href']] = {}
+        except Exception as e:
+            print('Exception occurred')
 
-# 1차 크롤링 리스트 만들기
-product = []
-category = []
-source = []
-# 2차 크롤링 딕셔너리
-dic_productMeta = {}
-dic_description = {}
-dic_image = {}
-dic_addInfo = {}
+    if save == True:
+        json_save('./json/cobot_1depth.json', dic_cobot)
+    pickle_save('./pickles/dic_cobot_1depth.pkl', dic_cobot)
+    return dic_cobot
 
-range_actual = range(1, 6)
-range_sample = range(1, 3)
-for url1 in menu:
-    for page_num in range_actual:
-        soup = sel_bsEncoding(url1 + 'page/' + str(page_num))
-        product += textmake(cobot_config.selector_product)
-        category += textmake(cobot_config.selector_category)
-        source += ls_hrefmake(cobot_config.selector_source)
-        sleep_random()
-
-# 데이터 프레임 생성
-df_cobot = df_bigWaveRobotics()
-df_cobot['product'] = product
-df_cobot['category'] = category
-df_cobot['source'] = source
-
-for url2 in df_cobot['source']:
-    soup = sel_bsEncoding(url2)
-    sleep_random()
-
-    try:
-        dic_productMeta[url2] = textmake(cobot_config.selector_productMeta)
-        dic_description[url2] = textmake(cobot_config.selector_description)
-        dic_addInfo[url2] = textmake(cobot_config.selector_addInfo)
-        dic_image[url2] = ls_driverSrc(cobot_config.selector_image)
-
-        df_cobot['highlight'] = df_cobot['source'].map(dic_productMeta)
-        df_cobot['description1'] = df_cobot['source'].map(dic_description)
-        df_cobot['spec'] = df_cobot['source'].map(dic_addInfo)
-        df_cobot['image'] = df_cobot['source'].map(dic_image)
-
-        df_cobot.to_csv('/Users/kimkangnam/Desktop/cobot_v0.0.2.csv')
-    except Exception:
-        print('Exception occurred')
-        pass

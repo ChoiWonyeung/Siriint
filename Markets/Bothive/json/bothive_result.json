@@ -1,0 +1,1694 @@
+{
+	"https://bot-hive.com/product/franka-emika-panda": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "Franka Emika",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/panda_cobofact_web-300x300_66e50b50-c5c4-11ea-98c3-89f7482ba1be.png?d=232x193&c=contain",
+		"name": "Franka Emika Panda",
+		"summary": {
+			"0": {
+				"Launched in": "2016",
+				"Units Sold": "50",
+				"Servicing (Months)": "12",
+				"Programming Level": "Beginner"
+			}
+		},
+		"description": {
+			"0": "Product DescriptionGroundbreaking innovation for cost-efficient and scalable solutions. We redefined robotics with the world's most advanced robotic system Panda Powertool, the fastest selling industry - suited robotic system. Our customers, from SMBs to global enterprises - profit from this novel east - to - use, flexible, cost efficient and scalable solution. "
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "Price: £££",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": "12"
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/doosan-a0509": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "Doosan Robotics",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/download-6_16bb5e90-eae5-11ea-89fd-871e9c4ab9c8.jpeg?d=232x193&c=contain",
+		"name": "Doosan - A0509",
+		"summary": {
+			"0": {
+				"Launched in": "2020",
+				"Units Sold": "40",
+				"Servicing (Months)": "36+",
+				"Programming Level": "Beginner"
+			}
+		},
+		"description": {
+			"0": "Product DescriptionThe Doosan Robotics A-Series is your starting line to MAKE MORE with cobots. Designed for speed and cost-effectiveness, the A-series makes taking the first step to integrating cobots into your shop an easy choice. The A-series features 2x faster joint speed for faster productivity and efficiency, and has PL e Cat 4 safety rating to protect your cobot and your team. The A-series S models feature high-tech force sensors for more delicate tasks requiring human-like dexterity. "
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": "36+"
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/fanuc-cr-35ia": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "FANUC UK",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/fanuc_cr-35ia_0001_7b47fb50-c778-11eb-8767-e76d95582150.jpeg?d=232x193&c=contain",
+		"name": "Fanuc - CR-35iA",
+		"summary": {
+			"0": {
+				"Launched in": "2015",
+				"Units Sold": "100",
+				"Servicing (Months)": "5",
+				"Programming Level": "Beginner"
+			}
+		},
+		"description": {
+			"0": "Product DescriptionThe future lies in the collaborationImagine a world without safety fences, a world in which humans work side-by-side with robots. In this world, robots would execute all strenuous tasks, enabling humans to dedicate their precious time to lighter, more skilled or demanding tasks.With FANUC collaborative robots, that world has already come into existence. By integrating them into existing production environments, robots directly collaborate with humans, becoming a crucial part of the team. Alongside humans, they take over tedious, repetitive tasks, lifting up to 35 kg, thus maintaining the human’s health while automating entire assembly lines."
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": "5"
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/nao-dino-autonomous-vegetable-weeding-robot": {
+		"slug": "",
+		"type": "Agricultural Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "Naïo Technologies",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/dino-tien-tran-hans-v3_f39fd280-fd75-11ea-a6db-375f39bccb75.jpeg?d=232x193&c=contain",
+		"name": "NAÏO - DINO Autonomous Vegetable Weeding Robot",
+		"summary": {
+			"0": {
+				"Launched in": "2019",
+				"Units Sold": "1000",
+				"Servicing (Months)": "5",
+				"Programming Level": "Beginner"
+			}
+		},
+		"description": {
+			"0": "Product DescriptionThe Dino robot is designed to make vegetable weeding on large-scale vegetable farms easier. Its main asset is that it works autonomously, so you have more time for tasks with higher added value.Dino is the first entirely autonomous electric robot to mechanically weed vegetable crops. The robot is designed by Naïo Technologies and has been on the market since early 2017. Today, more than 20 robots now weed our customers’ and partners’ vegetable fields in France and in Europe."
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": "5"
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/bionichive-squid": {
+		"slug": "",
+		"type": "Industrial Mobile Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "BionicHIVE",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/unnamed-2_1d745140-557c-11eb-8eb9-d5be9df40400.png?d=232x193&c=contain",
+		"name": "BionicHIVE - SqUID",
+		"summary": {
+			"0": {
+				"Launched in": "",
+				"Units Sold": "",
+				"Servicing (Months)": "",
+				"Programming Level": ""
+			}
+		},
+		"description": {
+			"0": "Product DescriptionSqUID, the warehouse fully-automated solution that easily adapts to the customer’s current working model of operation, using the same facilities, same boxes and same shelving racks. The solution picks from floor to ceiling and retrofits onto any existing warehouse infrastructure.SqUID consists of a synchronized autonomous robotic fleet that has 3-dimensional movement capabilities, allowing a fully flexible operation. A high-end embedded control system and smart real-time data analysis allow BionicHIVE’s algorithmic engine to dynamically learn problems created in one warehouse and apply resolutions to all warehouses in the network. "
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": ""
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/tima-tima-disinfector": {
+		"slug": "",
+		"type": "Disinfectant Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "TIMA",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/robot_tima_disinfector_assistant-1-1_d0e20d50-5714-11eb-be29-419249af7219.png?d=232x193&c=contain",
+		"name": "TIMA - TIMA Disinfector",
+		"summary": {
+			"0": {
+				"Launched in": "",
+				"Units Sold": "",
+				"Servicing (Months)": "",
+				"Programming Level": ""
+			}
+		},
+		"description": {
+			"0": "Product DescriptionTIMA robot disinfector is a robotic system that can perform high-quality disinfection of premises without people while autonomously navigating the route. Robot is equipped with an antibacterial re-circulator and a quartz UV lamp for disinfection of premises. "
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": ""
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/mir-200-reseller-1": {
+		"slug": "",
+		"type": "Industrial Mobile Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "RARUK Automation",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/fccc5f14f0e983fd7d297380916e8e929c2b6a3a_ed4f9240-cb3d-11ea-8ac0-6bd070034d97.png?d=232x193&c=contain",
+		"name": "MiR 200 (Reseller)",
+		"summary": {
+			"0": {
+				"Launched in": "",
+				"Units Sold": "",
+				"Servicing (Months)": "",
+				"Programming Level": ""
+			}
+		},
+		"description": {
+			"0": "Product DescriptionAutomate transport tasks and focus on higher value activitiesA new generation of autonomous mobile robots is changing the way businesses move materials inside their facilities—and the MiR200 is leading the charge. With extraordinary flexibility and smart technology, the MiR200 can be used in nearly any situation where employees are spending time pushing carts or making deliveries. Now you can automate these tasks, so employees can focus on higher value activities."
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "Price: £££",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": ""
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/schunk-gsw-v32": {
+		"slug": "",
+		"type": "Shaft Interface Gripper",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "Schunk Intec Ltd",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/csm_im0002267_5d0ed1e45e_d62107a0-f1cd-11ea-b2d5-0d3f754dc6a7.jpeg?d=232x193&c=contain",
+		"name": "Schunk - GSW-V32",
+		"summary": {
+			"0": {
+				"Launched in": "",
+				"Units Sold": "",
+				"Servicing (Months)": "",
+				"Programming Level": ""
+			}
+		},
+		"description": {
+			"0": "Product DescriptionVacuum gripper for spindle interfaces for handling flat components. Unit for automatic loading and unloading of machining centers by their own axis, which provides compressed air and coolant supply via the tool mounting. "
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": ""
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/kuka-kr-600-fortec-600-r2830": {
+		"slug": "",
+		"type": "Articulated Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "Kuka UK",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/kr-600-fortec-tile_a5d9d5e0-abd2-11ea-a39d-ab48357779d7_meta_3200x1800.jpeg?d=232x193&c=cover",
+		"name": "Kuka - KR 600 Fortec 600 R2830",
+		"summary": {
+			"0": {
+				"Launched in": "",
+				"Units Sold": "",
+				"Servicing (Months)": "",
+				"Programming Level": ""
+			}
+		},
+		"description": {
+			"0": "Product DescriptionThe KR 600 FORTEC heavy-duty robot can be used in a great many tasks in the high payload range on account of its versatility. It can also turn in a top performance at reduced investment costs as a foundry robot."
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": ""
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/kuka-kr-200-3-comp-second-hand": {
+		"slug": "",
+		"type": "Articulated Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "KRUDO Industrial",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/kuka_kr200_3_comp__2_-removebg-preview-1_93410d60-07d3-11eb-8910-2f782d029148.png?d=232x193&c=contain",
+		"name": "KUKA - KR 200-3 Comp (Second Hand)",
+		"summary": {
+			"0": {
+				"Launched in": "",
+				"Units Sold": "",
+				"Servicing (Months)": "",
+				"Programming Level": ""
+			}
+		},
+		"description": {
+			"0": "Product DescriptionThe compact robots for every task Compact, extremely fast and with a unique combination of payload and reach: these attributes make KUKA comp series robots the obvious choice for a wide range of task – e.g. handling or spot welding. The wide-ranging product spectrum, with payload capacities from 100 to 220 kg and reaches of 2,400 to 2,800 mm, ensures that there is a suitable model for every requirement. The comp series is a further development of the successful KR 125 robot series. With their compact design and high dynamic performance, the comp robots are specifically adapted to versatile handling tasks. The result is a price/performance ratio that sets new standards for the market. The advantages: high degree of planning reliability and security of investment."
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "Price: £££",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": ""
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/force-dimension-force-dimension-sdk": {
+		"slug": "",
+		"type": "Calibration Software",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "Force Dimension",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/logo_force_dimension_57fee6b0-cdc0-11eb-b0ab-af21b12d12c1.png?d=232x193&c=contain",
+		"name": "Force Dimension - Force Dimension SDK",
+		"summary": {
+			"0": {
+				"Launched in": "2002",
+				"Units Sold": "500",
+				"Servicing (Months)": "Not Required",
+				"Programming Level": "Beginner"
+			}
+		},
+		"description": {
+			"0": "Product DescriptionThe Force Dimension SDK is the software interface for all Force Dimension products. It enables users to easily add haptic capability to their task by hiding all the complexity of haptic device programming. This software is composed of two parts, namely the Haptic SDK and Robotic SDK. Both the Haptic SDK and Robotic SDK are available for popular platforms including Windows, Linux and macOS, as well as real-time operating systems such as QNX and VxWorks. For researchers and users who need to perform advanced control tasks, the Haptic SDK provides a range of low-level functions that make it possible to access and control every aspect of Force Dimension haptic devices. Robotic SDK is targeted at robotic and collaborative task development. With the Robotic SDK, the haptic device can safely and smoothly move in space, opening the door to new ways for man and machine to collaborate. "
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": "Not Required"
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/fetch-robotics-freight100": {
+		"slug": "",
+		"type": "Industrial Mobile Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "Fetch Robotics",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/freight_base_26762740-06ef-11eb-8cf2-ad4626ca0115.png?d=232x193&c=cover",
+		"name": "Fetch Robotics - Freight100",
+		"summary": {
+			"0": {
+				"Launched in": "",
+				"Units Sold": "",
+				"Servicing (Months)": "",
+				"Programming Level": ""
+			}
+		},
+		"description": {
+			"0": "Product DescriptionAutonomous Mobile Robot BaseDesigned to be highly extensible and versatile, our fully autonomous Freight100 Base is a safe and cost-effective solution to accelerate the development of automated products and solutions for a wide range of task. Integrators and software partners can build upon the Freight100 Base and leverage Fetch Robotics’ proven hardware and software expertise to quickly bring automated solutions to life."
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": ""
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/abb-irb-7600-340280": {
+		"slug": "",
+		"type": "Articulated Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "ABB Robotics UK",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/irb-7600-300x3082_62dc2790-d0d8-11ea-a371-ed9dab49a64a.png?d=232x193&c=contain",
+		"name": "ABB - IRB 7600-340/2.80",
+		"summary": {
+			"0": {
+				"Launched in": "",
+				"Units Sold": "",
+				"Servicing (Months)": "",
+				"Programming Level": ""
+			}
+		},
+		"description": {
+			"0": "Product DescriptionOpening a new world of possibilities With several variants, and up to a 630 kg handling capacity, the IRB 7600 is ideal for weighty task, regardless of your industry. Characteristics such as high available torque and inertia capability, rigid design, and powerful acceleration have earned this market leader its “Power Robot” title"
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": ""
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/schunk-pgn-plus-125-1": {
+		"slug": "",
+		"type": "2 Finger Gripper",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "Schunk Intec Ltd",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/csm_im0000028_930cef2b9b_44228fe0-e868-11ea-bf04-c79418ec3294.jpeg?d=232x193&c=contain",
+		"name": "Schunk - PGN-Plus-125-1",
+		"summary": {
+			"0": {
+				"Launched in": "",
+				"Units Sold": "",
+				"Servicing (Months)": "",
+				"Programming Level": ""
+			}
+		},
+		"description": {
+			"0": "Product DescriptionUniversal 2-finger parallel gripper with a high gripping force and high maximum moments due to the use of a multi-tooth guidance.Optimal standard solution for many fields of task. For universal use in clean to slightly dirty environments. Special versions available for dirty environments. "
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "Price: £££",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": ""
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/linkwiz-l-robot": {
+		"slug": "",
+		"type": "Calibration Software",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "Linkwiz Incorporated",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/download-13_8178c560-ccfd-11eb-86d6-47d5facee1ac.png?d=232x193&c=contain",
+		"name": "Linkwiz - L-ROBOT",
+		"summary": {
+			"0": {
+				"Launched in": "2016",
+				"Units Sold": "100",
+				"Servicing (Months)": "Not Required",
+				"Programming Level": "Intermediate"
+			}
+		},
+		"description": {
+			"0": "Product DescriptionRobot control system with automatic teaching data generation / correction functionL-ROBOT is a system that solves the current situation. By automatically generating and correcting teaching data according to the minute differences in the shape of the target work, zero machining defects are achieved. By automating the teaching work that has been done by humans, production efficiency will be greatly improved, personnel will be optimized, and the production site will greatly evolve. "
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": "Not Required"
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/kuka-kr-200-l140-3-comp": {
+		"slug": "",
+		"type": "Articulated Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "Kuka UK",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/kuka-kr200-comp_775c5b00-07d2-11eb-b954-73ec2cbacb22.png?d=232x193&c=contain",
+		"name": "KUKA - KR 200 L140-3 Comp",
+		"summary": {
+			"0": {
+				"Launched in": "",
+				"Units Sold": "",
+				"Servicing (Months)": "",
+				"Programming Level": ""
+			}
+		},
+		"description": {
+			"0": "Product DescriptionThe compact robots for every task Compact, extremely fast and with a unique combination of payload and reach: these attributes make KUKA comp series robots the obvious choice for a wide range of task – e.g. handling or spot welding. The wide-ranging product spectrum, with payload capacities from 100 to 220 kg and reaches of 2,400 to 2,800 mm, ensures that there is a suitable model for every requirement. The comp series is a further development of the successful KR 125 robot series. With their compact design and high dynamic performance, the comp robots are specifically adapted to versatile handling tasks. The result is a price/performance ratio that sets new standards for the market. The advantages: high degree of planning reliability and security of investment."
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "Price: £££",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": ""
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/roeq-rack150-reseller": {
+		"slug": "",
+		"type": "Racks For Mobile Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "RARUK Automation",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/66716e6953f7fc17de8395a7c7b7573ea97bffc1_45ebcde0-33b9-11eb-978b-b1d21dfa8bd6.png?d=232x193&c=contain",
+		"name": "ROEQ - Rack150 (Reseller)",
+		"summary": {
+			"0": {
+				"Launched in": "",
+				"Units Sold": "",
+				"Servicing (Months)": "",
+				"Programming Level": ""
+			}
+		},
+		"description": {
+			"0": "Product DescriptionMiR100/MiR200/MiR250 with ROEQ top module to move Rack150 between key logistics points in your production. You can use several racks in the same fleet, increasing the flexibility, capacity, and efficiency of your AMRs. "
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": ""
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://bot-hive.com/product/kuka-kr-quantec-240-r3200-pa-arctic": {
+		"slug": "",
+		"type": "Articulated Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "Kuka UK",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://files.bot-hive.com/images/bothive/download-4_78ecf8f0-d7b5-11ea-911d-09b12bd3d190.jpeg?d=232x193&c=contain",
+		"name": "KUKA - KR QUANTEC 240 R3200 PA Arctic",
+		"summary": {
+			"0": {
+				"Launched in": "",
+				"Units Sold": "",
+				"Servicing (Months)": "",
+				"Programming Level": ""
+			}
+		},
+		"description": {
+			"0": "Product DescriptionOur family of KR QUANTEC PA robots are the fastest, strongest and most precise palletizing robots on the market. Invest in maximum compactness and top process efficiency. The palletizing robots of the KR QUANTEC PA family meet all of today’s automation requirements: minimized space requirements, shorter cycles, maximum availability and low operating costs. Thanks to their slim design, these five-axis robots can reach stack heights of over 2,500 millimeters. The hollow shaft with a diameter of 60 millimeters allows for protected routing of the energy supply."
+		},
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {
+			"Servicing (Months)": ""
+		},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": {},
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	}
+}
