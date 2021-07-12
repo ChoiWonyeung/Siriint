@@ -1,25 +1,14 @@
 from common import *
 import Markets.Qviro.qviro_configuration.qviro_config as config
 
-'''
-JSON 형태의 데이터로 수집 전체 프로세스는 같으나 방법이 조금 달라짐에 유의
-'''
 
-# 1차 크롤링 리스트
-# product = []
-# source = []
-# company = []
+def crawl_json(sample=False, save=False):
+    """
 
-# 2차 크롤링 딕셔너리
-# dic_description = {}
-# dic_spec = {}
-# dic_image = {}
-
-# 1차 크롤링 진행 (json 형태)
-
-
-def crawl_json():
-    source = []
+    :param sample:
+    :param save:
+    :return:
+    """
     dic_mainPage = {}
     num_page = 1
     while True:
@@ -31,13 +20,25 @@ def crawl_json():
             break
         else:
             num_page += 1
-    return dic_mainPage
+        # return dic_mainPage
 
+    dic_qviro = {}
+    if sample:
+        for i in range(1, 3):
+            for j in range(10):
+                dic_qviro[dic_mainPage[i]['data'][j]['url']] = {}
 
-for i in range(1, len(dic_pageMain) + 1):
-    for j in range(len(dic_pageMain[i]['data'])):
-        source.append(dic_pageMain[i]['data'][j]['url'])
+    else:
+        for i in range(1, len(dic_mainPage) + 1):
+            for j in range(len(dic_mainPage[i]['data'])):
+                dic_qviro[dic_mainPage[i]['data'][j]['url']] = {}
+
+    if save:
+        pickle_save('../pickles/qviro_1depth.pkl', dic_qviro)
+        json_save('../json/qviro_1depth.json', dic_qviro)
+
+    return dic_qviro
+
 
 if __name__ == '__main__':
-    dic_mainPage = crawl_json()
-    pickle_save(config.path_pickle + 'dic_mainPage.pkl', dic_mainPage)
+    dic_qviro = crawl_json(save=True, sample=True)

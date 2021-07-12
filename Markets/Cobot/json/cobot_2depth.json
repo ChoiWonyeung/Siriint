@@ -1,0 +1,310 @@
+{
+	"https://www.cobotwebshop.com/en/product/vg-10/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/06/VG10-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/VG10_03.png",
+		"name": {
+			"0": "VG10"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-V-VG10"
+		},
+		"options": {},
+		"description": {
+			"0": "OnRobot VG10 is the world’s first electric vacuum gripper with double grab function (formerly known as the PR10):",
+			"1": "Excl. robot kit and robot part quick changer.",
+			"2": "Suitable for:"
+		},
+		"dimension": {
+			"Weight": "1.7 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/mg10-kopie/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2021/04/mg10-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/2021/04/UR_MG10-500x500-1.png",
+		"name": {
+			"0": "MG10 (kopie)"
+		},
+		"summary": {},
+		"model_name": {},
+		"options": {},
+		"description": {
+			"0": "With easily configurable magnetic force, the OnRobot  MG10 gripper offers adjustable force to ideally match challenging application requirements such as destacking metal sheets one at a time. A built-in proximity sensor detects if a part has been picked up or not, and multi-magnet setups support applications that require reliable handling of large or heavy work pieces. And for safe, collaborative operation, the gripper maintains its hold on work pieces even in the case of power loss or emergency stop.",
+			"1": "The affordable MG10 requires no external air supply or cables, for fast, easy installation and no additional costs. Like the rest of OnRobot’s family of no-fuss, all-electric grippers, the MG10 uses the Quick Changer and OnRobot’s intuitive programming for fast easy setup."
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/mir-1000/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/AGV-MiR1000.png",
+		"name": {
+			"0": "AMR MiR1000"
+		},
+		"summary": {
+			"0": "automated mobile robot"
+		},
+		"model_name": {
+			"0": "OR-AMR-1000"
+		},
+		"options": {},
+		"description": {
+			"0": "AMR stands for Autonomous Mobile Robot. The MiR1000 is such a self-driving robot vehicle for transport within industrial environments. The MiR learns its environment through “mapping” itself by means of mobile sensing. You can download CAD files directly from the floor to the MiR or program the MiR via your own tablet or telephone.",
+			"1": "The built-in scanners and cameras provide the mapping and the software calculates the most efficient route and the combination of software and scanners ensures that people and obstacles are avoided.",
+			"2": "The MiR can be fitted with tailor-made top modules, such as bins, racks, lifts, conveyor belts or even a cobot. The top modules can easily be changed, so that the AMR can be reused quickly for other tasks."
+		},
+		"dimension": {
+			"Weight": "231 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/vgp20/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2021/04/vgp20_product_subpage.jpg,https://www.cobotwebshop.com/wp-content/uploads/2021/04/Doosan_H2515_VGP20-500x500-1.png",
+		"name": {
+			"0": "VGP20"
+		},
+		"summary": {},
+		"model_name": {},
+		"options": {},
+		"description": {
+			"0": "With payloads up to 20kg (44.1 lbs), the OnRobot VGP20 is the world’s most powerful electric vacuum gripper. It is ideal for quickly and cost-effectively automating the palletizing of cardboard boxes, as well as handling bulky, porous, and irregularly shaped objects. The VGP20 allows unlimited customization, so it can automate a wide range of applications that traditionally required pneumatic grippers, but at a fraction of the cost and complexity. The VGP20 can save up to 90% on operating and maintenance costs compared to traditional pneumatic gripper deployments."
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/mg10/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2021/04/mg10-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/2021/04/UR_MG10-500x500-1.png",
+		"name": {
+			"0": "MG10"
+		},
+		"summary": {},
+		"model_name": {},
+		"options": {},
+		"description": {
+			"0": "With easily configurable magnetic force, the OnRobot  MG10 gripper offers adjustable force to ideally match challenging application requirements such as destacking metal sheets one at a time. A built-in proximity sensor detects if a part has been picked up or not, and multi-magnet setups support applications that require reliable handling of large or heavy work pieces. And for safe, collaborative operation, the gripper maintains its hold on work pieces even in the case of power loss or emergency stop.",
+			"1": "The affordable MG10 requires no external air supply or cables, for fast, easy installation and no additional costs. Like the rest of OnRobot’s family of no-fuss, all-electric grippers, the MG10 uses the Quick Changer and OnRobot’s intuitive programming for fast easy setup."
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/h-2515/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/07/h2515-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/H2515_4.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/H2515_3.png",
+		"name": {
+			"0": "Doosan H2515"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-H25"
+		},
+		"options": {},
+		"description": {
+			"0": "The Doosan H2515 is the heavier version of the High Power H series (compared to the H2017).",
+			"1": "This cobot has a weight capacity of 25kg and a reach of 1500mm. All Doosan cobots have F / T sensors in all joints, which makes them very sensitive to unwanted back pressure (collisions).",
+			"2": "Multiple specifications can be found in the next tab.",
+			"3": "Suitable applications"
+		},
+		"dimension": {
+			"Weight": "72 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/sg-soft-gripper/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/soft-gripper.jpg,https://www.cobotwebshop.com/wp-content/uploads/2021/04/Hanwha_SOFT_GRIPPER_500x500.png",
+		"name": {
+			"0": "Soft Gripper"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-SG"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "SG-a-H",
+			"2": "SG-a-S",
+			"3": "SG-b-H"
+		},
+		"description": {
+			"0": "This OnRobot Soft Gripper is made for Pick & Place  tasks of irregular, delicate objects. This makes the gripper ideally suited for the AgriFood, for which the gripper is also certified.",
+			"1": "But it is also suitable for handling and, for example, packaging cosmetics or pharmaceutical products.",
+			"2": "The gripper consists of an electrically driven core (so without air supply!) with a silicone cups. There are 3 variants that can be exchanged.",
+			"3": "The silicone cups are dishwasher safe and comply with FDA 21 CFR (non-greasy foods) and EC 1935/2004.",
+			"4": "Load capacity up to 2.2 kg, depending on the shape, softness and friction of the product. Stroke size between 11 and 118 mm (depending on the cup).",
+			"5": "Available cups:",
+			"6": "Tip: have your product tested with the different cups first!",
+			"7": "Like all OnRobot grippers, this gripper can also be ordered with the gripper part of the Quick Change system. This system allows you to turn the last axis in complete freedom, because there are no cables between the robot and the gripper.",
+			"8": "SG-a-H, SG-a-S, SG-b-H",
+			"9": "40 mm zonder rok"
+		},
+		"dimension": {
+			"Weight": "1 kg",
+			"Type cup": "SG-a-H, SG-a-S, SG-b-H",
+			"Herhaalnauwkeurigheid": "",
+			"Draagkracht": "",
+			"Grijpkracht": "",
+			"Volledige slag": "40 mm zonder rok"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/h-2017/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/07/h2017-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/H_2017_4.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/H_2017_3.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/H_2017_2.png",
+		"name": {
+			"0": "H2017"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-H20"
+		},
+		"options": {},
+		"description": {
+			"0": "The Doosan H2017 is the light version of the High Power H series (compared to the H2515).",
+			"1": "This cobot has a weight capacity of 20kg and reach of 1700mm. All Doosan cobot have F / T sensors in all joints, which makes them very sensitive to unwanted back pressure (collisions).",
+			"2": "Multiple specifications can be found in the next tab.",
+			"3": "Suitable applications",
+			"4": "ca. 160°; 100°/sec",
+			"5": "ca. 360°; 180°/sec",
+			"6": "IP54",
+			"7": "In progress",
+			"8": "150 x 150 mm",
+			"9": "74kg"
+		},
+		"dimension": {
+			"Weight": "74 kg",
+			"Pendant": "",
+			"Herhaalnauwkeurigheid": "",
+			"Temperatuurbereik": "",
+			"Draagkracht": "",
+			"Bereik": "",
+			"Graden bewegingsvrijheid": "",
+			"Programmering": "",
+			"Basis": "",
+			"Elleboog": "ca. 160°; 100°/sec",
+			"Pols 1": "",
+			"Pols 2": "",
+			"Pols 3": "ca. 360°; 180°/sec",
+			"IP classificatie": "IP54",
+			"ISO Class Cleanroom": "In progress",
+			"Voetafdruk": "150 x 150 mm",
+			"Gewicht": "74kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/doosan_m1509/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/DOOSAN-M1509-400x400.png",
+		"name": {
+			"0": "M1509"
+		},
+		"summary": {
+			"0": "robotarm"
+		},
+		"model_name": {
+			"0": "OR-C-M1509"
+		},
+		"options": {},
+		"description": {
+			"0": "The Doosan M1509 has the highest load capacity of the series of 15kgs, but has a reach of 900mm. This cobot is efficiënt in handling heavy objects.",
+			"1": "The GUI based Touch interface of the control panel can be compared to smartphones or tablets. A robot’s movement is indicated by means of icons. Functionality can be easily added or altered with Drag & Drop in order to complete the task at hand. The movements of the robot arm are clearly indicated on a timeline with icons.",
+			"2": "The additional teach cockpit on the robot arm is an advanced solution for direct programming without control panel with 5 buttons for selecting different programming modes and for moving the axes.",
+			"3": "The M1013 has a coating that can resist among other things cooling lubricants in a CNC machine tool.",
+			"4": "Extra options:",
+			"5": "Connections",
+			"6": "`",
+			"7": "Control panel",
+			"8": "* network connection possible for a large variety of communication systems",
+			"9": "Programming tablet",
+			"10": "15kg",
+			"11": "GUI-gebaseerd touch interface teach pad",
+			"12": "approx 360 ° approx 150 °/sec",
+			"13": "ca. 360 ° ca. 150 °/sec",
+			"14": "approx 150 ° approx 180 °/sec, ca. 150 ° ca. 180 °/sec",
+			"15": "Ø 150mm"
+		},
+		"dimension": {}
+	},
+	"https://www.cobotwebshop.com/en/product/doosan_m1013/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/DOOSAN-M1013-400x400.png",
+		"name": {
+			"0": "M1013"
+		},
+		"summary": {
+			"0": "robotarm"
+		},
+		"model_name": {
+			"0": "OR-C-M1013"
+		},
+		"options": {},
+		"description": {
+			"0": "The Doosan M1013 is a standard model. The cobot has a load capacity of 10kg and a reach of 1,300mm.",
+			"1": "The GUI based Touch interface of the control panel can be compared to smartphones or tablets. A robot’s movement is indicated by means of icons. Functionality can be easily added or altered with Drag & Drop in order to complete the task at hand. The movements of the robot arm are clearly indicated on a timeline with icons.",
+			"2": "The additional teach cockpit on the robot arm is an advanced solution for direct programming without control panel with 5 buttons for selecting different programming modes and for moving the axes.",
+			"3": "The M1013 has a coating that can resist among other things cooling lubricants in a CNC machine tool.",
+			"4": "Extra options:",
+			"5": "Connections",
+			"6": "`",
+			"7": "Control panel",
+			"8": "* network connection possible for a large variety of communication systems",
+			"9": "Programming tablet",
+			"10": "10 kg",
+			"11": "1.300 mm",
+			"12": "GUI-gebaseerd touch interface teach pad",
+			"13": "Ø 150mm"
+		},
+		"dimension": {}
+	},
+	"https://www.cobotwebshop.com/en/product/a-0912/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/06/doosan-a0912-500x500-1.png",
+		"name": {
+			"0": "A0912"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-DA12"
+		},
+		"options": {},
+		"description": {
+			"0": "The A-series cobots from Doosan are fast and have a short ROI (also fast in payback time).",
+			"1": "These cobots are slightly stripped down as standard, but have various options. This makes them adaptable to your needs. The A0912 has a weight capacity of 9kg and reach of 1200mm. The ‘s’ variant has a built-in Force / Torque sensor in the last joint.",
+			"2": "View more specifications under the specification tab. Under the download tab you will find an overview of the differences between the M-series and A-series.",
+			"3": "Teach Pendant",
+			"4": "Ja",
+			"5": "0,05 mm",
+			"6": "9 kg",
+			"7": "offline; as option teach pendant, smart pendant of teachcockpit",
+			"8": "ca. 360° ca. 180°/sec",
+			"9": "ca. 160° ca. 180°/sec",
+			"10": "150 x 150 mm"
+		},
+		"dimension": {
+			"Weight": "27 kg",
+			"Pendant": "Teach Pendant",
+			"A-serie 's' variant": "Ja",
+			"Herhaalnauwkeurigheid": "0,05 mm",
+			"Temperatuurbereik": "",
+			"Draagkracht": "9 kg",
+			"Bereik": "",
+			"Graden bewegingsvrijheid": "",
+			"Programmering": "offline; as option teach pendant, smart pendant of teachcockpit",
+			"Basis": "ca. 360° ca. 180°/sec",
+			"Schouder": "",
+			"Elleboog": "ca. 160° ca. 180°/sec",
+			"Pols 2": "",
+			"Pols 3": "",
+			"IP classificatie": "",
+			"ISO Class Cleanroom": "",
+			"Voetafdruk": "150 x 150 mm",
+			"Gewicht": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/doosan_m0609/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2019/04/DOOSAN-M0609-500x500-1.png",
+		"name": {
+			"0": "M0609"
+		},
+		"summary": {
+			"0": "robotarm"
+		},
+		"model_name": {
+			"0": "OR-C-M0609"
+		},
+		"options": {},
+		"description": {
+			"0": "The Doosan M0609 is optimally suited for representative tasks at high speed and in small workspaces.",
+			"1": "The GUI based Touch interface of the control panel can be compared to smartphones or tablets. A robot’s movement is indicated by means of icons. Functionality can be easily added or altered with Drag & Drop in order to complete the task at hand. The movements of the robot arm are clearly indicated on a timeline with icons.",
+			"2": "The additional teach cockpit on the robot arm is an advanced solution for direct programming without control panel with 5 buttons for selecting different programming modes and for moving the axes.",
+			"3": "The M0609 has a coating that can resist among other things cooling lubricants in a CNC machine tool. Doosan cobots are able to accurately measure objects up to 20 g.",
+			"4": "Extra options:",
+			"5": "Connections",
+			"6": "`",
+			"7": "Control panel",
+			"8": "* network connection possible for a large variety of communication systems",
+			"9": "Programming tablet"
+		},
+		"dimension": {}
+	}
+}
