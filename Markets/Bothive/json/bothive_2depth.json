@@ -1,37 +1,41 @@
 {
-	"https://bot-hive.com/product/franka-emika-panda": {
+	"https://bot-hive.com/product/fanuc-cr-35ia": {
 		"product": [
-			"Franka Emika Panda"
+			"Fanuc - CR-35iA"
 		],
 		"brand": [
-			"Franka Emika"
+			"FANUC UK"
 		],
 		"type": [
 			"Collaborative Robots"
 		],
 		"image": [
-			"https://files.bot-hive.com/images/bothive/panda_cobofact_web-300x300_66e50b50-c5c4-11ea-98c3-89f7482ba1be.png?d=232x193&c=contain"
+			"https://files.bot-hive.com/images/bothive/fanuc_cr-35ia_0001_7b47fb50-c778-11eb-8767-e76d95582150.jpeg?d=232x193&c=contain"
 		],
 		"highlight": {
-			"Launched in": "2016",
-			"Units Sold": "50",
-			"Servicing (Months)": "12",
+			"Launched in": "2015",
+			"Units Sold": "100",
+			"Servicing (Months)": "5",
 			"Programming Level": "Beginner"
 		},
 		"description": [
-			"Product DescriptionGroundbreaking innovation for cost-efficient and scalable solutions. We redefined robotics with the world's most advanced robotic system Panda Powertool, the fastest selling industry - suited robotic system. Our customers, from SMBs to global enterprises - profit from this novel east - to - use, flexible, cost efficient and scalable solution. "
+			"Product DescriptionThe future lies in the collaborationImagine a world without safety fences, a world in which humans work side-by-side with robots. In this world, robots would execute all strenuous tasks, enabling humans to dedicate their precious time to lighter, more skilled or demanding tasks.With FANUC collaborative robots, that world has already come into existence. By integrating them into existing production environments, robots directly collaborate with humans, becoming a crucial part of the team. Alongside humans, they take over tedious, repetitive tasks, lifting up to 35 kg, thus maintaining the human’s health while automating entire assembly lines."
 		],
 		"spec": {
-			" Payload": "3kg",
-			" Reach": " 855cm",
-			" Axis": " 7",
-			" Weight": " 17.8kg",
-			" Repeatability": " 0.1mm",
-			" Speed": " 162.85mm/s"
+			" Payload": "24kg",
+			" Reach": " 1813cm",
+			" Axis": " 6",
+			" Weight": " 990kg",
+			" Repeatability": " 0.03mm",
+			" Speed": " 125mm/s"
 		},
-		"delivery": [
-			"Price: £££"
-		]
+		"delivery": [],
+		"related": {
+			"0": "https://bot-hive.com/product/fanuc-cr-7ia",
+			"1": "https://bot-hive.com/product/fanuc-crx-10ial",
+			"2": "https://bot-hive.com/product/fanuc-cr-14ial",
+			"3": "https://bot-hive.com/product/fanuc-cr-15ia"
+		}
 	},
 	"https://bot-hive.com/product/doosan-a0509": {
 		"product": [
@@ -65,39 +69,13 @@
 		},
 		"delivery": [
 			"Delivery Times:  6 weeks "
-		]
-	},
-	"https://bot-hive.com/product/fanuc-cr-35ia": {
-		"product": [
-			"Fanuc - CR-35iA"
 		],
-		"brand": [
-			"FANUC UK"
-		],
-		"type": [
-			"Collaborative Robots"
-		],
-		"image": [
-			"https://files.bot-hive.com/images/bothive/fanuc_cr-35ia_0001_7b47fb50-c778-11eb-8767-e76d95582150.jpeg?d=232x193&c=contain"
-		],
-		"highlight": {
-			"Launched in": "2015",
-			"Units Sold": "100",
-			"Servicing (Months)": "5",
-			"Programming Level": "Beginner"
-		},
-		"description": [
-			"Product DescriptionThe future lies in the collaborationImagine a world without safety fences, a world in which humans work side-by-side with robots. In this world, robots would execute all strenuous tasks, enabling humans to dedicate their precious time to lighter, more skilled or demanding tasks.With FANUC collaborative robots, that world has already come into existence. By integrating them into existing production environments, robots directly collaborate with humans, becoming a crucial part of the team. Alongside humans, they take over tedious, repetitive tasks, lifting up to 35 kg, thus maintaining the human’s health while automating entire assembly lines."
-		],
-		"spec": {
-			" Payload": "24kg",
-			" Reach": " 1813cm",
-			" Axis": " 6",
-			" Weight": " 990kg",
-			" Repeatability": " 0.03mm",
-			" Speed": " 125mm/s"
-		},
-		"delivery": []
+		"related": {
+			"0": "https://bot-hive.com/product/doosan-a0912s",
+			"1": "https://bot-hive.com/product/doosan-a0912",
+			"2": "https://bot-hive.com/product/doosan-h2017",
+			"3": "https://bot-hive.com/product/doosan-m1509"
+		}
 	},
 	"https://bot-hive.com/product/nao-dino-autonomous-vegetable-weeding-robot": {
 		"product": [
@@ -131,7 +109,13 @@
 		},
 		"delivery": [
 			"Delivery Times:  6 weeks "
-		]
+		],
+		"related": {
+			"0": "https://bot-hive.com/product/nao-ted-vineyard-weeding-robot",
+			"1": "https://bot-hive.com/product/nao-oz-weeding-robot",
+			"2": "https://bot-hive.com/product/farmbot-genesis-v15",
+			"3": "https://bot-hive.com/product/octinion-curion"
+		}
 	},
 	"https://bot-hive.com/product/bionichive-squid": {
 		"product": [
@@ -165,7 +149,13 @@
 		},
 		"delivery": [
 			"Delivery Times:  2 weeks "
-		]
+		],
+		"related": {
+			"0": "https://bot-hive.com/product/mir-250-reseller",
+			"1": "https://bot-hive.com/product/waypoint-robotics-vector-hd",
+			"2": "https://bot-hive.com/product/tima-tima-logistic",
+			"3": "https://bot-hive.com/product/hai-robotics-haipick-a42d-double-deep-acr"
+		}
 	},
 	"https://bot-hive.com/product/tima-tima-disinfector": {
 		"product": [
@@ -199,20 +189,66 @@
 		},
 		"delivery": [
 			"Delivery Times:  2 weeks "
-		]
+		],
+		"related": {
+			"0": "https://bot-hive.com/product/pudu-puductor-ii-2",
+			"1": "https://bot-hive.com/product/pudu-puductor",
+			"2": "https://bot-hive.com/product/bettaroe-robotics-uv-robot",
+			"3": "https://bot-hive.com/product/locus-robotics-locusbots"
+		}
 	},
-	"https://bot-hive.com/product/mir-200-reseller-1": {
+	"https://bot-hive.com/product/franka-emika-panda": {
 		"product": [
-			"MiR 200 (Reseller)"
+			"Franka Emika Panda"
 		],
 		"brand": [
-			"RARUK Automation"
+			"Franka Emika"
 		],
 		"type": [
-			"Industrial Mobile Robots"
+			"Collaborative Robots"
 		],
 		"image": [
-			"https://files.bot-hive.com/images/bothive/fccc5f14f0e983fd7d297380916e8e929c2b6a3a_ed4f9240-cb3d-11ea-8ac0-6bd070034d97.png?d=232x193&c=contain"
+			"https://files.bot-hive.com/images/bothive/panda_cobofact_web-300x300_66e50b50-c5c4-11ea-98c3-89f7482ba1be.png?d=232x193&c=contain"
+		],
+		"highlight": {
+			"Launched in": "2016",
+			"Units Sold": "50",
+			"Servicing (Months)": "12",
+			"Programming Level": "Beginner"
+		},
+		"description": [
+			"Product DescriptionGroundbreaking innovation for cost-efficient and scalable solutions. We redefined robotics with the world's most advanced robotic system Panda Powertool, the fastest selling industry - suited robotic system. Our customers, from SMBs to global enterprises - profit from this novel east - to - use, flexible, cost efficient and scalable solution. "
+		],
+		"spec": {
+			" Payload": "3kg",
+			" Reach": " 855cm",
+			" Axis": " 7",
+			" Weight": " 17.8kg",
+			" Repeatability": " 0.1mm",
+			" Speed": " 162.85mm/s"
+		},
+		"delivery": [
+			"Price: £££"
+		],
+		"related": {
+			"0": "https://bot-hive.com/product/denso-cobotta",
+			"1": "https://bot-hive.com/product/franka-emika-panda-integrator",
+			"2": "https://bot-hive.com/product/productive-robotics-ob7",
+			"3": "https://bot-hive.com/product/productive-robotics-ob7-stretch"
+		}
+	},
+	"https://bot-hive.com/product/abb-irb-360-31130-flexpicker-1": {
+		"product": [
+			"ABB - IRB 360-3/1130 FlexPicker®"
+		],
+		"brand": [
+			"ABB Robotics UK"
+		],
+		"type": [
+			"Delta"
+		],
+		"image": [
+			"https://files.bot-hive.com/images/bothive/annotation-2020-06-12-140626_354a3b20-aca5-11ea-918e-bdeb0e080478_meta_394x433.png?d=232x193&c=contain"
 		],
 		"highlight": {
 			"Launched in": "",
@@ -221,32 +257,36 @@
 			"Programming Level": ""
 		},
 		"description": [
-			"Product DescriptionAutomate transport tasks and focus on higher value activitiesA new generation of autonomous mobile robots is changing the way businesses move materials inside their facilities—and the MiR200 is leading the charge. With extraordinary flexibility and smart technology, the MiR200 can be used in nearly any situation where employees are spending time pushing carts or making deliveries. Now you can automate these tasks, so employees can focus on higher value activities."
+			"Product DescriptionABB’s IRB 360 family of robots, more commonly known as the FlexPicker, are capable of the fastest picking tasks and have been optimized for packing tasks. The robot has outstanding motion performance with the shortest cycle times, precision accuracy, and high payloads. The IRB 360 family includes variants with payloads of 1 kg, 3 kg, 6 kg, and 8 kg and reaches of 1130 mm and 1600 mm—meaning there is an IRB 360 for almost every need. "
 		],
 		"spec": {
-			" Payload": "200kg",
-			" Reach": " --",
-			" Axis": " --",
-			" Weight": " 70kg",
-			" Repeatability": " --",
-			" Speed": " --"
+			" Payload": "3kg",
+			" Reach": " 1130cm",
+			" Axis": " 3",
+			" Weight": " 120kg",
+			" Repeatability": " 1.5mm",
+			" Speed": " 350mm/s"
 		},
-		"delivery": [
-			"Price: £££"
-		]
+		"delivery": [],
+		"related": {
+			"0": "https://bot-hive.com/product/abb-irb-360-81130-flexpicker",
+			"1": "https://bot-hive.com/product/abb-irb-360-11130-flexpicker",
+			"2": "https://bot-hive.com/product/abb-irb-360-61600-flexpicker-1",
+			"3": "https://bot-hive.com/product/abb-irb-360-11600-flexpicker-1"
+		}
 	},
-	"https://bot-hive.com/product/schunk-gsw-v32": {
+	"https://bot-hive.com/product/schunk-co-act-egp-c-40-n-n-keti": {
 		"product": [
-			"Schunk - GSW-V32"
+			"Schunk - Co-Act EGP-C 40-N-N-KETI"
 		],
 		"brand": [
 			"Schunk Intec Ltd"
 		],
 		"type": [
-			"Shaft Interface Gripper"
+			"Co-Act Gripper"
 		],
 		"image": [
-			"https://files.bot-hive.com/images/bothive/csm_im0002267_5d0ed1e45e_d62107a0-f1cd-11ea-b2d5-0d3f754dc6a7.jpeg?d=232x193&c=contain"
+			"https://files.bot-hive.com/images/bothive/csm_im0023323_1f6237ec95_4d182140-edd7-11ea-9afc-d387a5bad676.jpeg?d=232x193&c=contain"
 		],
 		"highlight": {
 			"Launched in": "",
@@ -255,110 +295,47 @@
 			"Programming Level": ""
 		},
 		"description": [
-			"Product DescriptionVacuum gripper for spindle interfaces for handling flat components. Unit for automatic loading and unloading of machining centers by their own axis, which provides compressed air and coolant supply via the tool mounting. "
+			"Product DescriptionElectric 2-finger parallel gripper certified for collaborative operation with actuation via 24 V and digital I/O. Gripping and moving small and medium-sized work pieces with flexible force in collaborative operation in the areas of assembly, electronics and machine tool loading. "
 		],
 		"spec": {
-			" Payload": "--",
+			" Payload": "0.7kg",
 			" Reach": " --",
 			" Axis": " --",
-			" Weight": " 0.23kg",
-			" Repeatability": " --",
+			" Weight": " 0.6kg",
+			" Repeatability": " 0.02mm",
 			" Speed": " --"
 		},
 		"delivery": [
 			"Delivery Times:  1 week "
-		]
+		],
+		"related": {
+			"0": "https://bot-hive.com/product/schunk-co-act-egp-c-50-n-n-urek",
+			"1": "https://bot-hive.com/product/schunk-co-act-egp-c-64-n-n-keti",
+			"2": "https://bot-hive.com/product/schunk-co-act-egp-c-64-n-n-fcr7",
+			"3": "https://bot-hive.com/product/schunk-co-act-egp-c-64-n-n-urek"
+		}
 	},
-	"https://bot-hive.com/product/kuka-kr-600-fortec-600-r2830": {
+	"https://bot-hive.com/product/cyberbotics-webots": {
 		"product": [
-			"Kuka - KR 600 Fortec 600 R2830"
+			"Cyberbotics - Webots"
 		],
 		"brand": [
-			"Kuka UK"
+			"Cyberbotics Ltd."
 		],
 		"type": [
-			"Articulated Robots"
+			"Simulation & Modelling Software"
 		],
 		"image": [
-			"https://files.bot-hive.com/images/bothive/kr-600-fortec-tile_a5d9d5e0-abd2-11ea-a39d-ab48357779d7_meta_3200x1800.jpeg?d=232x193&c=cover"
+			"https://files.bot-hive.com/images/bothive/unnamed-10_845d2d60-cd0d-11eb-8a69-c75831048ebf.jpeg?d=232x193&c=contain"
 		],
 		"highlight": {
-			"Launched in": "",
-			"Units Sold": "",
-			"Servicing (Months)": "",
-			"Programming Level": ""
-		},
-		"description": [
-			"Product DescriptionThe KR 600 FORTEC heavy-duty robot can be used in a great many tasks in the high payload range on account of its versatility. It can also turn in a top performance at reduced investment costs as a foundry robot."
-		],
-		"spec": {
-			" Payload": "729kg",
-			" Reach": " 2826cm",
-			" Axis": " 6",
-			" Weight": " 2650kg",
-			" Repeatability": " 0.08mm",
-			" Speed": " 79mm/s"
-		},
-		"delivery": [
-			"Delivery Times:  4 weeks "
-		]
-	},
-	"https://bot-hive.com/product/kuka-kr-200-3-comp-second-hand": {
-		"product": [
-			"KUKA - KR 200-3 Comp (Second Hand)"
-		],
-		"brand": [
-			"KRUDO Industrial"
-		],
-		"type": [
-			"Articulated Robots"
-		],
-		"image": [
-			"https://files.bot-hive.com/images/bothive/kuka_kr200_3_comp__2_-removebg-preview-1_93410d60-07d3-11eb-8910-2f782d029148.png?d=232x193&c=contain"
-		],
-		"highlight": {
-			"Launched in": "",
-			"Units Sold": "",
-			"Servicing (Months)": "",
-			"Programming Level": ""
-		},
-		"description": [
-			"Product DescriptionThe compact robots for every task Compact, extremely fast and with a unique combination of payload and reach: these attributes make KUKA comp series robots the obvious choice for a wide range of task – e.g. handling or spot welding. The wide-ranging product spectrum, with payload capacities from 100 to 220 kg and reaches of 2,400 to 2,800 mm, ensures that there is a suitable model for every requirement. The comp series is a further development of the successful KR 125 robot series. With their compact design and high dynamic performance, the comp robots are specifically adapted to versatile handling tasks. The result is a price/performance ratio that sets new standards for the market. The advantages: high degree of planning reliability and security of investment."
-		],
-		"spec": {
-			" Payload": "200kg",
-			" Reach": " 2400cm",
-			" Axis": " 6",
-			" Weight": " 1155kg",
-			" Repeatability": " 0.15mm",
-			" Speed": " 115.33mm/s"
-		},
-		"delivery": [
-			"Price: £££",
-			"Shipped from: NL"
-		]
-	},
-	"https://bot-hive.com/product/force-dimension-force-dimension-sdk": {
-		"product": [
-			"Force Dimension - Force Dimension SDK"
-		],
-		"brand": [
-			"Force Dimension"
-		],
-		"type": [
-			"Calibration Software"
-		],
-		"image": [
-			"https://files.bot-hive.com/images/bothive/logo_force_dimension_57fee6b0-cdc0-11eb-b0ab-af21b12d12c1.png?d=232x193&c=contain"
-		],
-		"highlight": {
-			"Launched in": "2002",
-			"Units Sold": "500",
+			"Launched in": "1996",
+			"Units Sold": "10000",
 			"Servicing (Months)": "Not Required",
-			"Programming Level": "Beginner"
+			"Programming Level": "Intermediate"
 		},
 		"description": [
-			"Product DescriptionThe Force Dimension SDK is the software interface for all Force Dimension products. It enables users to easily add haptic capability to their task by hiding all the complexity of haptic device programming. This software is composed of two parts, namely the Haptic SDK and Robotic SDK. Both the Haptic SDK and Robotic SDK are available for popular platforms including Windows, Linux and macOS, as well as real-time operating systems such as QNX and VxWorks. For researchers and users who need to perform advanced control tasks, the Haptic SDK provides a range of low-level functions that make it possible to access and control every aspect of Force Dimension haptic devices. Robotic SDK is targeted at robotic and collaborative task development. With the Robotic SDK, the haptic device can safely and smoothly move in space, opening the door to new ways for man and machine to collaborate. "
+			"Product DescriptionWebots is an open source and multi-platform desktop application used to simulate robots. It provides a complete development environment to model, program and simulate robots. It has been designed for a professional use, and it is widely used in industry, education and research. Cyberbotics Ltd. maintains Webots as its main product continuously since 1998."
 		],
 		"spec": {
 			" Payload": "--",
@@ -370,20 +347,26 @@
 		},
 		"delivery": [
 			"Shipped from: CH"
-		]
+		],
+		"related": {
+			"0": "https://bot-hive.com/product/force-dimension-chai3d",
+			"1": "https://bot-hive.com/product/coppelia-robotics-coppeliasim",
+			"2": "https://bot-hive.com/product/siemens-digital-industries-robotexpert",
+			"3": "https://bot-hive.com/product/intelitek-robocell"
+		}
 	},
-	"https://bot-hive.com/product/fetch-robotics-freight100": {
+	"https://bot-hive.com/product/fanuc-m-10ia7l": {
 		"product": [
-			"Fetch Robotics - Freight100"
+			"Fanuc - M-10iA/7L"
 		],
 		"brand": [
-			"Fetch Robotics"
+			"FANUC UK"
 		],
 		"type": [
-			"Industrial Mobile Robots"
+			"Articulated Robots"
 		],
 		"image": [
-			"https://files.bot-hive.com/images/bothive/freight_base_26762740-06ef-11eb-8cf2-ad4626ca0115.png?d=232x193&c=cover"
+			"https://files.bot-hive.com/images/bothive/int-ro-pr-m107l-l-1_b91a6090-ccd7-11ea-8718-85ecb1c76886.jpeg?d=232x193&c=contain"
 		],
 		"highlight": {
 			"Launched in": "",
@@ -392,19 +375,63 @@
 			"Programming Level": ""
 		},
 		"description": [
-			"Product DescriptionAutonomous Mobile Robot BaseDesigned to be highly extensible and versatile, our fully autonomous Freight100 Base is a safe and cost-effective solution to accelerate the development of automated products and solutions for a wide range of task. Integrators and software partners can build upon the Freight100 Base and leverage Fetch Robotics’ proven hardware and software expertise to quickly bring automated solutions to life."
+			"Product DescriptionThe fast slimline solution to all your small handling jobsThe fastest handling robot in its class, the M-10 series delivers improved throughput and optimized cycle times across a wide range of pick, place and machine tending operations. Weighing just 130 kg, the M-10 boasts a 12 kg payload, very high axis speeds and acceleration resulting in high wrist movements. Slim cable-integrated arm and hollow wrist assembly support make for easy operation even in confined work areas. "
 		],
 		"spec": {
-			" Payload": "--",
-			" Reach": " --",
-			" Axis": " --",
-			" Weight": " --",
-			" Repeatability": " --",
-			" Speed": " --"
+			" Payload": "7kg",
+			" Reach": " 1633cm",
+			" Axis": " 6",
+			" Weight": " 135kg",
+			" Repeatability": " 0.03mm",
+			" Speed": " 362.5mm/s"
+		},
+		"delivery": [],
+		"related": {
+			"0": "https://bot-hive.com/product/fanuc-m-10ia10ms",
+			"1": "https://bot-hive.com/product/fanuc-r-1000ia80f",
+			"2": "https://bot-hive.com/product/fanuc-m-710ic50h",
+			"3": "https://bot-hive.com/product/fanuc-m2000ia1200"
+		}
+	},
+	"https://bot-hive.com/product/kuka-kr-quantec-100-r3500-press": {
+		"product": [
+			"KUKA - KR QUANTEC 100 R3500 Press"
+		],
+		"brand": [
+			"Kuka UK"
+		],
+		"type": [
+			"Articulated Robots"
+		],
+		"image": [
+			"https://files.bot-hive.com/images/bothive/download-32_7b478080-d651-11ea-8cd4-878169ff4c54.jpeg?d=232x193&c=contain"
+		],
+		"highlight": {
+			"Launched in": "",
+			"Units Sold": "",
+			"Servicing (Months)": "",
+			"Programming Level": ""
+		},
+		"description": [
+			"Product DescriptionThe KR QUANTEC press is the KUKA industrial robot that is specially designed for press-to-press automation. With its extremely high precision and enormous reach, it is the first choice for loading, unloading and linking press lines. The KR QUANTEC press has been optimized for press shop integration. It can be used to implement a wide range of task, for press linking across narrow or wide press gaps, transferring large and medium-sized blanks as well as loading and unloading press lines. Its faster axes enable high-speed press-to-press automaton, which is ideal for the automotive industry.The KR QUANTEC press-to-press robots are available in floor and ceiling-mounted variants."
+		],
+		"spec": {
+			" Payload": "100kg",
+			" Reach": " 3501cm",
+			" Axis": " 6",
+			" Weight": " 1240kg",
+			" Repeatability": " 0.06mm",
+			" Speed": " 143mm/s"
 		},
 		"delivery": [
 			"Delivery Times:  4 weeks "
-		]
+		],
+		"related": {
+			"0": "https://bot-hive.com/product/kuka-kr-quantec-150-r3300-prime-k",
+			"1": "https://bot-hive.com/product/kuka-kr-quantec-240-r2500-prime",
+			"2": "https://bot-hive.com/product/kuka-kr-quantec-120-r3500-prime-k",
+			"3": "https://bot-hive.com/product/kuka-kr-500-fortec-500-r2830-mt"
+		}
 	},
 	"https://bot-hive.com/product/abb-irb-7600-340280": {
 		"product": [
@@ -436,89 +463,26 @@
 			" Repeatability": " 0.3mm",
 			" Speed": " 92.5mm/s"
 		},
-		"delivery": []
+		"delivery": [],
+		"related": {
+			"0": "https://bot-hive.com/product/abb-irb-1410",
+			"1": "https://bot-hive.com/product/abb-irb-7600-325310",
+			"2": "https://bot-hive.com/product/abb-irb-140",
+			"3": "https://bot-hive.com/product/abb-irb-140t"
+		}
 	},
-	"https://bot-hive.com/product/schunk-pgn-plus-125-1": {
+	"https://bot-hive.com/product/kuka-kuka-omnimove": {
 		"product": [
-			"Schunk - PGN-Plus-125-1"
-		],
-		"brand": [
-			"Schunk Intec Ltd"
-		],
-		"type": [
-			"2 Finger Gripper"
-		],
-		"image": [
-			"https://files.bot-hive.com/images/bothive/csm_im0000028_930cef2b9b_44228fe0-e868-11ea-bf04-c79418ec3294.jpeg?d=232x193&c=contain"
-		],
-		"highlight": {
-			"Launched in": "",
-			"Units Sold": "",
-			"Servicing (Months)": "",
-			"Programming Level": ""
-		},
-		"description": [
-			"Product DescriptionUniversal 2-finger parallel gripper with a high gripping force and high maximum moments due to the use of a multi-tooth guidance.Optimal standard solution for many fields of task. For universal use in clean to slightly dirty environments. Special versions available for dirty environments. "
-		],
-		"spec": {
-			" Payload": "5.4kg",
-			" Reach": " --",
-			" Axis": " --",
-			" Weight": " 1.35kg",
-			" Repeatability": " 0.01mm",
-			" Speed": " --"
-		},
-		"delivery": [
-			"Delivery Times:  1 week ",
-			"Price: £££"
-		]
-	},
-	"https://bot-hive.com/product/linkwiz-l-robot": {
-		"product": [
-			"Linkwiz - L-ROBOT"
-		],
-		"brand": [
-			"Linkwiz Incorporated"
-		],
-		"type": [
-			"Calibration Software"
-		],
-		"image": [
-			"https://files.bot-hive.com/images/bothive/download-13_8178c560-ccfd-11eb-86d6-47d5facee1ac.png?d=232x193&c=contain"
-		],
-		"highlight": {
-			"Launched in": "2016",
-			"Units Sold": "100",
-			"Servicing (Months)": "Not Required",
-			"Programming Level": "Intermediate"
-		},
-		"description": [
-			"Product DescriptionRobot control system with automatic teaching data generation / correction functionL-ROBOT is a system that solves the current situation. By automatically generating and correcting teaching data according to the minute differences in the shape of the target work, zero machining defects are achieved. By automating the teaching work that has been done by humans, production efficiency will be greatly improved, personnel will be optimized, and the production site will greatly evolve. "
-		],
-		"spec": {
-			" Payload": "--",
-			" Reach": " --",
-			" Axis": " --",
-			" Weight": " --",
-			" Repeatability": " --",
-			" Speed": " --"
-		},
-		"delivery": [
-			"Shipped from: JP"
-		]
-	},
-	"https://bot-hive.com/product/kuka-kr-200-l140-3-comp": {
-		"product": [
-			"KUKA - KR 200 L140-3 Comp"
+			"KUKA - KUKA OmniMove"
 		],
 		"brand": [
 			"Kuka UK"
 		],
 		"type": [
-			"Articulated Robots"
+			"ROVs (Remote Operated Vehicles)"
 		],
 		"image": [
-			"https://files.bot-hive.com/images/bothive/kuka-kr200-comp_775c5b00-07d2-11eb-b954-73ec2cbacb22.png?d=232x193&c=contain"
+			"https://files.bot-hive.com/images/bothive/download-11_1d4d4f30-09f7-11eb-a0cb-272128a1e1c0.jpeg?d=232x193&c=contain"
 		],
 		"highlight": {
 			"Launched in": "",
@@ -527,33 +491,39 @@
 			"Programming Level": ""
 		},
 		"description": [
-			"Product DescriptionThe compact robots for every task Compact, extremely fast and with a unique combination of payload and reach: these attributes make KUKA comp series robots the obvious choice for a wide range of task – e.g. handling or spot welding. The wide-ranging product spectrum, with payload capacities from 100 to 220 kg and reaches of 2,400 to 2,800 mm, ensures that there is a suitable model for every requirement. The comp series is a further development of the successful KR 125 robot series. With their compact design and high dynamic performance, the comp robots are specifically adapted to versatile handling tasks. The result is a price/performance ratio that sets new standards for the market. The advantages: high degree of planning reliability and security of investment."
+			"Product DescriptionKUKA omniMove: autonomous and extremely flexibleKUKA omniMove is our transport platform for heavy loads. Move it with great ease into the right position – with ultra-precision and in the tightest of spaces. The KUKA omniMove also offers excellent mobility, easily operated by remote control."
 		],
 		"spec": {
-			" Payload": "140kg",
+			" Payload": "1500kg",
 			" Reach": " 2800cm",
 			" Axis": " 6",
-			" Weight": " 1170kg",
+			" Weight": " 935kg",
 			" Repeatability": " 0.15mm",
 			" Speed": " 114.67mm/s"
 		},
 		"delivery": [
 			"Delivery Times:  4 weeks ",
-			"Price: £££"
-		]
+			"Price: "
+		],
+		"related": {
+			"0": "https://bot-hive.com/product/sercel-microbs",
+			"1": "https://bot-hive.com/product/brokk-brokk-300",
+			"2": "https://bot-hive.com/product/smd-cbt2400",
+			"3": "https://bot-hive.com/product/milrem-robotics-multiscope-ugv-commercial"
+		}
 	},
-	"https://bot-hive.com/product/roeq-rack150-reseller": {
+	"https://bot-hive.com/product/fetch-robotics-fetch-mobile-manipulator": {
 		"product": [
-			"ROEQ - Rack150 (Reseller)"
+			"Fetch Robotics - Fetch Mobile Manipulator"
 		],
 		"brand": [
-			"RARUK Automation"
+			"Fetch Robotics"
 		],
 		"type": [
-			"Racks For Mobile Robots"
+			"Articulated Robots"
 		],
 		"image": [
-			"https://files.bot-hive.com/images/bothive/66716e6953f7fc17de8395a7c7b7573ea97bffc1_45ebcde0-33b9-11eb-978b-b1d21dfa8bd6.png?d=232x193&c=contain"
+			"https://files.bot-hive.com/images/bothive/fetch_website-1_01729c40-06f3-11eb-bd56-d9e6797ad50d.jpeg?d=232x193&c=cover"
 		],
 		"highlight": {
 			"Launched in": "",
@@ -562,7 +532,47 @@
 			"Programming Level": ""
 		},
 		"description": [
-			"Product DescriptionMiR100/MiR200/MiR250 with ROEQ top module to move Rack150 between key logistics points in your production. You can use several racks in the same fleet, increasing the flexibility, capacity, and efficiency of your AMRs. "
+			"Product DescriptionFetch Mobile ManipulatorPurposefully designed for typical human working environments, the Fetch Mobile Manipulator provides an affordable, fully integrated standard platform for mobile manipulation research."
+		],
+		"spec": {
+			" Payload": "6kg",
+			" Reach": " 940.5cm",
+			" Axis": " 7",
+			" Weight": " 113.3kg",
+			" Repeatability": " --",
+			" Speed": " --"
+		},
+		"delivery": [
+			"Delivery Times:  4 weeks "
+		],
+		"related": {
+			"0": "https://bot-hive.com/product/okura-ai1800-5",
+			"1": "https://bot-hive.com/product/mitsubishi-robotics-rv-2fl",
+			"2": "https://bot-hive.com/product/mitsubishi-robotics-rv-13fl",
+			"3": "https://bot-hive.com/product/abb-irb-1100-4058"
+		}
+	},
+	"https://bot-hive.com/product/sick-ld-3d-lidar-sensors": {
+		"product": [
+			"SICK - LD-MRS - 3D LiDAR Sensors"
+		],
+		"brand": [
+			"SICK"
+		],
+		"type": [
+			"LIDAR, Laser Scanners & Rangefinders"
+		],
+		"image": [
+			"https://files.bot-hive.com/images/bothive/im0051506_eca33830-5fd3-11eb-babe-197f13fadbba.png?d=232x193&c=contain"
+		],
+		"highlight": {
+			"Launched in": "",
+			"Units Sold": "",
+			"Servicing (Months)": "",
+			"Programming Level": ""
+		},
+		"description": [
+			"Product DescriptionScanning in three dimensions 3D LiDAR sensors (3D laser scanners as well) detect their environment nearly gap-free, regardless of whether the objects move or not. That is why 3D LiDAR sensors are ideally suited for tasks such as collision protection on automated vehicles or the scanning of objects. "
 		],
 		"spec": {
 			" Payload": "--",
@@ -572,20 +582,26 @@
 			" Repeatability": " --",
 			" Speed": " --"
 		},
-		"delivery": []
+		"delivery": [],
+		"related": {
+			"0": "https://bot-hive.com/product/sick-tim5xx-2d-lidar-sensors",
+			"1": "https://bot-hive.com/product/sick-tim2xx-2d-lidar-sensors",
+			"2": "https://bot-hive.com/product/sick-mrs1000-3d-lidar-sensors",
+			"3": "https://bot-hive.com/product/sick-tim3xx-2d-lidar-sensors"
+		}
 	},
-	"https://bot-hive.com/product/kuka-kr-quantec-240-r3200-pa-arctic": {
+	"https://bot-hive.com/product/moley-robotics-moley-kitchen": {
 		"product": [
-			"KUKA - KR QUANTEC 240 R3200 PA Arctic"
+			"Moley Robotics - Moley Kitchen"
 		],
 		"brand": [
-			"Kuka UK"
+			"Moley Robotics"
 		],
 		"type": [
-			"Articulated Robots"
+			"Food Preparation Robots"
 		],
 		"image": [
-			"https://files.bot-hive.com/images/bothive/download-4_78ecf8f0-d7b5-11ea-911d-09b12bd3d190.jpeg?d=232x193&c=contain"
+			"https://files.bot-hive.com/images/bothive/moley-robotics-automated-kitchen_lr_047b1960-5718-11eb-a29f-2931a78864e9.jpeg?d=232x193&c=cover"
 		],
 		"highlight": {
 			"Launched in": "",
@@ -594,18 +610,100 @@
 			"Programming Level": ""
 		},
 		"description": [
-			"Product DescriptionOur family of KR QUANTEC PA robots are the fastest, strongest and most precise palletizing robots on the market. Invest in maximum compactness and top process efficiency. The palletizing robots of the KR QUANTEC PA family meet all of today’s automation requirements: minimized space requirements, shorter cycles, maximum availability and low operating costs. Thanks to their slim design, these five-axis robots can reach stack heights of over 2,500 millimeters. The hollow shaft with a diameter of 60 millimeters allows for protected routing of the energy supply."
+			"Product DescriptionThe Moley kitchen is a fully automated kitchen unit, consisting of cabinets, robotic arms and hands, a recipe recording system, a connected GUI screen with access to a library of recipes, and a full set of kitchen appliances and equipment that have been optimized for both for robot and human use. "
 		],
 		"spec": {
-			" Payload": "240kg",
-			" Reach": " 3195cm",
-			" Axis": " 5",
-			" Weight": " 1103kg",
+			" Payload": "--",
+			" Reach": " --",
+			" Axis": " --",
+			" Weight": " --",
+			" Repeatability": " --",
+			" Speed": " --"
+		},
+		"delivery": [
+			"Delivery Times:  6 weeks "
+		],
+		"related": {
+			"0": "https://bot-hive.com/product/miso-robotics-flippy-roar",
+			"1": "https://bot-hive.com/product/xrobotics-xpizza-2"
+		}
+	},
+	"https://bot-hive.com/product/kuka-kr-quantec-270-r3100-ultra-k": {
+		"product": [
+			"KUKA - KR QUANTEC 270 R3100 Ultra K"
+		],
+		"brand": [
+			"Kuka UK"
+		],
+		"type": [
+			"Articulated Robots"
+		],
+		"image": [
+			"https://files.bot-hive.com/images/bothive/download-23_2d58e850-d723-11ea-b351-0f20f31dfaf7.jpeg?d=232x193&c=contain"
+		],
+		"highlight": {
+			"Launched in": "",
+			"Units Sold": "",
+			"Servicing (Months)": "",
+			"Programming Level": ""
+		},
+		"description": [
+			"Product DescriptionThe KR QUANTEC ultra is the most powerful, stiff and precise robot in the KR QUANTEC series. It offers maximum power in every position and is as dynamic, streamlined and efficient as the other family members. The KR QUANTEC ultra is also the ultimate in high-performance shelf-mounted robots.With its payload capacity of 300 kilograms and a maximum reach of 3,100 millimeters, the KR QUANTEC ultra is the strongest, most compact industrial robot. As such, the KR QUANTEC ultra has the highest power density currently available in the high payload range for the manufacturing industry. Furthermore, you can choose from various mounting positions and versions – such as the Foundry variants for areas with a high level of contamination, high humidity and high temperatures. Six shelf-mounted variants are also available."
+		],
+		"spec": {
+			" Payload": "270kg",
+			" Reach": " 3101cm",
+			" Axis": " 6",
+			" Weight": " 1198kg",
 			" Repeatability": " 0.06mm",
-			" Speed": " 145.6mm/s"
+			" Speed": " 120.5mm/s"
 		},
 		"delivery": [
 			"Delivery Times:  4 weeks "
-		]
+		],
+		"related": {
+			"0": "https://bot-hive.com/product/kuka-kr-500-fortec-500-r2830-mt",
+			"1": "https://bot-hive.com/product/kuka-kr-quantec-210-r3300-ultra-k-f",
+			"2": "https://bot-hive.com/product/kuka-kr-quantec-240-r3100-ultra-k-1",
+			"3": "https://bot-hive.com/product/kuka-kr-500-fortec-480-r3330-mt"
+		}
+	},
+	"https://bot-hive.com/product/haltian-thingsee-environment-rugged": {
+		"product": [
+			"Haltian - Thingsee ENVIRONMENT RUGGED"
+		],
+		"brand": [
+			"Haltian"
+		],
+		"type": [
+			"Temperature & Humidity Sensors"
+		],
+		"image": [
+			"https://files.bot-hive.com/images/bothive/a44bd76512c8bae8_800x800ar_bda42480-5c8c-11eb-8b79-e9d8582c5642.png?d=232x193&c=contain"
+		],
+		"highlight": {
+			"Launched in": "",
+			"Units Sold": "",
+			"Servicing (Months)": "",
+			"Programming Level": ""
+		},
+		"description": [
+			"Product DescriptionThingsee ENVIRONMENT RUGGED is a remote monitoring multipurpose wireless IoT sensor for harsh environments."
+		],
+		"spec": {
+			" Payload": "--",
+			" Reach": " --",
+			" Axis": " --",
+			" Weight": " --",
+			" Repeatability": " --",
+			" Speed": " --"
+		},
+		"delivery": [],
+		"related": {
+			"0": "https://bot-hive.com/product/sick-tct-temperature-sensors",
+			"1": "https://bot-hive.com/product/sick-tbt-temperature-sensors",
+			"2": "https://bot-hive.com/product/sick-thtl-temperature-sensors",
+			"3": "https://bot-hive.com/product/sick-tsp-temperature-sensors"
+		}
 	}
 }

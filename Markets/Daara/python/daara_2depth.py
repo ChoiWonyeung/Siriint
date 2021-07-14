@@ -106,3 +106,6 @@ def crawl_detail(result, sample=False, save=False):
 
         break
     return result
+
+if __name__ == '__main__':
+    pass

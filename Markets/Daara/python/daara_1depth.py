@@ -9,7 +9,6 @@ def crawl_key(make_breakpoint=False, save=False, sample=False):
     :return:
     """
     result = {}
-    # 크롤링 1page ~ 마지막 페이지 (1depth)
     page = 1
     while True:
         print(f"{page}페이지 수집중...")
@@ -34,6 +33,7 @@ def crawl_key(make_breakpoint=False, save=False, sample=False):
             # price crawling
             result[key]['price'] = div.select("p.btn_estimate.btn_estimate--list")[0].text.strip()
 
+        # 1depth 수집 종료 조건
         if div_list == [] or sample == True:
             print("크롤링이 곧 종료됩니다.")
             break

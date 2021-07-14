@@ -1,0 +1,376 @@
+{
+	"https://qviro.com/product/ur5e": {
+		"type": "Collaborative Robots",
+		"brand": "UNIVERSAL ROBOTS",
+		"product": {
+			"0": "UR5E"
+		},
+		"video": {},
+		"image": {},
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/UNIVERSAL-ROBOTS-UR5e-400x400.png, https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/universal-robots-ur5e_2021-04-30-074453.jpg, //www.youtube.com/embed/y62T-Q57JbY?rel=0",
+		"description_img": [
+			"/images/slider-angle-left.png",
+			"/images/slider-angle-right.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/singularity_views.gif",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/5ework.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/singularity_wrist_label_tool.gif",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/singularity_views.gif",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/5ework.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/singularity_wrist_label_tool.gif"
+		],
+		"description": [
+			"About",
+			"Built with the future in mind, the UR5e is designed to grow in capability alongside your business, a spring board to improved product quality and productivity, so you will always be able to stay ahead of competition. Equipped with intuitive programming, versatile use and an almost endless list of opportunities for add-ons, the UR5e is able to complement production regardless of your industry, company size or product nature. The UR5e strikes the perfect balance between size and power.",
+			"The UR5e is a lightweight, adaptable collaborative industrial robot that tackles medium-duty applications with ultimate flexibility. The UR5e is designed for seamless integration into a wide range of applications. UR5e is also offered as an OEM robot system and with a 3-Position Teach pendant.",
+			"Best for",
+			"The medium-sized member of the Universal Robots family is ideal for automating low weight processing tasks with its 5 kg payload and 850 mm reach radius. Easy to program and fast to set up, the UR5e strikes the perfect balance between size and power.",
+			"Product variants",
+			"The UR5e is the new and improved version of the UR5.",
+			"Pricing Overview"
+		],
+		"spec": {
+			"Payload": "5 kg",
+			"Reach": "850 mm",
+			"Repeatability": "0.03 mm",
+			"Linear speed": "1000 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "149 mm",
+			"Robot mass": "20.6 kg",
+			"Cable length": "6 m",
+			"Sound": "Less than 65 dB(A)",
+			"Protection rating": "IP54",
+			"Temperature range": "0-50°C",
+			"Country of manufacturer": "Denmark",
+			"Application": "Palletizing Picking and placing Assembly Machine loading Welding Screwing Polishing and grinding Gluing and dispensing",
+			"Industry": "Automotive Food and Beverage Packaging Healthcare Electronics Aerospace and Defense Energy and Utilities",
+			"Extra info": "Programming: 12 inch touchscreen with polyscope graphical user interface"
+		},
+		"usecase_video": {
+			"0": "https://www.youtube.com/embed/z6ZZPGn5K8A",
+			"1": "https://www.youtube.com/embed/0kHGbf0OfkM",
+			"2": "https://www.youtube.com/embed/HAS59EzyYzo"
+		},
+		"usecase_text": {
+			"0": "Problem  Our goal is to get reliable product lines where we can produce efficiently and effectively while keeping our staffing costs down. As a food producer, it is extremely important for us to minimize downtime, so we can supply fresh goods at a competitive price.  Solution  This process has now been optimized with collaborative robot arms UR10 and UR5. Implementation time 2 weeks.  Outcome  The cobots enable each production line to prepare on average 228 items per hour for delivery. The payback period on the robots is just one year.  Partners    UNIVERSAL ROBOTS",
+			"1": "Problem  Flywheel’s high-mix, low-volume production made it difficult to cost-effectively automate many processes such as repetitive, manual machine tending and welding tasks—especially with no prior robotics experience. Additional challenges for the machine tending application included parts that are oily from upstream machine processes, making them difficult for a robot to accurately pick and place, but a wash station between processes would add costs and delays.  Solution  A single UR5 cobot is easily moved between machines and processes to automate multiple tasks, including machine tending and welding. The ActiNav UR+ Application Kit for flexible machine loading automates a wide range of processes, such as drilling, chamfering, and threading parts without needing a wash station between processes. The ActiNav application will ultimately process 1,500 different part numbers.  Outcome  In the first six months, the UR cobot has welded tens of thousands of parts with no problems. Welding productivity has also surged. “Prior to the robot, we were averaging about a minute cycle time for a person to weld them manually,” Northway explains. “With the robot doing the TIG welding, you simply drop the parts in the fixture, clamp it down and hit start, and it welds that part now in 14 seconds. Our throughput is four to five times greater than having one person welding continuously.”  Partners    UNIVERSAL ROBOTS",
+			"2": "Problem  “The biggest challenge for us is to fulfil our customers’ demands in a cost efficient manner,” says Tadej Kovač, development manager in Izoelektro. “ Worldwide companies are optimizing their production processes so we started considering automatization as well. Robots are the future and especially in electric components manufacturing where we face strong every-day competition, so we started looking for a suitable robotic solution.” Due to its small size, the company cannot afford a traditional industrial automation system. Collaborative robots can offer many different and more affordable options. “Universal Robots brand is recognized worldwide, they offer good quality for a very good price, so in the end it was not a difficult decision,” adds Kovač.  Solution  The company conducted a risk assessment of the robot installation which concluded that no safety caging was necessary due to the robot’s collaborative nature and built-in safety features. Despite having no prior experience with robots, the first project deployment was completed in less than two weeks from the cobot’s delivery. The technical support provided by Universal Robots helped the quick implementation. The first project included two operation tasks as product routine testing processes for low voltage surge arresters and medium voltage surge arresters where the robot was applied. A future application is to include product routine testing of tensile load for tension composite insulators and post line composite insulators. The company is also looking for the robot to assemble the core of the tension and post line composite insulators. The UR5 cobot now works in product testing, a time consuming process high on the company’s wishlist to automate. Using a UR+ enabled gribber from Robotiq, the robot took over the most repetitive jobs leaving employees to concentrate on more value-added tasks. “At first we didn’t have any experience but the technical support sessions that Universal Robots offered us made everything much easier. There are still many functions where we could use more robots and we definitely will in the future,” says Kovač.  Outcome  The robot made a huge difference in Izoelektro production. A robot can work for eight hours straight in one shift with consistent efficiency, which cannot be achieved by any person. The production and testing time of each product is much faster, reducing the overall production cost as human errors are eliminated. The UR helped to shorten the production time and costs. Other important benefits include an increase of product quality, productivity growth, and improved safety conditions for employees. The bottom line is the fast ROI: Izoelektro estimates the time for repayment will be between 18 and 24 months.  Partners    UNIVERSAL ROBOTS"
+		}
+	},
+	"https://qviro.com/product/tm5-700": {
+		"type": "Collaborative Robots",
+		"brand": "OMRON",
+		"product": {
+			"0": "TM5-700"
+		},
+		"video": {},
+		"image": {},
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/TECHMAN-ROBOT-TM-5-700-400x400.png, https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/robot_arm_tm5_tm5a_700_190x232_prod.jpg",
+		"description_img": [
+			"/images/slider-angle-left.png",
+			"/images/slider-angle-right.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/i850_tm_collaborative_robot_brochure_en.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/TM-datasheet-1837-E-09.fm.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/i850_tm_collaborative_robot_brochure_en.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/TM-datasheet-1837-E-09.fm.png",
+			"https://img.youtube.com/vi/mEg3o6u9GXY/hqdefault.jpg"
+		],
+		"description": [
+			"About",
+			"The TM5-700 is safer, simpler to program, and easier to integrate with other equipment than ever before, representing a big step toward creating an intelligent manufacturing environment where humans and machines work in harmony.",
+			"Best for",
+			"Product variants",
+			"The TM5-700 is a variant of the TM5-900.",
+			"Pricing Overview"
+		],
+		"spec": {
+			"Payload": "6 kg",
+			"Reach": "700 mm",
+			"Repeatability": "0.05 mm",
+			"Linear speed": "1100 mm/s",
+			"Number of Axes": "6",
+			"Robot mass": "22.1 kg",
+			"Extra info": "Programming: TMflow, flowchart based"
+		},
+		"usecase_video": {
+			"0": "https://www.youtube.com/embed/QgJz3LYs51g",
+			"1": "https://www.youtube.com/embed/pGjeMqRekRQ",
+			"2": "https://www.youtube.com/embed/pvxJsRCkoSw"
+		},
+		"usecase_text": {
+			"0": "Problem  Fischer Gears (Randers Tandhjulsfabrik A/S) is a family-owned company based in Randers, Denmark. It has been producing gears and gearboxes for the industrial and maritime markets since 1920, and has become a leading supplier. The company’s state-of-the-art machinery uses the latest technologies and processes. Most recently, Fischer Gears invested in two Omron TM cobots, which are used to automate the feeding of metal parts into four CNC (computer numerical control) machines. This was previously a manual process.  Solution  Although the company already uses traditional industrial robots, its investment in cobots still represents a paradigm shift. Factory manager, Lars Bo Nielsen, explains: “It's not just another investment in robotics. Collaborative robots bring a whole new way of thinking because unlike traditional robots, the Omron TM robots don’t have to be hidden away behind a fence. And if this project is a success, these probably won't be the last cobots we will use in the production line.”  Outcome  Fischer Gears produces their products with series sizes that can vary from one item to several hundred pieces. The investment in Omron’s cobots will enable the company to become much more competitive in the future with these larger orders. The cobots will be part of a production cell consisting of four CNC machines, and will be moved between the machines as needed. “The robots can feed items in and out of the machines even after usual working hours, which allows us to make the most of the production line and increase efficiency, giving us a competitive edge on the larger series at the same time,” explains Lars Bo Nielsen. In addition to reducing the production costs of the large series, the Omron cobots also help to free the company’s employees to carry out more value-adding production tasks. “The robots are an investment in a better working environment. Virtually all of our employees are skilled workers with a good education, and we can now use them for far more exciting tasks than the manual feeding of items,” the factory manager explains.  Partners    OMRON",
+			"1": "Problem  Leica Geosystems is a global company that specialises in supplying premium sensors, software and services to professionals in surveying, construction, infrastructure, mining, aerospace, manufacturing and other industries. At its machine control facility in Odense, Denmark, the company needed a flexible, accurate and safe way of moving trays from a rack. These then needed to be placed precisely so that the items on the tray could be filled with epoxy material. The new solution also needed to be scalable.  Solution  One of the key issues was that epoxy fumes can be harmful to people, as they can cause inflammation and irritation of the nose, throat and lungs. The OMRON TM cobot provided a perfect solution, as it can be easily deployed in areas that can be hazardous for people to work in. Other components of the solution include OMRON’s NX and NXIO systems of machine control and its Sysmac machine automation platform. The solution was easy to install in Leica’s production process and Gibotech carried out the system integration. So, how does the OMRON TM cobot automate the tray handling process? Firstly, it picks up a tray of units from a rack, using the TM landmark. This is a logo or marker that can be attached to the rack and can be easily detected by the cobot’s vision camera. The marker provides a reference point for the cobot’s movements, as other points can be defined in relation to the landmark’s position. This means that the cobot can be trained to identify the location of an item. It can then use the landmark to pick and place each item with great accuracy. Even if the rack is moved, the cobot still knows where to move based on the landmark’s position. For the Leica process, the cobot collects the tray and moves it so that it’s underneath an epoxy extruder. It adjusts the position of the tray so that the various types of items on the tray can be filled with epoxy material. The cobot then places the tray with the epoxy units in racks for curing and hardening for several hours. Following this, it replaces the tray in the rack, again using the TM landmark as a locator.  Outcome  The new system means that different items on the trays can now be filled with epoxy material without any people being present. This improves ergonomics and safety in the working environment and protects Leica’s employees, who have been moved to other business-critical tasks. At the same time, the new solution has also reduced labour and production costs for the company. OMRON’s Project Manager, Kenneth Jochumsen, comments: “This was a very special and innovative cobot application never seen before in the Nordics. We were able to develop it due to our integrated technology solutions and our extensive knowledge of industrial automation. The whole project was in line with OMRON’s underlying philosophy of interactive and safe collaboration between people and machines.” Bent Andersen, Product Supply and Process Service Manager for Leica Geosystems, adds: “Our company expects to expand significantly in the future, so it was important to find a solution that can grow as the company grows. We therefore particularly liked the flexibility and scalability of OMRON’s automation solution, and the implications it has for greater worker safety.”  Partners    OMRON",
+			"2": "Problem  CLECA was formed in Italy in 1939 and has since developed creative cuisine solutions, leading to the company becoming a point of reference in the food sector, due to the high quality of its products. The key to its success is its blend of innovative products and great classics, as shown by its S. Martino pudding. The company recently decided to improve its maintenance and shipping operations by boosting the productivity of the entire packaging department at its main plant in San Martino dall'Argine. An essential element of this has been the introduction of a pair of collaborative robots.  Solution  Following CLECA’s review of its packaging processes, it decided to deploy OMRON TM12 cobots at the end of the packaging line, in a palletizing application. This decision was received very well by the operators, who soon noticed a clear improvement in their work conditions. They experienced a reduction in repetitive operations (as these were delegated to the machine), as well as improved change-over times.  Outcome  The introduction of cobots at CLECA coincided with the implementation of key automation solutions relating to Industry 4.0, including the connection and interface with the factory’s manufacturing execution system (MES). The integration of the collaborative cell and the machines present in the plant was made possible by the Ethernet communication integrated between various OMRON programmable logic controllers in CLECA's San Martino dall'Argine plant. The increase in productivity and process efficiency achieved by using the cobots, combined with the reduction of indirect costs, will enable CLECA to achieve a return on investment (ROI) in less than a year from the start-up of the collaborative cell.  Partners    OMRON"
+		}
+	},
+	"https://qviro.com/product/crx-10ia-l": {
+		"type": "Collaborative Robots",
+		"brand": "FANUC",
+		"product": {
+			"0": "CRX-10iA/L"
+		},
+		"video": {},
+		"image": {},
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/fanuc-crx10ia.jpg",
+		"description_img": [
+			"/images/slider-angle-left.png",
+			"/images/slider-angle-right.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/stop-function.PNG",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/CRX-10iA-black-background.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/CRX-manual-guided-teaching.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/stop-function.PNG",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/CRX-10iA-black-background.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/CRX-manual-guided-teaching.jpg"
+		],
+		"description": [
+			"About",
+			"Pricing Overview"
+		],
+		"spec": {
+			"Payload": "10 kg",
+			"Reach": "1418 mm",
+			"Repeatability": "0.04 mm",
+			"Linear speed": "1000 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "190 mm",
+			"Robot mass": "40 kg"
+		}
+	},
+	"https://qviro.com/product/jaco2": {
+		"type": "Collaborative Robots",
+		"brand": "KINOVA",
+		"product": {
+			"0": "JACO2"
+		},
+		"video": {},
+		"image": {},
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/KINOVA-JACO2-400x400.png",
+		"description_img": [],
+		"description": [
+			"About",
+			"Imagine a robotic arm that’s extremely portable, safe to operate around people, can manipulate objects in any three-dimensional workspace with very low power usage – and is just a fraction of the weight of traditional robotic arms. Kinova Gen2 robots offer you performance, flexibility, and ease all in one.",
+			"Pricing Overview"
+		],
+		"spec": {
+			"Payload": "2.6 kg",
+			"Reach": "900 mm",
+			"Repeatability": "3.9 mm",
+			"Number of Axes": "6",
+			"Robot mass": "4.4 kg"
+		}
+	},
+	"https://qviro.com/product/ur3": {
+		"type": "Collaborative Robots",
+		"brand": "UNIVERSAL ROBOTS",
+		"product": {
+			"0": "UR3"
+		},
+		"video": {},
+		"image": {},
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/UNIVERSAL-ROBOTS-UR3-400x400.png",
+		"description_img": [],
+		"description": [
+			"About",
+			"The UR3 collaborative robot is a smaller collaborative table-top robot, perfect for light assembly tasks and automated workbench scenarios. The compact table-top cobot weighs only 24.3 lbs (11 kg), but has a payload of 6.6 lbs (3 kg), ±360-degree rotation on all wrist joints, and infinite rotation on the end joint.",
+			"Best for",
+			"Product variants",
+			"The UR3 is the old version of the UR3E.",
+			"Pricing Overview"
+		],
+		"spec": {
+			"Payload": "3 kg",
+			"Reach": "500 mm",
+			"Repeatability": "0.1 mm",
+			"Linear speed": "1000 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "128 mm",
+			"Robot mass": "11 kg"
+		}
+	},
+	"https://qviro.com/product/ur5": {
+		"type": "Collaborative Robots",
+		"brand": "UNIVERSAL ROBOTS",
+		"product": {
+			"0": "UR5"
+		},
+		"video": {},
+		"image": {},
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/UNIVERSAL-ROBOTS-UR5-400x400.png",
+		"description_img": [
+			"/images/slider-angle-left.png",
+			"/images/slider-angle-right.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/5ework.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/5ework.jpg"
+		],
+		"description": [
+			"About",
+			"Built with the future in mind, the UR5 is designed to grow in capability alongside your business, a springboard to improved product quality and productivity, so you will always be able to stay ahead of the competition. Equipped with intuitive programming, versatile use, and an almost endless list of opportunities for add-ons, the UR5 is able to complement production regardless of your industry, company size, or product nature. The UR5e strikes the perfect balance between size and power.",
+			"The UR5 is a lightweight, adaptable collaborative industrial robot that tackles medium-duty applications with ultimate flexibility. The UR5 is designed for seamless integration into a wide range of applications. UR5 is also offered as an OEM robot system and with a 3-Position Teach pendant.",
+			"Best for",
+			"The medium-sized member of the Universal Robots family is ideal for automating low weight processing tasks with its 5 kg payload and 850 mm reach radius. Easy to program and fast to set up, the UR5 strikes the perfect balance between size and power.",
+			"Product variants",
+			"The UR5 is the old version UR5e.",
+			"Pricing Overview"
+		],
+		"spec": {
+			"Payload": "5 kg",
+			"Reach": "850 mm",
+			"Repeatability": "0.1 mm",
+			"Linear speed": "1000 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "149 mm",
+			"Robot mass": "18 kg",
+			"Application": "Palletizing Picking and placing Assembly Machine loading Welding Screwing Polishing and grinding Gluing and dispensing",
+			"Industry": "Automotive Food and Beverage Packaging Healthcare Electronics Aerospace and Defense Energy and Utilities"
+		},
+		"usecase_video": {
+			"0": "https://www.youtube.com/embed/z6ZZPGn5K8A",
+			"1": "https://www.youtube.com/embed/0kHGbf0OfkM",
+			"2": "https://www.youtube.com/embed/HAS59EzyYzo"
+		},
+		"usecase_text": {
+			"0": "Problem  Our goal is to get reliable product lines where we can produce efficiently and effectively while keeping our staffing costs down. As a food producer, it is extremely important for us to minimize downtime, so we can supply fresh goods at a competitive price.  Solution  This process has now been optimized with collaborative robot arms UR10 and UR5. Implementation time 2 weeks.  Outcome  The cobots enable each production line to prepare on average 228 items per hour for delivery. The payback period on the robots is just one year.  Partners    UNIVERSAL ROBOTS",
+			"1": "Problem  Flywheel’s high-mix, low-volume production made it difficult to cost-effectively automate many processes such as repetitive, manual machine tending and welding tasks—especially with no prior robotics experience. Additional challenges for the machine tending application included parts that are oily from upstream machine processes, making them difficult for a robot to accurately pick and place, but a wash station between processes would add costs and delays.  Solution  A single UR5 cobot is easily moved between machines and processes to automate multiple tasks, including machine tending and welding. The ActiNav UR+ Application Kit for flexible machine loading automates a wide range of processes, such as drilling, chamfering, and threading parts without needing a wash station between processes. The ActiNav application will ultimately process 1,500 different part numbers.  Outcome  In the first six months, the UR cobot has welded tens of thousands of parts with no problems. Welding productivity has also surged. “Prior to the robot, we were averaging about a minute cycle time for a person to weld them manually,” Northway explains. “With the robot doing the TIG welding, you simply drop the parts in the fixture, clamp it down and hit start, and it welds that part now in 14 seconds. Our throughput is four to five times greater than having one person welding continuously.”  Partners    UNIVERSAL ROBOTS",
+			"2": "Problem  “The biggest challenge for us is to fulfil our customers’ demands in a cost efficient manner,” says Tadej Kovač, development manager in Izoelektro. “ Worldwide companies are optimizing their production processes so we started considering automatization as well. Robots are the future and especially in electric components manufacturing where we face strong every-day competition, so we started looking for a suitable robotic solution.” Due to its small size, the company cannot afford a traditional industrial automation system. Collaborative robots can offer many different and more affordable options. “Universal Robots brand is recognized worldwide, they offer good quality for a very good price, so in the end it was not a difficult decision,” adds Kovač.  Solution  The company conducted a risk assessment of the robot installation which concluded that no safety caging was necessary due to the robot’s collaborative nature and built-in safety features. Despite having no prior experience with robots, the first project deployment was completed in less than two weeks from the cobot’s delivery. The technical support provided by Universal Robots helped the quick implementation. The first project included two operation tasks as product routine testing processes for low voltage surge arresters and medium voltage surge arresters where the robot was applied. A future application is to include product routine testing of tensile load for tension composite insulators and post line composite insulators. The company is also looking for the robot to assemble the core of the tension and post line composite insulators. The UR5 cobot now works in product testing, a time consuming process high on the company’s wishlist to automate. Using a UR+ enabled gribber from Robotiq, the robot took over the most repetitive jobs leaving employees to concentrate on more value-added tasks. “At first we didn’t have any experience but the technical support sessions that Universal Robots offered us made everything much easier. There are still many functions where we could use more robots and we definitely will in the future,” says Kovač.  Outcome  The robot made a huge difference in Izoelektro production. A robot can work for eight hours straight in one shift with consistent efficiency, which cannot be achieved by any person. The production and testing time of each product is much faster, reducing the overall production cost as human errors are eliminated. The UR helped to shorten the production time and costs. Other important benefits include an increase of product quality, productivity growth, and improved safety conditions for employees. The bottom line is the fast ROI: Izoelektro estimates the time for repayment will be between 18 and 24 months.  Partners    UNIVERSAL ROBOTS"
+		}
+	},
+	"https://qviro.com/product/panda": {
+		"type": "Collaborative Robots",
+		"brand": "FRANKA EMIKA",
+		"product": {
+			"0": "PANDA"
+		},
+		"video": {},
+		"image": {},
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/FRANKA-EMIKA-Panda-400x400.png, https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka_Panda_204.jpg, https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka_Panda_cooperation.jpg, https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka_Panda_explosion.jpg, https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka_Panda_moon.jpg, https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka_Panda_teaching.jpg, //www.youtube.com/embed/bXo68UFNyhk?rel=0",
+		"description_img": [
+			"/images/slider-angle-left.png",
+			"/images/slider-angle-right.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka-Emika-Panda-technical-qviro-1.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka-Emika-Panda-technical-qviro-2.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka-Emika-Panda-technical-qviro-3.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/Franka-Emika-Panda-technical-qviro-1.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/Franka-Emika-Panda-technical-qviro-2.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/Franka-Emika-Panda-technical-qviro-3.jpg"
+		],
+		"description": [
+			"About",
+			"Franka Emika´s robot is agile and sensitive — like a human arm. Programming is workflow-based and intuitive, interaction is seamless.",
+			"Panda is currently the fastest-selling industrial robotic system in the world. For Panda, Franka Emika received the German President‘s Award for Innovation in Science and Technology and was the only German company to make it onto the cover of TIME Magazine's \"Best Inventions 2018\" edition.",
+			"Best for",
+			"The Panda is used a lot in research.",
+			"Pricing Overview"
+		],
+		"spec": {
+			"Payload": "3 kg",
+			"Reach": "800 mm",
+			"Repeatability": "0.1 mm",
+			"Linear speed": "2000 mm/s",
+			"Number of Axes": "7",
+			"Robot mass": "18.5 kg",
+			"Extra info": "Programming: C++ / ROS"
+		},
+		"usecase_video": {
+			"0": "https://www.youtube.com/embed/f5Il5x3lY1c"
+		},
+		"usecase_text": {
+			"0": "Solution  The Franka Emika Panda performs all sequential operations that an operator would do. It opens the door of the CNC machine, picks the raw material, inserts it into the machine, closes the door and starts the machine by pushing the button. The solution is provided by the company Vision Lasertechnik.  Outcome  This solution provides a stable production process with a very predictable daily output. The production is more balanced and all bottlenecks in the process are removed.  Partners    FRANKA EMIKA"
+		}
+	},
+	"https://qviro.com/product/ur10e": {
+		"type": "Collaborative Robots",
+		"brand": "UNIVERSAL ROBOTS",
+		"product": {
+			"0": "UR10E"
+		},
+		"video": {},
+		"image": {},
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/UNIVERSAL-ROBOTS-UR10e-400x400.png, //www.youtube.com/embed/y62T-Q57JbY?rel=0",
+		"description_img": [],
+		"description": [
+			"About",
+			"The Universal Robots UR10e is an extremely versatile collaborative industrial robot arm with its high payload (10kg) and long reach capability. Its 1300mm reach spans wide workspaces without compromising precision or payload performance. The UR10e makes collaborative automation accessible to your business.",
+			"Best for",
+			"The UR10e addresses a wide range of applications in machine tending, palletizing, and packaging.",
+			"Product variants",
+			"The UR10e is the new and improved version of the UR10.",
+			"Pricing Overview"
+		],
+		"spec": {
+			"Payload": "12.5 kg",
+			"Reach": "1300 mm",
+			"Repeatability": "0.03 mm",
+			"Linear speed": "1000 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "190 mm",
+			"Robot mass": "33.5 kg",
+			"Extra info": "Programming: 11 inch touchscreen with polyscope graphical user interface"
+		}
+	},
+	"https://qviro.com/product/hc10": {
+		"type": "Collaborative Robots",
+		"brand": "YASKAWA",
+		"product": {
+			"0": "HC10"
+		},
+		"video": {},
+		"image": {},
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/YASKAWA-MOTOMAN-HC10-400x400.png, //www.youtube.com/embed/pwB78hUqKXM?rel=0",
+		"description_img": [
+			"/images/slider-angle-left.png",
+			"/images/slider-angle-right.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC10-technical-1.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC10-technical-2.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC10-technical-3.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC10-technical-4.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC10-technical-5.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC10-technical-6.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC10-technical-7.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/HC10-technical-1.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/HC10-technical-2.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/HC10-technical-3.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/HC10-technical-4.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/HC10-technical-5.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/HC10-technical-6.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/HC10-technical-7.png"
+		],
+		"description": [
+			"About",
+			"The HC10 is a 6 axes human-collaborative robot with a payload of up to 10 kg. Operator’s safety is assured by a Power and Force Limit technology that stops the robot in case of contact with an operator.",
+			"The robot arm can be hand guided by an operator and robot positions and gripper operation can be registered via so called “Easy Teaching Switch Box”. These features offer time saving during the robot programming. The robots arm geometry was designed to avoid pinch points (finger).",
+			"The HC10 robot can operate without additional protective measures like a safety fence, depending on the risk assessment. This saves space and costs. Its installation area is very flexible and therefore able to operate at different workplaces.",
+			"Product variants",
+			"The HC10DT is a variant of the HC10.",
+			"Pricing Overview"
+		],
+		"spec": {
+			"Payload": "10 kg",
+			"Reach": "1200 mm",
+			"Repeatability": "0.1 mm",
+			"Linear speed": "1000 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "232 mm",
+			"Robot mass": "47 kg"
+		}
+	},
+	"https://qviro.com/product/tx2-40": {
+		"type": "Collaborative Robots",
+		"brand": "STÄUBLI",
+		"product": {
+			"0": "TX2 40"
+		},
+		"video": {},
+		"image": {},
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/STAUBLI-TX2-40-400x400.png",
+		"description_img": [],
+		"description": [
+			"About",
+			"Our fast and precise TX2 industrial robots are the next generation of 6-axis robotic arms. This line of robots provides the ideal combination of speed, rigidity, size and precision. These robots have unique features that make them adaptable to all industries, including sensitive environments.Optional SIL3-PLe safety functionalities allow high productivity while ensuring Man-Machine collaboration."
+		],
+		"spec": {
+			"Payload": "2.3 kg",
+			"Reach": "515 mm",
+			"Repeatability": "0.02 mm",
+			"Number of Axes": "6"
+		}
+	}
+}

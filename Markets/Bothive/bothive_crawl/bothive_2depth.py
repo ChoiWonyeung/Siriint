@@ -3,14 +3,16 @@ import Markets.Bothive.bothive_configuration.bothive_config as config
 
 
 def crawl_detail(dic_bothive, save=False):
+    driver = get_webdriver(path_webdriver)
     cnt = 1
     # 2depth 크롤링
     for key_dict, value in dic_bothive.items():
-        soup = req_bsEncoding(key_dict)
+        soup = sel_bsEncoding(key_dict)
         sleep_random(print_time=True)
         print(f'{cnt}번째 반복문 실행중...')
         print('--------------------------------')
 
+        # highlight 긁기
         dic_bothive[key_dict]['highlight'] = {}
         top_highlight = soup.select('div.tab__content__body__info')
         highlights = top_highlight[0].select('div p')
@@ -30,7 +32,6 @@ def crawl_detail(dic_bothive, save=False):
         except Exception as e:
             print(e)
 
-
         specs = soup.select('.tab__key-info__info')
         key_stats = specs[0].select('p')
         dic_bothive[key_dict]['spec'] = {}
@@ -44,13 +45,19 @@ def crawl_detail(dic_bothive, save=False):
         except Exception as e:
             print(e)
 
+        # related url
+        div_related = driver.find_elements_by_css_selector('div.related__product--wrapper')
+        related_ls = div_related[0].find_elements_by_css_selector('.related__product > a')
+        related = [i.get_attribute('href') for i in related_ls]
+        dic_bothive[key_dict]['related'] = {}
+        for idx, v in enumerate(related):
+            dic_bothive[key_dict]['related'][idx] = v
+
         cnt += 1
     if save == True:
+        pickle_save('./pickles/bothive_2depth.pkl', dic_bothive)
         json_save('./json/bothive_2depth.json', dic_bothive)
     return dic_bothive
 
-# if __name__ == '__main__':
-#         dic_bothive1 = crawl_key(save=True, sample=True)
-#         dic_bothive2 = crawl_detail(dic_bothive1, save=True)
-#
-#         pickle_save(config.path_pickles + '/dic_bothive_2depth.pkl', dic_bothive2)
+if __name__ == '__main__':
+    pass

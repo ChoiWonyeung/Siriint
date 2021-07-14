@@ -14,6 +14,7 @@ def transform(dic_cobot):
         json_cobot[dic_key]['model_name'] = dic_cobot[dic_key]['model_name']
         json_cobot[dic_key]['options'] = dic_cobot[dic_key]['options']
         json_cobot[dic_key]['description'] = dic_cobot[dic_key]['description']
+        # json_cobot[dic_key]['related_doc_url_1'] = dic_cobot[dic_key]['related']
         try:
             json_cobot[dic_key]['dimension'] = dic_cobot[dic_key]['dimension']
         except:

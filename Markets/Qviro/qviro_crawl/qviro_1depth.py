@@ -24,7 +24,7 @@ def crawl_json(sample=False, save=False):
 
     dic_qviro = {}
     if sample:
-        for i in range(1, 3):
+        for i in range(1, 2):
             for j in range(10):
                 dic_qviro[dic_mainPage[i]['data'][j]['url']] = {}
 
@@ -34,11 +34,8 @@ def crawl_json(sample=False, save=False):
                 dic_qviro[dic_mainPage[i]['data'][j]['url']] = {}
 
     if save:
-        pickle_save('../pickles/qviro_1depth.pkl', dic_qviro)
-        json_save('../json/qviro_1depth.json', dic_qviro)
+        pickle_save('./pickles/qviro_1depth.pkl', dic_qviro)
+        json_save('./json/qviro_1depth.json', dic_qviro)
 
     return dic_qviro
 
-
-if __name__ == '__main__':
-    dic_qviro = crawl_json(save=True, sample=True)

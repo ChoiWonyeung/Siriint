@@ -17,7 +17,9 @@ def trans(dic_bothive):
         json_bothive[dic_key]['thumbnail'] = dic_bothive[dic_key]['image'][0]
         json_bothive[dic_key]['summary'][0] = dic_bothive[dic_key]['highlight']
         json_bothive[dic_key]['warranty']['Servicing (Months)'] = dic_bothive[dic_key]['highlight']['Servicing (Months)']
-        json_bothive[dic_key]['description'][0] = dic_value['description'][0]
+        json_bothive[dic_key]['description'][0] = dic_bothive[dic_key]['description']
+        json_bothive[dic_key]['related_doc_url_1'] = dic_bothive[dic_key]['related']
+        json_bothive[dic_key]['dimension'] = dic_bothive[dic_key]['spec']
 
         str_match = {}
         for Str in dic_value['delivery']:

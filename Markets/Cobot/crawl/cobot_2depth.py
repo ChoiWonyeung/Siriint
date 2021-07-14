@@ -65,6 +65,14 @@ def crawl_detail(dic_cobot, save=False, sample=False):
             description[idx] = v
         dic_cobot[dic_key]['description'] = description
 
+        # related
+        # div_related = soup.select('div.related')
+        # related_ls = div_related[0]('div.owl-stage-outer div a')
+        # related = [i['href'] for i in related_ls]
+        # dic_cobot[dic_key]['related'] = {}
+        # for idx, v in enumerate(related):
+        #     dic_cobot[dic_key]['relataed'][idx] = v
+
         # spec
         try:
             table_ls = div_body[0].select('table')

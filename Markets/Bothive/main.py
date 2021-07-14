@@ -15,4 +15,7 @@ def bothive_run(save=True):
 
 
 if __name__ == '__main__':
-    bothive_run()
+    driver = get_webdriver(path_webdriver)
+    soup = sel_bsEncoding('https://bot-hive.com/product/fanuc-cr-35ia')
+    content_soup = soup.select('div.app')
+    content = driver.find_elements_by_css_selector('div.product.ng-star-inserted')
