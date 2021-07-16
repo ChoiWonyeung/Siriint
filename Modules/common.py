@@ -1,18 +1,11 @@
 import os
 from bs4 import BeautifulSoup
 import requests
-import pandas as pd
 import time
 import random
-import unicodedata
 from selenium import webdriver
 import pickle
 import json
-
-
-path_webdriver = '/Users/kimkangnam/Desktop/Chromedriver/chromedriver'
-
-#################################################
 
 
 def pickle_save(file, obj):
@@ -31,13 +24,13 @@ def json_save(file, object):
         json.dump(object, file_json, indent='\t', ensure_ascii=False)
 
 
-def get_webdriver(path_webdriver, wait_time = 10):
+def get_webdriver(wait_time=10):
     """
     :param path_webdriver:
     :param wait_time:
     :return:
     """
-    global driver
+    path_webdriver = '..ETC/Chromedriver/chromedriver'
     driver = webdriver.Chrome(path_webdriver)
     driver.implicitly_wait(wait_time)
     return driver
@@ -97,34 +90,6 @@ def sleep_random(start_second=2, end_second=10, print_time=False):
     return time_sleep
 
 
-def df_bigWaveRobotics():
-    """
-    :return: DataFrame
-    """
-    Columns = ['No',
-               'brand',
-               'type1',
-               'type2',
-               'product',
-               'model',
-               'price',
-               'highlight',
-               'image',
-               'video',
-               'catalog',
-               'option',
-               'description1',
-               'description2',
-               'spec',
-               'delivery',
-               'order',
-               'seller',
-               'source',
-               'source_name']
-    df = pd.DataFrame(columns=Columns)
-    return df
-
-
 def dic_bigWaveRobotics(result=''):
     result = {
         'brand': [],
@@ -147,14 +112,18 @@ def dic_bigWaveRobotics(result=''):
     return result
 
 
-def sel_bsEncoding(url):
+def sel_getPageSource(driver, url):
+    """
+
+    :param url:
+    :return html:
+    """
     driver.get(url)
     html = driver.page_source
-    soup = BeautifulSoup(html, 'html.parser')
-    return soup
+    return html
 
 
-def driverText(selector, toList=True):
+def driverText(driver, selector, toList=True):
     elements = driver.find_elements_by_css_selector(selector)
     result = [element.text for element in elements]
     if toList is True:
@@ -164,31 +133,31 @@ def driverText(selector, toList=True):
             return result[i]
 
 
-def ls_driverFinder(selector, key):
+def ls_driverFinder(driver, selector, key):
     elements = driver.find_elements_by_css_selector(selector)
     result = [element.get_attribute(key) for element in elements]
     return result
 
 
-def ls_driverHref(selector):
+def ls_driverHref(driver, selector):
     elements = driver.find_elements_by_css_selector(selector)
     result = [element.get_attribute('href') for element in elements]
     return result
 
 
-def ls_driverSrc(selector):
+def ls_driverSrc(driver, selector):
     elements = driver.find_elements_by_css_selector(selector)
     result = [element.get_attribute('src') for element in elements]
     return result
 
 
-def ls_driverStyle(selector):
+def ls_driverStyle(driver, selector):
     elements = driver.find_elements_by_css_selector(selector)
     result = [element.get_attribute('style') for element in elements]
     return result
 
 
-def textmake(soup, selector):
+def ls_textmake(soup, selector):
     ls = []
     for text_soup in soup.select(selector):
         ls.append(text_soup.text)
@@ -207,10 +176,3 @@ def ls_srcmake(soup, selector, str_add=''):
     for src_soup in soup.select(selector):
         ls_src.append(str_add + src_soup['src'])
     return ls_src
-
-
-# def numbering_duplicatedFile(save_path, save_file, save_ext):
-#     unique_number = 1
-#     while os.path.exists(save_path):
-#         result = '/%s%(%d)%(%s)' % (file_name, unique_number, file_ext)
-#         unique_number += 1

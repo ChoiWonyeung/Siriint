@@ -1,267 +1,97 @@
 {
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=101621": {
-		"name": "[한양로보틱스] 취출로보트 ZEST-II SERIES 100~1800Ton",
-		"brand": "한양로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38791": {
-		"name": "엡손 다관절 로봇 N2",
-		"brand": "엡손",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48189": {
-		"name": "ARC ROBOT 아크 용접 로봇 / 핸들링 로봇 MH6-SERIES",
-		"brand": "야스카와",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=31535": {
-		"name": "[스토브리] TS20 SCARA 로봇",
-		"brand": "스토브리",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38768": {
-		"name": "엡손 스카라 로봇 RS4",
-		"brand": "엡손",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121618": {
-		"name": "[Handling] 핸들링 최적화 로봇 GP180-120",
-		"brand": "야스카와",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41132": {
-		"name": "[현대로보틱스] HX400 산업용로봇",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41100": {
+		"name": "[현대로보틱스] HH130L 산업용로봇",
 		"brand": "현대로보틱스",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=43467": {
-		"name": "[아우보] AUBO-i5 협동로봇, 협업로봇",
-		"brand": "아우보",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38694": {
-		"name": "엡손 스카라 로봇 G1",
-		"brand": "엡손",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=34684": {
-		"name": "[스토브리] TS60 SCARA 로봇",
-		"brand": "스토브리",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41038": {
-		"name": "[현대로보틱스] HA006B 산업용로봇",
-		"brand": "현대로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=24626": {
-		"name": "[KUKA] 초고 가반하중용 로봇",
-		"brand": "쿠카",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=131272": {
-		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
-		"brand": "미쓰비시 일렉트릭",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121584": {
-		"name": "[Spot Weld] 스폿용접 최적화 로봇 SP165",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121612": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP88",
 		"brand": "야스카와",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41092": {
-		"name": "[현대로보틱스] HH050 산업용로봇",
-		"brand": "현대로보틱스",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48708": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX165L",
+		"brand": "가와사키 로보틱스",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=21672": {
-		"name": "KUKA 저 가반하중용 로봇",
-		"brand": "쿠카",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=45016": {
-		"name": "도시바 스카라  THL1200 피킹/패킹  로봇",
-		"brand": "도시바",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=34670": {
-		"name": "[스토브리] TS20 SCARA 로봇",
-		"brand": "스토브리",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=74694": {
-		"name": "[한양로보틱스] 취출로보트 EPIK-E-SW SERIES 550~3000Ton (전후진 이동형/슬림형)",
-		"brand": "한양로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=30867": {
-		"name": "유니버설로봇 UR5 협동로봇",
-		"brand": "유니버셜로봇",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121715": {
-		"name": "[Assembly] 조립 최적화 로봇 SIA50D",
-		"brand": "야스카와",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=30845": {
-		"name": "유니버설로봇 UR3 협동로봇",
-		"brand": "유니버셜로봇",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38720": {
-		"name": "엡손 스카라 로봇 G10/G20",
-		"brand": "엡손",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41041": {
-		"name": "[현대로보틱스] HA006L 산업용로봇",
-		"brand": "현대로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48372": {
-		"name": "야스카와 로딩*언로딩 로봇 / GP12 / GP시리즈 / YASKAWA",
-		"brand": "야스카와",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=24630": {
-		"name": "[KUKA] 초고 가반하중용 로봇",
-		"brand": "쿠카",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=733": {
-		"name": "한화테크윈 협동로봇 HCR-5",
-		"brand": "한화테크윈",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=44635": {
-		"name": "[ABB] [협동로봇 YuMi] IRB 14000 산업용로봇",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=49389": {
+		"name": "[ABB] IRB 360 FlexPicker 산업용로봇",
 		"brand": "ABB",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=106956": {
-		"name": "[정밀 Stage] Muti Heads Dual Bridge Stage",
-		"brand": "로보스타",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48355": {
-		"name": "야스카와 실링*도포 로봇 / GP8 / GP시리즈 / YASKAWA",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121621": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP250",
 		"brand": "야스카와",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48347": {
-		"name": "야스카와 피킹*패킹 로봇 / GP7 / GP시리즈 / YASKAWA",
-		"brand": "야스카와",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121603": {
-		"name": "[Handling] 핸들링 최적화 로봇 GP25-12",
-		"brand": "야스카와",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38744": {
-		"name": "엡손 스카라 로봇 LS20",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38701": {
+		"name": "엡손 스카라 로봇 G3",
 		"brand": "엡손",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41134": {
-		"name": "[현대로보틱스] HX400S 산업용로봇",
-		"brand": "현대로보틱스",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=124300": {
+		"name": "CNC 선반 로봇 가공자동화 시스템",
+		"brand": "JCT",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=24564": {
-		"name": "KUKA 소형로봇 아길러스 시리즈",
-		"brand": "쿠카",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=131292": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=37773": {
-		"name": "엡손 스카라 로봇 N2",
-		"brand": "엡손",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38781": {
-		"name": "엡손 다관절 로봇 C8",
-		"brand": "엡손",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41109": {
-		"name": "[현대로보틱스] HS160L 산업용로봇",
-		"brand": "현대로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=24622": {
-		"name": "[KUKA] 초고 가반하중용 로봇",
-		"brand": "쿠카",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=37776": {
-		"name": "엡손 스카라 로봇 C4/C4L",
-		"brand": "엡손",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=24608": {
-		"name": "[KUKA] 고 가반하중용 로봇",
-		"brand": "쿠카",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=24576": {
-		"name": "[KUKA] 저 가반하중용 로봇",
-		"brand": "쿠카",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=34682": {
-		"name": "[스토브리] TS60 SCARA 로봇",
-		"brand": "스토브리",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=106949": {
-		"name": "[Vacuum로봇] 350 ARM",
-		"brand": "로보스타",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38747": {
-		"name": "엡손 스카라 로봇 LS20",
-		"brand": "엡손",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48384": {
-		"name": "야스카와 로딩*언로딩 로봇 / MOTOMINI / YASKAWA",
-		"brand": "야스카와",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=44415": {
-		"name": "도시바 스카라  THL1000 핸드링 로봇",
-		"brand": "도시바",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38717": {
-		"name": "엡손 스카라 로봇 G10/G20",
-		"brand": "엡손",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=24554": {
-		"name": "KUKA 소형로봇 아길러스 시리즈",
-		"brand": "쿠카",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41154": {
-		"name": "[현대로보틱스] YS080L 산업용로봇",
-		"brand": "현대로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41147": {
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41142": {
 		"name": "[현대로보틱스] YS080 산업용로봇",
 		"brand": "현대로보틱스",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=49372": {
-		"name": "[ABB] IRB 120 초소형 산업용로봇",
-		"brand": "ABB",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41049": {
+		"name": "[현대로보틱스] HH010L 산업용로봇",
+		"brand": "현대로보틱스",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=30862": {
-		"name": "유니버설로봇 UR5 협동로봇",
-		"brand": "유니버셜로봇",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38695": {
+		"name": "엡손 스카라 로봇 G1",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41033": {
+		"name": "[현대로보틱스] HA006B 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=131274": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=44999": {
+		"name": "도시바 스카라  THL500  로딩/언로딩  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121655": {
+		"name": "[Picking&Packing] 피킹&패킹 최적화 로봇 MPK2F",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=123933": {
+		"name": "[뉴로메카]협동로봇 인디12 (Indy12)",
+		"brand": "뉴로메카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=24631": {
+		"name": "[KUKA] 적재 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41136": {
+		"name": "[현대로보틱스] HX400S 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=34675": {
+		"name": "[스토브리] TS40 SCARA 로봇",
+		"brand": "스토브리",
 		"price": "견적거래 제품"
 	},
 	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121627": {
@@ -269,59 +99,74 @@
 		"brand": "야스카와",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=101631": {
-		"name": "[한양로보틱스] 취출로보트 HIT SERIES 30~250Ton",
-		"brand": "한양로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41048": {
-		"name": "[현대로보틱스] HA006L 산업용로봇",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41037": {
+		"name": "[현대로보틱스] HA006B 산업용로봇",
 		"brand": "현대로보틱스",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=44992": {
-		"name": "도시바 스카라  THL600 조립 로봇",
-		"brand": "도시바",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38718": {
+		"name": "엡손 스카라 로봇 G10/G20",
+		"brand": "엡손",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=131284": {
-		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
-		"brand": "미쓰비시 일렉트릭",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=115682": {
+		"name": "A-311 Airbearing stage",
+		"brand": "피아이",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=34677": {
-		"name": "[스토브리] TS40 SCARA 로봇",
-		"brand": "스토브리",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=94909": {
-		"name": "[한양로보틱스] 취출로보트 EPIK-SW SERIES 400~4000Ton (전후진 이동형)",
-		"brand": "한양로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=30859": {
-		"name": "유니버설로봇 UR5 협동로봇",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=30881": {
+		"name": "유니버설로봇 UR10 협동로봇",
 		"brand": "유니버셜로봇",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=34708": {
-		"name": "[스토브리] TX60 6축 산업용로봇",
-		"brand": "스토브리",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38776": {
+		"name": "엡손 다관절 로봇 C4/C4L",
+		"brand": "엡손",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48698": {
-		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX110L",
-		"brand": "가와사키 로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41176": {
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41175": {
 		"name": "[현대로보틱스] YS140D 산업용로봇",
 		"brand": "현대로보틱스",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=44401": {
-		"name": "도시바 스카라  THL600 핸드링 로봇",
-		"brand": "도시바",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41066": {
+		"name": "[현대로보틱스] HH020 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121585": {
+		"name": "[Spot Weld] 스폿용접 최적화 로봇 SP165-105",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=24601": {
+		"name": "[KUKA] 중 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=106945": {
+		"name": "[수직다관절로봇] MH180",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=131277": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48585": {
+		"name": "[가와사키로보틱스] Spot welding 스폿 용접로봇 BX100S",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48711": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX210L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=131269": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
 		"price": "견적거래 제품"
 	},
 	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=45010": {
@@ -329,53 +174,118 @@
 		"brand": "도시바",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=117780": {
-		"name": "스포트 용접로봇 SRA100HS/SRA100HB",
-		"brand": "NACHI",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=49393": {
+		"name": "[ABB] IRB 6700 고 가반하중용 산업용로봇",
+		"brand": "ABB",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38751": {
-		"name": "엡손 스카라 로봇 RS3",
-		"brand": "엡손",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=16262": {
+		"name": "KUKA 소형로봇 아길러스 시리즈",
+		"brand": "쿠카",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41110": {
-		"name": "[현대로보틱스] HS160L 산업용로봇",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=34701": {
+		"name": "[스토브리] TX2-40 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=34721": {
+		"name": "[스토브리] TX2-60 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=24552": {
+		"name": "KUKA 소형로봇 아길러스 시리즈",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41067": {
+		"name": "[현대로보틱스] HH020 산업용로봇",
 		"brand": "현대로보틱스",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=101625": {
-		"name": "[한양로보틱스] 취출로보트 ZEST-II-H SERIES 100~1800Ton(하이 싸이클용 2배속/상하강 속도 30% 향상)",
-		"brand": "한양로보틱스",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=116041": {
+		"name": "수평다관절 | RSA60-4A",
+		"brand": "세정로봇",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=107886": {
-		"name": "핸들링 로봇 Handling Robot GP7",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121696": {
+		"name": "[Assembly] 조립 최적화 로봇 SIA5D/F",
 		"brand": "야스카와",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121652": {
-		"name": "[Picking & Packing] 피킹 & 패킹 최적화 로봇 MPP3S",
-		"brand": "야스카와",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41166": {
+		"name": "[현대로보틱스] YS140 산업용로봇",
+		"brand": "현대로보틱스",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=129961": {
-		"name": "H2515 H-SERIES 협동로봇 두산로보틱스",
-		"brand": "두산로보틱스",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=34706": {
+		"name": "[스토브리] TX60 6축 산업용로봇",
+		"brand": "스토브리",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41034": {
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41040": {
+		"name": "[현대로보틱스] HA006L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=45006": {
+		"name": "도시바 스카라  THL300 피킹/패킹 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38721": {
+		"name": "엡손 스카라 로봇 G10/G20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41073": {
+		"name": "[현대로보틱스] HH020L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41031": {
 		"name": "[현대로보틱스] HA006B 산업용로봇",
 		"brand": "현대로보틱스",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=37751": {
-		"name": "엡손 스카라 로봇 G3",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38746": {
+		"name": "엡손 스카라 로봇 LS20",
 		"brand": "엡손",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38772": {
-		"name": "엡손 다관절 로봇 C4/C4L",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38777": {
+		"name": "엡손 다관절 로봇 C8",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=131297": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=30845": {
+		"name": "유니버설로봇 UR3 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=99032": {
+		"name": "[한양로보틱스] 취출로보트 EPIK-E-SM SERIES 400~2000Ton (스택몰드용/슬림형)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=30873": {
+		"name": "유니버설로봇 UR10 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121629": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP400R",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38737": {
+		"name": "엡손 스카라 로봇 LS6",
 		"brand": "엡손",
 		"price": "견적거래 제품"
 	},
@@ -384,109 +294,79 @@
 		"brand": "엡손",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41178": {
-		"name": "[현대로보틱스] HS260 산업용로봇",
-		"brand": "현대로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=109972": {
-		"name": "[Panasonic] 파나소닉 6축 독립다관절형 용접로봇 TAWERS TM시리즈 (세퍼릿타입)",
-		"brand": "파나소닉",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41071": {
-		"name": "[현대로보틱스] HH020L 산업용로봇",
-		"brand": "현대로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=49820": {
-		"name": "[Studio 3S] TAGON Shuttle 무인 운반 로봇",
-		"brand": "스튜디오쓰리에스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=106943": {
-		"name": "[Picker로봇] RPK-130",
-		"brand": "로보스타",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41144": {
-		"name": "[현대로보틱스] YS080 산업용로봇",
-		"brand": "현대로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41094": {
-		"name": "[현대로보틱스] HH100SL 산업용로봇",
-		"brand": "현대로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=34683": {
-		"name": "[스토브리] TS60 SCARA 로봇",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=34669": {
+		"name": "[스토브리] TS20 SCARA 로봇",
 		"brand": "스토브리",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48358": {
-		"name": "야스카와 이동로봇 / GP8 / GP시리즈 / YASKAWA",
-		"brand": "야스카와",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41058": {
-		"name": "[현대로보틱스] HH010L 산업용로봇",
-		"brand": "현대로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=30844": {
-		"name": "유니버설로봇 UR3 협동로봇",
-		"brand": "유니버셜로봇",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48210": {
-		"name": "HANDLING ROBOT 핸들링 로봇 UP50N",
-		"brand": "야스카와",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48342": {
-		"name": "야스카와 로딩*언로딩 로봇 / GP7 / GP시리즈 / YASKAWA",
-		"brand": "야스카와",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41141": {
-		"name": "[현대로보틱스] YS080 산업용로봇",
-		"brand": "현대로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=131230": {
-		"name": "화낙(FANUC) - 협동로봇( CR series)",
-		"brand": "화낙(FANUC)",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=30843": {
-		"name": "유니버설로봇 UR3 협동로봇",
-		"brand": "유니버셜로봇",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41180": {
-		"name": "[현대로보틱스] HS260 산업용로봇",
-		"brand": "현대로보틱스",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=123935": {
-		"name": "[뉴로메카]협동로봇 인디3 (Indy3)",
-		"brand": "뉴로메카",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38693": {
-		"name": "엡손 스카라 로봇 G1",
-		"brand": "엡손",
-		"price": "견적거래 제품"
-	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=24600": {
-		"name": "[KUKA] 중 가반하중용 로봇",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=24559": {
+		"name": "KUKA 소형로봇 아길러스 시리즈",
 		"brand": "쿠카",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=129958": {
-		"name": "A0912 A-SERIES 협동로봇 두산로보틱스",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=129962": {
+		"name": "M0617 M-SERIES 협동로봇 두산로보틱스",
 		"brand": "두산로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48724": {
+		"name": "[가와사키로보틱스] Spot welding 스폿 용접로봇 BX100S",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41120": {
+		"name": "[현대로보틱스] HS200S 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=45008": {
+		"name": "도시바 스카라  THL400 피킹/패킹  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38782": {
+		"name": "엡손 다관절 로봇 C8",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=129959": {
+		"name": "A0912s A-SERIES 협동로봇 두산로보틱스",
+		"brand": "두산로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=30870": {
+		"name": "유니버설로봇 UR10 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=34693": {
+		"name": "[스토브리] TX40 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41042": {
+		"name": "[현대로보틱스] HA006L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=24613": {
+		"name": "[KUKA] 고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38719": {
+		"name": "엡손 스카라 로봇 G10/G20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=31541": {
+		"name": "[스토브리] TS80 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=131284": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
 		"price": "견적거래 제품"
 	},
 	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41044": {
@@ -494,9 +374,3624 @@
 		"brand": "현대로보틱스",
 		"price": "견적거래 제품"
 	},
-	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121621": {
-		"name": "[Handling] 핸들링 최적화 로봇 GP250",
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48387": {
+		"name": "야스카와 이동로봇 / MOTOMINI / YASKAWA",
 		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121592": {
+		"name": "[Handling] 핸들링 최적화 로봇 MH3F",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=131287": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=44991": {
+		"name": "도시바 스카라  THL700 조립 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=38771": {
+		"name": "엡손 다관절 로봇 C4/C4L",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48703": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX110L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41113": {
+		"name": "[현대로보틱스] HS200L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=24563": {
+		"name": "KUKA 소형로봇 아길러스 시리즈",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=118592": {
+		"name": "야스카와로봇+용접기+3차원(3d)용접테이블 특가판매",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41035": {
+		"name": "[현대로보틱스] HA006B 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48232": {
+		"name": "PALLETIZING ROBOT 팔렛타이징 로봇 EPL300",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41064": {
+		"name": "[현대로보틱스] HH020 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41147": {
+		"name": "[현대로보틱스] YS080 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=131228": {
+		"name": "화낙(FANUC_델타로봇/거미로봇 (M-1iA series)",
+		"brand": "화낙(FANUC)",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41170": {
+		"name": "[현대로보틱스] YS140D 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121602": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP25-12",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48186": {
+		"name": "다용도 적용형 핸들링 로봇 MOTOMAN-MH24",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=101621": {
+		"name": "[한양로보틱스] 취출로보트 ZEST-II SERIES 100~1800Ton",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=37769": {
+		"name": "엡손 스카라 로봇 RS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=41107": {
+		"name": "[현대로보틱스] HP160 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=121641": {
+		"name": "[Palletizing] 팔레타이징 최적화 로봇 MPL160II",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=131272": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=638": {
+		"name": "한화테크윈 협동로봇 HCR-5",
+		"brand": "한화테크윈",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=48185": {
+		"name": "ARC ROBOT 아크 로봇 MOTOMAN-MA1440",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=1&p_seq=106939": {
+		"name": "[직각좌표로봇] RS-045N-Z10SS",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41102": {
+		"name": "[현대로보틱스] HH300 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41051": {
+		"name": "[현대로보틱스] HH010L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=48383": {
+		"name": "야스카와 핸들링 로봇 / MOTOMINI / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=38711": {
+		"name": "엡손 스카라 로봇 G6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41094": {
+		"name": "[현대로보틱스] HH100SL 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=48716": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX210L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=34709": {
+		"name": "[스토브리] TX60 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=118317": {
+		"name": "AGV Robot  LGV(to SCARA Robot)",
+		"brand": "비전세미콘",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=44398": {
+		"name": "도시바 스카라  THL400 핸드링 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=121618": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP180-120",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41069": {
+		"name": "[현대로보틱스] HH020L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=48725": {
+		"name": "[가와사키로보틱스] Spot welding 스폿 용접로봇 BX100S",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=24615": {
+		"name": "[KUKA] 고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=34678": {
+		"name": "[스토브리] TS60 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=30874": {
+		"name": "유니버설로봇 UR10 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=24616": {
+		"name": "[KUKA] 고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=124301": {
+		"name": "JCT ArcCell 1440 로봇용접패키지",
+		"brand": "JCT",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=49830": {
+		"name": "[Studio 3S] TAGON AGV 무인 운반 로봇, Tugger",
+		"brand": "스튜디오쓰리에스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=30877": {
+		"name": "유니버설로봇 UR10 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41038": {
+		"name": "[현대로보틱스] HA006B 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=116044": {
+		"name": "수직다관절로봇| MH24",
+		"brand": "세정로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=30856": {
+		"name": "유니버설로봇 UR5 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=38790": {
+		"name": "엡손 다관절 로봇 N2",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=38723": {
+		"name": "엡손 스카라 로봇 G10/G20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=121586": {
+		"name": "[Spot Weld] 스폿용접 최적화 로봇 SP210",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=38740": {
+		"name": "엡손 스카라 로봇 LS20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=44401": {
+		"name": "도시바 스카라  THL600 핸드링 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=34696": {
+		"name": "[스토브리] TX40 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=24625": {
+		"name": "[KUKA] 초고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=129963": {
+		"name": "M1509 M-SERIES 협동로봇 두산로보틱스",
+		"brand": "두산로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=101628": {
+		"name": "[한양로보틱스] 취출로보트 MACH SERIES 100~380Ton",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41138": {
+		"name": "[현대로보틱스] HX500 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=127489": {
+		"name": "Pudubot",
+		"brand": "브이디컴퍼니 주식회사",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=45009": {
+		"name": "도시바 스카라  THL500 피킹/패킹  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=131294": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=121719": {
+		"name": "[Painting] 도장 최적화 로봇 MPX1150",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=107131": {
+		"name": "ACCURL 직압식 유압 샤링기 Genius S Series MS8",
+		"brand": "아쿠얼",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=124298": {
+		"name": "DN8a(미국형 소나타) Roof Robot Spot Welding Line",
+		"brand": "JCT",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41084": {
+		"name": "[현대로보틱스] HH030L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=30840": {
+		"name": "유니버설로봇 UR3 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41169": {
+		"name": "[현대로보틱스] YS140D 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=123935": {
+		"name": "[뉴로메카]협동로봇 인디3 (Indy3)",
+		"brand": "뉴로메카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=48211": {
+		"name": "HANDLING ROBOT 핸들링 로봇 HP165D",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=38693": {
+		"name": "엡손 스카라 로봇 G1",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41091": {
+		"name": "[현대로보틱스] HH050 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=131226": {
+		"name": "화낙(FANUC)-소형로봇/LR MATE 200iD series",
+		"brand": "화낙(FANUC)",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=131281": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=121650": {
+		"name": "[Palletizing] 팔레타이징 최적화 로봇 MPL800II",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=30923": {
+		"name": "유니버설로봇 UR5 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=121581": {
+		"name": "[Arc Weld] 아크용접 최적화 로봇 AR2010",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41178": {
+		"name": "[현대로보틱스] HS260 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=24618": {
+		"name": "[KUKA] 고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=106959": {
+		"name": "[로보스타] SMT Base M/C",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=123703": {
+		"name": "[뉴로메카]협동로봇 인디7 (Indy7)",
+		"brand": "뉴로메카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41048": {
+		"name": "[현대로보틱스] HA006L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=34683": {
+		"name": "[스토브리] TS60 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=118231": {
+		"name": "[아우보] AUBO-i7 협동로봇, 협업로봇",
+		"brand": "아우보",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41151": {
+		"name": "[현대로보틱스] YS080L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41122": {
+		"name": "[현대로보틱스] HS220 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=121625": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP165R",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41183": {
+		"name": "[현대로보틱스] HX500S 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=38714": {
+		"name": "엡손 스카라 로봇 G6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=48190": {
+		"name": "ARC ROBOT 아크 용접 로봇 / 핸들링 로봇 HP20",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=34707": {
+		"name": "[스토브리] TX60 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=123937": {
+		"name": "[뉴로메카]협동로봇 인디10 (Indy10)",
+		"brand": "뉴로메카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=48347": {
+		"name": "야스카와 피킹*패킹 로봇 / GP7 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=37771": {
+		"name": "엡손 스카라 로봇 RS4",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=116394": {
+		"name": "QK-9434 로봇 인두기 / 주문제작",
+		"brand": "퀵코리아",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=38780": {
+		"name": "엡손 다관절 로봇 C8",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41160": {
+		"name": "[현대로보틱스] YS140 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=30850": {
+		"name": "유니버설로봇 UR3 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=24619": {
+		"name": "[KUKA] 초고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=131295": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41182": {
+		"name": "[현대로보틱스] HX500S 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=743": {
+		"name": "한화테크윈 협동로봇 HCR-5",
+		"brand": "한화테크윈",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=49391": {
+		"name": "[ABB] IRB 1200 소형 산업용로봇",
+		"brand": "ABB",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=38775": {
+		"name": "엡손 다관절 로봇 C4/C4L",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=89776": {
+		"name": "[한양로보틱스] 취출로보트 EPIK SERIES 280~1300Ton (중•소형 톤수)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=38712": {
+		"name": "엡손 스카라 로봇 G6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41140": {
+		"name": "[현대로보틱스] HX500 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=48362": {
+		"name": "야스카와 핸들링 로봇 / GP12 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=24611": {
+		"name": "[KUKA] 고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=129961": {
+		"name": "H2515 H-SERIES 협동로봇 두산로보틱스",
+		"brand": "두산로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41108": {
+		"name": "[현대로보틱스] HP160 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41124": {
+		"name": "[현대로보틱스] HS220 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=38704": {
+		"name": "엡손 스카라 로봇 G3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41078": {
+		"name": "[현대로보틱스] HH030L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=38743": {
+		"name": "엡손 스카라 로봇 LS20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=24597": {
+		"name": "[KUKA] 중 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=24972": {
+		"name": "[KUKA] 협동 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=118233": {
+		"name": "[아우보] AUBO-i3 협동로봇, 협업로봇",
+		"brand": "아우보",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41050": {
+		"name": "[현대로보틱스] HH010L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=24554": {
+		"name": "KUKA 소형로봇 아길러스 시리즈",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=44997": {
+		"name": "도시바 스카라  THL300 로딩/언로딩 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=30860": {
+		"name": "유니버설로봇 UR5 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41062": {
+		"name": "[현대로보틱스] HH020 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=48189": {
+		"name": "ARC ROBOT 아크 용접 로봇 / 핸들링 로봇 MH6-SERIES",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=41057": {
+		"name": "[현대로보틱스] HH010L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=24569": {
+		"name": "[KUKA] 저 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=2&p_seq=48715": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX210L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41145": {
+		"name": "[현대로보틱스] YS080 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=131283": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=48376": {
+		"name": "야스카와 피킹*패킹 로봇 / GP12 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=121577": {
+		"name": "[Arc Weld] 아크용접 최적화 로봇 AR900",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=49820": {
+		"name": "[Studio 3S] TAGON Shuttle 무인 운반 로봇",
+		"brand": "스튜디오쓰리에스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41128": {
+		"name": "[현대로보틱스] HX300L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=48348": {
+		"name": "야스카와 이동로봇 / GP7 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34719": {
+		"name": "[스토브리] TX2-60 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34711": {
+		"name": "[스토브리] TX60 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34698": {
+		"name": "[스토브리] TX2-40 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=101613": {
+		"name": "[한양로보틱스] 취출로보트 NEXIA SERIES 280~1300Ton (중•소형 톤수)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=124297": {
+		"name": "인라인 절곡 자동화 시스템",
+		"brand": "JCT",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=30862": {
+		"name": "유니버설로봇 UR5 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=25282": {
+		"name": "유니버설로봇 UR3 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41163": {
+		"name": "[현대로보틱스] YS140 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=38707": {
+		"name": "엡손 스카라 로봇 G6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=38708": {
+		"name": "엡손 스카라 로봇 G6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34699": {
+		"name": "[스토브리] TX2-40 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=45002": {
+		"name": "도시바 스카라  THL800  로딩/언로딩  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=48215": {
+		"name": "HANDLING ROBOT 핸들링 로봇 DA20",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=119376": {
+		"name": "YASKAWA HC10 Collaborative robot",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=121720": {
+		"name": "[Painting] 도장 최적화 로봇 MPX1950",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=48717": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX210L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=38732": {
+		"name": "엡손 스카라 로봇 LS6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=121620": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP225",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=48375": {
+		"name": "야스카와 절단 로봇 / GP12 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=106955": {
+		"name": "[정밀 Stage] Muti Heads Dual Gantry Stage",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34685": {
+		"name": "[스토브리] TS60 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41153": {
+		"name": "[현대로보틱스] YS080L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=49372": {
+		"name": "[ABB] IRB 120 초소형 산업용로봇",
+		"brand": "ABB",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=24626": {
+		"name": "[KUKA] 초고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=109974": {
+		"name": "[Panasonic] 파나소닉 6축 독립다관절형 용접로봇 TAWERS TM시리즈 (내장타입)",
+		"brand": "파나소닉",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=38750": {
+		"name": "엡손 스카라 로봇 RS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=38728": {
+		"name": "엡손 스카라 로봇 LS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=48388": {
+		"name": "야스카와 협동 로봇 / HC10 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=45014": {
+		"name": "도시바 스카라  THL900 피킹/패킹  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=24608": {
+		"name": "[KUKA] 고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=65442": {
+		"name": "[Studio 3S] TAGON AGV 무인 운반 로봇, Heavy Lifter",
+		"brand": "스튜디오쓰리에스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=120033": {
+		"name": "AGV 산업용로봇",
+		"brand": "비전세미콘",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=38761": {
+		"name": "엡손 스카라 로봇 RS4",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=101653": {
+		"name": "[한양로보틱스] 취출 로보트 프리폼 (SRPF) 100~300Ton",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34712": {
+		"name": "[스토브리] TX60 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41068": {
+		"name": "[현대로보틱스] HH020 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=37755": {
+		"name": "엡손 스카라 로봇 G6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=38763": {
+		"name": "엡손 스카라 로봇 RS4",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=131270": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34713": {
+		"name": "[스토브리] TX60 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=106944": {
+		"name": "[ServoPress로봇] RSP-020",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=38752": {
+		"name": "엡손 스카라 로봇 RS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=43788": {
+		"name": "[스토브리] TX2-60 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=121654": {
+		"name": "[Picking&Packing] 피킹 & 패킹 최적화 로봇 MPP3H",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=121642": {
+		"name": "[Palletizing] 팔레타이징 최적화 로봇 MPL300II",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=131273": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=38699": {
+		"name": "엡손 스카라 로봇 G3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41139": {
+		"name": "[현대로보틱스] HX500 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=24429": {
+		"name": "KUKA 초고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=48355": {
+		"name": "야스카와 실링*도포 로봇 / GP8 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34703": {
+		"name": "[스토브리] TX2-40 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=106954": {
+		"name": "[Pre Aligner] RPS-9200-50",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=65458": {
+		"name": "[Studio 3S] TAGON AGV 무인 운반 로봇, Shelf Lifter",
+		"brand": "스튜디오쓰리에스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=65409": {
+		"name": "[Studio 3S] TAGON AGV 무인 운반 로봇, Flex Picker",
+		"brand": "스튜디오쓰리에스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=131227": {
+		"name": "화낙(FANUC_스카라 로봇 ( SR series)",
+		"brand": "화낙(FANUC)",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41075": {
+		"name": "[현대로보틱스] HH020L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34723": {
+		"name": "[스토브리] TX2-60 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34673": {
+		"name": "[스토브리] TS40 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=131275": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41156": {
+		"name": "[현대로보틱스] YS080L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41116": {
+		"name": "[현대로보틱스] HS200L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=44403": {
+		"name": "도시바 스카라  THL800 핸드링 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41058": {
+		"name": "[현대로보틱스] HH010L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=48213": {
+		"name": "HANDLING ROBOT 핸들링 로봇 DIA10",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=118230": {
+		"name": "[아우보] AUBO-i3 협동로봇, 협업로봇",
+		"brand": "아우보",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41180": {
+		"name": "[현대로보틱스] HS260 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34666": {
+		"name": "[스토브리] FAST picker TP80 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41074": {
+		"name": "[현대로보틱스] HH020L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=30872": {
+		"name": "유니버설로봇 UR10 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41119": {
+		"name": "[현대로보틱스] HS200S 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=48361": {
+		"name": "야스카와 조립 로봇 / GP12 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34722": {
+		"name": "[스토브리] TX2-60 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=129956": {
+		"name": "A0509 A-SERIES 협동로봇 두산로보틱스",
+		"brand": "두산로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41172": {
+		"name": "[현대로보틱스] YS140D 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34667": {
+		"name": "[스토브리] FAST picker TP80 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=37773": {
+		"name": "엡손 스카라 로봇 N2",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=48700": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX110L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=132335": {
+		"name": "[HALTER] LoadAssistant Universal Premium",
+		"brand": "할터 씨엔씨 오토메이션",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=38774": {
+		"name": "엡손 다관절 로봇 C4/C4L",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=24620": {
+		"name": "[KUKA] 초고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41088": {
+		"name": "[현대로보틱스] HH050 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34672": {
+		"name": "[스토브리] TS20 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=44439": {
+		"name": "도시바 스카라  THL800 조립 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=34670": {
+		"name": "[스토브리] TS20 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41134": {
+		"name": "[현대로보틱스] HX400S 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=44402": {
+		"name": "도시바 스카라  THL700 핸드링 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=121652": {
+		"name": "[Picking & Packing] 피킹 & 패킹 최적화 로봇 MPP3S",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=30847": {
+		"name": "유니버설로봇 UR3 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=44404": {
+		"name": "도시바 스카라  THL900 핸드링 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=41168": {
+		"name": "[현대로보틱스] YS140D 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=38733": {
+		"name": "엡손 스카라 로봇 LS6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=44998": {
+		"name": "도시바 스카라  THL400  로딩/언로딩 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=3&p_seq=38751": {
+		"name": "엡손 스카라 로봇 RS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=121600": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP12",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=34690": {
+		"name": "[스토브리] TX40 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=121656": {
+		"name": "[Picking&Packing] 피킹&패킹 최적화 로봇 MPK50II",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41161": {
+		"name": "[현대로보틱스] YS140 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=38770": {
+		"name": "엡손 다관절 로봇 C4/C4L",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=131271": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41036": {
+		"name": "[현대로보틱스] HA006B 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=131289": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=65406": {
+		"name": "[Studio 3S] TAGON AGV 무인 운반 로봇, Roller",
+		"brand": "스튜디오쓰리에스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=37766": {
+		"name": "엡손 스카라 로봇 LS6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=101566": {
+		"name": "[한양로보틱스] 취출로보트 UNIK SERIES 30~650Ton",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=44436": {
+		"name": "도시바 스카라  THL1200 조립 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=66683": {
+		"name": "[Studio 3S] TAGON AGV 무인 운반 로봇, Tugger",
+		"brand": "스튜디오쓰리에스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=38788": {
+		"name": "엡손 다관절 로봇 N2",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=38741": {
+		"name": "엡손 스카라 로봇 LS20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=117780": {
+		"name": "스포트 용접로봇 SRA100HS/SRA100HB",
+		"brand": "NACHI",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=44400": {
+		"name": "도시바 스카라  THL500 핸드링 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=121604": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP50",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=38736": {
+		"name": "엡손 스카라 로봇 LS6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=121624": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP600",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=118513": {
+		"name": "산업용로봇, INDUSTRIAL ROBOT KK 시리즈",
+		"brand": "하이윈",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=48351": {
+		"name": "야스카와 핸들링 로봇 / GP8 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=121622": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP280",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=38731": {
+		"name": "엡손 스카라 로봇 LS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=107218": {
+		"name": "YASKAWA 핸들링 로봇 Handling Robot MH180 / MH225",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=38706": {
+		"name": "엡손 스카라 로봇 G3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=34702": {
+		"name": "[스토브리] TX2-40 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=106958": {
+		"name": "[정밀 Stage] Laser Scan or Scriber Stage",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=48198": {
+		"name": "SPOT ROBOT 스폿 용접 로봇 MS165",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=38769": {
+		"name": "엡손 다관절 로봇 C4/C4L",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41095": {
+		"name": "[현대로보틱스] HH100SL 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=66687": {
+		"name": "[Studio 3S] TAGON AGV 무인 운반 로봇, Shelf Lifter",
+		"brand": "스튜디오쓰리에스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=121603": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP25-12",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=30842": {
+		"name": "유니버설로봇 UR3 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=121587": {
+		"name": "[Spot Weld] 스폿용접 최적화 로봇 SP150R",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=30878": {
+		"name": "유니버설로봇 UR10 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=24430": {
+		"name": "[KUKA] 적재 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=45001": {
+		"name": "도시바 스카라  THL700  로딩/언로딩  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=38729": {
+		"name": "엡손 스카라 로봇 LS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41159": {
+		"name": "[현대로보틱스] YS140 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=38739": {
+		"name": "엡손 스카라 로봇 LS6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=24561": {
+		"name": "KUKA 소형로봇 아길러스 시리즈",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=123934": {
+		"name": "[뉴로메카]협동로봇 인디-RP2 (Indy-RP2)",
+		"brand": "뉴로메카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=31537": {
+		"name": "[스토브리] TS40 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=101631": {
+		"name": "[한양로보틱스] 취출로보트 HIT SERIES 30~250Ton",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41105": {
+		"name": "[현대로보틱스] HP160 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=48358": {
+		"name": "야스카와 이동로봇 / GP8 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=733": {
+		"name": "한화테크윈 협동로봇 HCR-5",
+		"brand": "한화테크윈",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=106942": {
+		"name": "[UVW STAGE] UVW-1000X600",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=66682": {
+		"name": "[Studio 3S] TAGON Shuttle 무인 운반 로봇",
+		"brand": "스튜디오쓰리에스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=34677": {
+		"name": "[스토브리] TS40 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41184": {
+		"name": "[현대로보틱스] HX500S 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41130": {
+		"name": "[현대로보틱스] HX400 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41103": {
+		"name": "[현대로보틱스] HH300 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=30879": {
+		"name": "유니버설로봇 UR10 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=34718": {
+		"name": "[스토브리] TX2-60 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41101": {
+		"name": "[현대로보틱스] HH300 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=131230": {
+		"name": "화낙(FANUC) - 협동로봇( CR series)",
+		"brand": "화낙(FANUC)",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41083": {
+		"name": "[현대로보틱스] HH030L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=24632": {
+		"name": "[KUKA] 적재 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41093": {
+		"name": "[현대로보틱스] HH100SL 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=131278": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41089": {
+		"name": "[현대로보틱스] HH050 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=131291": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=106960": {
+		"name": "[로보스타] Solar Cell Tester & Sorter",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=44992": {
+		"name": "도시바 스카라  THL600 조립 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=94909": {
+		"name": "[한양로보틱스] 취출로보트 EPIK-SW SERIES 400~4000Ton (전후진 이동형)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=48229": {
+		"name": "PALLETIZING ROBOT 팔렛타이징 로봇 EPL80",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=38779": {
+		"name": "엡손 다관절 로봇 C8",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=131280": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41167": {
+		"name": "[현대로보틱스] YS140 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=38766": {
+		"name": "엡손 스카라 로봇 RS4",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=30846": {
+		"name": "유니버설로봇 UR3 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41092": {
+		"name": "[현대로보틱스] HH050 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=34684": {
+		"name": "[스토브리] TS60 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=116050": {
+		"name": "수직다관절로봇| MH80Ⅱ",
+		"brand": "세정로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=131299": {
+		"name": "e-F@ctory Alliance Partner 파트너신청",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=37768": {
+		"name": "엡손 스카라 로봇 LS20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=124296": {
+		"name": "PIN, BRACKET 용접 로봇 자동화 시스템",
+		"brand": "JCT",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=106950": {
+		"name": "[Controller] RTC_M Type",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41137": {
+		"name": "[현대로보틱스] HX500 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=30861": {
+		"name": "유니버설로봇 UR5 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=48373": {
+		"name": "야스카와 연마 로봇 / GP12 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41109": {
+		"name": "[현대로보틱스] HS160L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41106": {
+		"name": "[현대로보틱스] HP160 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=131285": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=37754": {
+		"name": "엡손 스카라 로봇 LS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=38713": {
+		"name": "엡손 스카라 로봇 G6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=30839": {
+		"name": "유니버설로봇 UR3 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41158": {
+		"name": "[현대로보틱스] YS080L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=34671": {
+		"name": "[스토브리] TS20 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=30867": {
+		"name": "유니버설로봇 UR5 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41162": {
+		"name": "[현대로보틱스] YS140 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=116039": {
+		"name": "수평다관절 | RPA100-4B",
+		"brand": "세정로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=48704": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX165L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41132": {
+		"name": "[현대로보틱스] HX400 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=101619": {
+		"name": "[한양로보틱스] 취출로보트 NEXIA-E SERIES 400~2000Ton (슬림형)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=41176": {
+		"name": "[현대로보틱스] YS140D 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=31539": {
+		"name": "[스토브리] TS60 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=4&p_seq=121582": {
+		"name": "[Spot Weld] 스폿용접 최적화 로봇 SP80",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41052": {
+		"name": "[현대로보틱스] HH010L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=38717": {
+		"name": "엡손 스카라 로봇 G10/G20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=30841": {
+		"name": "유니버설로봇 UR3 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=716": {
+		"name": "한화테크윈 협동로봇 HCR-5",
+		"brand": "한화테크윈",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=38772": {
+		"name": "엡손 다관절 로봇 C4/C4L",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=45003": {
+		"name": "도시바 스카라  THL900  로딩/언로딩  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=38702": {
+		"name": "엡손 스카라 로봇 G3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=24427": {
+		"name": "KUKA 중 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=24596": {
+		"name": "[KUKA] 중 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41060": {
+		"name": "[현대로보틱스] HH020 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=31550": {
+		"name": "[스토브리] TX60 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=44417": {
+		"name": "도시바 스카라  THL1200 핸드링 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=31408": {
+		"name": "[스토브리] FAST picker TP80 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48701": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX110L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=101617": {
+		"name": "[한양로보틱스] 취출로보트 NEXIA-E-SM SERIES 400~2000Ton (스택몰드용/슬림형)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=45013": {
+		"name": "도시바 스카라  THL800 피킹/패킹  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=101626": {
+		"name": "[한양로보틱스] 취출로보트 MACH-II SERIES 100~650Ton",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=101612": {
+		"name": "[한양로보틱스] 취출로보트 NEXIA SERIES 1500~4000Ton (대형 톤수)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48638": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX110L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=129964": {
+		"name": "M1013 M-SERIES 협동로봇 두산로보틱스",
+		"brand": "두산로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=106941": {
+		"name": "[스카라로봇] RSA60-4A",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=30859": {
+		"name": "유니버설로봇 UR5 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=63758": {
+		"name": "레이저가공기,레이저가공로봇,3D레이저가공 LF1800",
+		"brand": "G·WEIKE",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=24599": {
+		"name": "[KUKA] 중 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41055": {
+		"name": "[현대로보틱스] HH010L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48713": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX210L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=101597": {
+		"name": "[한양로보틱스] 취출로보트 UNIK-H SERIES 30~650Ton(하이 싸이클용 1배속/상하강 속도 30% 향상)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48341": {
+		"name": "야스카와 핸들링 로봇 / GP7 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=107221": {
+		"name": "YASKAWA 아크용접 최적화 로봇 Arc Weldign Robot MA1440",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=24628": {
+		"name": "[KUKA] 초고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48345": {
+		"name": "야스카와 실링*도포 로봇 / GP7 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=66012": {
+		"name": "[OMEGA WEL-TECH] 멀티 오토 용접로봇 TK26",
+		"brand": "오메가",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41104": {
+		"name": "[현대로보틱스] HH300 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=38716": {
+		"name": "엡손 스카라 로봇 G10/G20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48352": {
+		"name": "야스카와 로딩*언로딩 로봇 / GP8 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=101658": {
+		"name": "[한양로보틱스] 취출로보트 사이드엔트리 SR II / SR III 시리즈 100~350Ton",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48378": {
+		"name": "야스카와 이동로봇 / GP12 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=131288": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48706": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX165L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=45000": {
+		"name": "도시바 스카라  THL600  로딩/언로딩  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=30876": {
+		"name": "유니버설로봇 UR10 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41117": {
+		"name": "[현대로보틱스] HS200S 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=118427": {
+		"name": "MELTEC Industrieofenbau GmbH사의 마그네슘 도징 퍼니스(MDF)",
+		"brand": "멜텍",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=38764": {
+		"name": "엡손 스카라 로봇 RS4",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=24589": {
+		"name": "[KUKA] 중 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=129860": {
+		"name": "M0609 M-SERIES 협동로봇 두산로보틱스",
+		"brand": "두산로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=34686": {
+		"name": "[스토브리] TS60 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41125": {
+		"name": "[현대로보틱스] HX300L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48346": {
+		"name": "야스카와 절단 로봇 / GP7 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=38789": {
+		"name": "엡손 다관절 로봇 N2",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41165": {
+		"name": "[현대로보틱스] YS140 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48714": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX210L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=38700": {
+		"name": "엡손 스카라 로봇 G3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=107171": {
+		"name": "YASKAWA 아크용접 최적화 로봇 Arc Weld Robot MH12",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41123": {
+		"name": "[현대로보틱스] HS220 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=38791": {
+		"name": "엡손 다관절 로봇 N2",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=107137": {
+		"name": "YASKAWA 스폿용접 최적화 로봇 Spot Welding Robot ES165RD II / ES200RD II",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=24565": {
+		"name": "KUKA 소형로봇 아길러스 시리즈",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41118": {
+		"name": "[현대로보틱스] HS200S 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=38767": {
+		"name": "엡손 스카라 로봇 RS4",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=101611": {
+		"name": "[한양로보틱스] 취출로보트 UNIK-II-H SERIES 100~1800Ton(하이 싸이클용 2배속/상하강 속도 30% 향상)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=30866": {
+		"name": "유니버설로봇 UR5 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48354": {
+		"name": "야스카와 연마 로봇 / GP8 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=757": {
+		"name": "한화테크윈 협동로봇 HCR-5",
+		"brand": "한화테크윈",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=131296": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=24573": {
+		"name": "[KUKA] 저 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=121591": {
+		"name": "[Handling] 핸들링 최적화 로봇 HC10DT",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=121640": {
+		"name": "[Palletizing] 팔레타이징 최적화 로봇 MPL100II",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41086": {
+		"name": "[현대로보틱스] HH050 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=38730": {
+		"name": "엡손 스카라 로봇 LS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=24617": {
+		"name": "[KUKA] 고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48374": {
+		"name": "야스카와 실링*도포 로봇 / GP12 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41076": {
+		"name": "[현대로보틱스] HH020L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41150": {
+		"name": "[현대로보틱스] YS080L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=30863": {
+		"name": "유니버설로봇 UR5 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=44994": {
+		"name": "도시바 스카라  THL500 조립 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48727": {
+		"name": "[가와사키로보틱스] Spot welding 스폿 용접로봇 BX100S",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=121651": {
+		"name": "[Press Handling] 프레스 핸들링 최적화 로봇 PH130RF",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=24612": {
+		"name": "[KUKA] 고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41121": {
+		"name": "[현대로보틱스] HS220 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48698": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX110L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=38709": {
+		"name": "엡손 스카라 로봇 G6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41173": {
+		"name": "[현대로보틱스] YS140D 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=66685": {
+		"name": "[Studio 3S] TAGON AGV 무인 운반 로봇, Flex Picker",
+		"brand": "스튜디오쓰리에스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=30836": {
+		"name": "유니버설로봇 UR3 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=41127": {
+		"name": "[현대로보틱스] HX300L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=38755": {
+		"name": "엡손 스카라 로봇 RS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=48191": {
+		"name": "SPOT ROBOT 스폿 용접 로봇 ES165D",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=30844": {
+		"name": "유니버설로봇 UR3 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=24630": {
+		"name": "[KUKA] 초고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=38781": {
+		"name": "엡손 다관절 로봇 C8",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=24590": {
+		"name": "[KUKA] 중 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=24607": {
+		"name": "[KUKA] 고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=131256": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=38734": {
+		"name": "엡손 스카라 로봇 LS6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=124285": {
+		"name": "[렌탈서비스] 로봇도 설비도 기계도 장기렌트 하세요!!",
+		"brand": "JCT",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=121716": {
+		"name": "[Assembly] 조립 최적화 로봇 SDA5D/F",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=106952": {
+		"name": "[로보스타] EFEM",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=101622": {
+		"name": "[한양로보틱스] 취출로보트 ZEST SERIES 30~650Ton",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=5&p_seq=131282": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=44995": {
+		"name": "도시바 스카라  THL400 조립 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=38705": {
+		"name": "엡손 스카라 로봇 G3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=38742": {
+		"name": "엡손 스카라 로봇 LS20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=44415": {
+		"name": "도시바 스카라  THL1000 핸드링 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41054": {
+		"name": "[현대로보틱스] HH010L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41115": {
+		"name": "[현대로보틱스] HS200L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=48384": {
+		"name": "야스카와 로딩*언로딩 로봇 / MOTOMINI / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=48216": {
+		"name": "HANDLING ROBOT 핸들링 로봇 IA20",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=24580": {
+		"name": "[KUKA] 저 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41059": {
+		"name": "[현대로보틱스] HH020 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=121697": {
+		"name": "[Assembly] 조립 최적화 로봇 SIA10D/F",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=48357": {
+		"name": "야스카와 피킹*패킹 로봇 / GP8 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=34680": {
+		"name": "[스토브리] TS60 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41155": {
+		"name": "[현대로보틱스] YS080L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=121649": {
+		"name": "[Palletizing] 팔레타이징 최적화 로봇 MPL500II",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=24627": {
+		"name": "[KUKA] 초고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=48342": {
+		"name": "야스카와 로딩*언로딩 로봇 / GP7 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41063": {
+		"name": "[현대로보틱스] HH020 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=34668": {
+		"name": "[스토브리] TS20 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=38747": {
+		"name": "엡손 스카라 로봇 LS20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41096": {
+		"name": "[현대로보틱스] HH100SL 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41171": {
+		"name": "[현대로보틱스] YS140D 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41034": {
+		"name": "[현대로보틱스] HA006B 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=24556": {
+		"name": "KUKA 소형로봇 아길러스 시리즈",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=121613": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP110",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=38785": {
+		"name": "엡손 다관절 로봇 N2",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=31553": {
+		"name": "[스토브리] TX2-60 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=48381": {
+		"name": "야스카와 조립 로못 / MOTOMINI / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=109972": {
+		"name": "[Panasonic] 파나소닉 6축 독립다관절형 용접로봇 TAWERS TM시리즈 (세퍼릿타입)",
+		"brand": "파나소닉",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=34687": {
+		"name": "[스토브리] TS60 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41152": {
+		"name": "[현대로보틱스] YS080L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=107188": {
+		"name": "YASKAWA 핸들링 로봇 Handling Robot MH50 II / MH50 II-35",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=34695": {
+		"name": "[스토브리] TX40 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41085": {
+		"name": "[현대로보틱스] HH030L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=106946": {
+		"name": "[데스크탑로봇] RDS-430F",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=34689": {
+		"name": "[스토브리] TX40 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=38722": {
+		"name": "엡손 스카라 로봇 G10/G20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=24578": {
+		"name": "[KUKA] 저 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=131286": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=30855": {
+		"name": "유니버설로봇 UR5 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=117811": {
+		"name": "나치로봇, 핸들링로봇, MZ12, 12KG, NACHI 로봇",
+		"brand": "나치 로보틱스 시스템즈",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=121590": {
+		"name": "[Handling] 핸들링 최적화 로봇 MotoMini",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=24572": {
+		"name": "[KUKA] 저 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=24629": {
+		"name": "[KUKA] 초고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41181": {
+		"name": "[현대로보틱스] HX500S 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=121717": {
+		"name": "[Assembly] 조립 최적화 로봇 SDA10D/F",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=101542": {
+		"name": "[한양로보틱스] 취출로보트 EPIK-V SERIES 100~1300Ton (고정밀 자동화용)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=38690": {
+		"name": "엡손 스카라 로봇 G1",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41111": {
+		"name": "[현대로보틱스] HS160L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=48219": {
+		"name": "HANDLING ROBOT 핸들링 로봇 MH50 II",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=106949": {
+		"name": "[Vacuum로봇] 350 ARM",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=37221": {
+		"name": "엡손 스카라 로봇 G1",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41081": {
+		"name": "[현대로보틱스] HH030L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41146": {
+		"name": "[현대로보틱스] YS080 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=24574": {
+		"name": "[KUKA] 저 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=24581": {
+		"name": "[KUKA] 저 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=38762": {
+		"name": "엡손 스카라 로봇 RS4",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=34700": {
+		"name": "[스토브리] TX2-40 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41133": {
+		"name": "[현대로보틱스] HX400S 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=30882": {
+		"name": "유니버설로봇 UR10 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=66686": {
+		"name": "[Studio 3S] TAGON AGV 무인 운반 로봇, Heavy Lifter",
+		"brand": "스튜디오쓰리에스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=24571": {
+		"name": "[KUKA] 저 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=45015": {
+		"name": "도시바 스카라  THL1000 피킹/패킹  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41079": {
+		"name": "[현대로보틱스] HH030L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=107152": {
+		"name": "YASKAWA 아크용접 최적화 로봇 Arc Weld Robot MA2010",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=24623": {
+		"name": "[KUKA] 초고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=24562": {
+		"name": "KUKA 소형로봇 아길러스 시리즈",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=30837": {
+		"name": "유니버설로봇 UR3 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=121596": {
+		"name": "[Hadnling] 핸들링 최적화 로봇 GP8",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=101618": {
+		"name": "[한양로보틱스] 취출로보트 NEXIA-V SERIES 100~1300Ton (고정밀 자동화용)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=121718": {
+		"name": "[Assembly] 조립 최적화 로봇 SDA20D/F",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=38768": {
+		"name": "엡손 스카라 로봇 RS4",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=43792": {
+		"name": "KUKJETOYO 직각좌표로봇 ETH5M",
+		"brand": "국제토요",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=121715": {
+		"name": "[Assembly] 조립 최적화 로봇 SIA50D",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=101554": {
+		"name": "[한양로보틱스] 취출로보트 EPIK-E SERIES 400~2000Ton (슬림형)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=121583": {
+		"name": "[Spot Weld] 스폿용접 최적화 로봇 SP100",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=97218": {
+		"name": "[한양로보틱스] 취출로보트 EPIK SERIES 1500~4000Ton (대형 톤수)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=38725": {
+		"name": "엡손 스카라 로봇 LS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=48707": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX165L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=38694": {
+		"name": "엡손 스카라 로봇 G1",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=101615": {
+		"name": "[한양로보틱스] 취출로보트 NEXIA-SW SERIES 400~4000Ton (전후진 이동형)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41177": {
+		"name": "[현대로보틱스] HS260 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=108071": {
+		"name": "아크용접로봇 Arc weld robot GP8",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=121722": {
+		"name": "[Painting] 도장 최적화 로봇 MPX3500",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=131276": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41135": {
+		"name": "[현대로보틱스] HX400S 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41099": {
+		"name": "[현대로보틱스] HH130L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=30843": {
+		"name": "유니버설로봇 UR3 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=101625": {
+		"name": "[한양로보틱스] 취출로보트 ZEST-II-H SERIES 100~1800Ton(하이 싸이클용 2배속/상하강 속도 30% 향상)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=24624": {
+		"name": "[KUKA] 초고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=101605": {
+		"name": "ServoArc welding automation package 용접 자동화 패키지",
+		"brand": "ProArc",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=38727": {
+		"name": "엡손 스카라 로봇 LS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=30864": {
+		"name": "유니버설로봇 UR5 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41082": {
+		"name": "[현대로보틱스] HH030L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=38720": {
+		"name": "엡손 스카라 로봇 G10/G20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=38778": {
+		"name": "엡손 다관절 로봇 C8",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=41098": {
+		"name": "[현대로보틱스] HH130L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=37751": {
+		"name": "엡손 스카라 로봇 G3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=34724": {
+		"name": "[스토브리] TX2-60 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=6&p_seq=38738": {
+		"name": "엡손 스카라 로봇 LS6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=124294": {
+		"name": "전자동 로봇절곡기",
+		"brand": "JCT",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41039": {
+		"name": "[현대로보틱스] HA006B 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=34715": {
+		"name": "[스토브리] TX60 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=121619": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP215",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=101596": {
+		"name": "[한양로보틱스] 취출로보트 UNIK-II SERIES 100~1800Ton",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=123706": {
+		"name": "TM로봇",
+		"brand": "Techman Robot",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=34697": {
+		"name": "[스토브리] TX40 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=106947": {
+		"name": "[Controller] RCH6-OOOOOO",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=109975": {
+		"name": "[Panasonic] 파나소닉 6축 독립다관절형 용접로봇 TAWERS TM시리즈 (외장타입)",
+		"brand": "파나소닉",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41065": {
+		"name": "[현대로보틱스] HH020 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=34674": {
+		"name": "[스토브리] TS40 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=48344": {
+		"name": "야스카와 연마 로봇 / GP7 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=38735": {
+		"name": "엡손 스카라 로봇 LS6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=131290": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=34716": {
+		"name": "[스토브리] TX2-60 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41174": {
+		"name": "[현대로보틱스] YS140D 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=106953": {
+		"name": "[로보스타] PCB LPM",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=93041": {
+		"name": "[한양로보틱스] 취출로보트 EPIK-SYCT SERIES 100~4000Ton (종주행 타입)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=101637": {
+		"name": "[한양로보틱스] 취출로보트 TOP IV TWIN SERIES 80~350Ton",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=34708": {
+		"name": "[스토브리] TX60 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=38765": {
+		"name": "엡손 스카라 로봇 RS4",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=106956": {
+		"name": "[정밀 Stage] Muti Heads Dual Bridge Stage",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=24558": {
+		"name": "KUKA 소형로봇 아길러스 시리즈",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41114": {
+		"name": "[현대로보틱스] HS200L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=31535": {
+		"name": "[스토브리] TS20 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41126": {
+		"name": "[현대로보틱스] HX300L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=44438": {
+		"name": "도시바 스카라  THL900 조립 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=123936": {
+		"name": "[뉴로메카]협동로봇 인디5 (Indy5)",
+		"brand": "뉴로메카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41043": {
+		"name": "[현대로보틱스] HA006L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41061": {
+		"name": "[현대로보틱스] HH020 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=45016": {
+		"name": "도시바 스카라  THL1200 피킹/패킹  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=48710": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX165L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=48385": {
+		"name": "야스카와 연마 로봇 / MOTOMINI / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=66684": {
+		"name": "[Studio 3S] TAGON AGV 무인 운반 로봇, Roller",
+		"brand": "스튜디오쓰리에스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=30854": {
+		"name": "유니버설로봇 UR5 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=34691": {
+		"name": "[스토브리] TX40 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=34714": {
+		"name": "[스토브리] TX60 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41131": {
+		"name": "[현대로보틱스] HX400 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=38697": {
+		"name": "엡손 스카라 로봇 G1",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=101616": {
+		"name": "[한양로보틱스] 취출로보트 NEXIA-E-SW SERIES 550~3000Ton (전후진 이동형/슬림형)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=48372": {
+		"name": "야스카와 로딩*언로딩 로봇 / GP12 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=74694": {
+		"name": "[한양로보틱스] 취출로보트 EPIK-E-SW SERIES 550~3000Ton (전후진 이동형/슬림형)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=24576": {
+		"name": "[KUKA] 저 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=121584": {
+		"name": "[Spot Weld] 스폿용접 최적화 로봇 SP165",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=38773": {
+		"name": "엡손 다관절 로봇 C4/C4L",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=121594": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP7",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=110466": {
+		"name": "액추에이터, ACTURATOR  RA32",
+		"brand": "SBB테크",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=38636": {
+		"name": "현대로보틱스 HA006B 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=38753": {
+		"name": "엡손 스카라 로봇 RS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=44996": {
+		"name": "도시바 스카라  THL300 조립 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41112": {
+		"name": "[현대로보틱스] HS160L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=45017": {
+		"name": "도시바 스카라  THL700 피킹/패킹  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=34694": {
+		"name": "[스토브리] TX40 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=44635": {
+		"name": "[ABB] [협동로봇 YuMi] IRB 14000 산업용로봇",
+		"brand": "ABB",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=31549": {
+		"name": "[스토브리] TX2-40 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=45011": {
+		"name": "도시바 스카라  THL600 피킹/패킹  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=24609": {
+		"name": "[KUKA] 고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41047": {
+		"name": "[현대로보틱스] HA006L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=44397": {
+		"name": "도시바 스카라  THL300 핸드링 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=30875": {
+		"name": "유니버설로봇 UR10 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=45005": {
+		"name": "도시바 스카라  THL1200  로딩/언로딩  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41087": {
+		"name": "[현대로보틱스] HH050 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41110": {
+		"name": "[현대로보틱스] HS160L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=118232": {
+		"name": "[아우보] AUBO-i10 협동로봇, 협업로봇",
+		"brand": "아우보",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=121579": {
+		"name": "[Arc Weld] 아크용접 최적화 로봇 AR1440E",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=106943": {
+		"name": "[Picker로봇] RPK-130",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=34681": {
+		"name": "[스토브리] TS60 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41041": {
+		"name": "[현대로보틱스] HA006L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=24604": {
+		"name": "[KUKA] 중 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=38692": {
+		"name": "엡손 스카라 로봇 G1",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=38703": {
+		"name": "엡손 스카라 로봇 G3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=40353": {
+		"name": "현대로보틱스 HA006B 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=129957": {
+		"name": "A0509s A-SERIES 협동로봇 두산로보틱스",
+		"brand": "두산로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=107180": {
+		"name": "YASKAWA 핸들링 로봇 Handling Robot MH24",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=121588": {
+		"name": "[Spot Weld] 스폿용접 최적화 로봇 SP185R",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=34705": {
+		"name": "[스토브리] TX2-40 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=30849": {
+		"name": "유니버설로봇 UR3 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=24567": {
+		"name": "[KUKA] 저 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41045": {
+		"name": "[현대로보틱스] HA006L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=24603": {
+		"name": "[KUKA] 중 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41148": {
+		"name": "[현대로보틱스] YS080 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41046": {
+		"name": "[현대로보틱스] HA006L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=45012": {
+		"name": "도시바 스카라  THL700 피킹/패킹  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=34688": {
+		"name": "[스토브리] TX40 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41077": {
+		"name": "[현대로보틱스] HH020L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=24575": {
+		"name": "[KUKA] 저 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=106957": {
+		"name": "[정밀 Stage] Orifice Airbearing Stage",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41053": {
+		"name": "[현대로보틱스] HH010L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=34710": {
+		"name": "[스토브리] TX60 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=121699": {
+		"name": "[Assembly] 조립 최적화 로봇 SIA30D",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=30858": {
+		"name": "유니버설로봇 UR5 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=38786": {
+		"name": "엡손 다관절 로봇 N2",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=38784": {
+		"name": "엡손 다관절 로봇 C8",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=41149": {
+		"name": "[현대로보틱스] YS080 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=21672": {
+		"name": "KUKA 저 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=121733": {
+		"name": "TM ROBOT",
+		"brand": "Quanta Storage",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=38783": {
+		"name": "엡손 다관절 로봇 C8",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=121617": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP180",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=131268": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=7&p_seq=43787": {
+		"name": "[스토브리] TX2-40 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=48210": {
+		"name": "HANDLING ROBOT 핸들링 로봇 UP50N",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=38748": {
+		"name": "엡손 스카라 로봇 RS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=30857": {
+		"name": "유니버설로봇 UR5 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=31544": {
+		"name": "[스토브리] TX40 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=38787": {
+		"name": "엡손 다관절 로봇 N2",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=34720": {
+		"name": "[스토브리] TX2-60 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=48227": {
+		"name": "HANDLING ROBOT 핸들링 로봇 ES165/200RD II",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=48350": {
+		"name": "야스카와 조립 로봇 / GP8 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41144": {
+		"name": "[현대로보틱스] YS080 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=24592": {
+		"name": "[KUKA] 중 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=131298": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=116043": {
+		"name": "수직다관절로봇 MH12",
+		"brand": "세정로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=38698": {
+		"name": "엡손 스카라 로봇 G1",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41090": {
+		"name": "[현대로보틱스] HH050 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=121721": {
+		"name": "[Painting] 도장 최적화 로봇 MPX2600",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=38710": {
+		"name": "엡손 스카라 로봇 G6",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=24621": {
+		"name": "[KUKA] 초고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=121623": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP400",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=121698": {
+		"name": "SIA20D/F",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=38749": {
+		"name": "엡손 스카라 로봇 RS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=45004": {
+		"name": "도시바 스카라  THL1000  로딩/언로딩  로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=101623": {
+		"name": "[한양로보틱스] 취출로보트 ZEST-H SERIES 30~650Ton(하이 싸이클용 1배속/상하강 속도 30% 향상)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=24614": {
+		"name": "[KUKA] 고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41032": {
+		"name": "[현대로보틱스] HA006B 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41141": {
+		"name": "[현대로보틱스] YS080 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=24595": {
+		"name": "[KUKA] 중 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=131279": {
+		"name": "e-F@ctory Solution 미쓰비시전기 스마트 팩토리 솔루션",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=38744": {
+		"name": "엡손 스카라 로봇 LS20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=24428": {
+		"name": "KUKA 고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=30880": {
+		"name": "유니버설로봇 UR10 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=108449": {
+		"name": "핸들링 용도 최적화 로봇 Handling robot GP25",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=101642": {
+		"name": "[한양로보틱스] 취출로보트 TOP IV-V-X SERIES 80~350Ton",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=101635": {
+		"name": "[한양로보틱스] 취출로보트 TOP IV SERIES 80~350Ton",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=116047": {
+		"name": "수직다관절로봇 ​​MH50Ⅱ",
+		"brand": "세정로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=48356": {
+		"name": "야스카와 절단 로봇 / GP8 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41071": {
+		"name": "[현대로보틱스] HH020L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=24610": {
+		"name": "[KUKA] 고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41056": {
+		"name": "[현대로보틱스] HH010L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41143": {
+		"name": "[현대로보틱스] YS080 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=34676": {
+		"name": "[스토브리] TS40 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=34692": {
+		"name": "[스토브리] TX40 6축 산업용로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=48705": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX165L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41129": {
+		"name": "[현대로보틱스] HX400 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=30871": {
+		"name": "유니버설로봇 UR10 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=38726": {
+		"name": "엡손 스카라 로봇 LS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=34682": {
+		"name": "[스토브리] TS60 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=37776": {
+		"name": "엡손 스카라 로봇 C4/C4L",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=131293": {
+		"name": "미쓰비시전기 e-F@ctory Model Line 견학문의 *이벤트 진행*",
+		"brand": "미쓰비시 일렉트릭",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=24600": {
+		"name": "[KUKA] 중 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=24557": {
+		"name": "KUKA 소형로봇 아길러스 시리즈",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=106961": {
+		"name": "[로보스타] TV 스크류 체결기",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=109963": {
+		"name": "[Panasonic] 파나소닉 6축 독립다관절형 용접로봇 TAWERS TS시리즈",
+		"brand": "파나소닉",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=48339": {
+		"name": "야스카와 조립 로봇 / GP7 / GP시리즈 / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=24560": {
+		"name": "KUKA 소형로봇 아길러스 시리즈",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=48702": {
+		"name": "[가와사키로보틱스] 대형 범용 산업용로봇 CX110L",
+		"brand": "가와사키 로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=48201": {
+		"name": "SPOT ROBOT 스폿 용접 로봇 MS210",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=24622": {
+		"name": "[KUKA] 초고 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=121578": {
+		"name": "[Arc weld] 아크용접 최적화 로봇 AR1440",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=121611": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP88",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=116040": {
+		"name": "수평다관절 | RPA80-4B",
+		"brand": "세정로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=24564": {
+		"name": "KUKA 소형로봇 아길러스 시리즈",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=101614": {
+		"name": "[한양로보틱스] 취출로보트 NEXIA-SYCT SERIES 100~4000Ton (종주행 타입)",
+		"brand": "한양로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=129960": {
+		"name": "H2017 H-SERIES 협동로봇 두산로보틱스",
+		"brand": "두산로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=121580": {
+		"name": "[Arc Weld] 아크용접 최적화 로봇 AR1730",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=108074": {
+		"name": "핸들링 용도 최적화 로봇 Handling robot GP12",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=116042": {
+		"name": "수직다관절로봇 MH5SⅡ",
+		"brand": "세정로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41070": {
+		"name": "[현대로보틱스] HH020L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41164": {
+		"name": "[현대로보틱스] YS140 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=30883": {
+		"name": "유니버설로봇 UR10 협동로봇",
+		"brand": "유니버셜로봇",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=24593": {
+		"name": "[KUKA] 중 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=106948": {
+		"name": "[ATM로봇] 350 ARM",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41154": {
+		"name": "[현대로보틱스] YS080L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=129958": {
+		"name": "A0912 A-SERIES 협동로봇 두산로보틱스",
+		"brand": "두산로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=107147": {
+		"name": "YASKAWA 스폿용접 최적화 로봇 Sprot Welding Robot MS165 / MS210",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=107886": {
+		"name": "핸들링 로봇 Handling Robot GP7",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=38696": {
+		"name": "엡손 스카라 로봇 G1",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=48386": {
+		"name": "야스카와 피킹*패킹 로봇 / MOTOMINI / YASKAWA",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=38745": {
+		"name": "엡손 스카라 로봇 LS20",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41080": {
+		"name": "[현대로보틱스] HH030L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41179": {
+		"name": "[현대로보틱스] HS260 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=106951": {
+		"name": "[ATM로봇] AWDB1S032-107-080",
+		"brand": "로보스타",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=34704": {
+		"name": "[스토브리] TX2-40 협동로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=121576": {
+		"name": "[Arc Robot] 아크용접 최적화 로봇 AR700",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=124295": {
+		"name": "절곡, 절단 자동화 시스템",
+		"brand": "JCT",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=44437": {
+		"name": "도시바 스카라  THL1000 조립 로봇",
+		"brand": "도시바",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=121601": {
+		"name": "[Handling] 핸들링 최적화 로봇 GP25",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41097": {
+		"name": "[현대로보틱스] HH130L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=109973": {
+		"name": "[Panasonic] 파나소닉 6축 독립다관절형 용접로봇 TAWERS TL시리즈",
+		"brand": "파나소닉",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=43467": {
+		"name": "[아우보] AUBO-i5 협동로봇, 협업로봇",
+		"brand": "아우보",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=48196": {
+		"name": "SPOT ROBOT 스폿 용접 로봇 ES200D",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=24566": {
+		"name": "[KUKA] 저 가반하중용 로봇",
+		"brand": "쿠카",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=34679": {
+		"name": "[스토브리] TS60 SCARA 로봇",
+		"brand": "스토브리",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41072": {
+		"name": "[현대로보틱스] HH020L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=41157": {
+		"name": "[현대로보틱스] YS080L 산업용로봇",
+		"brand": "현대로보틱스",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=38724": {
+		"name": "엡손 스카라 로봇 LS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=121638": {
+		"name": "[Palletizing] 팔레타이징 최적화 로봇 MPL80II",
+		"brand": "야스카와",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=4969": {
+		"name": "한화테크윈 협동로봇 HCR-5",
+		"brand": "한화테크윈",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=38754": {
+		"name": "엡손 스카라 로봇 RS3",
+		"brand": "엡손",
+		"price": "견적거래 제품"
+	},
+	"http://mall.daara.co.kr/product/view.html?cd=103100&rownum=100&page=8&p_seq=37795": {
+		"name": "엡손 스카라 로봇 C8",
+		"brand": "엡손",
 		"price": "견적거래 제품"
 	}
 }

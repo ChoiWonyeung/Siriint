@@ -1,0 +1,3823 @@
+{
+	"https://www.cobotwebshop.com/en/product/h-2515/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/07/h2515-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/H2515_4.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/H2515_3.png",
+		"name": {
+			"0": "Doosan H2515"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-H25"
+		},
+		"options": {},
+		"description": {
+			"0": "The Doosan H2515 is the heavier version of the High Power H series (compared to the H2017).",
+			"1": "This cobot has a weight capacity of 25kg and a reach of 1500mm. All Doosan cobots have F / T sensors in all joints, which makes them very sensitive to unwanted back pressure (collisions).",
+			"2": "Multiple specifications can be found in the next tab.",
+			"3": "Suitable applications"
+		},
+		"dimension": {
+			"Weight": "72 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/h-2017/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/07/h2017-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/H_2017_4.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/H_2017_3.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/H_2017_2.png",
+		"name": {
+			"0": "H2017"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-H20"
+		},
+		"options": {},
+		"description": {
+			"0": "The Doosan H2017 is the light version of the High Power H series (compared to the H2515).",
+			"1": "This cobot has a weight capacity of 20kg and reach of 1700mm. All Doosan cobot have F / T sensors in all joints, which makes them very sensitive to unwanted back pressure (collisions).",
+			"2": "Multiple specifications can be found in the next tab.",
+			"3": "Suitable applications",
+			"4": "ca. 160°; 100°/sec",
+			"5": "ca. 360°; 180°/sec",
+			"6": "IP54",
+			"7": "In progress",
+			"8": "150 x 150 mm",
+			"9": "74kg"
+		},
+		"dimension": {
+			"Weight": "74 kg",
+			"Pendant": "",
+			"Herhaalnauwkeurigheid": "",
+			"Temperatuurbereik": "",
+			"Draagkracht": "",
+			"Bereik": "",
+			"Graden bewegingsvrijheid": "",
+			"Programmering": "",
+			"Basis": "",
+			"Elleboog": "ca. 160°; 100°/sec",
+			"Pols 1": "",
+			"Pols 2": "",
+			"Pols 3": "ca. 360°; 180°/sec",
+			"IP classificatie": "IP54",
+			"ISO Class Cleanroom": "In progress",
+			"Voetafdruk": "150 x 150 mm",
+			"Gewicht": "74kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/doosan_m1509/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/DOOSAN-M1509-400x400.png",
+		"name": {
+			"0": "M1509"
+		},
+		"summary": {
+			"0": "robotarm"
+		},
+		"model_name": {
+			"0": "OR-C-M1509"
+		},
+		"options": {},
+		"description": {
+			"0": "The Doosan M1509 has the highest load capacity of the series of 15kgs, but has a reach of 900mm. This cobot is efficiënt in handling heavy objects.",
+			"1": "The GUI based Touch interface of the control panel can be compared to smartphones or tablets. A robot’s movement is indicated by means of icons. Functionality can be easily added or altered with Drag & Drop in order to complete the task at hand. The movements of the robot arm are clearly indicated on a timeline with icons.",
+			"2": "The additional teach cockpit on the robot arm is an advanced solution for direct programming without control panel with 5 buttons for selecting different programming modes and for moving the axes.",
+			"3": "The M1013 has a coating that can resist among other things cooling lubricants in a CNC machine tool.",
+			"4": "Extra options:",
+			"5": "Connections",
+			"6": "`",
+			"7": "Control panel",
+			"8": "* network connection possible for a large variety of communication systems",
+			"9": "Programming tablet",
+			"10": "15kg",
+			"11": "GUI-gebaseerd touch interface teach pad",
+			"12": "approx 360 ° approx 150 °/sec",
+			"13": "ca. 360 ° ca. 150 °/sec",
+			"14": "approx 150 ° approx 180 °/sec, ca. 150 ° ca. 180 °/sec",
+			"15": "Ø 150mm"
+		},
+		"dimension": {}
+	},
+	"https://www.cobotwebshop.com/en/product/doosan_m1013/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/DOOSAN-M1013-400x400.png",
+		"name": {
+			"0": "M1013"
+		},
+		"summary": {
+			"0": "robotarm"
+		},
+		"model_name": {
+			"0": "OR-C-M1013"
+		},
+		"options": {},
+		"description": {
+			"0": "The Doosan M1013 is a standard model. The cobot has a load capacity of 10kg and a reach of 1,300mm.",
+			"1": "The GUI based Touch interface of the control panel can be compared to smartphones or tablets. A robot’s movement is indicated by means of icons. Functionality can be easily added or altered with Drag & Drop in order to complete the task at hand. The movements of the robot arm are clearly indicated on a timeline with icons.",
+			"2": "The additional teach cockpit on the robot arm is an advanced solution for direct programming without control panel with 5 buttons for selecting different programming modes and for moving the axes.",
+			"3": "The M1013 has a coating that can resist among other things cooling lubricants in a CNC machine tool.",
+			"4": "Extra options:",
+			"5": "Connections",
+			"6": "`",
+			"7": "Control panel",
+			"8": "* network connection possible for a large variety of communication systems",
+			"9": "Programming tablet",
+			"10": "10 kg",
+			"11": "1.300 mm",
+			"12": "GUI-gebaseerd touch interface teach pad",
+			"13": "Ø 150mm"
+		},
+		"dimension": {}
+	},
+	"https://www.cobotwebshop.com/en/product/a-0912/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/06/doosan-a0912-500x500-1.png",
+		"name": {
+			"0": "A0912"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-DA12"
+		},
+		"options": {},
+		"description": {
+			"0": "The A-series cobots from Doosan are fast and have a short ROI (also fast in payback time).",
+			"1": "These cobots are slightly stripped down as standard, but have various options. This makes them adaptable to your needs. The A0912 has a weight capacity of 9kg and reach of 1200mm. The ‘s’ variant has a built-in Force / Torque sensor in the last joint.",
+			"2": "View more specifications under the specification tab. Under the download tab you will find an overview of the differences between the M-series and A-series.",
+			"3": "Teach Pendant",
+			"4": "Ja",
+			"5": "0,05 mm",
+			"6": "9 kg",
+			"7": "offline; as option teach pendant, smart pendant of teachcockpit",
+			"8": "ca. 360° ca. 180°/sec",
+			"9": "ca. 160° ca. 180°/sec",
+			"10": "150 x 150 mm"
+		},
+		"dimension": {
+			"Weight": "27 kg",
+			"Pendant": "Teach Pendant",
+			"A-serie 's' variant": "Ja",
+			"Herhaalnauwkeurigheid": "0,05 mm",
+			"Temperatuurbereik": "",
+			"Draagkracht": "9 kg",
+			"Bereik": "",
+			"Graden bewegingsvrijheid": "",
+			"Programmering": "offline; as option teach pendant, smart pendant of teachcockpit",
+			"Basis": "ca. 360° ca. 180°/sec",
+			"Schouder": "",
+			"Elleboog": "ca. 160° ca. 180°/sec",
+			"Pols 2": "",
+			"Pols 3": "",
+			"IP classificatie": "",
+			"ISO Class Cleanroom": "",
+			"Voetafdruk": "150 x 150 mm",
+			"Gewicht": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/doosan_m0609/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2019/04/DOOSAN-M0609-500x500-1.png",
+		"name": {
+			"0": "M0609"
+		},
+		"summary": {
+			"0": "robotarm"
+		},
+		"model_name": {
+			"0": "OR-C-M0609"
+		},
+		"options": {},
+		"description": {
+			"0": "The Doosan M0609 is optimally suited for representative tasks at high speed and in small workspaces.",
+			"1": "The GUI based Touch interface of the control panel can be compared to smartphones or tablets. A robot’s movement is indicated by means of icons. Functionality can be easily added or altered with Drag & Drop in order to complete the task at hand. The movements of the robot arm are clearly indicated on a timeline with icons.",
+			"2": "The additional teach cockpit on the robot arm is an advanced solution for direct programming without control panel with 5 buttons for selecting different programming modes and for moving the axes.",
+			"3": "The M0609 has a coating that can resist among other things cooling lubricants in a CNC machine tool. Doosan cobots are able to accurately measure objects up to 20 g.",
+			"4": "Extra options:",
+			"5": "Connections",
+			"6": "`",
+			"7": "Control panel",
+			"8": "* network connection possible for a large variety of communication systems",
+			"9": "Programming tablet"
+		},
+		"dimension": {}
+	},
+	"https://www.cobotwebshop.com/en/product/doosan_m0617/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/DOOSAN-M0617-400x400.png",
+		"name": {
+			"0": "M0617"
+		},
+		"summary": {
+			"0": "robotarm"
+		},
+		"model_name": {
+			"0": "OR-C-M0617"
+		},
+		"options": {},
+		"description": {
+			"0": "The Doosan M0617 has a load capacity of 6kg with a reach of as much as 1,700mm. This cobot is efficient for tasks over long distances.",
+			"1": "The GUI based Touch interface of the control panel can be compared to smartphones or tablets. A robot’s movement is indicated by means of icons.",
+			"2": "Functionality can be easily added or altered with Drag & Drop in order to complete the task at hand. The movements of the robot arm are clearly indicated on a timeline with icons.",
+			"3": "The additional teach cockpit on the robot arm is an advanced solution for direct programming without control panel with 5 buttons for selecting different programming modes and for moving the axes.",
+			"4": "The M0617 has a coating that can resist among other things cooling lubricants in a CNC machine tool.",
+			"5": "Extra options:",
+			"6": "Connections",
+			"7": "`",
+			"8": "Control panel",
+			"9": "* network connection possible for a large variety of communication systems",
+			"10": "Programming tablet"
+		},
+		"dimension": {}
+	},
+	"https://www.cobotwebshop.com/en/product/a-0509/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/06/doosan-a0509-500x500-1.png",
+		"name": {
+			"0": "A0509"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-DAS"
+		},
+		"options": {},
+		"description": {
+			"0": "The A-series cobots from Doosan are fast and have a short ROI (also fast in payback time).",
+			"1": "These cobots are slightly stripped down as standard, but have various options. This makes them adaptable to your needs. The A0509 has a weight capacity of 5kg and reach of 900mm. The ‘s’ variant has a built-in Force / Torque sensor in the last joint.",
+			"2": "View more specifications under the specification tab. Under the download tab you will find an overview of the differences between the M-series and A-series.",
+			"3": "Teach Pendant",
+			"4": "Ja",
+			"5": "± 0,03 mm",
+			"6": "offline; as option teach pendant, smart pendant of teachcockpit",
+			"7": "ca. 360° ca. 180°/sec",
+			"8": "ca. 160° ca. 180°/sec"
+		},
+		"dimension": {
+			"Weight": "27 kg",
+			"Pendant": "Teach Pendant",
+			"A-serie 's' variant": "Ja",
+			"Herhaalnauwkeurigheid": "± 0,03 mm",
+			"Temperatuurbereik": "",
+			"Draagkracht": "",
+			"Bereik": "",
+			"Graden bewegingsvrijheid": "",
+			"Programmering": "offline; as option teach pendant, smart pendant of teachcockpit",
+			"Basis": "ca. 360° ca. 180°/sec",
+			"Schouder": "",
+			"Elleboog": "ca. 160° ca. 180°/sec",
+			"Pols 1": "",
+			"Pols 2": "",
+			"Pols 3": "",
+			"IP classificatie": "",
+			"ISO Class Cleanroom": "",
+			"I/O poorten": "",
+			"Gewicht": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/ur16e-cobot/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2019/09/UR-16e-500x500-2.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/UR16e_all_01.jpg",
+		"name": {
+			"0": "UR16e"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-16e"
+		},
+		"options": {},
+		"description": {
+			"0": "This cobot from Universal Robots is the newest in the series with a load capacity of 16 kilos and a reach of 900 mm. Only in the e-series version (not CB3). It is made with specific applications in mind: palletizing and packaging. In addition, there is a need within the market for a cobot with sufficient bearing capacity to mount heavier tools, whereby the cobot can also handle a workpiece. This cobot corresponds to this.",
+			"1": "The control box data",
+			"2": "0,05 mm",
+			"3": "0-50 °C",
+			"4": "approx 360 ° approx 180 °/sec",
+			"5": "Minder dan 65 dB(A)",
+			"6": "Ø 190mm",
+			"7": "33.1 kg"
+		},
+		"dimension": {}
+	},
+	"https://www.cobotwebshop.com/en/product/ur10e-cobot/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/ur10e.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/URkappen-OR-scaled.jpg",
+		"name": {
+			"0": "UR10e"
+		},
+		"summary": {
+			"0": "cobots",
+			"1": "robotarm"
+		},
+		"model_name": {
+			"0": "OR-UR-10e"
+		},
+		"options": {},
+		"description": {
+			"0": "The new generation of UR cobots; the e-series. Similar to the UR10, but with a number of differences. The e-series cobots from Universal Robots are more precise and sensitive due to a built-in Force / Torque sensor in the last joint, the teach pendant has had a redesign, the software has become more user-friendly, there are more safety functions with adjustable stop time and distance, the robot arm has become more silent and a UART interface has been added.",
+			"1": "Why still combine an external F / T sensor with an UR cobot? Ask us!",
+			"2": "The control box data",
+			"3": "IP classification IP44",
+			"4": "ISO Class Cleanroom 6",
+			"5": "I / O ports digitally in & out: 16, analog in & out: 2",
+			"6": "I / O power supply 24V 2A",
+			"7": "Communication TCP / IP 100Mbit, Modbus TCP, Profinet, Ethernet IP, 1 USB 2.0, 1 USB 3.0",
+			"8": "Power source 100-240 VAC, 47-440 Hz",
+			"9": "Dimensions (LxWxH) 475mm x 268mm x 423mm",
+			"10": "Weight 13.6 kg",
+			"11": "Material of steel",
+			"12": "* Personalize your cobot with our anodized aluminum caps with engraved Olmia Robotics logo.",
+			"13": "ja"
+		},
+		"dimension": {
+			"Weight": "33.5 kg",
+			"incl. aluminium UR kappen": "ja"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/ur10/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/UR10.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/URkappen-OR-scaled.jpg",
+		"name": {
+			"0": "UR10"
+		},
+		"summary": {
+			"0": "cobot",
+			"1": "robotarm",
+			"2": "cobots",
+			"3": "robotarm",
+			"4": "universal robots"
+		},
+		"model_name": {
+			"0": "OR-UR-10"
+		},
+		"options": {},
+		"description": {
+			"0": "De UR10 (CB3 versie) is de grootste en zwaarste robotarm (reikwijdte 1300 mm) uit de serie van Universal Robots. De robotarm is gemaakt van Aluminium en PP plastic, is door eenieder te installeren en te leren gebruiken met zijn eenvoudige, grafische interface. Alle robotarmen van Universal Robotics zijn Tüv NORD gecertificeerd en voldoen aan NEN-EN-ISO 13849:2008 PL d en de TS 15066.",
+			"1": "Op Olmia Robotics vind je voorbeelden van toepassingen voor deze Cobots.",
+			"2": "De bedieningskastgegevens",
+			"3": "* Personaliseer jouw cobot met onze geanodiseerd aluminium kappen met gegraveerd Olmia Robotics logo.",
+			"4": "ja",
+			"5": "approx 0,1mm, ca. 0,1mm",
+			"6": "0-50 °C",
+			"7": "min 90W, average 250W, max 500W, min 90W, gemiddeld 250W, max 500W",
+			"8": "15 advanced, customizable safety functions, 15 geavanceerde, instelbare veiligheidsfuncties",
+			"9": "6 draaiende gewrichten, 6 rotating joints",
+			"10": "ca. 360 ° ca. 120 °/sec",
+			"11": "ca. 360 ° ca. 180 °/sec",
+			"12": "approx 360 ° approx 180 °/sec",
+			"13": "ca. 360 ° ca. 180 °/sec",
+			"14": "IP54",
+			"15": "5, 5",
+			"16": "relatively silent"
+		},
+		"dimension": {}
+	},
+	"https://www.cobotwebshop.com/en/product/ur5e-cobot/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/ur5e.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/URkappen-OR-scaled.jpg",
+		"name": {
+			"0": "UR5e"
+		},
+		"summary": {
+			"0": "cobots",
+			"1": "robotarm"
+		},
+		"model_name": {
+			"0": "OR-UR-5e"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "ja"
+		},
+		"description": {
+			"0": "The new generation of UR cobots; the e-series. Similar to the UR5, but with a number of differences. The e-series cobots from Universal Robots are more precise and sensitive due to a built-in Force / Torque sensor in the last joint, the teach pendant has had a redesign, the software has become more user-friendly, there are more safety functions with adjustable stop time and distance, the robot arm has become more silent and a UART interface has been added.",
+			"1": "Why still combine an external F / T sensor with an UR cobot? Ask us!",
+			"2": "The control box data",
+			"3": "IP classification IP44",
+			"4": "ISO Class Cleanroom 6",
+			"5": "I / O ports digitally in & out: 16, analog in & out: 2",
+			"6": "I / O power supply 24V 2A",
+			"7": "Communication TCP / IP 100Mbit, Modbus TCP, Profinet, Ethernet IP, 1 USB 2.0, 1 USB 3.0",
+			"8": "Power source 100-240 VAC, 47-440 Hz",
+			"9": "Dimensions (LxWxH) 475mm x 268mm x 423mm",
+			"10": "Weight 13.6 kg",
+			"11": "Material of steel",
+			"12": "* Personalize your cobot with our anodized aluminum caps with engraved Olmia Robotics logo.",
+			"13": "ja"
+		},
+		"dimension": {
+			"Weight": "20.6 kg",
+			"incl. aluminium UR kappen": "ja"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/ur5-cobot/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/UR5.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/URkappen-OR-scaled.jpg",
+		"name": {
+			"0": "UR5"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-UR-5"
+		},
+		"options": {},
+		"description": {
+			"0": "The UR5 is the middle robot arm from the Universal Robots series (range 850 mm). The robot arm is made of Aluminum and PP plastic, can be installed and learned by anyone with its simple, graphical interface. All robot arms from Universal Robotics are Tüv NORD certified and comply with NEN-EN-ISO 13849: 2008 PL d and the TS 15066.",
+			"1": "At Olmia Robotics you will find examples of applications for these Cobots.",
+			"2": "The control box data",
+			"3": "IP classification IP20",
+			"4": "ISO Class Cleanroom 6",
+			"5": "Sound <65dB (A)",
+			"6": "I / O ports digitally in & out: 16, analog in & out: 2",
+			"7": "I / O power supply 24V 2A",
+			"8": "Communication TCP / IP 100Mbit, Modbus TCP, Profinet, EthernetIP",
+			"9": "Power source 100-240 VAC, 50-60 Hz",
+			"10": "Dimensions (LxWxH) 475mm x 268mm x 423mm",
+			"11": "Weight 15 kg",
+			"12": "Material of steel",
+			"13": "* Personalize your cobot with our anodized aluminum caps with engraved Olmia Robotics logo.",
+			"14": "ja"
+		},
+		"dimension": {
+			"Weight": "18.4 kg",
+			"incl. aluminium UR kappen": "ja"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/ur3e-cobot/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/ur3e.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/URkappen-OR-scaled.jpg",
+		"name": {
+			"0": "UR3e"
+		},
+		"summary": {
+			"0": "cobots",
+			"1": "robotarm"
+		},
+		"model_name": {
+			"0": "OR-UR-3e"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "ja"
+		},
+		"description": {
+			"0": "The new generation of UR cobots; the e-series. Similar to the UR3, but with a number of differences. The e-series cobots from Universal Robots are more precise and sensitive due to a built-in Force / Torque sensor in the last joint, the teach pendant has had a redesign, the software has become more user-friendly, there are more safety functions with adjustable stop time and distance, the robot arm has become more silent and a UART interface has been added.",
+			"1": "Why still combine an external F / T sensor with an UR cobot? Ask us!",
+			"2": "The control box data",
+			"3": "IP classification IP44",
+			"4": "ISO Class Cleanroom 6",
+			"5": "I / O ports digitally in & out: 16, analog in & out: 2",
+			"6": "I / O power supply 24V 2A",
+			"7": "Communication TCP / IP 100Mbit, Modbus TCP, Profinet, Ethernet IP, 1 USB 2.0, 1 USB 3.0",
+			"8": "Power source 100-240 VAC, 47-440 Hz",
+			"9": "Dimensions (LxWxH) 475mm x 268mm x 423mm",
+			"10": "Weight 13 kg",
+			"11": "Material of steel",
+			"12": "* Personalize your cobot with our anodized aluminum caps with engraved Olmia Robotics logo.",
+			"13": "ja",
+			"14": "0-50 °C",
+			"15": "17 advanced, customizable safety functions",
+			"16": "infinite approx 360 °/sec",
+			"17": "Ø 128mm"
+		},
+		"dimension": {
+			"Weight": "11.2 kg",
+			"incl. aluminium UR kappen": "ja",
+			"Temperatuurbereik": "0-50 °C",
+			"Samenwerking": "17 advanced, customizable safety functions",
+			"Draagkracht": "",
+			"Bereik": "",
+			"Graden bewegingsvrijheid": "",
+			"Programmering": "",
+			"Basis": "",
+			"Schouder": "",
+			"Pols 1": "",
+			"Pols 2": "",
+			"Pols 3": "infinite approx 360 °/sec",
+			"ISO Class Cleanroom": "",
+			"Geluid": "",
+			"I/O voeding in tool": "",
+			"Voetafdruk": "Ø 128mm",
+			"Aansluitingstype voor tool": "",
+			"Kabellengte": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/hcr_12/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/06/HCR-12-500x500-1.png",
+		"name": {
+			"0": "HCR-12"
+		},
+		"summary": {
+			"0": "beladingssysteem",
+			"1": "cobots",
+			"2": "robotarm"
+		},
+		"model_name": {
+			"0": "OR-HA-12"
+		},
+		"options": {},
+		"description": {
+			"0": "The HCR-12 is the largest and heaviest robot arm (reach 1300 mm) in the Hanwha series. The robot arm can be installed and used by anyone due to its simple graphical interface. All Hanwha robot arms are Tüv NORD EN ISO 13849-1 PL d certified.",
+			"1": "On Olmia Robotics you can find examples of applications for these cobots.",
+			"2": "There are a few differences from Universal Robots cobots:",
+			"3": "circa 0,1 mm",
+			"4": "approx 165°, ca. 165°",
+			"5": "Ø 190 mm"
+		},
+		"dimension": {
+			"Weight": "51 kg",
+			"Herhaalnauwkeurigheid": "circa 0,1 mm",
+			"Draagkracht": "",
+			"Bereik": "",
+			"Graden bewegingsvrijheid": "",
+			"Programmering": "",
+			"Schouder": "",
+			"Elleboog": "approx 165°, ca. 165°",
+			"Pols 2": "",
+			"Pols 3": "",
+			"I/O poorten": "",
+			"Voetafdruk": "Ø 190 mm",
+			"Kabellengte": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/hcr_5/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/06/HCR-5-500x500-1.png",
+		"name": {
+			"0": "HCR-5"
+		},
+		"summary": {
+			"0": "beladingssysteem",
+			"1": "cobots",
+			"2": "robotarm"
+		},
+		"model_name": {
+			"0": "OR-HA-5"
+		},
+		"options": {},
+		"description": {
+			"0": "The HCR-5 is the middle sized robot arm in the Hanwha series (reach 915 mm). The robot arm can be installed and used by anyone due to its simple graphical interface. All Hanwha robot arms are Tüv NORD EN ISO 13849-1 PL d certified.",
+			"1": "On Olmia Robotics you can find examples of applications for these cobots.",
+			"2": "There are a few differences from Universal Robots cobots:"
+		},
+		"dimension": {
+			"Weight": "21 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/hcr_3/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/HCR-3.png",
+		"name": {
+			"0": "HCR-3"
+		},
+		"summary": {
+			"0": "beladingssysteem",
+			"1": "cobots",
+			"2": "robotarm"
+		},
+		"model_name": {
+			"0": "OR-HA-3"
+		},
+		"options": {},
+		"description": {
+			"0": "The HCR-3 is the smallest and lightest robot arm (reach 630 mm) in the Hanwha series. Eminently suitable for lighter tasks. The robot arm can be installed and used by anyone due to its simple, user-friendly graphical interface. All Hanwha robot arms are Tüv NORD EN ISO 13849-1 PL d certified.",
+			"1": "On Olmia Robotics you can find examples of applications for these cobots.",
+			"2": "There are a few differences from Universal Robots cobots:"
+		},
+		"dimension": {
+			"Weight": "13 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/tm-12/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/08/TM12-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/TM12-3.png",
+		"name": {
+			"0": "TM 12"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-TM12"
+		},
+		"options": {},
+		"description": {
+			"0": "The TM12 is the middle sized Techman cobot of the TM serie. This cobot has a payload of 12kg and a reach of 1300mm.",
+			"1": "The TM12 is suitable for various applications such as:",
+			"2": "The TM serie cobots have a standard integrated 2D colour vision camera. Through the TM landmarks it is easy to use the cobot for different applications. Extra GigE camera’s are compatible. The Techman can read QR and barcodes with its camera. In addition, the cobot of the TM series have/are:",
+			"3": "The TM is winner of the international IF design award in 2018.",
+			"4": "Delivery in consultation only."
+		},
+		"dimension": {
+			"Weight": "33.3 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/tm5-900-cover/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/08/TM5-900-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/tm5.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/tm5-transp-1.png",
+		"name": {
+			"0": "TM5-900"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-TM59"
+		},
+		"options": {},
+		"description": {
+			"0": "Better known as the Techman. This is the Techman 5 with a range of 900mm. The TM5-900 is suitable for various applications such as:",
+			"1": "The TM series cobots have an integrated 2D color vision camera as standard and can easily be used for multiple applications by TM landmarks. Extra GigE cameras are supported. The Techman can read QR and barcodes with his cameras. In addition, the TM series cobots:",
+			"2": "The TM is the winner of the international IF design award in 2018.",
+			"3": "Note: delivery after consultation",
+			"4": "0-50 °C",
+			"5": "ca. 155°",
+			"6": "Ø 177mm",
+			"7": "3m"
+		},
+		"dimension": {
+			"Weight": "22.6 kg",
+			"Herhaalnauwkeurigheid": "",
+			"Temperatuurbereik": "0-50 °C",
+			"Bereik": "",
+			"Graden bewegingsvrijheid": "",
+			"Programmering": "",
+			"Schouder": "",
+			"Elleboog": "ca. 155°",
+			"Pols 1": "",
+			"Pols 2": "",
+			"Pols 3": "",
+			"IP classificatie": "",
+			"I/O poorten": "",
+			"Voetafdruk": "Ø 177mm",
+			"Kabellengte": "3m"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/tm5_700/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/08/TM5-700-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/TM5-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/TM5-3.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/tm5-transp-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/tm5.png",
+		"name": {
+			"0": "TM5 – 700"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-TM57"
+		},
+		"options": {},
+		"description": {
+			"0": "Also known as the Techman. The Techman 5 has a reach of 700mm.",
+			"1": "The TM5 – 700 is suitable for various applications such as:",
+			"2": "The TM serie cobots have a standard integrated 2D colour vision camera. Through the TM landmarks it is easy to use the cobot for different applications. Extra GigE camera’s are compatible. The Techman can read QR and barcodes with its camera. In addition, the cobot of the TM series have/are:",
+			"3": "The TM is winner of the international IF design award in 2018.",
+			"4": "Delivery in consultation only.",
+			"5": "0,05 mm, 0.05 mm",
+			"6": "155°"
+		},
+		"dimension": {
+			"Weight": "22.1 kg",
+			"Herhaalnauwkeurigheid": "0,05 mm, 0.05 mm",
+			"Draagkracht": "",
+			"Bereik": "",
+			"Basis": "",
+			"Schouder": "",
+			"Elleboog": "155°",
+			"Pols 1": "",
+			"Pols 2": "",
+			"Pols 3": "",
+			"Gewicht": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/yl005/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/YL005.jpg",
+		"name": {
+			"0": "YL005"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-YL5"
+		},
+		"options": {},
+		"description": {
+			"0": "One of the 3 cobots from Hyundai Robotics. This smallest variant has a load capacity of 5kg and a reach of 916mm.",
+			"1": "Available interfaces: Profinet IO, Ethernet / IP, Ethernet (TCP / IP), PROFIBUS, DeviceNet, CANOpen, CC-Link, CC-Link IE Field, EtherCAT, MODBUS / TCP.",
+			"2": "Direct Teaching: Flexible due to integrated Joint / Torque sensors in all 6 axes of the robot. Buttons on the wrist of the robot for use of direct teaching, also possible to move axis only in Z or XY direction. Design: The unique design of the robot makes it possible to maneuver in narrow spaces.",
+			"3": "Controller: Industrial controller for this cobot offers reliability and functionalities that you are used to from industrial robots.",
+			"4": "Suitable for:",
+			"5": "Palletizing and packaging, Pick & Place, Machine loading, Blow-off, Assembly, Polishing & deburring, Gluing & sealants, injection molding and chamfering assistance, Inspection tasks, Welding and Service.",
+			"6": "180◦",
+			"7": "180°",
+			"8": "+/- 180°"
+		},
+		"dimension": {
+			"Weight": "27.00000000 kg",
+			"Herhaalnauwkeurigheid": "",
+			"Temperatuurbereik": "",
+			"Draagkracht": "",
+			"Bereik": "",
+			"Graden bewegingsvrijheid": "",
+			"Programmering": "",
+			"Basis": "",
+			"Elleboog": "180◦",
+			"Pols 1": "180°",
+			"Pols 2": "",
+			"Pols 3": "+/- 180°",
+			"IP classificatie": "",
+			"I/O poorten": "",
+			"Kabellengte": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/yl012/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/11/YL012.png",
+		"name": {
+			"0": "YL012"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-YL12"
+		},
+		"options": {},
+		"description": {
+			"0": "One of the 3 cobots from Hyundai Robotics. This medium variant has a load capacity of 12kg and a reach of 1300mm.",
+			"1": "Available interfaces: Profinet IO, Ethernet / IP, Ethernet (TCP / IP), PROFIBUS, DeviceNet, CANOpen, CC-Link, CC-Link IE Field, EtherCAT, MODBUS / TCP.",
+			"2": "Direct Teaching: Flexible due to integrated Joint / Torque sensors in all 6 axes of the robot. Buttons on the wrist of the robot for use of direct teaching, also possible to move axis only in Z or XY direction. Design: The unique design of the robot makes it possible to maneuver in narrow spaces.",
+			"3": "Controller: Industrial controller for this cobot offers reliability and functionalities that you are used to from industrial robots.",
+			"4": "Suitable for:",
+			"5": "Palletizing and packaging, Pick & Place, Machine loading, Air Blowing, Assembly, Polishing & deburring, Gluing & sealants, injection molding and chamfering assistance, Inspection tasks, Welding and Service.",
+			"6": "1300mm",
+			"7": "180◦"
+		},
+		"dimension": {
+			"Weight": "43.00000000 kg",
+			"Herhaalnauwkeurigheid": "",
+			"Temperatuurbereik": "",
+			"Draagkracht": "",
+			"Bereik": "1300mm",
+			"Graden bewegingsvrijheid": "",
+			"Programmering": "",
+			"Basis": "",
+			"Elleboog": "180◦",
+			"Pols 1": "",
+			"Pols 2": "",
+			"Kabellengte": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/crx-10ial-cobot/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/06/CRX-10iA_L-500x500-1.png",
+		"name": {
+			"0": "CRX-10iA/L"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-FCRL"
+		},
+		"options": {},
+		"description": {
+			"0": "The CRX-10iA/L is a cobot with accompanying friendly user interface with drag & drop function.",
+			"1": "The weight capacity is 10kg and the range is 1418mm.",
+			"2": "Handy feature of this cobot is its “underflip”: it doesn’t have to turn around to place an object from one side of its base to the other, but can just work on either side of the base.",
+			"3": "The cobot has an extra wide space on joint 3, which prevents pinching. In addition, it is very well protected against dust or oil leaks.",
+			"4": "Fanuc’ own camera system (iRVision) and Force / Torque sensor (FS-15iA) can be mounted cordlessly. The plug-in software allows for easy installation of peripherals.",
+			"5": "The cobot is equipped with a status lamp, which indicates the status:",
+			"6": "+/- 0.05"
+		},
+		"dimension": {
+			"Weight": "39 kg",
+			"Herhaalnauwkeurigheid": "+/- 0.05",
+			"Bereik": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/crx10ia-cobot/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/06/CRX-10iA_L-500x500-1.png",
+		"name": {
+			"0": "CRX10iA"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-FCRX"
+		},
+		"options": {},
+		"description": {
+			"0": "The CRX-10iA is a cobot with accompanying friendly user interface with drag & drop function.",
+			"1": "The weight capacity is 10kg and the range is 1249mm.",
+			"2": "The cobot has an extra wide space on joint 3, which prevents pinching. In addition, it is very well protected against dust or oil leaks.\nFanuc’ own camera system (iRVision) and Force / Torque sensor (FS-15iA) can be mounted cordlessly. The plug-in software allows for easy installation of peripherals.",
+			"3": "The cobot is equipped with a status lamp, which indicates the status:",
+			"4": "+/- 0.05"
+		},
+		"dimension": {
+			"Weight": "39.00000000 kg",
+			"Herhaalnauwkeurigheid": "+/- 0.05",
+			"Bereik": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/sawyer_back-edition_cobot/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2019/11/Sawyer-black-edition-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/sawyer-be1.jpg",
+		"name": {
+			"0": "Sawyer Black Edition"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-SWB"
+		},
+		"options": {},
+		"description": {
+			"0": "The Sawyer is a red cobot with a face. The cobot with 7 joints literally gives, as one of the first developed cobots, a face to collaborative robots. The Sawyer is suitable for applications such as:",
+			"1": "The black edition, released by Rethink Robotics, is the improved version of the Sawyer cobot. The advantages are:",
+			"2": "350°",
+			"3": "350°"
+		},
+		"dimension": {
+			"Weight": "20 kg",
+			"Herhaalnauwkeurigheid": "",
+			"Draagkracht": "",
+			"Bereik": "",
+			"Basis": "350°",
+			"Schouder": "",
+			"Elleboog": "350°",
+			"Pols 2": "",
+			"Pols 3": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/sawyer_rethink/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2019/03/Sawyer-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/sawyer.jpg",
+		"name": {
+			"0": "Sawyer"
+		},
+		"summary": {
+			"0": "cobots",
+			"1": "robotarm"
+		},
+		"model_name": {
+			"0": "OR-C-SY"
+		},
+		"options": {},
+		"description": {
+			"0": "The Sawyer is a red cobot with a face. The cobot with 7 joints literally gives, as one of the first developed cobots, a face to collaborative robots. The Sawyer is suitable for applications such as:"
+		},
+		"dimension": {
+			"Weight": "19 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/yumi-irb14000/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/10/YUMI-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/yumi-2armen.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/yumi-compact.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/yumi-werkt.jpg",
+		"name": {
+			"0": "YuMi"
+		},
+		"summary": {
+			"0": "cobots"
+		},
+		"model_name": {
+			"0": "OR-AB-Y"
+		},
+		"options": {},
+		"description": {
+			"0": "The YuMi is a double-armed cobot with 7 axles each. It is extremely suitable for assembly tasks of small parts. The YuMi has precise visibility, handy grippers, flexible software and provides feedback on power control. It comes with:",
+			"1": "The RoboWare controller software controls all aspects of the cobot such as motion control, development and execution of application programs, communication etc. This can be expanded with application support, eg communication functions – network communication and advanced functions such as multitasking and sensor control.",
+			"2": "In the event of an unexpected mechanical malfunction, such as a collision, the cobot stops and then slightly deteriorates from its stop position. As an option, a safety light can be mounted on the manipulator. This lamp is activated when the controller is in the MOTORS ON status.",
+			"3": "Contact us about delivery times.",
+			"4": "559mm",
+			"5": "7 rotating joints",
+			"6": "399 x 421 mm"
+		},
+		"dimension": {
+			"Weight": "38.00000000 kg",
+			"Temperatuurbereik": "",
+			"Draagkracht": "",
+			"Bereik": "559mm",
+			"Graden bewegingsvrijheid": "7 rotating joints",
+			"Programmering": "",
+			"Basis": "",
+			"Schouder": "",
+			"Pols 1": "",
+			"ISO Class Cleanroom": "",
+			"Voetafdruk": "399 x 421 mm"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/cobot-aura/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/08/aura-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/aura-v1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/aura-v2.png",
+		"name": {
+			"0": "AURA"
+		},
+		"summary": {
+			"0": "aura",
+			"1": "cobots"
+		},
+		"model_name": {
+			"0": "OR-C-AU"
+		},
+		"options": {},
+		"description": {
+			"0": "This heavy duty industrial robot has been made fully collaborative by, among other things, a foam skin with contact sensors and an integrated safety scanner. The AURA is unique within the cobots:",
+			"1": "The LED lighting indicates in which mode the robot arm works. The AURA is suitable for Pick and Place, material handling applications of heavy objects.",
+			"2": "The AURA is TÜV & SÜD certified EN ISO 13849-12015.",
+			"3": "Options are customer specific such as: Manual Guidence, Laser scanner Management, Force control, Programming via tablet with PickApp, gripper protection case.",
+			"4": "Interested? Ask for a quote.",
+			"5": "0-45 °C",
+			"6": "105◦",
+			"7": "180◦"
+		},
+		"dimension": {
+			"Weight": "685.00000000 kg",
+			"Herhaalnauwkeurigheid": "",
+			"Temperatuurbereik": "0-45 °C",
+			"Draagkracht": "",
+			"Bereik": "",
+			"Programmering": "",
+			"Schouder": "105◦",
+			"Elleboog": "180◦",
+			"Pols 2": "",
+			"Pols 3": "",
+			"IP classificatie": "",
+			"I/O poorten": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/doosan-teach-pendant-cover/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/07/Doosan-TP-Cover-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/TP-Cover.jpg",
+		"name": {
+			"0": "Doosan TP cover"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-B-DTPC"
+		},
+		"options": {},
+		"description": {
+			"0": "Protect the Teach Pendant of the Doosan cobot with this protective cover. The cover is suitable for the M, A and H series."
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/teach_pendant_protector_ure_series/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2019/05/Teach-Pendant-protector-e-series-500x500-1.png",
+		"name": {
+			"0": "Teach pendant protector e-series"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-TPPE"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "Blauw"
+		},
+		"description": {
+			"0": "This cover protects the teach pendant of the Universal Robot e-series against impact, and when damages incase of dropping the teach pendant on the floor.",
+			"1": "Material: polyurethanecomposite",
+			"2": "The cover consists of 2 halves that fit tightly around the teach pendant. The 2 parts can be glued together with the included glue.",
+			"3": "Blauw"
+		},
+		"dimension": {
+			"Weight": "1.00000000 kg",
+			"Kleur": "Blauw"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/screenprotector-teachpendant/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/01/teach-pendant-screen-protector-500x500-1.png",
+		"name": {
+			"0": "Screenprotector"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-SP"
+		},
+		"options": {},
+		"description": {
+			"0": "The screenprotector protects the screen of the teach pendant against scratches and to some extent, moisture. Extend the lifespan of your teach pendant with the screenprotector.",
+			"1": "Packed per 2 including dust cloth."
+		},
+		"dimension": {
+			"Weight": "0.50000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/teach_pendant_protector/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/01/teacht-pendant-protector-500x500-1.png",
+		"name": {
+			"0": "Teach pendant protector"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-TPP"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "Blauw"
+		},
+		"description": {
+			"0": "This cover protect the teach peandant of the CB3-series of Universal robots against impact, and damages incase someone drops the teachpendant on the floor.",
+			"1": "Material: polyurethanecomposite\nThe cover consists of 2 shaped halves that fit tightly around the teach pendant. The 2 parts can be glued together with the included glue.",
+			"2": "Blauw"
+		},
+		"dimension": {
+			"Weight": "0.50000000 kg",
+			"Kleur": "Blauw"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/beschermingshoes-ur/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/01/beschermhoes-hyplon-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/beschermhoes-hyplon.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/beschermhoes-detail.png",
+		"name": {
+			"0": "Beschermingshoezen"
+		},
+		"summary": {
+			"0": "bescherming",
+			"1": "cobot",
+			"2": "cobots",
+			"3": "hoes",
+			"4": "roboworld"
+		},
+		"model_name": {
+			"0": "OR-H-UR"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "Hypalon",
+			"2": "Isotherm",
+			"3": "PVC/Vinyl",
+			"4": "Kevlar",
+			"5": "Nylon 1000D",
+			"6": "Teflon",
+			"7": "Choose an option",
+			"8": "UR10",
+			"9": "UR3",
+			"10": "UR5"
+		},
+		"description": {
+			"0": "Als de cobot voor zijn toepassing in een omgeving staat waarbij hij beschermd moet worden, kan de cobot gehuld worden in een hoes. De hoezen bestaan uit 11 onderdelen: een hoesdeel voor elke arm en bijbehorende ringen. Voor elke omgeving is er een geschikt materiaal:",
+			"1": "Dikte: 1000Td (denier). Geschikt voor ruimtes met stof, vuil en grof gruis, niet geschikt voor natte ruimten.",
+			"2": "Brandvertragend, geschikt voor ruimtes met water oplosbare koel- en snijvloeistoffen, fijnmazig gruis en poeders, beperkte bescherming in natte ruimtes.",
+			"3": "Uitermate geschikt voor frezen, verspanen, afbramen, schuren en snijden o.a. door goede bescherming tegen chemicaliën.",
+			"4": "Kevlar met aluminium gecoat. Uitermate geschikt voor omgevingen met extreme temperaturen (+815 ºC tot -53 ºC) en nominale isolatiefactor van R:0,1.",
+			"5": "Uitermate geschikt voor lastoepassingen met langdurende werktemperatuur van 260 ºC. Korte termijn blootstelling aan 360 ºC is mogelijk.",
+			"6": "Uitstekende bescherming in (bijtende) chemische toepassingen en maximale werktemperatuur van 340 ºC.",
+			"7": "Hypalon, Isotherm, PVC/Vinyl, Kevlar, Nylon 1000D, Teflon",
+			"8": "UR10, UR3, UR5"
+		},
+		"dimension": {
+			"Weight": "3.00000000 kg",
+			"Materiaal hoes": "Hypalon, Isotherm, PVC/Vinyl, Kevlar, Nylon 1000D, Teflon",
+			"Type UR": "UR10, UR3, UR5"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/protective-covers-ur/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/01/beschermhoes-hyplon-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/beschermhoes-hyplon.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/beschermhoes-detail.png",
+		"name": {
+			"0": "Protective covers"
+		},
+		"summary": {
+			"0": "bescherming",
+			"1": "bescherming",
+			"2": "cobots",
+			"3": "roboworld"
+		},
+		"model_name": {
+			"0": "OR-H-UR"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "Hypalon",
+			"2": "Isotherm",
+			"3": "Nylon 1000D",
+			"4": "PVC/Vinyl",
+			"5": "PVC/Vinyl",
+			"6": "Teflon",
+			"7": "Choose an option",
+			"8": "UR10",
+			"9": "UR5"
+		},
+		"description": {
+			"0": "If the cobot is placed in an environment where it needs to be protected, the cobot can be wrapped in a cover. The covers consist of 11 parts: a cover part for each arm and associated rings. There is a suitable material for every environment:",
+			"1": "Thickness: 1000Td (denier). Suitable for rooms with dust, dirt and coarse grit, not suitable for wet rooms.",
+			"2": "Fire retardant, suitable for rooms with water-soluble cooling and cutting fluids, fine-grained grit and powders, limited protection in wet areas.",
+			"3": "Extremely suitable for milling, machining, deburring, sanding and cutting, including good protection against chemicals.",
+			"4": "Kevlar coated with aluminum. Extremely suitable for environments with extreme temperatures (+815 ºC to -53 ºC) and nominal insulation factor of R: 0.1.",
+			"5": "Extremely suitable for welding applications with a long-term operating temperature of 260 ºC. Short term exposure to 360 ºC is possible.",
+			"6": "Excellent protection in (corrosive) chemical applications and a maximum working temperature of 340 ºC.",
+			"7": "Hypalon, Isotherm, Nylon 1000D, PVC/Vinyl, PVC/Vinyl, Teflon",
+			"8": "UR10, UR5"
+		},
+		"dimension": {
+			"Weight": "3.00000000 kg",
+			"Materiaal hoes": "Hypalon, Isotherm, Nylon 1000D, PVC/Vinyl, PVC/Vinyl, Teflon",
+			"Type UR": "UR10, UR5"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/cable_guide_ur/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/cable-guidance-for-all-universal-robots-systems--002-.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/cable-guidance-for-all-universal-robots-systems2--002-.jpg",
+		"name": {
+			"0": "Cable guide cobot"
+		},
+		"summary": {
+			"0": "kabelgeleiding"
+		},
+		"model_name": {
+			"0": "OR-K-UR"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "open",
+			"2": "Choose an option"
+		},
+		"description": {
+			"0": "A cable guide set consists of",
+			"1": "Diameter cable guide track",
+			"2": "This ensures that the elegant robot arm stays clean and it protects cables and air hoses that run over the robot arm.",
+			"3": "There are 2 options: an open or a closed cable guide track. An open cable guide track offers easy installation of cables; a closed cable guide track offers more protection. If you have thicker cables or if you only need a clamp, contact op.",
+			"4": "open"
+		},
+		"dimension": {
+			"Weight": "3.00000000 kg",
+			"Type kabelgeleidingsrups": "open",
+			"Type UR": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/boxbooster-1000/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/boxbooster1000-shop.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/boxbooster1000-shop1.jpg",
+		"name": {
+			"0": "Boxbooster1000"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-BX"
+		},
+		"options": {},
+		"description": {
+			"0": "The Boxbooster1000 sets up boxes and tapes the bottom. Ideal as part of the cobotization of a packaging line. The use of a cobot makes the Boxbooster1000 a compact and movable system.",
+			"1": "By default, the Boxbooster1000 can set up the following boxes:",
+			"2": "Bigger is possible after adjustment, please contact us."
+		},
+		"dimension": {
+			"Weight": "100 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/disinfection-shopping-cart/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/04/afbeelding-desinfectiecobot.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/desinfectiebooster-winkelwagens.jpg",
+		"name": {
+			"0": "Disinfection Booster"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-DS"
+		},
+		"options": {},
+		"description": {
+			"0": "This setup has been specifically developed to disinfect shopping carts. The disinfection Booster consists of a cabinet with cobot, in which the controller and disinfectant system are incorporated.",
+			"1": "How the disinfection works",
+			"2": "No more employees needed to disinfect shopping carts, no irritation between customers whether the shopping cart should be cleaned on delivery or after return. Or if someone is not doing a ‘well enough’ job with it.",
+			"3": "Financing:",
+			"4": "The cobot set is available via rent, rent/purchase, lease or purchase. Request a quote to compare the different options."
+		},
+		"dimension": {
+			"Weight": "70 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/palletbooster_2000/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/palletbooster2000-inbedrijf.gif,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/palletbooster2000-klaar.gif,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/palletbooster2000-plaatsen.gif,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/palletbooster2000-cobot.gif,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/palletbooster2000-uitgevouwen.gif,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/palletbooster2000-zakken.jpg",
+		"name": {
+			"0": "Palletbooster2000"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-C-PB"
+		},
+		"options": {},
+		"description": {
+			"0": "The cobot that is integrated in this palletizer ensures flexibility, reliability and productivity. It supports short product life cycles, the latest packaging designs, different product variants and batch production.",
+			"1": "This standard, mobile palletizer can be moved with a pallet truck or fork lift truck and deployed within 2 hours. After installation, the arms are expanded, and you can start programming the cobot. The Palletbooster2000 can be used for loading 2 pallets. This can be Euro pallets, block or Chep pallets. The arms are equipped with sensors that detect if the pallets have been placed correctly. The vertically extendable support enables loading up to 2200mm height. The system can stack boxes up to 8kg and is equipped with a safety scanner that scans the surrounding area.",
+			"2": "The cobot set consists of:",
+			"3": "If you prefer a different brand of cobot or gripper, let us know.",
+			"4": "This palletizing solution is eminently suited for a RaaS (Robos as a Service) package. More information?",
+			"5": "Optionally, we can provide the Palletbooster2000 with palletising software, if you opt for an UR cobot. This URCap software makes it very easy to learn a pallet pattern.",
+			"6": "Sawyer"
+		},
+		"dimension": {
+			"Weight": "300 kg",
+			"Pally": "",
+			"Merk cobot": "Sawyer",
+			"Afmeting": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/robobooster_4000/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/robobooster4000-ur.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/robobooster4000-saywer.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/Robobooster4000-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/robobooster4000-cnc.jpg",
+		"name": {
+			"0": "Robobooster4000"
+		},
+		"summary": {
+			"0": "beladingskast",
+			"1": "beladingssysteem"
+		},
+		"model_name": {
+			"0": "OR-T-RO"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "UR10"
+		},
+		"description": {
+			"0": "Increase your production with the Robobooster4000. This tun key system consist of a metal drawer cabinet, cobot and gripper. It is eminently suitable for loading processing machines, such as CNC machines, with a robotarm. The support is suitable for every collaborative and smaller industrial robot arm. All cobots or robots with a reach of min. 750 mm and max. 1500 mm can be placed on the Robobooster4000.",
+			"1": "The support can be moved over the entire length and height of the unit, leaving you free to choose how you place the Robobooster 4000.",
+			"2": "The Robobooster comes with:",
+			"3": "De Robobooster 4000 can be sprayed in any colour.",
+			"4": "The Robobooster4000 is fully customizable to your needs; extra/different product; additional price:",
+			"5": "Functioneel",
+			"6": "And that’s not the end of it: the Robobooster4000 can also be made wider or higher, or supplied with other grid plates.",
+			"7": "Please indicate with your order which cobot and gripper you want. If you want to have it equipped with one or more options, please contact us,",
+			"8": "UR10"
+		},
+		"dimension": {}
+	},
+	"https://www.cobotwebshop.com/en/product/vg-10/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/06/VG10-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/VG10_03.png",
+		"name": {
+			"0": "VG10"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-V-VG10"
+		},
+		"options": {},
+		"description": {
+			"0": "OnRobot VG10 is the world’s first electric vacuum gripper with double grab function (formerly known as the PR10):",
+			"1": "Excl. robot kit and robot part quick changer.",
+			"2": "Suitable for:"
+		},
+		"dimension": {
+			"Weight": "1.7 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/vgp20/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2021/04/vgp20_product_subpage.jpg,https://www.cobotwebshop.com/wp-content/uploads/2021/04/Doosan_H2515_VGP20-500x500-1.png",
+		"name": {
+			"0": "VGP20"
+		},
+		"summary": {},
+		"model_name": {},
+		"options": {},
+		"description": {
+			"0": "With payloads up to 20kg (44.1 lbs), the OnRobot VGP20 is the world’s most powerful electric vacuum gripper. It is ideal for quickly and cost-effectively automating the palletizing of cardboard boxes, as well as handling bulky, porous, and irregularly shaped objects. The VGP20 allows unlimited customization, so it can automate a wide range of applications that traditionally required pneumatic grippers, but at a fraction of the cost and complexity. The VGP20 can save up to 90% on operating and maintenance costs compared to traditional pneumatic gripper deployments."
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/mg10/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2021/04/mg10-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/2021/04/UR_MG10-500x500-1.png",
+		"name": {
+			"0": "MG10"
+		},
+		"summary": {},
+		"model_name": {},
+		"options": {},
+		"description": {
+			"0": "With easily configurable magnetic force, the OnRobot  MG10 gripper offers adjustable force to ideally match challenging application requirements such as destacking metal sheets one at a time. A built-in proximity sensor detects if a part has been picked up or not, and multi-magnet setups support applications that require reliable handling of large or heavy work pieces. And for safe, collaborative operation, the gripper maintains its hold on work pieces even in the case of power loss or emergency stop.",
+			"1": "The affordable MG10 requires no external air supply or cables, for fast, easy installation and no additional costs. Like the rest of OnRobot’s family of no-fuss, all-electric grippers, the MG10 uses the Quick Changer and OnRobot’s intuitive programming for fast easy setup."
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/sg-soft-gripper/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/soft-gripper.jpg,https://www.cobotwebshop.com/wp-content/uploads/2021/04/Hanwha_SOFT_GRIPPER_500x500.png",
+		"name": {
+			"0": "Soft Gripper"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-SG"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "SG-a-H",
+			"2": "SG-a-S",
+			"3": "SG-b-H"
+		},
+		"description": {
+			"0": "This OnRobot Soft Gripper is made for Pick & Place  tasks of irregular, delicate objects. This makes the gripper ideally suited for the AgriFood, for which the gripper is also certified.",
+			"1": "But it is also suitable for handling and, for example, packaging cosmetics or pharmaceutical products.",
+			"2": "The gripper consists of an electrically driven core (so without air supply!) with a silicone cups. There are 3 variants that can be exchanged.",
+			"3": "The silicone cups are dishwasher safe and comply with FDA 21 CFR (non-greasy foods) and EC 1935/2004.",
+			"4": "Load capacity up to 2.2 kg, depending on the shape, softness and friction of the product. Stroke size between 11 and 118 mm (depending on the cup).",
+			"5": "Available cups:",
+			"6": "Tip: have your product tested with the different cups first!",
+			"7": "Like all OnRobot grippers, this gripper can also be ordered with the gripper part of the Quick Change system. This system allows you to turn the last axis in complete freedom, because there are no cables between the robot and the gripper.",
+			"8": "SG-a-H, SG-a-S, SG-b-H",
+			"9": "40 mm zonder rok"
+		},
+		"dimension": {
+			"Weight": "1 kg",
+			"Type cup": "SG-a-H, SG-a-S, SG-b-H",
+			"Herhaalnauwkeurigheid": "",
+			"Draagkracht": "",
+			"Grijpkracht": "",
+			"Volledige slag": "40 mm zonder rok"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/3fg15-gripper/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/3FG15_2.jpg,https://www.cobotwebshop.com/wp-content/uploads/2021/04/Fanuc_CRX_3FG15-500x500-1.png",
+		"name": {
+			"0": "3FG15"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-3F15"
+		},
+		"options": {},
+		"description": {
+			"0": "The OnRobot 3FG15 is a 3-fingered, electric gripper that can handle heavier, up to 15 kg, objects of different shapes (round!). The gripper is ideal for tasks such as machine loading. And of course other Pick & Place tasks such as packaging and palletizing.",
+			"1": "The gripper has a large stroke (up to 150 mm) and centers the object so you are assured of stable production. Gripping force is adjustable 10-240N. The fingertips can be adjusted for an extra piece of customization, if desired. As with all OnRobot products, this gripper can also be quickly and cordlessly placed on the robot head with their Quick Changer solution.",
+			"2": "Excl. robot kit and robot part quick changer."
+		},
+		"dimension": {
+			"Weight": "1.15 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/geckosp/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/Gecko-sp.png,https://www.cobotwebshop.com/wp-content/uploads/2021/02/Gecko_SP5_Doosan-500x500-1.png",
+		"name": {
+			"0": "Gecko SP"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-SP"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "This OnRobot gripper uses vanderwaals forces, which means that no cables, electricity, air or programming are needed. It is lightweight and suitable for flat, smooth or perforated objects. Grabbing leaves no traces and cleaning is not required. The gripper has 3 variants: 1 kg, 3 kg and 5 kg.",
+			"1": "Download the spec sheet for more information about, among other things, the use with different materials.",
+			"2": "Excl. robot kit and robot part quick changer."
+		},
+		"dimension": {
+			"Weight": "0.3 kg",
+			"Draagkracht": "",
+			"IP classificatie": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/rg_2/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/RG2.jpg,https://www.cobotwebshop.com/wp-content/uploads/2021/02/UR_eSERIES_RG2-500x500-1.png",
+		"name": {
+			"0": "RG2"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-RG2"
+		},
+		"options": {},
+		"description": {
+			"0": "The OnRobot RG2 collaborative gripper is suitable for various brands of cobots. The gripper already has the OnRobot Quick Changer. This makes a connection with the robot via a printed circuit board. Loose and moving (read: break-prone) cables from the gripper to the robot have become superfluous. The printed circuit board in the Quick Changer itself recognizes which tools have been put on the robot.",
+			"1": "Characteristics of the gripper:",
+			"2": "With the URCaps plugin this is an easily programmable plug & play gripper for UR cobots.",
+			"3": "Excl. robot kit and robot part quick changer.",
+			"4": "Suitable for:",
+			"5": "0,1mm"
+		},
+		"dimension": {
+			"Weight": "0.65 kg",
+			"Herhaalnauwkeurigheid": "0,1mm",
+			"Draagkracht": "",
+			"Volledige slag": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/rg2_dual_gripper/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/RG2.jpg,https://www.cobotwebshop.com/wp-content/uploads/2021/02/KUKA_Dual_RG2-500x500-1.png",
+		"name": {
+			"0": "RG2 dual gripper"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-RG2-2"
+		},
+		"options": {},
+		"description": {
+			"0": "The OnRobot RG2 can also be delivered with a dual bracket, i.e. a bracket on which 2 RG2s can be mounted. This makes it possible to load machines twice as fast.",
+			"1": "Loose and moving (read: break-prone) cables from the gripper to the robot have become superfluous. The printed circuit board in the Quick Changer itself recognizes which tools have been put on the robot. Features of this gripper:",
+			"2": "With the URCaps plugin this plug & play gripper can be easily programmed with UR cobots.",
+			"3": "Suitable for:"
+		},
+		"dimension": {
+			"Weight": "1.3 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/rg_6/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/RG6.jpg,https://www.cobotwebshop.com/wp-content/uploads/2021/02/Nachi_RG6-500x500-1.png",
+		"name": {
+			"0": "RG6"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-RG6"
+		},
+		"options": {},
+		"description": {
+			"0": "The OnRobot RG6 collaborative gripper is compatible with various brands of cobots. The gripper already has the OnRobot Quick Changer. This makes a connection with the robot via a printed circuit board. Loose and moving (read: break-prone) cables from the gripper to the robot have become superfluous. The printed circuit board in the Quick Changer itself recognizes which tools have been put on the robot.",
+			"1": "Characteristics of this gripper:",
+			"2": "Excl. robot kit and robot part quick changer.",
+			"3": "Suitable for:",
+			"4": "0,1mm",
+			"5": "min. 25N – max 120N"
+		},
+		"dimension": {
+			"Weight": "1 kg",
+			"Herhaalnauwkeurigheid": "0,1mm",
+			"Grijpkracht": "min. 25N – max 120N",
+			"Volledige slag": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/rg6-dual-gripper/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2021/02/DUAL-GRIP-MOUNT-RG6-VS-RG6_a-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/2021/02/Kawasaki_Dual_Rg2-500x500-1.png",
+		"name": {
+			"0": "RG6 dual gripper"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-RG6-2"
+		},
+		"options": {},
+		"description": {
+			"0": "De OnRobot RG6 kan ook geleverd worden met een dual mount: ofwel een beugel waar 2 RG6’s aan gemonteerd zijn. Hiermee kan je bijv. dubbel zo snel machines beladen.",
+			"1": "De RG6 collaboratieve gripper is geschikt voor diverse merken cobots. Aan de gripper zit al de OnRobot Quick Changer. Deze maakt connectie met de robot via een printplaatje. Losse en bewegende (lees: breukgevoelige) kabels van de gripper naar de robot zijn hierdoor overbodig geworden. Het printplaatje in de Quick Changer herkent zelf welk gereedschap op de robot is gezet.",
+			"2": "Kenmerken van deze gripper:",
+			"3": "Geschikt voor:",
+			"4": "0,1mm",
+			"5": "min. 25N – max 120N, min. 25N – max 120N",
+			"6": "160mm"
+		},
+		"dimension": {
+			"Weight": "2 kg",
+			"Herhaalnauwkeurigheid": "0,1mm",
+			"Grijpkracht": "min. 25N – max 120N, min. 25N – max 120N",
+			"Volledige slag": "160mm"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/screw-driver/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/Screwdriver_subpage_image.jpg,https://www.cobotwebshop.com/wp-content/uploads/2021/01/UR_eSERIES_SCREWDRIVER-500x500-1.png",
+		"name": {
+			"0": "Screwdriver"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-Ge-SD"
+		},
+		"options": {},
+		"description": {
+			"0": "Screwing with a cobot is very easy with this OnRobot Screwdriver. It is compact and offers a fully integrated solution to screw a wide range of screw types and sizes with a cobot.",
+			"1": "Mount the intelligent Screwdriver on the robot arm of your choice, install the appropriate bit, enter the screw length and torque directly to the robot user interface and start screwing. Precise torque control and embedded axis reduce integration and programming costs. And ensure that the screws are inserted consistently and precisely, with the right force. Switching to a different screw type or size only takes a few minutes, which reduces downtime and boosts your ROI.",
+			"2": "Range of screws: from M1.6 to M6 and up to 50 mm long"
+		},
+		"dimension": {
+			"Weight": "2.5 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/onrobot-2fg7-gripper/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/2FG7.png,https://www.cobotwebshop.com/wp-content/uploads/2021/01/Fanuc_CRX_2FG7-500x500-1.png",
+		"name": {
+			"0": "2FG7"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-2FG7"
+		},
+		"options": {},
+		"description": {
+			"0": "Parallel gripper with 2 fingers, small footprint, load capacity of 11kg, maximum stroke of 73mm and gripping force of 20 to 140N. The gripper has a Cleanroom class 5, which makes additional applications possible in, for example, laboratories and with IP67 it is suitable for harch production environments.",
+			"1": "This easy-to-program gripper, like all EOAT from OnRobot, features the Quick Changer’s tool section for quick tool changes on the robot arm.",
+			"2": "Excl. robot kit and robot part quick changer.",
+			"3": "Suitable for:"
+		},
+		"dimension": {
+			"Weight": "1.1 kg",
+			"Herhaalnauwkeurigheid": "",
+			"Draagkracht": "",
+			"Grijpkracht": "",
+			"Volledige slag": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/vgc10-vacuum/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2021/01/VGC10-OnRobot-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/2021/01/Kassow_VGC10-500x500-1.png",
+		"name": {
+			"0": "VGC10"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-VG-VGC"
+		},
+		"options": {},
+		"description": {
+			"0": "The OnRobot VGC10 is a compact, configurable vacuum gripper. The flexible, electric vacuum gripper has unlimited adjustment options for all your applications. The gripper is small and lightweight, but has a capacity to lift up to 15 kg. The air supply is electrically controlled, so no external air supply is required. This results in lower maintenance costs and faster deployability.",
+			"1": "Moreover, the VGC10 is equipped with exchangeable suction cups for just about every application. The VGC10 is smaller than the VG10 and can be used in narrow spaces to increase your automation options. With only half the weight of the VG10, but with the same carrying capacity, the VGC10 can lift narrow, odd-shaped and even heavy objects with a smaller robot arm. The VGC10 is equipped with two independently controlled air channels. This allows it to be used as a dual gripper with  pick-up and release in the same action. Increase your efficiency even further with this and reduce your cycle time. This compact, electric gripper does not require a compressor or air supply and is therefore easy to move and program, making it easier to deploy elsewhere for greater production flexibility.",
+			"2": "The VGC10 can be seamlessly integrated with the robot of your choice.",
+			"3": "Excl. robot kit and robot part quick changer.",
+			"4": "Geschikt voor:"
+		},
+		"dimension": {
+			"Weight": "0.8 kg",
+			"Draagkracht": "",
+			"Grijpkracht": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/sbpg-gripper/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/11/SBPG-X-PSE-50-SVE-500x500-1.png",
+		"name": {
+			"0": "SBPG X PSE 50 SVE"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-SBPG"
+		},
+		"options": {},
+		"description": {
+			"0": "This energy efficient and lightweight vacuum gripper has been specifically developed for Bin Picking tasks. Due to the slim design and the swivel module at the bottom, the gripper is ideal for picking from crates or boxes, it increases the range of the cobot, enables the system to grip into corners of the load carrier and to perform a quick quality check during the processing process. The SVE suction cups have been developed for good grip on edges and irregularly shaped surfaces. With the tool changer, a tool change can take place in less than 1 sec. He grips with 20N.",
+			"1": "The gripper works well with r/cobots from Universal Robots, Fanuc and Yaskawa."
+		},
+		"dimension": {
+			"Weight": "0.7 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/sander/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/Sander.jpg,https://www.cobotwebshop.com/wp-content/uploads/2020/09/Doosan_H2515_SANDER-500x500-1.png",
+		"name": {
+			"0": "Sander"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR--T-ST"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "Never arm numbness again! With the OnRobot Sander tool for cobots you can do:",
+			"1": "This complete tool can optionally be supplied with an automated Grit Changer. So even sanding from coarse to fine is handled automatically.",
+			"2": "Ideal not only in industry but also for furniture makers and garages. The electric eccentric orbital sander does not use compressed air, which means less noise. The Sander software is very easy to operate, especially with cobots from Universal Robots because of the URCap. The software can be accessed via the teach pendant, but the Sander also has a button that makes it even easier to indicate or include waypoints in its trajectory. The software contains several options for trajectory planning – path from hand guidance, shape and points. This way you can adjust the rotation speed, so that you can get the optimal cycle time and consistency.",
+			"3": "The Accessory kit for the Sander consists of:"
+		},
+		"dimension": {
+			"Weight": "1.2 kg",
+			"Accessoires": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/vacuum-pump/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/vacuumpomp.jpg",
+		"name": {
+			"0": "ECBPi 12 24V-DC M12-8"
+		},
+		"summary": {
+			"0": "Schmalz"
+		},
+		"model_name": {
+			"0": "OR-G-VPV"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "Techman"
+		},
+		"description": {
+			"0": "Extremely suitable for Pick & Place tasks of packaging such as boxes and plastic packaging. This gripper is single with a maximum of 75% vacuum at 750 mBar.",
+			"1": "This intelligent, electric vacuum generator is suitable for working with airtight and somewhat porous (smaller) workpieces. The gripper has an integrated interface for controlling and monitoring the processing process. Connection with the robot is done via I / O link, making process monitoring possible. The NFC interface provides direct access to processes and the device via smartphone.",
+			"2": "The pump is composed of the following parts:",
+			"3": "Techman"
+		},
+		"dimension": {
+			"Weight": "0.775 kg",
+			"Merk cobot": "Techman"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/fmcb_fxcb/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2019/01/FXCB-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/FXCB.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/FXCB-FMCB-uitleg.png",
+		"name": {
+			"0": "FXCB"
+		},
+		"summary": {
+			"0": "Schmalz"
+		},
+		"model_name": {
+			"0": "OR-G-CB"
+		},
+		"options": {},
+		"description": {
+			"0": "This vacuum gripper has a wide range of applications in intralogistics, such as end-of-line packaging or pick-and-place applications. With a flexible foam gripping surface, the gripper can safely lift carton, boxes and structured components or components with notches or protrusions weighing up to 8 kgs. This also makes partial use of the gripping surface possible. Thanks to communication technology this gripper can be easily integrated in automation environments. The NFC chip makes maintenance information available via smartphone. Even untrained workers are capable of working quickly and easily with this gripper.",
+			"1": "The gripper has a modular design, so that it can be complemented with e.g. energy saving ejection modules or intelligent vacuum switches for process control.",
+			"2": "The gripper is complete for cobots from Universal Robots. If you want to use the gripper for another brand of cobot or robot, something will be added to the price (between € 100 and € 200). Please indicate this with your order. This will be billed afterwards."
+		},
+		"dimension": {
+			"Weight": "1 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/gripkit-cr2/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2019/05/cr-pro-l-500x500-1.png",
+		"name": {
+			"0": "CR Pro L2"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-CR2"
+		},
+		"options": {},
+		"description": {
+			"0": "The CR Pro L (previously CR2) is a collaborative gripper from Weiss Robotics in de Gripkit series. The LED lighting on the gripper indicates that the gripper is operating.",
+			"1": "This is one of Weiss’s electric grippers. The p-series is the series with the pneumatic grippers. These grippers are guaranteed to complete 20 million cycles, have automatic detection and monitoring of components and support up to 8 grippers on one robot arm. The CR Pro L is servo-electric. The UR-Caps guarantees a quick implementation with the cobot. The difference with the CR Pro L is a higher bearing capacity, grip strength and full stroke.",
+			"2": "The CR Pro L is supplied without fingers. We can design and tailor fingers for you for the objects to be grabbed.",
+			"3": "Suitable for:"
+		},
+		"dimension": {
+			"Weight": "1.3 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/gripkit-cr1/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/CRG-30-scaled.jpg",
+		"name": {
+			"0": "CR Pro S"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-CR1"
+		},
+		"options": {},
+		"description": {
+			"0": "The CR Pro S (previously) CR1 is the collaborative gripper of Weiss Robotics in the Gripkit series. The LED lighting on the gripper indicates that the gripper is operating.",
+			"1": "This is one of Weiss’s electric grippers. The p-series is the series with the pneumatic grippers. These grippers are guaranteed to complete 20 million cycles, have automatic detection and monitoring of components and support up to 8 grippers on one robot arm. The CR Pro S works servo-electrically. The UR-Caps guarantees a quick implementation with the cobot.",
+			"2": "The CR Pro S is supplied without fingers. We can design and tailor fingers for you for the objects to be grabbed.",
+			"3": "Suitable for:"
+		},
+		"dimension": {
+			"Weight": "0.46 kg",
+			"Draagkracht": "",
+			"Gewicht": "",
+			"Grijpkracht": "",
+			"Volledige slag": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/e1/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/GRIPKIT-E1.jpg",
+		"name": {
+			"0": "E Pro S"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-E1"
+		},
+		"options": {},
+		"description": {
+			"0": "The Gripkit E Pro S is the gripper of Weiss Robotics in de Gripkit serie that is suitable for precision tasks, with a maximum capacity of 2.7k.",
+			"1": "The e-series from Gripkit is the series of electric grippers. The p-series the pneumatic grippers. These grippers are guaranteed to complete 20 million cycles, have automatic detection and monitoring of components and support up to 8 grippers on one robot arm. The E Pro S works servo-electrically. The UR-Caps guarantees a fast implementation with UR cobots.",
+			"2": "The E-series is delivered without fingers. We can design and tailor fingers for you for the objects to be grabbed.",
+			"3": "Suitable for:"
+		},
+		"dimension": {
+			"Weight": "0.38 kg",
+			"Grijpkracht": "",
+			"Volledige slag": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/or_vacuum/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/OR-vacuum.jpg",
+		"name": {
+			"0": "OR vacuum gripper"
+		},
+		"summary": {
+			"0": "grijper",
+			"1": "gripper",
+			"2": "olmia robotics",
+			"3": "vacuum"
+		},
+		"model_name": {
+			"0": "OR-G-ORV"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "2-voudig licht",
+			"2": "4-voudig licht",
+			"3": "4-voudig zwaar",
+			"4": "4-voudig zwaar"
+		},
+		"description": {
+			"0": "We offer vacuum grippers for moving objects of different sizes and weights.",
+			"1": "These grippers are delivered including vacuum unit, solenoid valves, silencers, hose, coupling and bracket.",
+			"2": "If you are looking for a different configuration or a gripper with a different number of suction cups, please contact us.",
+			"3": "2-voudig licht, 4-voudig licht, 4-voudig zwaar, 4-voudig zwaar"
+		},
+		"dimension": {}
+	},
+	"https://www.cobotwebshop.com/en/product/pneumatic-set/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/02/pneumatische-set-500x500-1.png",
+		"name": {
+			"0": "Pneumatic set"
+		},
+		"summary": {
+			"0": "VanDeurne"
+		},
+		"model_name": {
+			"0": "OR-G-PS100"
+		},
+		"options": {},
+		"description": {
+			"0": "In order to correctly vacumate a vacume gripper, a pneumatic set is needed. This consists of a compressor, several hoses and couplings, a filter regulator and safety couplings.",
+			"1": "With this gripper, the CoBot can lift objects of up to 5 kg. The pneumatic set consists of the following components:",
+			"2": "1x  Compressor 1,5 kW, 230 VAC;",
+			"3": "1x Safety quick coupling ESG07 with male thread in accordance with ARBO G ½”;",
+			"4": "1x Safety quick coupling ESG07 with hose barb in accordance with ARBO 13 mm;",
+			"5": "1x Hose connector for safety coupling NW7 13;",
+			"6": "1x Hose connector for safety coupling G 1/2”;",
+			"7": "1x Hose from compressor to coupling ½” PVC thread insert 25 m;",
+			"8": "1x Hose from filter regulator to vacuum set;",
+			"9": "1x Filter regulator for regulating the pre-pressure to the vacuum system."
+		},
+		"dimension": {}
+	},
+	"https://www.cobotwebshop.com/en/product/gripkit_pz1/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/GRIPKIT-PZ1.png",
+		"name": {
+			"0": "PZ Pro M"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-PZ1"
+		},
+		"options": {},
+		"description": {
+			"0": "This centric gripper is the only pneumatic gripper with 3 fingers for extra grip.",
+			"1": "The p-series are pneumatic grippers. The e-series by Gripkit is a series of electrical grippers. These grippers will carry out 20 million cycles guaranteed, have automatic detection and monitoring of parts and support up to 4 grippers on one robot arm. The PZ Pro M is an electro-pneumatic system. The UR-Caps guarantee a fast implementation with UR cobots.",
+			"2": "The P-series is supplied without fingers. We can design fingers for you and customize them for the objects to be lifted.",
+			"3": "Suitable for:"
+		},
+		"dimension": {
+			"Weight": "0.8 kg",
+			"Draagkracht": "",
+			"Grijpkracht": "",
+			"Volledige slag": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/gripkit_p2/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/02/7a96ff1f7bd3b80d06682d3e0a393bef.png",
+		"name": {
+			"0": "P Pro L"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-P2"
+		},
+		"options": {},
+		"description": {
+			"0": "The Gripkit P-series are pneumatic grippers. The Gripkit e-series is a series of electrical grippers. These grippers can carry out 20 million cycles guaranteed, have automatic detection and monitoring of parts and support up to 4 grippers on one robot arm. The P Pro L is electro-pneumatic. The UR-Cap (control software) guarantees a fast implementation with the cobot.",
+			"1": "The P-series are supplies without fingers. We can design fingers for you and customize them for the objects that need to be lifted.",
+			"2": "Suitable for:"
+		},
+		"dimension": {
+			"Weight": "1.2 kg",
+			"Draagkracht": "",
+			"Gewicht": "",
+			"Grijpkracht": "",
+			"Volledige slag": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/gripkit_p1/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/GRIPKIT-P1.png",
+		"name": {
+			"0": "P Pro S"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-P1"
+		},
+		"options": {},
+		"description": {
+			"0": "The Gripkit e-series is a series of electrical grippers. The P-series are pneumatic grippers, which are more powerful. These grippers can carry out 20 million cycles guaranteed, have automatic detection and monitoring of parts and support up to 4 grippers on one robot arm. The P Pro S is electro-pneumatic. The UR-Cap (control software) guarantees a fast implementation with the cobot. Specifications can be found on the other tab.",
+			"1": "The P-series are delivered without fingers. We can design fingers for you and customize them for the objects that need to be lifted.",
+			"2": "Suitable for:"
+		},
+		"dimension": {
+			"Weight": "0.44 kg",
+			"Draagkracht": "",
+			"Grijpkracht": "",
+			"Volledige slag": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/e2/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/GRIPKIT-E2.png",
+		"name": {
+			"0": "E Pro L"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-E2"
+		},
+		"options": {},
+		"description": {
+			"0": "The E Pro L (previously E2) is the heavier electric gripper from Weiss Robotics / Gripkit.",
+			"1": "The e-series from Gripkit is the series of electric grippers. The p-series the pneumatic grippers. These grippers are guaranteed to complete 20 million cycles, have automatic detection and monitoring of components and support up to 8 grippers on one robot arm. The E Pro L works servo-electrically. The UR-Cap guarantees a fast implementation with UR cobots.",
+			"2": "The E-series is delivered without fingers. We can design and tailor fingers for you for the objects to be grabbed.",
+			"3": "Suitable for:",
+			"4": "4,3 kg form fit/1,0 kg force fit",
+			"5": "50 – 200N",
+			"6": "30mm"
+		},
+		"dimension": {
+			"Weight": "0.87 kg",
+			"Draagkracht": "4,3 kg form fit/1,0 kg force fit",
+			"Gewicht": "",
+			"Grijpkracht": "50 – 200N",
+			"Volledige slag": "30mm"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/colight/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/02/Co-light-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/Controlbox-Co-Light.jpg",
+		"name": {
+			"0": "Co/Light"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-CO/L"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "The Co / Light is a vacuum gripper with a built-in compressed air vacuum generator, suitable for various brands of robot arms. The gripper is made with lightweight 3D print material and therefore extremely suitable for cobots.",
+			"1": "The gripper has a high lifting force based on patented valve technology and rounded edges.",
+			"2": "A smaller version is available for small objects (150×112 mm). Contact us if you are interested.",
+			"3": "The standard version is supplied with a dense valve pitch, which allows even small objects to be picked up without knowing the exact position of the object.",
+			"4": "The gripper is suitable for various Pick & Place applications and an extensive variety of objects, including cardboard boxes.",
+			"5": "An URCap is available as an option in combination with the Unigripper control box."
+		},
+		"dimension": {
+			"Weight": "1 kg",
+			"Unigripper control box": "",
+			"Afmeting": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/kcs-gripper/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/KCS-ei.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/KCS-wisseldeel.jpg",
+		"name": {
+			"0": "KCS"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-VKCS"
+		},
+		"options": {},
+		"description": {
+			"0": "This vacuum gripper has a built-in compressed air vacuum generator and is suitable for various brands of robots. It has a lightweight, strong design.",
+			"1": "Thanks to the KCS quick-change system, the gripper can move from one application to another very quickly.",
+			"2": "The KCS is equipped with a flow restrictor. This makes the gripper suitable for handling sealed or (air)leaking objects of different sizes, even if the total foam area is not covered. The KCS can then still maintain a sufficient vacuum level to lift the object.",
+			"3": "The COAX®SX cartridges deliver high performance even with low or fluctuating feed pressures."
+		},
+		"dimension": {
+			"Weight": "1 kg",
+			"Draagkracht": "",
+			"IP classificatie": "",
+			"Afmeting": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/pi-cobot/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/02/picobot-pouch-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/picobot-blik.jpg",
+		"name": {
+			"0": "piCOBOT®"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-VPi"
+		},
+		"options": {},
+		"description": {
+			"0": "This vacuum gripper, in which the compressed air vacuum generator is built in, was developed specifically for the cobots of Universal Robots. The gripper can be used on the CB3 and e-series cobots, with a maximum payload of 7 kg. This means that an URCap is present, but there are also interfaces available for other cobot brands.",
+			"1": "The gripper is flexible and adaptable with an optimized design for high reliability and fast cycle times.",
+			"2": "Characteristics:"
+		},
+		"dimension": {
+			"Weight": "1 kg",
+			"Draagkracht": "",
+			"IP classificatie": "",
+			"Afmeting": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/ecbpm-ur/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/01/ECBPM-500x500-1.png",
+		"name": {
+			"0": "ECBPM 24V-DC"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-VPM"
+		},
+		"options": {},
+		"description": {
+			"0": "Mini cobot pump for electric vacuum generation.",
+			"1": "When ordering, please indicate which cobot / robot you use, so we can supply the correct flange."
+		},
+		"dimension": {
+			"Weight": "1 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/co-act-egp-c/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/05/co-act-egp-c-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/co-act-egp-c-doorsnede.jpg",
+		"name": {
+			"0": "Co-act EGP-C"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-ES"
+		},
+		"options": {},
+		"description": {
+			"0": "This electric, two-finger parallel gripper guides its smooth-running basic fingers onto roller bearings. The powerhouse for handling small parts is a revolution in the field of mechatronic grippers. The grab can be easily operated via digital inputs and outputs of the UR robot and can be mounted on the UR3, UR5 or UR10 without having to remove the protective cap. The flange is integrated.",
+			"1": "Characteristics:",
+			"2": "Suitable for cobots of:"
+		},
+		"dimension": {
+			"Weight": "1 kg",
+			"Draagkracht": "",
+			"Grijpkracht": "",
+			"Volledige slag": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/co-act-egh-schunk/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/Co-act-egh-schunk.jpg",
+		"name": {
+			"0": "Co-act EGH"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-SCO"
+		},
+		"options": {},
+		"description": {
+			"0": "Flexible grab with a long, adjustable stroke for easy automation with cobots.",
+			"1": "Pick & place of small and medium-sized workpieces for handling, assembly and electronics.",
+			"2": "A wide range of workpieces can be handled with the long stroke of the SCHUNK Co-act grapple EGH. The gripper fingers can be positioned flexibly along the entire stroke. Due to the robust, parallel movement of the fingers, a constant gripping force is guaranteed at every position along the entire stroke. Height compensation for TCP is not required.",
+			"3": "This Co-act is currently only available for cobots from UR."
+		},
+		"dimension": {
+			"Weight": "1 kg",
+			"Draagkracht": "",
+			"Grijpkracht": "",
+			"Volledige slag": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/2finger-140/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/02/2-finger-140.png",
+		"name": {
+			"0": "2-Finger 140"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-R140"
+		},
+		"options": {},
+		"description": {
+			"0": "The Robotiq 2-Finger 140 is the 2-finger gripper that is ideal for pick and place tasks, machine loading, assembly and quality control. With 2 different grip strokes and high adaptability, this grab can perform many different tasks. The 2-Finger Gripper is easy to integrate and use in all automation cells in your factory. It grabs objects of different sizes and shapes.",
+			"1": "Alternative: the RG6",
+			"2": "Install and program your robot in minutes with the URCap plug-in.",
+			"3": "You don’t need a background in robotics to use the grab. It installs on the Universal Robot arm in a few minutes and our Gripper UR + makes configuration and programming quick and intuitive.",
+			"4": "We also offer ready-made program templates for the most common applications that can be automated with Universal Robots."
+		},
+		"dimension": {
+			"Weight": "1 kg",
+			"Draagkracht": "",
+			"Grijpkracht": "",
+			"Volledige slag": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/2finger-85/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/02/2-finger-85.png",
+		"name": {
+			"0": "2-Finger 85"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-R85"
+		},
+		"options": {},
+		"description": {
+			"0": "The Robotiq 2-Finger 85 is the 2-finger gripper that is ideal for pick and place tasks, machine loading, assembly and quality control. With 2 different grip strokes and high adaptability, this grab can perform many different tasks. The 2-Finger Gripper is easy to integrate and use in all automation cells in your factory. It grabs objects of different sizes and shapes.",
+			"1": "Alternative: the RG2",
+			"2": "Install and program your robot in minutes with the URCap plug-in.",
+			"3": "You don’t need a background in robotics to use the grab. It installs on the Universal Robot arm in a few minutes and our Gripper UR + makes configuration and programming quick and intuitive.",
+			"4": "We also offer ready-made program templates for the most common applications that can be automated with Universal Robots."
+		},
+		"dimension": {
+			"Weight": "0.9 kg",
+			"Draagkracht": "",
+			"Grijpkracht": "",
+			"Volledige slag": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/sgm_70_gripper/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/02/SGM-70-500x500-1.png",
+		"name": {
+			"0": "SGM 70"
+		},
+		"summary": {
+			"0": "Schmalz"
+		},
+		"model_name": {
+			"0": "OR-G-M70"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "The magnetic grippers are a suitable solution to pick up iron/steel objects. These gripper work with a cilinder on air pressure which activates the magnet. Therefore, no electronic power supply is needed for the robotarm. Magnetic grippers are light and small, and they have an optional side connection for tools.",
+			"1": "Your advantages",
+			"2": "Specifications"
+		},
+		"dimension": {
+			"Weight": "0.4 kg",
+			"incl. positiesensor": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/sgm_50_gripper/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/02/SGM-70-500x500-1.png",
+		"name": {
+			"0": "SGM 50"
+		},
+		"summary": {
+			"0": "Schmalz"
+		},
+		"model_name": {
+			"0": "OR-G-M50"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "The magnetic grippers are a suitable solution to pick up iron/steel objects. These gripper work with a cilinder on air pressure which activates the magnet. Therefore, no electronic power supply is needed for the robotarm. Magnetic grippers are light and small, and they have an optional side connection for tools.",
+			"1": "Your advantages",
+			"2": "Specifications"
+		},
+		"dimension": {
+			"Weight": "0.4 kg",
+			"incl. positiesensor": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/sgm_40_gripper/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/02/SGM-40-500x500-1.png",
+		"name": {
+			"0": "SGM 40"
+		},
+		"summary": {
+			"0": "Schmalz"
+		},
+		"model_name": {
+			"0": "OR-G-M40"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "The magnetic grippers are a suitable solution to pick up iron/steel objects. These gripper work with a cilinder on air pressure which activates the magnet. Therefore, no electronic power supply is needed for the robotarm. Magnetic grippers are light and small, and they have an optional side connection for tools.",
+			"1": "Your advantages",
+			"2": "Specifications"
+		},
+		"dimension": {
+			"Weight": "0.4 kg",
+			"incl. positiesensor": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/sgm_30_gripper/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/02/SGM-30-500x500-1.png",
+		"name": {
+			"0": "SGM 30"
+		},
+		"summary": {
+			"0": "Schmalz"
+		},
+		"model_name": {
+			"0": "OR-G-M30"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "The magnetic grippers are a suitable solution to pick up iron/steel objects. These gripper work with a cilinder on air pressure which activates the magnet. Therefore, no electronic power supply is needed for the robotarm. Magnetic grippers are light and small, and they have an optional side connection for tools.",
+			"1": "Your advantages",
+			"2": "Specifications"
+		},
+		"dimension": {
+			"Weight": "0.4 kg",
+			"incl. positiesensor": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/3finger/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/02/3-finger-500x500-1.png",
+		"name": {
+			"0": "3-Finger"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-R3F"
+		},
+		"options": {},
+		"description": {
+			"0": "The three-finger grab is the best option for maximum versatility and flexibility. It incorporates every object of every shape. This grab is ideal for advanced production and robot research. It adapts to the shape of the object for a firm grip, so that you can concentrate on the task and not on grasping.",
+			"1": "Alternative: the PZ1 (pneumatic)",
+			"2": "4 types of gripping functions:",
+			"3": "The fingers can be operated separately and you can get feedback from each individual finger. Install and program your robot in minutes with the URCap plug-in.",
+			"4": "You don’t need a background in robotics to use the gripper. It installs on the Universal Robot arm in a few minutes and our Gripper UR + makes configuration and programming quick and intuitive.",
+			"5": "We also offer ready-made program templates for the most common applications that can be automated with Universal Robots."
+		},
+		"dimension": {
+			"Weight": "2.3 kg",
+			"Draagkracht": "",
+			"Grijpkracht": "",
+			"Volledige slag": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/hand-e/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/11/hand-e-500x500-1.png",
+		"name": {
+			"0": "Hand E"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-HE"
+		},
+		"options": {},
+		"description": {
+			"0": "This electric gripper is versatile with a stroke of 50mm and easy to integrate with Robotiq’s F / T sensor and Wrist camera.",
+			"1": "The gripper is easy to use, easy to program and made for collaborative applications such as",
+			"2": "Characteristics",
+			"3": "Suitable for cobots of"
+		},
+		"dimension": {
+			"Weight": "1 kg",
+			"Grijpkracht": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/ur-pallitizing-software/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/11/nas-pal-ur-palletiseer-software-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/PPG-Onsite-user.jpg",
+		"name": {
+			"0": "NAS-PAL-UR"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-S-NAS"
+		},
+		"options": {},
+		"description": {
+			"0": "Palletizing with a cobot is an excellent choice to optimize productivity, improve work ergonomics and reduce operational costs, along with a smaller footprint. Using Nordbo Robotics Cobot palletizing software, the operator has full control over progress by adding a software layer. This provides feedback on progress and allows reconfiguration of the end-of-line palletizing setup within minutes.",
+			"1": "The online pallet pattern generator (PPG) can be reached via smartphone, tablet, laptop and desktop. You create new patterns by dragging and dropping boxes of a certain size to the selected pallet. Then you download the pattern to a USB stick, which you insert into the cobot controller and you’re done.",
+			"2": "Characteristics"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/mimic-kit/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/11/Mimic-kit-500x500-1.png",
+		"name": {
+			"0": "MIMIC kit"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-S-MM"
+		},
+		"options": {},
+		"description": {
+			"0": "Replicating complex human motions is often needed to when automating certain tasks. However, the available technology makes it close to impossible to program. With the MIMIC Kit for UR, everyone can record and automate complex movements without any prior programming experience. The unique sensing technology enables users to record, transfer and let robots replicate motions in six dimensions.",
+			"1": "This sensor comes with a URCap, making it suitable for cobots from Universal Robots.",
+			"2": "Applications:",
+			"3": "Painting, polishing, sanding, deburring, gluing, pick & place, tele-operation and many more.",
+			"4": "Option:",
+			"5": "License key to unlock your MIMIC URCap to use the record/playback functionality (paid once)."
+		},
+		"dimension": {
+			"Weight": "2.00000000 kg",
+			"Opnemen en terugspelen": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/force-co-pilot/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/force-copilot.jpg",
+		"name": {
+			"0": "Force Copilot"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-S-FC"
+		},
+		"options": {},
+		"description": {
+			"0": "Force Copilot is an intuitive software to operate the e-series cobots of Universal Robots’ embedded force torque sensor. Program complex robot movements in minutes—no robotics expertise needed. The result is a reliable and flexible cobot cell.",
+			"1": "Force Copilot uses the e-series’ embedded force torque sensor data along with the following features to allow the programming of complex force-sensitive applications in minutes :"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/ix-router/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/04/universal-robots-ixon-cloud-500x500-1.png",
+		"name": {
+			"0": "IXrouter"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-S-IX"
+		},
+		"options": {},
+		"description": {
+			"0": "With this router it is possible to connect robots in a secure way via VPN in the cloud.",
+			"1": "With the URCap, cobots from Universal Robots can be connected quickly and easily. This can be done via Ethernet, Wi-Fi or 4G / LTE.",
+			"2": "With this plug-in you make it possible to install and configure a VNC server on your robot, with which you can view and operate the teach pendant. This functionality is integrated in a secure cloud environment, which means you can view it directly from your browser or mobile app. A simple, code-free solution that meets the highest security standards.",
+			"3": "Benefits:"
+		},
+		"dimension": {
+			"Weight": "0.50000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/pally-software/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2019/12/Pally-logo-500x500-1.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/pickupconveyor.jpg",
+		"name": {
+			"0": "Pally"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-SO-PY"
+		},
+		"options": {},
+		"description": {
+			"0": "Pally is an URCap (software) that is the missing link for the rapid deployment of a complete palletizing solution. You can use grippers, sensors and other hardware to make a powerful and easy palletizer.",
+			"1": "With the included intuitive pattern generator you can easily make the desired pallet layout. Your palletizing project is operational in just one day. Create any desired box pattern in the user-friendly interface and export it via USB to the robot. No programming required to change patterns!",
+			"2": "The step-by-step calibration wizard is complete before you have emptied your coffee!",
+			"3": "PALLY ADVANTAGES"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/robodk-software/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/02/robodk-500x500-1.png",
+		"name": {
+			"0": "Robo DK"
+		},
+		"summary": {
+			"0": "RoboDK"
+		},
+		"model_name": {
+			"0": "OR-SW-DK"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "Offline programming",
+			"1": "Simulate and offline programming of industrial/collaborative robots has never been this easy before. Create your own virtual surroundings to simulate your own application within minutes. Easy find offline robotprogramming for each robot. It is no longer necessary to learn manufacturer-specific programs.",
+			"2": "Robotoperation",
+			"3": "Use your robotarm like a 5-axis freesmachine (CNC) or a 3D-printer. Simulate and convert NC-programs (G-code, APT or DXF-files) to your robotprogram. Robo DK optimizes the cobot path automatically and avouds singularities, axis-limits and collisions.",
+			"4": "You have acces to an extensive library of industrial robots, external axis and tools of more than 30 different robot manufacturers. Easily use each robot for every application, such as machine processing, welding, cutting, painting, inspection, deburring and more!",
+			"5": "Is your robotarm not accurate enough?",
+			"6": "Calibrate your robotarm to ensure accuracy and to improve production results. Execute ISO9283-robot performance tests. Certify robots with a ballbartest.",
+			"7": "Export programs to your robot",
+			"8": "RoboDK-postprocessors support a lot of robot controllers, among which:",
+			"9": "RoboDK works on Windows, Mac, Linux and even Android-devices!",
+			"10": "Maintenance contract",
+			"11": "When you choose the maintenance contract you will receive all updates. This is the amount per year."
+		},
+		"dimension": {
+			"Weight": "0.10000000 kg",
+			"Onderhoudscontract": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/hex_e/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/02/hex-e-500x500-1.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/hex-e_top_view.jpg",
+		"name": {
+			"0": "HEX-E"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-S-HEX-E"
+		},
+		"options": {},
+		"description": {
+			"0": "The Force-Torque sensor by OnRobot (previously OptoForce) gives the robot arm a ‘human’ sense of touch. These sensors are suitable for the following cobot brands:",
+			"1": "For cobots by Universal Robots the most comprehensive software exists in the form of the URCap: 15 applications. For Kuka there are now 4 applications available. For other cobots you will have to programme applications yourself, but a flange for these cobots is available. When placing an order, indicate for which brand and type of cobot the Force / Torque sensor will be used.",
+			"2": "Thanks to the significant deforming property of silicones, the OptoForce guarantees precision measurements up to 200% overload. Even after a complete deformation during 600% overload, the silicone layer is restored to its original shape, and it can accurately measure the forces, without any permanent damage. OnRobot sensors are shockproof and the latest versions are also watertight.",
+			"3": "The HEX-E is the high precision variant, that can handle precise jobs. The HEX-H is the low deformation variant, for the heavier jobs.",
+			"4": "Applications",
+			"5": "Suitable for:"
+		},
+		"dimension": {
+			"Weight": "0.245 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/hex_h/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/02/HEX-H-500x500-1.jpg",
+		"name": {
+			"0": "HEX-H"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-S-HEX-H"
+		},
+		"options": {},
+		"description": {
+			"0": "The Force-Torque sensor by OnRobot (previously OptoForce) gives the robot arm a ‘human’ sense of touch. These sensors are suitable for the following cobot brands:",
+			"1": "For cobots by Universal Robots the most comprehensive software exists in the form of the URCap: 15 applications. For Kuka there are now 4 applications available. For other cobots you will have to programme applications yourself, but a flange for these cobots is available. When placing an order, indicate for which brand and type of cobot the Force / Torque sensor will be used.",
+			"2": "Thanks to the significant deformation property of silicones, the OptoForce guarantees precision measurements up to 200% overload. Even after a complete deformation during 600% overload, the silicone layer is restored to its original shape, and it can accurately measure the forces, without any permanent damage. OnRobot sensors are shockproof and the latest versions are also watertight.",
+			"3": "The HEX-H is the low deformation variant, that can handle heavier jobs. The HEX-E is the high precision variant, for precision jobs.",
+			"4": "Applications",
+			"5": "Suitable for:",
+			"6": "70 x 35 mm"
+		},
+		"dimension": {
+			"Weight": "0.245 kg",
+			"Afmeting": "70 x 35 mm",
+			"Nominale Fx,y,z": "",
+			"Resolutie": "",
+			"Geschatte vervorming (ca.)": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/nrs-ft-6050/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/NRS-6-UR.jpg",
+		"name": {
+			"0": "NRS-6050-D80-UR"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-So-NRS"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "The NRS-6 Force Torque Sensor kit for UR has a maximum payload of 50 kg and includes an ethernet gateway, mounting flanges and an URCap. The rigid and durable 6-axis force and torque sensor is rated IP 67 and suitable for highly force-sensitive applications such as grinding, polishing, object weighing, and velocity adjustment based on payload.",
+			"1": "Applications:",
+			"2": "Sanding, grinding, polishing, assembling, palletizing, measuring, weighing, product testing.",
+			"3": "Option:",
+			"4": "NRC-DAC: Add 6 analog outputs to the standard signal converter (NRC-ETH)"
+		},
+		"dimension": {
+			"Weight": "0.3 kg",
+			"NRC-DAC": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/nrs-ft-sensor-ht/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/NRS-6-D80-on-UR-2.jpg",
+		"name": {
+			"0": "NRS-6200-D80-UR"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-So-NRSH"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "The NRS-6 Force Torque Sensor kit for UR has a maximum payload of 200kg and includes an ethernet gateway, mounting flanges and an URCap. The rigid and durable 6-axis force and torque sensor is rated IP 67 and suitable for highly force-sensitive applications such as grinding, polishing, object weighing, and velocity adjustment based on payload. The sensor has an IP67.",
+			"1": "Applications:",
+			"2": "Sanding, grinding, polishing, assembling, palletizing, measuring, weighing, product testing.",
+			"3": "Option:",
+			"4": "NRC-DAC: Add 6 analog outputs to the standard signal converter (NRC-ETH)"
+		},
+		"dimension": {
+			"Weight": "0.625 kg",
+			"NRC-DAC": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/ft_300/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/force-torque-r.png",
+		"name": {
+			"0": "Ft 300"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-S-FT300"
+		},
+		"options": {},
+		"description": {
+			"0": "The FT 300 Force-Torque sensor is a multi-axis force and torque sensor that enables Universal Robots to carry out force sensitive tasks. It detects and accurately measures robot contacts in order to enhance the robot control and facilitate programming.",
+			"1": "Alternative: OnRobot sensors",
+			"2": "The FT 300 is perfect for precise force control tasks, such as for finishing, product tests, assembly and precise insertion of parts.",
+			"3": "Created for Universal Robots",
+			"4": "A phased calibration procedure on the URCap guides the user through the process, which takes under 2 minutes to complete. The dashboard also offers real-time force and torque measurements on all 6 axes."
+		},
+		"dimension": {
+			"Weight": "0.3 kg",
+			"Nominale Fx,y,z": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/slide-kit/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/slidekit-UR.png",
+		"name": {
+			"0": "Slidekit"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-O-SK"
+		},
+		"options": {},
+		"description": {
+			"0": "Increase the horizontal reach of an UR cobot with the Slidekit. Ideal for loading and unloading processing machines such as CNC machines or for assembly tasks. The kit consists of:",
+			"1": "The Slidekit increases the reach of an UR cobot with 1,8 meter. The cobot can, with the integrated software on the teachpendant, be set such that the cobot can be positioned at any desired location on the lineair module. Shorter modules are available, contact us with your desired reach."
+		},
+		"dimension": {
+			"Weight": "30.00000000 kg",
+			"incl. kabelgeleiding": "",
+			"URCap": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/lift_kit/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2019/01/liftkit-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/LIFTKIT_retracted_UR_HQ.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/palletizer_robot_UR.png",
+		"name": {
+			"0": "Liftkit"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-O-LK"
+		},
+		"options": {},
+		"description": {
+			"0": "Increase the vertical reach of an UR cobot with the Lift kit. Ideal for e.g. higher palletizing or assembly tasks. The kit consist of:",
+			"1": "The support extends without vibrations up to 900 mm in height and is solid enough for industrial applications.",
+			"2": "Shorter Lift kits are possible. Contact us for more information.",
+			"3": "715 x 163 x 163 (with retracted pillar)"
+		},
+		"dimension": {
+			"Weight": "11.00000000 kg",
+			"incl. kabelgeleiding": "",
+			"URCap": "",
+			"Draagkracht": "",
+			"IP classificatie": "",
+			"Afmeting": "715 x 163 x 163 (with retracted pillar)"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/er5-mobile-station/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/02/ER5-500x500-1.jpg",
+		"name": {
+			"0": "ER5"
+		},
+		"summary": {
+			"0": "easyrobotics"
+		},
+		"model_name": {
+			"0": "OR-O-ER5"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "The ER5 delivers on the promise of flexibility of a Cobot: an ergonomically mobile station, with storage space for the control box and adjustable holder for the teach pendant.",
+			"1": "The workstation is suitable for production environments with a great need for flexibility and rapid integration. That is why the ER5 can be fully assembled with a Cobotarm, control panel and can easily be moved by an employee to various processing machines.",
+			"2": "With the ergonomic design and the small size of the workstation, a single person can move the ER5 to a car or a conveyor and drive directly to a processing machine or customer demonstration. You can move it portrait and landscape. Stand has 2 wheels and 4 legs for the design. There are still 2 rollers on the arm, so that it can be moved while lying down.",
+			"3": "Suitable for the UR3, HCR-3, UR5 and HCR-5."
+		},
+		"dimension": {
+			"Weight": "45 kg",
+			"Voor welke cobot?": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/or-support/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/or-staander.jpg",
+		"name": {
+			"0": "OR support"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-O-ORS"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "elektrisch",
+			"2": "Choose an option",
+			"3": "Choose an option",
+			"4": "Ja"
+		},
+		"description": {
+			"0": "With the OR support, the cobot stands securely on the ground on 4 feet.",
+			"1": "Options",
+			"2": "elektrisch",
+			"3": "Ja",
+			"4": "approx 100kg"
+		},
+		"dimension": {
+			"Weight": "45 kg",
+			"Verstelbaar": "elektrisch",
+			"Set gewichten": "",
+			"Met wieltjes?": "Ja",
+			"Gewicht": "approx 100kg",
+			"Afmeting": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/mir-1000/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/AGV-MiR1000.png",
+		"name": {
+			"0": "AMR MiR1000"
+		},
+		"summary": {
+			"0": "automated mobile robot"
+		},
+		"model_name": {
+			"0": "OR-AMR-1000"
+		},
+		"options": {},
+		"description": {
+			"0": "AMR stands for Autonomous Mobile Robot. The MiR1000 is such a self-driving robot vehicle for transport within industrial environments. The MiR learns its environment through “mapping” itself by means of mobile sensing. You can download CAD files directly from the floor to the MiR or program the MiR via your own tablet or telephone.",
+			"1": "The built-in scanners and cameras provide the mapping and the software calculates the most efficient route and the combination of software and scanners ensures that people and obstacles are avoided.",
+			"2": "The MiR can be fitted with tailor-made top modules, such as bins, racks, lifts, conveyor belts or even a cobot. The top modules can easily be changed, so that the AMR can be reused quickly for other tasks."
+		},
+		"dimension": {
+			"Weight": "231 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/amr-mir250/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2020/03/AMR-MIR250-500x500-1.png",
+		"name": {
+			"0": "AMR MiR250"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-AMR-250"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "The MiR250 is the latest AMR from MiR with the smallest footprint for its loading capacity on the market. The MiR250 combines industrial robustness with the most innovative technical developments. Furthermore, it is also the safest with its cameras and scanners that fully monitor the surrounding area. It can see legs of 20 mm diameter from 1.25 meters away and empty pallets on the floor.",
+			"1": "The MiR250 is precise with docking and drives with ease over holes, hills or slopes.",
+			"2": "Optionally available in ESD version. And optionally, a Top module from MiR itself is available that facilitates the autonomously picking up and delivery of goods.",
+			"3": "The MiR250 is CE certified."
+		},
+		"dimension": {
+			"Weight": "70 kg",
+			"Versie": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/mir-100/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/12/OlmiaRobotics-MiR100-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/OlmiaRobotics-MiR100-opbouw.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/mir-100.png",
+		"name": {
+			"0": "AMR MiR100"
+		},
+		"summary": {
+			"0": "automated mobile robot",
+			"1": "reserveonderdelen"
+		},
+		"model_name": {
+			"0": "OR-AMR-100"
+		},
+		"options": {},
+		"description": {
+			"0": "AMR stands for Autonomous Mobile Robot. The MiR100 is such a self-driving robot vehicle for transport within industrial environments. The MiR learns its environment through “mapping” itself by means of mobile sensing. You can download CAD files directly from the floor to the MiR or program the MiR via your own tablet or telephone.",
+			"1": "The built-in scanners and cameras provide the mapping and the software calculates the most efficient route. The combination of software and scanners ensures that people and obstacles are avoided.",
+			"2": "The MiR can be fitted with tailor-made top modules, such as bins, racks, lifts, conveyor belts or even a cobot. The top modules can easily be changed, so that the AMR can be reused quickly for other tasks."
+		},
+		"dimension": {
+			"Weight": "65 kg",
+			"Temperatuurbereik": "",
+			"Draagkracht": "",
+			"IP classificatie": "",
+			"Gewicht": "",
+			"Afmeting": "",
+			"Snelheid": "",
+			"Accu": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/mir-500/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2019/01/AMR-MIR500-500x500-1.png",
+		"name": {
+			"0": "AGV MiR500"
+		},
+		"summary": {
+			"0": "automated mobile robot"
+		},
+		"model_name": {
+			"0": "OR-AMR-500"
+		},
+		"options": {},
+		"description": {
+			"0": "AMR stands for Autonomous Mobile Robot. The MiR500 is such a self-driving robot vehicle for transport within industrial environments. The MiR learns its environment through “mapping” itself by means of mobile sensing. You can download CAD files directly from the floor to the MiR or program the MiR via your own tablet or telephone.",
+			"1": "The built-in scanners and cameras provide the mapping and the software calculates the most efficient route and the combination of software and scanners ensures that people and obstacles are avoided.",
+			"2": "The MiR can be fitted with tailor-made top modules, such as bins, racks, lifts, conveyor belts or even a cobot. The top modules can easily be changed, so that the AMR can be reused quickly for other tasks.",
+			"3": "500 kg"
+		},
+		"dimension": {
+			"Weight": "226 kg",
+			"Temperatuurbereik": "",
+			"Draagkracht": "500 kg",
+			"IP classificatie": "",
+			"Gewicht": "",
+			"Afmeting": "",
+			"Accuraatheid": "",
+			"Snelheid": "",
+			"Accu": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/mir-200/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2019/01/AMR-MIR200-500x500-1.png",
+		"name": {
+			"0": "AMR MiR200"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-AMR-200"
+		},
+		"options": {},
+		"description": {
+			"0": "AMR stands for Autonomous Mobile Robot. The MiR200 is such a self-driving robot vehicle for transport within industrial environments. The MiR learns its environment through “mapping” itself by means of mobile sensing. You can download CAD files directly from the floor to the MiR or program the MiR via your own tablet or telephone.",
+			"1": "The built-in scanners and cameras provide the mapping and the software calculates the most efficient route and the combination of software and scanners ensures that people and obstacles are avoided.",
+			"2": "The MiR can be fitted with tailor-made top modules, such as bins, racks, lifts, conveyor belts or even a cobot. The top modules can easily be changed, so that the AMR can be reused quickly for other tasks.",
+			"3": "200 kg",
+			"4": "65 kg"
+		},
+		"dimension": {
+			"Weight": "65 kg",
+			"Temperatuurbereik": "",
+			"Draagkracht": "200 kg",
+			"IP classificatie": "",
+			"Gewicht": "65 kg",
+			"Afmeting": "",
+			"Trekkracht": "",
+			"Snelheid": "",
+			"Accu": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/er200-easyrobotics-olmia_robotics/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2019/10/ER200-500x500-1.png",
+		"name": {
+			"0": "ER200"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "ER200-ER-OR"
+		},
+		"options": {},
+		"description": {
+			"0": "The NEW ER200 is used in fully or partly automated production environments which demand enhanced flexibility and fast integration.",
+			"1": "The ER200 is developed in respect of maximum mobility.",
+			"2": "The ER5 series from EasyRobotics, is a series of mobile cobot platforms  APP (steel only)developed to maximize mobility and flexibility in robotic automation, The ER200 can be used for Universal Robots UR3 and UR5 and MIR100 and 200.",
+			"3": "ER200 is a solid, mobile and compact working station to be mounted and integrated onto MIR Robots, enhancing the collaboration between UR and MIR Robot advantages."
+		},
+		"dimension": {
+			"Weight": "50 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/qm-180/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/qm180-2.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/qm180.jpg",
+		"name": {
+			"0": "QM180 – Top Mover"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-T-QM"
+		},
+		"options": {},
+		"description": {
+			"0": "The Quick Mover QM180 can pick up goods at gates SG155 and WG155. The QM180 is placed on top of the mobile robot (MiR100, MiR200 or MiR250) and works by a lifting mechanism integrated in the module. With the included smartphone you can manually operate the robot and make adjustments in specialized work processes, which result in efficient automation of internal forms of transport. The QM180 reduces costs and increases productivity.",
+			"1": "Your main benefits"
+		},
+		"dimension": {
+			"Weight": "30.00000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/mir-pallet-rack/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/pallet-rack.png",
+		"name": {
+			"0": "Pallet Rack"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-AMR-PR"
+		},
+		"options": {},
+		"description": {
+			"0": "The MiR Pallet Rack is the delivery station or pick-up station for (EU) pallets. The MiR autonomously enters the MiR Pallet Rack and delivers or picks up pallets safely. The Pallet Rack is combined with a Pallet Lift top module on the MiR500 or MiR1000 itself."
+		},
+		"dimension": {
+			"Weight": "150.00000000 kg",
+			"Type pallet": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/pallet_lift/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/mir-500.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/mir-pallet-lift.png",
+		"name": {
+			"0": "Pallet Lift"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-AMR-PL"
+		},
+		"options": {},
+		"description": {
+			"0": "Raise a pallet on the MiR for automatic pick up and delivery of pallets. State the correct type: for the MiR500 it is a different  Pallet Lift as the one for the MiR1000. Same goes for the type of pallets you use. The Pallet Lift is a top module that is used in combination with one or more Pallet Racks.",
+			"1": "MiR500"
+		},
+		"dimension": {
+			"Weight": "250.00000000 kg",
+			"Type pallet": "",
+			"Type MiR": "MiR500"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/er1000-mir/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/er1000-mir.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/er1000-front.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/er1000.png",
+		"name": {
+			"0": "ER1000"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-ER-1000"
+		},
+		"options": {},
+		"description": {
+			"0": "The ER1000 is a drive through station to be used in combination with the MiR500 and MiR1000. The station lifts pallets so the AMR can travel underneath to pick up or deliver the pallet.",
+			"1": "Because it is a drive through station, the MIR500 / MIR 1000 can drive through the station without reversing from delivery points, resulting in faster and predictable operation in the system.",
+			"2": "One control unit",
+			"3": "The ER1000 dispenser can be expanded with two delivery stations and a collection station with only one control unit in the middle. The communication protocol is based on the latest OPC-UA between MIR 500 and MIR 1000 to the station.",
+			"4": "Request to pick up pallets",
+			"5": "ER1000 can fully communicate with the MiR500 / MiR1000 to request to pick up pallets."
+		},
+		"dimension": {
+			"Weight": "290.00000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/pm_1500/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/PM1500.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/PM1500_gate-europallet.png",
+		"name": {
+			"0": "PM1500"
+		},
+		"summary": {
+			"0": "screw set"
+		},
+		"model_name": {
+			"0": "OR-T-PM"
+		},
+		"options": {},
+		"description": {
+			"0": "The Pallet Mover PM1500 enables MiR500 and MiR1000 AMRs to pick up and deliver pallets. They transport pallets (EURO, Block or Chep) to e.g. production lines or packing stations, improving the internal logistics process.",
+			"1": "This fully automated premium solution enables heavy transport of loads up to 1500 kgs, improving the internal logistics and production process.",
+			"2": "Your most important advantages:"
+		},
+		"dimension": {
+			"Weight": "94.00000000 kg",
+			"Draagkracht": "",
+			"Afmeting": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/wg-150/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/WG150.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/overview_modules.jpg",
+		"name": {
+			"0": "WG155 – Wheel Gate"
+		},
+		"summary": {
+			"0": "screw set"
+		},
+		"model_name": {
+			"0": "OR-T-WG"
+		},
+		"options": {},
+		"description": {
+			"0": "The Wheel Gate WG155 is combined with the Top Mover TM150 or QM180, which is installed on the AMRs MiR100, MiR200 or MiR250 to receive or deliver an object. This connects the AMR with production lines and storage systems to automate logistics processes.",
+			"1": "An integrated stop function and manual wheels on the WG155 Wheel Gate make it easy for employees or AMR to push boxes to the collection point or further down the production line. In this way you can further automate production processes and thus increase productivity and lower production costs.",
+			"2": "Your benefits:",
+			"3": "The WG150 has 3 variants:",
+			"4": "Basic, Flex, Slim",
+			"5": "150kg",
+			"6": "1150 x 866 x 545 mm"
+		},
+		"dimension": {
+			"Weight": "150.00000000 kg",
+			"Type Module": "Basic, Flex, Slim",
+			"Draagkracht": "150kg",
+			"Afmeting": "1150 x 866 x 545 mm"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/sg-150/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/SG150.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/overview_modules.jpg",
+		"name": {
+			"0": "SG155 – Solid Gate"
+		},
+		"summary": {
+			"0": "screw set"
+		},
+		"model_name": {
+			"0": "OR-T-SG"
+		},
+		"options": {},
+		"description": {
+			"0": "The Solid Gate SG155 merges with our TM155 or QM180 installed on the mobile robot MiR100, MiR200 or MiR250 (just QM180) to receive an object, connecting the mobile robot with production lines and storage systems.",
+			"1": "It is designed as a basic standard gate, which can serve as e.g. a flexible pick-up point for the mobile robots. By installing customer specific equipment directly on the gate it can simply adjust to specialised work processes and further automate production processes, increasing productivity and reducing production costs.",
+			"2": "• Easy extension of gate functionality by installing e.g. robot arms, lifts or conveyors directly on the Gate",
+			"3": "• Simple integration of mobile robots MiR100, MiR200 and MiR250 in production line, receiving heavy payloads of up to 153 kg | 338 lbs",
+			"4": "• Safe design for all industries – discharges any potentially electrically charged objects due to antistatic and oil-treated PEHD1000 –",
+			"5": "designed according to principles of international safety standards",
+			"6": "• Flexible standard gate – no need to change internal workflows or the facility as such",
+			"7": "• Optimization of internal logistics, freeing staff resources for higher value activities",
+			"8": "• Simple and fast assembly process – providing a complete solution in combination with our TM155 of QM180",
+			"9": "Basic, Flex, Slim",
+			"10": "1150 x 866 x 545 mm"
+		},
+		"dimension": {
+			"Weight": "150.00000000 kg",
+			"Type Module": "Basic, Flex, Slim",
+			"Draagkracht": "",
+			"Afmeting": "1150 x 866 x 545 mm"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/tm-150/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/TM150-MiR2.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/TM150.jpg",
+		"name": {
+			"0": "TM155 – Top mover"
+		},
+		"summary": {
+			"0": "screw set"
+		},
+		"model_name": {
+			"0": "OR-T-TM"
+		},
+		"options": {},
+		"description": {
+			"0": "The Top Mover TM155 enables the mobile robots MiR100 and MiR200 to pick up & deliver objects to our gates, and from there, transport them to e.g. a conveyer belt, enhancing internal logistics.",
+			"1": "The TM150 with a lifting function is placed above the mobile robot. With its specially designed slats it can merge with our gate modules, connecting the mobile robot with production lines and storage systems. Integrated software and an intelligent touchscreen allow users to adjust to specialized work processes, forming an efficient automation of internal transportation tasks and thus, reducing costs and increasing productivity.",
+			"2": "Advantages:",
+			"3": "• Safe and reliable transportation of objects – designed according to principles of international safety standards",
+			"4": "• Fits mobile robots MiR100 and MiR200",
+			"5": "• Cost-efficient delivery of payloads up to 153 kg / 338 lbs, freeing staff resources for higher value activities",
+			"6": "• Touch screen with user-friendly interface to easily add customer-specific functions and programs",
+			"7": "• Rubber-lined aluminum slats, making sure that the object is always placed securely on the Top Mover",
+			"8": "• Flexible standard product without the need to change internal workflows or the facility as such",
+			"9": "• Simply set up and running within a few days – providing a complete solution with our gates"
+		},
+		"dimension": {
+			"Weight": "150.00000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/pro_feeder/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/ProFeeder.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/profeeder-wisselcontainer.jpg",
+		"name": {
+			"0": "Profeeder"
+		},
+		"summary": {
+			"0": "easyrobotics"
+		},
+		"model_name": {
+			"0": "OR-T-PRO"
+		},
+		"options": {},
+		"description": {
+			"0": "The ProFeeder is the solution for tending your production machine. It is a compact, mobile and modular robot cell that can be moved easily between the machines in your production line with a pallet truck. It is suitable for small and medium series production. The ProFeeder is delivered with 2 movers with a parts tray. The UR robot is mounted on the ProFeeder and picks parts that are to be processed from the tray.",
+			"1": "How the ProFeeder works",
+			"2": "When the parts have been processed, the mover with the parts trays is removed from the robot cell and replaced by a new mover with unprocessed parts. The first mover can now be replenished with unprocessed parts. In the meanwhile, your robot can continue working.",
+			"3": "ROI is about 1 year, but might be less, depending on the operating time."
+		},
+		"dimension": {
+			"Weight": "250 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/ploc-2d/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/PLOC2D-1.jpg",
+		"name": {
+			"0": "PLOC2D"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-V-PLOC"
+		},
+		"options": {},
+		"description": {
+			"0": "This 2D vision system makes object positioning easy: you don’t have to be a vision expert.",
+			"1": "The PLOC2D can be directly configured for various applications. Think of packing parts from a conveyor belt or feeder system for placing in a machine, sorting objects or for packaging.",
+			"2": "The system has a metal housing with IP65, a web-based user interface and a locating algorithm for object recognition and locating.",
+			"3": "Easy configuration with EasyTeach. To integrate the PLOC2D with a cobot, you must first teach it the object. It’s easy, by “painting” it with the EasyTeach tool in the interface."
+		},
+		"dimension": {
+			"Weight": "0.50000000 kg",
+			"Versie": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/eyes-for-robots/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/eyes.png",
+		"name": {
+			"0": "Eyes for r/cobots"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-V-Ey"
+		},
+		"options": {},
+		"description": {
+			"0": "This flexible and quickly deployable vision system uses 2.5D (combination of camera and laser) and so gives eyes to robots and cobots. Without a vision system, you have to offer a cobot or robot objects that are lined up in a structured way (otherwise the robot arm does not know where to grab the object). The robot arm knows this with a vision system. The addition of laser also shows depth, allowing stacked objects to be found.",
+			"1": "The vision system only needs only calibration with one image, so you don’t have to teach endless object images. The camera can be mounted on the robot head or externally.",
+			"2": "Eyes is ideal for sorting a variety of objects, CNC loading and many other Pick & Place applications where orientation is important.",
+			"3": "The advantages and functions of the OnRobot Eyes",
+			"4": "The Eyes vision system from OnRobot has also been made suitable for the quick change system of all their products. Eyes can therefore be seamlessly integrated with their grippers and / or F/T sensor.",
+			"5": "Implementation is fast, so you have minimal downtime for switching to new products or processes. Especially the fact that calibration of one image and recognition of parts only takes a few minutes is a big advantage. Programming is also intuitive and fast."
+		},
+		"dimension": {
+			"Weight": "0.9 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/inspector_p60/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/sick-inspector.png",
+		"name": {
+			"0": "Inspector PIM60"
+		},
+		"summary": {
+			"0": "systeem"
+		},
+		"model_name": {
+			"0": "OR-V-SP60"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "Give your robot arm eyes with this vision system. The Inspector PIM60 is Universal+ certified.  A URCap is available, so that the software can be loaded for cooperation with UR robot arms.",
+			"1": "This 2D vision system is eminently suitable for use in combination with a UR robot arm for applications such as:",
+			"2": "The set consists of the camera and cabling. Several filters and a Flex Dome can be used as an option for a better light exposure."
+		},
+		"dimension": {
+			"Weight": "1.00000000 kg",
+			"Opties PIM Inspector": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/robotiq-wrist-camera/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/2d-vision-r.png",
+		"name": {
+			"0": "Wrist camera"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-V-RWC"
+		},
+		"options": {},
+		"description": {
+			"0": "The Wrist Camera from Robotiq offers a Plug + Play vision system for Universal Robots in your factory. With a setup time of 30 minutes, it locates objects on a work surface without any coding. Give the robot arm eyes with this vision system. The Wrist camera is Universal + certified. There is an URCap present, so that the software can be loaded to work together with UR robot arms.",
+			"1": "Alternative: Sensopart v10",
+			"2": "The Robotiq camera is the simple, user-friendly option to locate parts that work exclusively with Universal Robots. With the Wrist Camera you don’t have to make expensive, adjusted fixtures to present your parts.",
+			"3": "With all the software embedded in the robot controller and the easiest user interface on the market, anyone can teach a component and program a task.",
+			"4": "The Robotiq wrist camera is perfectly suitable for all UR models with controller 3.1+. No custom wiring and no external PC are required to set up, program or execute the camera."
+		},
+		"dimension": {
+			"Weight": "1 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/vision-32l-laser/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/2-5D.jpg",
+		"name": {
+			"0": "iAVS-XZ32L"
+		},
+		"summary": {
+			"0": "systeem",
+			"1": "VanRooij-e.d.s.e"
+		},
+		"model_name": {
+			"0": "OR-V-32L"
+		},
+		"options": {},
+		"description": {
+			"0": "Camera combi with laser",
+			"1": "Ethernet based camera (TCP/IP), 32 bits integreded DSP, 512Mb RAM, 2 digital inputs, 2 digitale outputs, exposure synchronous output, C Mount, incl. software, cable set consisting ofa 5m power/Ethernet and 5m digitale I/O, 10.2mm lens, red filter, interface print, laser 660nm, 20°."
+		},
+		"dimension": {
+			"Weight": "3 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/vision-60l-laser/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/2-5D.jpg",
+		"name": {
+			"0": "iA VS-FH60L"
+		},
+		"summary": {
+			"0": "camera",
+			"1": "systeem"
+		},
+		"model_name": {
+			"0": "OR-V-60L"
+		},
+		"options": {},
+		"description": {
+			"0": "Camera combi with laser",
+			"1": "Ethernet based camera (TCP/IP), 32 bits integreded DSP, 32Mb RAM, 2 digital inputs, 2 digitale outputs, exposure synchronous output, C Mount, incl. software, cable set consisting ofa 5m power/Ethernet and 5m digitale I/O, 10.2mm lens, red filter, interface print, laser 660nm, 20°."
+		},
+		"dimension": {
+			"Weight": "3.00000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/2d-vision-sensor-v10/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/sensopart-v10.jpg",
+		"name": {
+			"0": "2D vision Visor v10"
+		},
+		"summary": {
+			"0": "visionsysteem",
+			"1": "Visor"
+		},
+		"model_name": {
+			"0": "OR-V-SP"
+		},
+		"options": {},
+		"description": {
+			"0": "Give the robot arm eyes with this vision system. The V10 is Universal + certified. There is an URCap present, so the software can be loaded into the teach pendant and work together with UR robot arms.",
+			"1": "Suitable for",
+			"2": "The vision camera has integrated software and can communicate with PCs and PLC. The camera can be set up quickly and easily with the supplied software. Equipped with LED in white, red, infrared or UV as standard.",
+			"3": "The image resolution is adjustable for objects that pass the camera at high speed. The trigger sensor can be used to take a photo at the right time."
+		},
+		"dimension": {
+			"Weight": "160 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/ntc_e10/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/NTC-10E-2.jpg",
+		"name": {
+			"0": "NTC-E10"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-W-NTC"
+		},
+		"options": {},
+		"description": {
+			"0": "The NTC-E10 is a accurate and robust magnetic tool changer with an optional I/O coupling module. The unique use of an electro-permanent magnet discards the need for pneumatic equipment, and can be connected directly to the robot’s tool I/O. Simply supply power to demagnetize the tool changer and detach the tool flange. The optional I/O coupling, can further enable tool-changing between electrical grippers. For applications unsuited for pneumatics, the NTC-E10 is the perfect choice.",
+			"1": "The tool changer can be used with all r/cobots. A URCap is available for the UR cobots. The capacity of the exchanger is 10kg."
+		},
+		"dimension": {
+			"Weight": "0.517 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/fingertips-3fg15/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/3fg-xfingertip.jpg",
+		"name": {
+			"0": "Fingertips 3FG15"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-FT315"
+		},
+		"options": {},
+		"description": {
+			"0": "With these fingertips, the gripper is (better) able to lift round shapes or shapes with an edge."
+		},
+		"dimension": {
+			"Weight": "0.02 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/gripper-fingertips/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/rg6-xfingertips.jpg",
+		"name": {
+			"0": "Fingertips"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-FT"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "Choose an option",
+			"2": "Choose an option"
+		},
+		"description": {
+			"0": "Suitable for OnRobot RG2 and RG6 grippers.",
+			"1": "Each set includes the necessary screws.",
+			"2": "Please indicate for which gripper"
+		},
+		"dimension": {
+			"Weight": "0.02 kg",
+			"Vorm": "",
+			"Type grijper": "",
+			"lengte": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/angle-bracket/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/90-beugel.jpg",
+		"name": {
+			"0": "Angle bracket"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-S-FT"
+		},
+		"options": {},
+		"description": {
+			"0": "This bracket can be used with all OnRobot End-of-Arm tools. With this you can, for example, mount 2 grippers on a cobot to double the handling speed."
+		},
+		"dimension": {
+			"Weight": "0.5 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/surface-finishing-kit/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/surface-finishing-kit.jpg",
+		"name": {
+			"0": "Surface finishing kit"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-UK-SF"
+		},
+		"options": {},
+		"description": {
+			"0": "Use the same tools you are used to for finishing your products. Whether it concerns:",
+			"1": "Mount the tool to the UR cobot and automate one of the toughest and dirtiest jobs. With the",
+			"2": "You can save hours of programming and increase quality and productivity without the physical effort.",
+			"3": "The Path Generator from Finishing Copilot saves you hours of programming. Learn a finishing path on a flat surface using only 4 variable waypoints that adapt to the size of the part. Add custom moves specific to your process in no time.",
+			"4": "Program complex finishing trajectories by learning fewer than 10 waypoints. The Finishing Copilot generates a full path and applies consistent force on every cycle, whether on a curved (6 waypoints) or spherical (9 waypoints) surface."
+		},
+		"dimension": {
+			"Weight": "0.5 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/cleaning-station-gecko/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/cleaning-station-gecko.jpg",
+		"name": {
+			"0": "Cleaning station"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-SS-CS"
+		},
+		"options": {},
+		"description": {
+			"0": "Gecko grippers work because millions of nano hairs create a negative pressure on the smooth surface on which they are pressed. The ‘pads’ on the grippers need to be cleaned occasionally. This is possible with this cleaning station which has been specifically developed for this type of grippers.",
+			"1": "Characteristics",
+			"2": "• Removes build-up of grip-inhibiting particulate matter",
+			"3": "• Integrates into robot program for autonomous cleaning",
+			"4": "• Easy installation onto robot workspace",
+			"5": "• Operated by the motion of the robotic arm",
+			"6": "• Does not require any direct wiring",
+			"7": "• Easy-to-clean and easy-to-replace roller cartridges"
+		},
+		"dimension": {
+			"Weight": "1 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/or-quartets/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/kwartetspel-olmiarobotics-s.jpg",
+		"name": {
+			"0": "Quartets"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-M-KW"
+		},
+		"options": {},
+		"description": {
+			"0": "Play the Olmia Robotics quartets game!",
+			"1": "Collect all cobots, grippers, vision systems. The game consists of 36 cards (9 quartets)."
+		},
+		"dimension": {
+			"Weight": "0.30000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/control-board-terminal-kit/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/control-board-terminal-kit-sm.png",
+		"name": {
+			"0": "UR control board terminal kit"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-UR-CB"
+		},
+		"options": {},
+		"description": {
+			"0": "For the UR CB3 cobots"
+		},
+		"dimension": {
+			"Weight": "1.00000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/sandingkit/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/Sandingkit-Robotiq.jpg",
+		"name": {
+			"0": "Sanding Kit"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "RO-SA-KI"
+		},
+		"options": {},
+		"description": {
+			"0": "Automate sanding tasks the easy way with the only hardware & software sanding solution for Universal Robots. Prefend end worker injuries by using this kit.",
+			"1": "Teach six waypoints and let Finishing Copilot generate a complete path and apply constant force at each cycle.",
+			"2": "Supported Materials:",
+			"3": "Grits: 60, 80, 120, 320, 400"
+		},
+		"dimension": {
+			"Weight": "3 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/service-maintenance-contract/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/cobotservice.jpg",
+		"name": {
+			"0": "Service contract"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-S-SC"
+		},
+		"options": {},
+		"description": {
+			"0": "Reachable on phone during office hours; via Whatsapp after hours.",
+			"1": "Guaranteed on location in the Netherlands within 24 hours",
+			"2": "The complete content and terms and conditions of this contract can be downloaded on the 2nd tab. Ofcourse, we could imagine you have need for higher service requirements, for example if you have a 24/7 production. Contact us if you need a customized service contract."
+		},
+		"dimension": {}
+	},
+	"https://www.cobotwebshop.com/en/product/usb-stick/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/OR-usb.png",
+		"name": {
+			"0": "USB stick"
+		},
+		"summary": {
+			"0": "merchandise",
+			"1": "olmia robotics"
+		},
+		"model_name": {
+			"0": "OR-M-USB"
+		},
+		"options": {},
+		"description": {
+			"0": "This USB stick (with Olmia Robotics logo) is a compact, foldable USB stick with a storage capacity of 8 GB. Suitable for transferring (cobot) files quickly and easily."
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/aluminum-joint-covers-ur/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/URkappen-OR-scaled.jpg",
+		"name": {
+			"0": "Aluminum Joint Covers"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-M-ZK"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "UR3 of UR3e",
+			"2": "UR5 of UR5e"
+		},
+		"description": {
+			"0": "Set of 6 anodized aluminum caps, engraved with the Olmia Robotics logo, for the joints of cobots from Universal Robots. To give your cobot a different look.",
+			"1": "UR3 of UR3e, UR5 of UR5e"
+		},
+		"dimension": {
+			"Weight": "2.00000000 kg",
+			"Welke UR cobot heb je?": "UR3 of UR3e, UR5 of UR5e"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/pen-merchandise-blue-engraved/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/pennen01-OR-scaled.jpg",
+		"name": {
+			"0": "Pen"
+		},
+		"summary": {
+			"0": "olmia robotics",
+			"1": "pen"
+		},
+		"model_name": {
+			"0": "OR-M-P"
+		},
+		"options": {},
+		"description": {
+			"0": "Luxurious blue pen with the Olmia Robotics logo. The stylus cap to operate telephones (or teach pendants) is on the click system of the pen."
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/engraved-beer-glass/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/Bierglas02-OR-scaled.jpg",
+		"name": {
+			"0": "Beer glass"
+		},
+		"summary": {
+			"0": "bier",
+			"1": "bierglas"
+		},
+		"model_name": {
+			"0": "OR-M-BG"
+		},
+		"options": {},
+		"description": {
+			"0": "A nice glass for drinking your favorite specialty beer. The glass is printed with the Olmia Robotics logo."
+		},
+		"dimension": {
+			"Weight": "0.20000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/mini-air-mattress-merchandise-blue/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/luchtbedje-opgeblazen1-OR-scaled.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/luchtbedje-ingepakt-OR-scaled.jpg",
+		"name": {
+			"0": "miniature air mattress"
+		},
+		"summary": {
+			"0": "merchandise",
+			"1": "olmia robotics"
+		},
+		"model_name": {
+			"0": "OR-M-ML"
+		},
+		"options": {},
+		"description": {
+			"0": "This inflatable mattress has a transparant window and a handy carrying cord. The air mattress is blue and contains the Olmia Robotics logo in white.",
+			"1": "Dimensions: 31 cm x 10 cm x 68 cm"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/black-mug-programmeerheld/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/mokken01-OR-scaled.jpg",
+		"name": {
+			"0": "Mug programmeerheld (programming hero)"
+		},
+		"summary": {
+			"0": "merchandise",
+			"1": "olmia robotics"
+		},
+		"model_name": {
+			"0": "OR-M-MP"
+		},
+		"options": {},
+		"description": {
+			"0": "A black mug with the Olmia Robotics logo and the text “programmeerheld” (programming hero). Ideal for your coffee, tea or other drinks."
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/teach_pendant_ure/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/teachpendant-URe-series-los-kopen.jpg",
+		"name": {
+			"0": "Teach pendant UR e-series"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-TPE"
+		},
+		"options": {},
+		"description": {
+			"0": "Do you have a broken of defect screen for your UR cobot? You can replace it yourself with the teach pendant service kit. We could also send our service engineer of Olmia Robotics to do it for you, feel free to contact us.",
+			"1": "To prevent it from happening again: order a teach pendant protector."
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/mir_spareparts/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/mir1-2-5.jpg",
+		"name": {
+			"0": "MiR spare parts"
+		},
+		"summary": {
+			"0": "automated mobile robot",
+			"1": "reserveonderdelen"
+		},
+		"model_name": {
+			"0": "OR-AGV-SP"
+		},
+		"options": {},
+		"description": {
+			"0": "All spare parts of the MiR AMRs can be ordered. Separate or as a service set. Parts that can be ordered are:",
+			"1": "Indicate on the form which part you need and for which type of MiR."
+		},
+		"dimension": {
+			"Weight": "5.00000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/hex_adapter/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/serviceset-optoforce-adapter-screws.jpg",
+		"name": {
+			"0": "HEX adapter & screws"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-HEX-AS"
+		},
+		"options": {},
+		"description": {
+			"0": "A service set for the HEX-E and HEX-H consisting of the adapter plate and screw set."
+		},
+		"dimension": {
+			"Weight": "2 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/hex_screwset_v2/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/serviceset-optoforce-screws.jpg",
+		"name": {
+			"0": "HEX  screw set V2"
+		},
+		"summary": {
+			"0": "On robot",
+			"1": "onrobot",
+			"2": "optoforce"
+		},
+		"model_name": {
+			"0": "OR-HEX-SS2"
+		},
+		"options": {},
+		"description": {
+			"0": "This screw set for the HEX-E and HEX-H is used for (current) V2 Force / Torque sensors. The set consists of:"
+		},
+		"dimension": {
+			"Weight": "1.00000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/hex_screwset_v1/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/serviceset-optoforce-screws.jpg",
+		"name": {
+			"0": "HEX screw set V1"
+		},
+		"summary": {
+			"0": "screwset",
+			"1": "screwset"
+		},
+		"model_name": {
+			"0": "OR-HEX-SS"
+		},
+		"options": {},
+		"description": {
+			"0": "This screw set for the HEX-E and HEX-H is suitable for V1 (previously OptoForce) Force / Torque sensors. The set consists of:"
+		},
+		"dimension": {
+			"Weight": "1.00000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/hex_connectionset/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/serviceset-connection-hex.jpg",
+		"name": {
+			"0": "Hex connection set"
+		},
+		"summary": {
+			"0": "On robot",
+			"1": "onrobot"
+		},
+		"model_name": {
+			"0": "OR-HEX-CS"
+		},
+		"options": {},
+		"description": {
+			"0": "The Connection set for the Force / Torque sensors HEX-E and HEX-H consists of:",
+			"1": "Individual items are available on request."
+		},
+		"dimension": {
+			"Weight": "1.00000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/vg10-filter-kit/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/vg10-filterkit.jpg",
+		"name": {
+			"0": "VG10 Filter kit"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-VG10-FK"
+		},
+		"options": {},
+		"description": {
+			"0": "The Filter kit for the VG10 vacuum gripper consists of:"
+		},
+		"dimension": {
+			"Weight": "1.00000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/vg10-suction-cups/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2019/02/VG10-suction-cups-500x500-1.png",
+		"name": {
+			"0": "VG10 suction cups"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-VG10-SC"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "15mm"
+		},
+		"description": {
+			"0": "Extra suction cups for the VG10 vacuum gripper. Available sizes (diameter) are:",
+			"1": "15mm"
+		},
+		"dimension": {
+			"Weight": "0.25000000 kg",
+			"Maat doorsnee": "15mm"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/rg6_serviceset/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/serviceset-rg.jpg",
+		"name": {
+			"0": "RG6 spare parts"
+		},
+		"summary": {
+			"0": "grijper",
+			"1": "gripper",
+			"2": "On robot",
+			"3": "onrobot",
+			"4": "universal robots"
+		},
+		"model_name": {
+			"0": "OR-RG-SS6"
+		},
+		"options": {},
+		"description": {
+			"0": "The content of a serviceset for the RG6 gripper consists of:",
+			"1": "A loose set of fingertips is available on request."
+		},
+		"dimension": {
+			"Weight": "0.50000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/rg2_serviceset/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/serviceset-rg.jpg",
+		"name": {
+			"0": "RG2 spare parts"
+		},
+		"summary": {
+			"0": "grijper",
+			"1": "gripper",
+			"2": "On robot",
+			"3": "onrobot",
+			"4": "universal robots"
+		},
+		"model_name": {
+			"0": "OR-RG-SS2"
+		},
+		"options": {},
+		"description": {
+			"0": "The content of a serviceset for the RG2 gripper consists of:",
+			"1": "A set loose fingertips are available on request."
+		},
+		"dimension": {
+			"Weight": "1.00000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/glue-kit/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/kit-kit.png",
+		"name": {
+			"0": "Glue kit"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-KI"
+		},
+		"options": {},
+		"description": {
+			"0": "This upgrade kit for applying glues and sealants turns your robot arm into a tireless and efficient glue or sealant applicator. A human cannot apply constant pressure for a whole day; a cobot can. For applying glue and sealing, a constant pressure means a constant quality and less waste. Moreover, a cobot will continue working during brakes, and after working hours, making it possible to increase your production.",
+			"1": "The upgrade kit for applying glues and sealants consists of a retainer for a refilllable cartridge and is suitable for cobots with an iso flange."
+		},
+		"dimension": {
+			"Weight": "2 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/finger_kit/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/09/Fingerkit-500x500-1.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/Fingerkit_weiss.jpg",
+		"name": {
+			"0": "Finger kit"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-G-FK"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "The Gripkit E1 and E2 are delivered without gripper fingers. The Finger kit was developed so that you can create your own custom fingers. This kit consists of a basic element, spacer, corner element and a T-element with all required bolts. This allows you to make different configurations with the gripper fingers.",
+			"1": "Suitable for:"
+		},
+		"dimension": {
+			"Weight": "1 kg",
+			"Type grijper": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/qc_10/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/Quick_changer_01.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/Quick_changer_02.png,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/QC10.jpg",
+		"name": {
+			"0": "QC10 Quick Changer"
+		},
+		"summary": {
+			"0": "Quick changer"
+		},
+		"model_name": {
+			"0": "OR-W-QC10"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "3"
+		},
+		"description": {
+			"0": "This quick changing system enables the fast and simple changing of tools on your cobot. It has no sharp edges and is completely collaborative. A quick changing system shortens your productie set-up time.",
+			"1": "The QC10 is flexible, weighs only 200g and has a nominal load capacity of 10kg. The easy locking mechanism has an extra locking structure and retaining springs. With a respeatability of approx. 0,02 mm, you can change tools accurately. The set consists of 1 robot part and 2 tool parts. Several tools can be ordered as an option.",
+			"2": "ISO 9409-1 certified, type 50-4-M6, compatible with flanges. The system contains everything you need to go to work quickly.",
+			"3": "Suitable for:",
+			"4": "3"
+		},
+		"dimension": {
+			"Weight": "0.202 kg",
+			"Aantal bovendelen": "3"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/ur-joint-covers/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/ur-kap.png",
+		"name": {
+			"0": "UR joint covers"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-UR-K"
+		},
+		"options": {
+			"0": "Choose an option"
+		},
+		"description": {
+			"0": "Set of 6 blue covers for the joints of the cobots from Universal Robots. Check the right model when you order."
+		},
+		"dimension": {
+			"Weight": "1 kg",
+			"Type UR": ""
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/3dprinter/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/3d-print-kit.jpg",
+		"name": {
+			"0": "3D print kit"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-3D"
+		},
+		"options": {},
+		"description": {
+			"0": "This upgrade kit turns your cobot into a 3D printer. The kit consists of the print head with all accessories. 3D print larger products than via standard 3D printers."
+		},
+		"dimension": {
+			"Weight": "3.00000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/screwfeed-kolver/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/schroeftoevoer-kolver.jpg",
+		"name": {
+			"0": "Screw feed Kolver"
+		},
+		"summary": {
+			"0": "kolver",
+			"1": "schroefmachine",
+			"2": "schroeven"
+		},
+		"model_name": {
+			"0": "OR-T-STK"
+		},
+		"options": {},
+		"description": {
+			"0": "The robotarm needs a stable supply of screws for a screw application. This is possible with this automatic screw feed that uses a horizontal, shock-resistant feeder, which reduces the risk of jamming. It is suitable for a wide range of screws of different material and shape. The screw feed supports a varied range of functions and is available in different sizes.",
+			"1": "This screw feed works with a magnetic holder.",
+			"2": "Would you like to order this product?Contact us and mention the diameter and length of the screw-thread."
+		},
+		"dimension": {
+			"Weight": "1.5 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/collaborative-kit/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/coll-set.jpg",
+		"name": {
+			"0": "Collaborative kit"
+		},
+		"summary": {
+			"0": "youring"
+		},
+		"model_name": {
+			"0": "OR-CK"
+		},
+		"options": {},
+		"description": {
+			"0": "With this collaborative kit, your robot arm becomes maximally collaborative. The kit consists of:"
+		},
+		"dimension": {
+			"Weight": "3 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/welding_kit/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/tig-lassen.jpg",
+		"name": {
+			"0": "Welding kit"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-LK"
+		},
+		"options": {},
+		"description": {
+			"0": "The kit consists of:"
+		},
+		"dimension": {
+			"Weight": "40 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/teach_pendant/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/UR_teach-pendant.jpg",
+		"name": {
+			"0": "Teach pendant UR3, UR5 or UR10"
+		},
+		"summary": {
+			"0": "teach pendant",
+			"1": "universal robots"
+		},
+		"model_name": {
+			"0": "OR-TP"
+		},
+		"options": {},
+		"description": {
+			"0": "Do you have a broken of defect screen for your UR cobot? You can replace it yourself with the teach pendant service kit. We could also send our service engineer of Olmia Robotics to do it for you, feel free to contact us.",
+			"1": "To prevent it from happening again: order a teach pendant protector."
+		},
+		"dimension": {
+			"Weight": "4.50000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/screw-robot/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/schroefrobot.jpg",
+		"name": {
+			"0": "The screw robot"
+		},
+		"summary": {
+			"0": "cobots",
+			"1": "combinatie"
+		},
+		"model_name": {
+			"0": "OR-C-SR"
+		},
+		"options": {},
+		"description": {
+			"0": "The screw robot is a turnkey robot system for a screw application of the cobot. Screw driving in a production or assembly requires precision, consistency and an arm that does not get tired. The cobot can and does have that. This system consists of an UR3 with screw unit, incl. Controller, screw feed and table on which the screw robot stands.",
+			"1": "Are you looking for a different configuration, please contact us."
+		},
+		"dimension": {
+			"Weight": "45.00000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/flexible-employee/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/ER5.jpg",
+		"name": {
+			"0": "The flexible employee"
+		},
+		"summary": {
+			"0": "cnc machines",
+			"1": "easyrobotics",
+			"2": "easyrobotics",
+			"3": "onrobot",
+			"4": "optoforce",
+			"5": "systeem",
+			"6": "universal robots"
+		},
+		"model_name": {
+			"0": "OR-C-FM"
+		},
+		"options": {},
+		"description": {
+			"0": "The turnkey system ‘The flexible employee’ consists of an ER5, UR5 with On Robot RG2 gripper and OnRobot (OptoForce) Force / Torque sensor. Ideal for deploying an additional employee wherever and whenever desired.",
+			"1": "Are you looking for a different configuration, please contact us."
+		},
+		"dimension": {
+			"Weight": "80.00000000 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/mek/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/MEK.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/MEK-doorsnede.png",
+		"name": {
+			"0": "MEK"
+		},
+		"summary": {
+			"0": "gripper"
+		},
+		"model_name": {
+			"0": "OR-D-MEK"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "1",
+			"2": "3",
+			"3": "3"
+		},
+		"description": {
+			"0": "MEK Multi-Energy-Coupling for air and electric connections.",
+			"1": "The MEK upper part is mounted on the MGW top. The MEK base is connected to the MGW base. The MEK is automatically coupled by the mechanical connection of the changing system.",
+			"2": "Advantages:    •    Simultaneous production of a mechanical, pneumatic and electrical connection•    Can withstand 50,000 alternating cycles•    Individual wiring•    Coding of the interchangeable parts",
+			"3": "1, 3, 3"
+		},
+		"dimension": {
+			"Weight": "1.00000000 kg",
+			"Aantal bovendelen": "1, 3, 3"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/screwfeed/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/schroeftoevoer-ohtake.jpg",
+		"name": {
+			"0": "Screw feed Ohtake"
+		},
+		"summary": {
+			"0": "schroefmachine",
+			"1": "schroeven"
+		},
+		"model_name": {
+			"0": "OR-T-ST"
+		},
+		"options": {},
+		"description": {
+			"0": "For a screw application, the robot arm requires a stable supply of screws. This is possible with an automatic screw feed that uses a horizontal, shock-resistant feeder, which reduces the risk of jamming. It is suitable for a wide range of screws of different materials and shapes. The screw feed supports a varied range of functions and is available in various sizes.",
+			"1": "The machine is made of high-quality materials which are also used in the production of medical equipment.",
+			"2": "Do you want to order this product?Contact us and state the diameter and length of the screw-thread."
+		},
+		"dimension": {
+			"Weight": "1.5 kg"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/shw-system/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/wisselsysteem-SHW.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/shw.png",
+		"name": {
+			"0": "SHW"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-W-SHW"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "3"
+		},
+		"description": {
+			"0": "The gripper exchange system consists of 2 parts: the upperpart (connected to the robotarm) and the basic part (connected to the tool). With the SHW exchange system, you could change grippers fast and easy instead of needing to screw the grippers every time it needs to be changed. Ideally you would have one upper part and as many basic parts as you have grippers.",
+			"1": "3"
+		},
+		"dimension": {
+			"Weight": "0.5 kg",
+			"Aantal bovendelen": "3"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/mgw/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/mgw-wissel-1.jpg,https://www.cobotwebshop.com/wp-content/uploads/nc/catalog/demo/product/mgw-wissel-3.jpg",
+		"name": {
+			"0": "MGW"
+		},
+		"summary": {},
+		"model_name": {
+			"0": "OR-W-MGW"
+		},
+		"options": {
+			"0": "Choose an option",
+			"1": "3"
+		},
+		"description": {
+			"0": "The manual gripper changing system consists of 2 parts: the upper part (connected to the tool) and the base (connected to the robot arm). This enables you to change grippers with a simple operation, instead of having to screw the gripper on the robot every time a different gripper is needed. Ideally you will have one upper part and as many bases as there are grippers.",
+			"1": "3"
+		},
+		"dimension": {
+			"Weight": "1 kg",
+			"Aantal bovendelen": "3"
+		}
+	},
+	"https://www.cobotwebshop.com/en/product/vacuum-diygripper/": {
+		"thumbnail": "https://www.cobotwebshop.com/wp-content/uploads/2018/02/vacuum-diy-500x500-1.jpg",
+		"name": {
+			"0": "Vacuum DIY set"
+		},
+		"summary": {
+			"0": "Schmalz"
+		},
+		"model_name": {
+			"0": "OR-G-diy"
+		},
+		"options": {},
+		"description": {
+			"0": "If you want to assemble a vacuum gripper yourself, then we have the Vacuum DIY set for you: a suitcase with all the necessities to make a vacuum gripper yourself.",
+			"1": "Content:",
+			"2": "120 parts for setting up a maximum of 2 VEE vacuum end effectors, incl. Instructions."
+		},
+		"dimension": {
+			"Weight": "3 kg"
+		}
+	}
+}

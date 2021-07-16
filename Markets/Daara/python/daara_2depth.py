@@ -19,7 +19,7 @@ def crawl_detail(result, sample=False, save=False):
         print(f"{cnt}번째 반복문 실행중...")
 
         soup = req_bsEncoding(key)
-        sleep_random(print_time=True)
+        sleep_random(2, 4, print_time=True)
 
         # description crawling
         div_list = soup.select('div.detailInfoBox')[0]
@@ -98,14 +98,11 @@ def crawl_detail(result, sample=False, save=False):
 
         if cnt % 10 == 0 and save == True:
             print(f"{cnt} 번째에서 json 파일 생성중")
-            json_save(config.path_json + '/2depth.json', result)
+            json_save('../json/daara_2depth.json', result)
+            pickle_save('../json/dic_daara_2depth.pkl', result)
 
-        if sample == True and cnt == 20:
-            cnt += 1
-            continue
-
-        break
+        cnt += 1
     return result
 
-if __name__ == '__main__':
-    pass
+# if __name__ == '__main__':
+#     pass

@@ -1,21 +1,16 @@
 from common import *
-import bothive_configuration.bothive_config as config
-from Markets.Bothive.bothive_crawl.bothive_1depth import crawl_key
-from Markets.Bothive.bothive_crawl.bothive_2depth import crawl_detail
-from Markets.Bothive.bothive_crawl.bothive_transform import trans
+import configuration.bothive_config as config
+from Markets.Bothive.python.bothive_1depth import crawl_key
+from Markets.Bothive.python.bothive_2depth import crawl_detail
+from Markets.Bothive.python.bothive_transform import transformation
 
-def bothive_run(save=True):
-    dic_bothive1 = crawl_key(sample=True, save=True)
-    dic_bothive2 = crawl_detail(dic_bothive1, save=True)
-    json_bothive = trans(dic_bothive2)
+def main(save=True, sample=False):
+    dic_bothive1 = crawl_key(save, sample)
+    dic_bothive2 = crawl_detail(dic_bothive1, save)
+    json_bothive = transformation(dic_bothive2)
 
-    if save == True:
-        json_save('./json/bothive_result.json', json_bothive)
     return json_bothive
 
 
 if __name__ == '__main__':
-    driver = get_webdriver(path_webdriver)
-    soup = sel_bsEncoding('https://bot-hive.com/product/fanuc-cr-35ia')
-    content_soup = soup.select('div.app')
-    content = driver.find_elements_by_css_selector('div.product.ng-star-inserted')
+    main()
