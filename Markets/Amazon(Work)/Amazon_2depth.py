@@ -29,7 +29,8 @@ def getPost() -> list:
         clicker = 1
         for clicked in imageclick:
             print(clicker)
-            driver.find_element_by_xpath('//*[@id="altImages"]/ul/li['+str(clicker)+']').click()
+            clickpoint = driver.find_element_by_xpath('//*[@id="altImages"]/ul/li['+str(clicker)+']')
+            clickpoint.click()
             clicker=clicker+1
 
         source = driver.page_source
