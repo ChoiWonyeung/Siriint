@@ -160,7 +160,7 @@ result[key]['Description'] = ' '.join(
     [soup.select('div.rte.text--pull p')[i].text for i in range(len(soup.select('div.rte.text--pull p')))])
 
 if __name__ == '__main__':
-    with open('../Markets/ThinkBotSolutions(done)/json/1depth.json') as json_file:
+    with open('../Markets/ThinkBotSolutions/json/1depth.json') as json_file:
         result = json.load(json_file)
 
         contem = crawl_detail(result)

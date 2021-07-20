@@ -19,7 +19,7 @@ len = 길이
 
 
 def format_json_____(key=''):
-    key =\
+    key = \
         {
             'slug': String,  # 상품 고유 슬러그
             'type': 'tangible' or 'downloadable' or 'ticket' or 'custom',  # 필수 항목
@@ -90,12 +90,12 @@ def format_json_____(key=''):
                 {
                     'type': 'percentage' or 'fixed' or None,  # 필수 # 상품의 할인 방식
                     'value': Number or None  # (필수, None | type==None)
-                                             # (필수, range[0,], 초과불허 | type=='fixed')
-                                             # (필수, range[1,100], Integer | type=='percentage')
+                    # (필수, range[0,], 초과불허 | type=='fixed')
+                    # (필수, range[1,100], Integer | type=='percentage')
                 },
             'taxCategories':  # 상품이 소속된 세금 카테고리 목록 # unique # len[,10]
                 [
-                     String
+                    String
                 ],
             'shipping':  # 상품 배송 설정 # 필수 # '' or 'tangible'
                 {
@@ -118,7 +118,7 @@ def format_json_____(key=''):
                                 {
                                     'value':
                                         {
-                                            '{lang}': String or None   # 옵션의 선택지 값 # {lang]len[0,150]
+                                            '{lang}': String or None  # 옵션의 선택지 값 # {lang]len[0,150]
                                         },
                                     'priority': Number  # 옵션 선택지의 정렬 순서 # Integer_ran[0,119]
                                 }
@@ -137,30 +137,31 @@ def format_json_____(key=''):
                             [
                                 {
                                     'product': String,  # 추가 구매 옵션 품목의 상품 # 필수
-                                    'variant': String   # 추가 구매 옵션 품목의 세부 품목                                    }
+                                    'variant': String  # 추가 구매 옵션 품목의 세부 품목                                    }
                                 }
                             ]
                     }
                 ],
-            'model_name': {},           # varchar(50)
-            'weight': {},               # varchar(50)
-            'dimension': {},            # varchar(50)
-            'payload': {},              # float
-            'reach': {},                # float
-            'autonomous': {},           # boolean
-            'warranty': {},             # integer
-            'related_doc_url_1': {},    # varchar(255)
-            'related_doc_url_2': {},    # varchar(255)
-            'related_doc_url_3': {},    # varchar(255)
-            'related_doc_url_4': {},    # varchar(255)
-            'related_doc_url_5': {},    # varchar(255)
-            'related_doc_url_6': {},    # varchar(255)
-            'meta': Object              # 상품의 커스텀 정보
+            'model_name': {},  # varchar(50)
+            'weight': {},  # varchar(50)
+            'dimension': {},  # varchar(50)
+            'payload': {},  # float
+            'reach': {},  # float
+            'autonomous': {},  # boolean
+            'warranty': {},  # integer
+            'related_doc_url_1': {},  # varchar(255)
+            'related_doc_url_2': {},  # varchar(255)
+            'related_doc_url_3': {},  # varchar(255)
+            'related_doc_url_4': {},  # varchar(255)
+            'related_doc_url_5': {},  # varchar(255)
+            'related_doc_url_6': {},  # varchar(255)
+            'meta': Object  # 상품의 커스텀 정보
         }
     return key
 
-def format_json(key=''):
-    key =\
+
+def format_json(key='') -> object:
+    key = \
         {
             'slug': '',
             'type': 'custom',
@@ -171,11 +172,11 @@ def format_json(key=''):
             'collections': [],
             'catalogs':
                 [
-                     {
-                         'title': {},
-                         'description': {},
-                         'image': ''
-                     }
+                    {
+                        'title': {},
+                        'description': {},
+                        'image': ''
+                    }
                 ],
             'thumbnail': '',
             'name': {},
@@ -231,19 +232,19 @@ def format_json(key=''):
                             ]
                     }
                 ],
-            'model_name': {},           # varchar(50)
-            'weight': {},               # varchar(50)
-            'dimension': {},            # varchar(50)
-            'payload': {},              # float
-            'reach': {},                # float
-            'autonomous': {},           # boolean
-            'warranty': {},             # integer
-            'related_doc_url_1': {},    # varchar(255)
-            'related_doc_url_2': {},    # varchar(255)
-            'related_doc_url_3': {},    # varchar(255)
-            'related_doc_url_4': {},    # varchar(255)
-            'related_doc_url_5': {},    # varchar(255)
-            'related_doc_url_6': {},    # varchar(255)
-            'meta': Object              # 상품의 커스텀 정보
+            'model_name': {},  # varchar(50)
+            'weight': {},  # varchar(50)
+            'dimension': {},  # varchar(50)
+            'payload': {},  # float
+            'reach': {},  # float
+            'autonomous': {},  # boolean
+            'warranty': {},  # integer
+            'related_doc_url_1': {},  # varchar(255)
+            'related_doc_url_2': {},  # varchar(255)
+            'related_doc_url_3': {},  # varchar(255)
+            'related_doc_url_4': {},  # varchar(255)
+            'related_doc_url_5': {},  # varchar(255)
+            'related_doc_url_6': {},  # varchar(255)
+            'meta': Object  # 상품의 커스텀 정보
         }
     return key

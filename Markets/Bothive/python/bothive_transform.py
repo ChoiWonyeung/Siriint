@@ -1,7 +1,6 @@
 from ETC import format_json
-from common import *
-
-# dic_bothive = pickle_load(config.path_pickles + '/dic_bothive_postProcess.pkl')
+from Modules.common import *
+import pandas as pd
 
 def transformation(dic_bothive, save=False):
     """
@@ -17,10 +16,19 @@ def transformation(dic_bothive, save=False):
         json_bothive[dic_key]['type'] = dic_bothive[dic_key]['type'][0]
         json_bothive[dic_key]['thumbnail'] = dic_bothive[dic_key]['image'][0]
         json_bothive[dic_key]['summary'][0] = dic_bothive[dic_key]['highlight']
-        json_bothive[dic_key]['warranty']['Servicing (Months)'] = dic_bothive[dic_key]['highlight']['Servicing (Months)']
+        try:
+            json_bothive[dic_key]['warranty']['Servicing (Months)'] = dic_bothive[dic_key]['highlight']['Servicing (Months)']
+        except:
+            pass
         json_bothive[dic_key]['description'][0] = dic_bothive[dic_key]['description']
-        json_bothive[dic_key]['related_doc_url_1'] = dic_bothive[dic_key]['related']
-        json_bothive[dic_key]['dimension'] = dic_bothive[dic_key]['spec']
+        try:
+            json_bothive[dic_key]['related_doc_url_1'] = dic_bothive[dic_key]['related']
+        except:
+            pass
+        try:
+            json_bothive[dic_key]['dimension'] = dic_bothive[dic_key]['spec']
+        except:
+            pass
 
         str_match = {}
         for Str in dic_value['delivery']:
@@ -34,6 +42,8 @@ def transformation(dic_bothive, save=False):
             json_bothive[dic_key]['price']['original'] = str_match[i][0]
 
     if save:
-        json_save('save/json/bothive_result.json', json_bothive)
+        df_bothive = pd.DataFrame(json_bothive).transpose()
+        df_bothive.to_csv('../save/json/bothive.csv')
+        json_save('../save/json/bothive_result__.json', json_bothive)
 
     return json_bothive

@@ -1,0 +1,1449 @@
+{
+	"https://www.robotshop.com/en/classic-solderless-breadboard.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Tools & Equipment >",
+			"3": "Prototyping >",
+			"4": "Classic Solderless Breadboard"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/c/l/classic-solderless-breadboard.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/c/l/classic-solderless-breadboard.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Classic Solderless Breadboard",
+		"price": [
+			"USD $9.95",
+			"USD $9.45",
+			"USD $8.96"
+		],
+		"highlight": {
+			"0": "Classic Solderless Breadboard",
+			"1": "Works with a wide variety of wire gauges",
+			"2": "Black aluminum plate backing",
+			"3": "Three binding posts and two power buses available"
+		},
+		"model": "RB-Spa-1117",
+		"description": [
+			"This is your standard Classic Solderless Breadboard with three binding posts, two power buses, black aluminum plate backing. It works with a wide variety of wire gauges (29-20 AWG).",
+			"Classic Solderless Breadboard",
+			"Works with a wide variety of wire gauges",
+			"Black aluminum plate backing",
+			"Three binding posts and two power buses available"
+		],
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/Unregulated-Power-Supply-Tutorial.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/6v-pololu-751-micro-metal-gearmotor.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Motors & Actuators >",
+			"4": "Gear Motors >",
+			"5": "Spur Gear Motors >",
+			"6": "6V Pololu 75:1 Micro Metal Gearmotor"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/6/v/6v-pololu-751-micro-metal-gearmotor_1.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/6/v/6v-pololu-751-micro-metal-gearmotor_1.jpg",
+			"2": null,
+			"3": null,
+			"4": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "6V Pololu 75:1 Micro Metal Gearmotor",
+		"price": [
+			"USD $17.95",
+			"USD $15.25",
+			"USD $13.45"
+		],
+		"highlight": {
+			"0": "400 RPM and 120 mA with no load",
+			"1": "22 oz-in (1.6 kg-cm) and 1.6 A at stall",
+			"2": "Long-life carbon brushes",
+			"3": "75.81:1 metal gearbox"
+		},
+		"model": "RB-Pol-436",
+		"description": [
+			"The 6V Pololu 75:1 Micro Metal Gearmotor is a miniature high-power, 6 V brushed DC motor with long-life carbon brushes and a 75.81:1 metal gearbox. It has a cross section of 10 × 12 mm, and the D-shaped gearbox output shaft is 9 mm long and 3 mm in diameter.",
+			"400 RPM and 120 mA with no load",
+			"22 oz-in (1.6 kg-cm) and 1.6 A at stall",
+			"Long-life carbon brushes",
+			"75.81:1 metal gearbox"
+		],
+		"spec": {
+			"0": "Gear ratio: 75.81:1",
+			"1": "Free-run speed @ 6V: 400 rpm",
+			"2": "Free-run current @ 6V: 120 mA",
+			"3": "Stall current @ 6V: 1600 mA",
+			"4": "Stall torque @ 6V: 22 oz·in",
+			"5": "Extended motor shaft?: N",
+			"6": "Long-life carbon brushes?: Y",
+			"7": "Motor type: 1.6A stall @ 6V (HPCB 6V - carbon brush)"
+		}
+	},
+	"https://www.robotshop.com/en/riverdi-iot-display-5-capacitive-bt815-uxtouch-black.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Internet of Things (IoT) >",
+			"4": "Riverdi IoT Display 5\" Capacitive BT815 uxTouch (Black)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/r/i/riverdi-iot-display-5-capacitive-bt815-uxtouch-black.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/r/i/riverdi-iot-display-5-capacitive-bt815-uxtouch-black.jpg",
+			"2": null,
+			"3": null,
+			"4": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Riverdi IoT Display 5\" Capacitive BT815 uxTouch (Black)",
+		"price": [
+			"USD $131.40",
+			"USD $126.14"
+		],
+		"highlight": {
+			"0": "Riverdi IoT Display 5\" Capacitive BT815 uxTouch (Black)",
+			"1": "Provides 800 x 480 resolution for crisp and clear colors",
+			"2": "Uses the powerful BT815 graphics controller",
+			"3": "Is perfect for smart homes and industry 4.0",
+			"4": "Is Python programmable, with integrated WiFi and Bluetooth"
+		},
+		"model": "RB-Riv-37",
+		"description": [
+			"The Riverdi IoT Display 5\" Capacitive BT815 uxTouch (Black) is the first-ever IoT display on the market. A high-quality 5’’capacitive screen Riverdi display that is Python programmable, with integrated WiFi and Bluetooth® (thanks to the ESP32 microcontroller on board), and low-power consumption.",
+			"The perfect solution for smart homes and industry 4.0. The 800 x 480 resolution provides crisp and clear colors, while the screen is driven by the powerful BT815 graphics controller.",
+			"Furthermore, the display is Python programmable and has a Zerynth Studio license onboard. You can simply take it out of the box, load one of many examples from the Zerynth library, and have you IoT display up and running. And if you decide to write the code from scratch, with Python, you’ll be done in no time.",
+			"RiTFT-50-IOT-UX can be programmed in Python, thanks to Zerynth. Python is an easy to learn, easy to use, interpreted language, that suits fast-paced IoT projects this display is intended for.",
+			"Zerynth offers tons of useful libraries and examples – for every knowledge level. For example, one of their tutorials teaches how to connect a device to the Cloud, with only 15 lines of code in Python. With it, you’ll be sending temperature data from a sensor to the Cloud in minutes.",
+			"Riverdi IoT Display 5\" Capacitive BT815 uxTouch (Black)",
+			"Provides 800 x 480 resolution for crisp and clear colors",
+			"Uses the powerful BT815 graphics controller",
+			"Is perfect for smart homes and industry 4.0",
+			"Is Python programmable, with integrated WiFi and Bluetooth"
+		],
+		"spec": {
+			"0": "Weight: 156 g",
+			"1": "Basic| Resolution: 800 x 480",
+			"2": "Size (inch.): 5\"",
+			"3": "Brightness (cd/m²): 510",
+			"4": "Basic / Touch Screen: Capacitive",
+			"5": "Basic / Controller: BT815",
+			"6": "Basic / Interfaces: SPI/QSPI",
+			"7": "Active area (mm): 108 x 64.80",
+			"8": "Operating temp. (°C): '-20~70'",
+			"9": "Dot pitch (mm2): 0.135 x 0.135",
+			"10": "Additional Information / LCD type: TFT",
+			"11": "Input Voltage (V): 3.3",
+			"12": "Basic / Viewing direction: 12:00 o'clock",
+			"13": "Gray Scale Inversion Direct.: 6:00 o'clock",
+			"14": "Additional Information / Backlight Type: 12 LEDs",
+			"15": "Additional Information / Pixel Arrangement: RGB Vertical Stripe",
+			"16": "Additional Information / Color Depth: 16.7M",
+			"17": "Additional Information / Surface Treatment: Clear",
+			"18": "Basic / Addons: LED Inverter",
+			"19": "Additional Information / Driver IC: HX8664B+HX8264D"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/content/r/riv/pdf/riverdi-iot-display-5-capacitive-bt815-uxtouch-black-datasheet.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/gear-drive-pan-kit-a.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Mechanics >",
+			"4": "Gear Box Pan & Tilt >",
+			"5": "Gear Drive Pan Kit A"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/g/e/gear-drive-pan-kit-a_1.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/g/e/gear-drive-pan-kit-a_1.jpg",
+			"2": null,
+			"3": null,
+			"4": "",
+			"5": null
+		},
+		"product": "Gear Drive Pan Kit A",
+		"price": [
+			"USD $79.99"
+		],
+		"highlight": {
+			"0": "4.2:1 underdrive setup",
+			"1": "84 tooth, 32 pitch hub gear mates to the included 20 tooth 6mm bore pinion gear",
+			"2": "Gear mesh is fully adjustable",
+			"3": "Hollow shaft allows wires to pass through the center of the pan system",
+			"4": "Plate at the base of the pan system can easily be mounted to a flat surface",
+			"5": "Motor not included"
+		},
+		"model": "RB-Sct-913",
+		"description": [
+			"The Gear Drive Pan Kit A is includes all the parts necessary to build a compact gear driven pan system for a 37mm OD spur gearmotor (gearmotor not included).",
+			"The pan system utilizes an 84 tooth, 32 pitch hub gear which gets mated to the included 20 tooth 6mm bore pinion gear to create a 4.2:1 underdrive setup. The ratio slows the speed of the motor down while increasing the low-speed characteristics and torque.",
+			"4.2:1 underdrive setup",
+			"84 tooth, 32 pitch hub gear mates to the included 20 tooth 6mm bore pinion gear",
+			"Gear mesh is fully adjustable",
+			"Hollow shaft allows wires to pass through the center of the pan system",
+			"Plate at the base of the pan system can easily be mounted to a flat surface",
+			"Motor not included"
+		]
+	},
+	"https://www.robotshop.com/en/prototyping-pi-board-raspberry-pi.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Microcontroller Accessories >",
+			"4": "Raspberry Pi Accessories / HATs >",
+			"5": "Prototyping Pi Board for Raspberry Pi"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/p/r/prototyping-pi-board-raspberry-pi_1.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/p/r/prototyping-pi-board-raspberry-pi_1.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Prototyping Pi Board for Raspberry Pi",
+		"price": [
+			"USD $8.54",
+			"USD $8.99"
+		],
+		"highlight": {
+			"0": "HAT standard",
+			"1": "Extensible IO",
+			"2": "Convenient for soldering experiments and prototyping",
+			"3": "Attach your own components",
+			"4": "Expands common GPIO through amphenol connector",
+			"5": "Expands common GPIO through Female Header Connector"
+		},
+		"model": "RB-Pit-28",
+		"description": [
+			"The Prototyping Pi Board for Raspberry Pi is designed specifically for the Raspberry Pi. This module is suitable for enthusiasts and users who can solder peripherals to the module; The module expands some amphenol connectors and some SMT, so the user can test prototypes easily. Design your own Pi HAT, attach custom circuitry and otherwise dress your Pi A+, B+, or Pi 2 with this prototyping HAT kit.",
+			"HAT standard",
+			"Extensible IO",
+			"Convenient for soldering experiments and prototyping",
+			"Attach your own components",
+			"Expands common GPIO through amphenol connector",
+			"Expands common GPIO through Female Header Connector"
+		],
+		"spec": {
+			"0": "I2C amphenol connector",
+			"1": "Female Header connector",
+			"2": "SPI amphenol connector",
+			"3": "SPI Female header connector",
+			"4": "Serial port amphenol connector",
+			"5": "Serial port female header connector",
+			"6": "3.3V Vcc",
+			"7": "5V Vcc",
+			"8": "3.5mm Amphenol connector",
+			"9": "2.54mm female header connector"
+		}
+	},
+	"https://www.robotshop.com/en/lens-evaluation-kit-lh122.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Sensors >",
+			"4": "Cameras & Vision Sensors >",
+			"5": "Lens Evaluation Kit (LH122)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/l/e/lens-evaluation-kit-lh122.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/l/e/lens-evaluation-kit-lh122.jpg",
+			"2": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Lens Evaluation Kit (LH122)",
+		"price": [
+			"USD $37.50"
+		],
+		"highlight": {
+			"0": "Lens Evaluation Kit (LH122)",
+			"1": "Offers two different lenses, a cover, and a holder",
+			"2": "Comes in two versions",
+			"3": "Made of Polyamide",
+			"4": "ROHS3 compliant",
+			"5": "Designed for IoT Radar Module (XM122)"
+		},
+		"model": "RBC-Acc-01",
+		"description": [
+			"The Lens Evaluation Kit (LH122) is delivered as kits with two different lenses, a cover, and a holder. This is the version LH122 used for XM122.",
+			"Lens Evaluation Kit (LH122)",
+			"Offers two different lenses, a cover, and a holder",
+			"Comes in two versions",
+			"Made of Polyamide",
+			"ROHS3 compliant",
+			"Designed for IoT Radar Module (XM122)"
+		],
+		"spec": {
+			"0": "RoHS Status: ROHS3 Compliant",
+			"1": "Moisture Sensitivity Level (MSL): 1"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/content/a/acc/pdf/lens-evaluation-kit-lh122-datasheet.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/6v-150rpm-reversible-high-torque-worm-gear-dc-motor.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Construction Kit Parts >",
+			"4": "6V 150RPM Reversible High torque Worm Gear DC Motor"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/1/2/12v-reversible-high-torque-worm-gear-dc-motor_4f302.png.png",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/1/2/12v-reversible-high-torque-worm-gear-dc-motor_4f302.png.png",
+			"2": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "6V 150RPM Reversible High torque Worm Gear DC Motor",
+		"price": [
+			"USD $8.29",
+			"USD $7.55",
+			"USD $6.25"
+		],
+		"highlight": {
+			"0": "compact size, high torque",
+			"1": "high precision, high strength, Self-locking function",
+			"2": "RoHS compliant"
+		},
+		"model": "RM-ESMO-01C",
+		"description": [
+			"The DC Gear motor with micro-turbine worm, you can change the wiring-connection to change motor rotation.",
+			"Turbo worm geared motor with self-lock, that is, in the case of motor without electric, the output axis is fixed, self-lock. The reducer output shaft arranged vertically with the motor shaft, whole motor output shaft relatively-short than general gear motor, widely used to be installed when spacing requirements is small.",
+			"compact size, high torque",
+			"high precision, high strength, Self-locking function",
+			"RoHS compliant"
+		],
+		"related": {
+			"0": "https://cdn.robotshop.com/rbm/a00a7635-653b-4220-aac9-b0c23c5c5e2c/0/0fa35071-a77b-4fc6-81cc-fb13961b4c3b/c03e53ff_4632WG-370CA.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/elecfreaks-ef90d-360-digital-micro-servo-microbit.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Microcontroller Accessories >",
+			"4": "micro:bit Accessories >",
+			"5": "ElecFreaks EF90D 360 Digital Micro Servo for micro:bit"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/e/l/elecfreaks-ef90d-360-digital-micro-servo-microbit-1.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/e/l/elecfreaks-ef90d-360-digital-micro-servo-microbit-1.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null
+		},
+		"product": "ElecFreaks EF90D 360 Digital Micro Servo for micro:bit",
+		"price": [
+			"",
+			"",
+			""
+		],
+		"highlight": {
+			"0": "",
+			"1": "",
+			"2": "",
+			"3": "",
+			"4": "",
+			"5": ""
+		},
+		"model": "",
+		"description": [
+			"The ElecFreaks EF90D 360 Digital Micro Servo for micro:bit is light and portable, a little bigger than a 5 cent coin. Can be used to make small robot modules, mechanical arm modules, and intelligent car modules.",
+			"It works at 3 V voltage and uses pulse width to adjust the speed of the servo rotation.",
+			"ElecFreaks EF90D 360 Digital Micro Servo for micro:bit",
+			"Light and portable",
+			"Little bigger than 5 cent coin",
+			"Works at 3 V voltage and uses pulse width to adjust the speed",
+			"Output Torque: 1.6 kg/cm",
+			"Plug Type: Common JR/FUTABA"
+		],
+		"spec": {
+			"0": "Operating Voltage: 3 - 5.5 V",
+			"1": "Output Torque: 1.6 kg / cm",
+			"2": "Specialty: Speed of the servo is adjusted by pulse width; 3 V for micro:bit",
+			"3": "Operating Temperature: -30 ~+60 °C",
+			"4": "Materials: Plastic gears and plastic shell",
+			"5": "Other Components: Fixed screws, multifunction Steering wheel.",
+			"6": "Rotation Angle: 360°",
+			"7": "Dead Band Width: 5us",
+			"8": "Plug Type: Common JR/FUTABA",
+			"9": "Servo Type: Digital servo"
+		}
+	},
+	"https://www.robotshop.com/en/775-quad-band-cellular-antenna-sma.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Data Communication and Human Input Devices >",
+			"4": "Antennas >",
+			"5": "7.75\" Quad-band Cellular Antenna SMA"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/7/7/775-quad-band-cellular-antenna-sma.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/7/7/775-quad-band-cellular-antenna-sma.jpg",
+			"2": null,
+			"3": null,
+			"4": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "7.75\" Quad-band Cellular Antenna SMA",
+		"price": [
+			"USD $9.95",
+			"USD $9.45",
+			"USD $8.96"
+		],
+		"highlight": {
+			"0": "Regular SMA connector",
+			"1": "Perfect for all AVL applications",
+			"2": "This is a high gain cellular antenna"
+		},
+		"model": "RB-Spa-1077",
+		"description": [
+			"The 7.75\" Quad-band Cellular Antenna SMA is perfect for AVL applications where cellular reception is a must. Connector is regular SMA so don’t confuse it with 2.4GHz antennas.",
+			"Regular SMA connector",
+			"Perfect for all AVL applications",
+			"This is a high gain cellular antenna"
+		],
+		"spec": {
+			"0": "GSM/850E : 824 to 894MHz",
+			"1": "GSM : 880 to 960MHz",
+			"2": "DCS : 1710 to 1880MHz",
+			"3": "PCS : 1850 to 1990MHz"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/ADH-151XSAXX.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/lilypad-led-yellow-5pk.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Wearable Technology >",
+			"2": "DIY Wearables >",
+			"3": "LilyPad LED Yellow (5pk)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/l/i/lilypad-led-yellow-5pk_2.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/l/i/lilypad-led-yellow-5pk_2.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "LilyPad LED Yellow (5pk)",
+		"price": [
+			"USD $3.95",
+			"USD $3.75",
+			"USD $3.36"
+		],
+		"highlight": {
+			"0": "Five Yellow LilyPad LEDs",
+			"1": "Attached to one another",
+			"2": "Letting you snap the LEDs apart at your leisure",
+			"3": "Wearable e-textile technology"
+		},
+		"model": "RB-Spa-1368",
+		"description": [
+			"The LilyPad LED Yellow (5 pk) is a simple pack of five Yellow LilyPad LEDs that are still attached to one another, letting you snap the LEDs apart at your leisure to sew into clothing or whatever else you can dream up.",
+			"LilyPad is a wearable e-textile technology. Each LilyPad piece was creatively designed with large sew tabs to allow them to be sewn into fabric. Various input, output, power and sensor boards are available. They’re even washable (with special care)!",
+			"Five Yellow LilyPad LEDs",
+			"Attached to one another",
+			"Letting you snap the LEDs apart at your leisure",
+			"Wearable e-textile technology"
+		],
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/lilypad-led-yellow-5pk-datasheet.pdf",
+			"1": "https://www.robotshop.com/media/files/pdf/lilypad-led-yellow-5pk-Schematic.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/leddartech-leddar-one-usb-to-33v-uart-cable-converter-18m.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Cables, Wires & Connectors >",
+			"4": "LeddarTech Leddar One USB to 3.3V UART Cable Converter (1.8m)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/l/e/leddar-one-usb-33v-uart-cable-converter-18m.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/l/e/leddar-one-usb-33v-uart-cable-converter-18m.jpg",
+			"2": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "LeddarTech Leddar One USB to 3.3V UART Cable Converter (1.8m)",
+		"price": [
+			"USD $55.00"
+		],
+		"highlight": {
+			"0": "Leddar™ One USB to 3.3V UART cable converter",
+			"1": "USB cable interface for the Leddar™",
+			"2": "Length: 1.8m"
+		},
+		"model": "RB-Led-06",
+		"description": [
+			"The Leddar™ One USB to 3.3V UART Cable Converter (1.8m) is a USB cable interface for the Leddar™.",
+			"Leddar™ One USB to 3.3V UART cable converter",
+			"USB cable interface for the Leddar™",
+			"Length: 1.8m"
+		]
+	},
+	"https://www.robotshop.com/en/osepp-10mm-rgb-led-10pk.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Lighting >",
+			"4": "OSEPP 10mm RGB LED (10pk)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/1/0/10mm-rgb-led-10pk.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/1/0/10mm-rgb-led-10pk.jpg",
+			"2": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "OSEPP 10mm RGB LED (10pk)",
+		"price": [
+			"USD $3.49",
+			"USD $3.28",
+			"USD $3.08"
+		],
+		"highlight": {
+			"0": "Pack of 10 OSEPP RGB LEDs",
+			"1": "10mm",
+			"2": "Suitable for hobbies, models, science and other projects"
+		},
+		"model": "RB-Oel-143",
+		"description": [
+			"Pack of 10 OSEPP RGB LEDs",
+			"10mm",
+			"Suitable for hobbies, models, science and other projects"
+		],
+		"spec": {
+			"0": "Operating current: 30mA (peak forward current: 100mA)",
+			"1": "Operating voltage: 3.3-5V"
+		}
+	},
+	"https://www.robotshop.com/en/triangular-tank-mechanical-kit.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robots & Kits >",
+			"3": "Wheeled & Tracked Robots >",
+			"4": "Triangular Tank Mechanical Kit"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/t/r/triangular-tank-mechanical-kit_1.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/t/r/triangular-tank-mechanical-kit_1.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Triangular Tank Mechanical Kit",
+		"price": [
+			"USD $129.95",
+			"USD $122.15",
+			"USD $114.82"
+		],
+		"highlight": {
+			"0": "100% Arduino Compatible",
+			"1": "Aerospace grade aluminum & corrosion resistant coating",
+			"2": "Everything you see in image is what’s included – ASSEMBLY REQUIRED",
+			"3": "Interchangeable parts for easy customization",
+			"4": "Electronics available here"
+		},
+		"model": "RB-Oel-85",
+		"description": [
+			"The Triangular Tank Mechanical Kit can handle your entire off road / all-terrain needs! All of our Mechanical Kits are covered with a corrosion resistant coating.",
+			"Features:",
+			"100% Arduino Compatible",
+			"Aerospace grade aluminum & corrosion resistant coating",
+			"Everything you see in image is what’s included – ASSEMBLY REQUIRED",
+			"Interchangeable parts for easy customization",
+			"Electronics available here",
+			"Optional tires / belt accessories for wheels",
+			"Operating voltage output : 9 volts ( x6 AA Batteries)",
+			"100% compatible all OSEPP sensors",
+			"High torque 9v DC motors included",
+			"Suggested Accessories: OSEPP TB6612 Motor Driver and UNO Board"
+		],
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/triangular-tank-mechanical-kit-datasheet.pdf",
+			"1": "https://www.robotshop.com/media/files/pdf/triangular-tank-mechanical-kit-instructions.pdf",
+			"2": "https://www.robotshop.com/media/files/content/o/oel/zip/osepp-mechanical-kit-codes.zip"
+		}
+	},
+	"https://www.robotshop.com/en/35a-bec-multirotor-esc-without-connectors.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "UAVs & Drones >",
+			"3": "UAV & Drone Parts & Accessories >",
+			"4": "UAV & Drone Electronics >",
+			"5": "UAV & Drone ESCs / Speed Controllers >",
+			"6": "35A BEC Multirotor ESC (Without Connectors)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/3/5/35a-bec-multirotor-esc-without-connectors.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/3/5/35a-bec-multirotor-esc-without-connectors.jpg",
+			"2": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "35A BEC Multirotor ESC (Without Connectors)",
+		"price": [
+			"USD $22.00",
+			"USD $20.68",
+			"USD $19.44"
+		],
+		"highlight": {
+			"0": "Specially designed for multi-rotor copters",
+			"1": "ESC loaded with dedicated optimized software",
+			"2": "Operate with over 450Hz refresh rate",
+			"3": "Continuous current: 35A"
+		},
+		"model": "RB-May-03",
+		"description": [
+			"The 35A BEC Multirotor ESC (Without Connectors) is specially designed for multi-rotor copters. The ESCs are loaded with dedicated optimized software, for extremely high performance on MultiCopters. It will increase the handling and stability of multirotor greatly.",
+			"Features",
+			"Specially designed for multi-rotor copters",
+			"ESC loaded with dedicated optimized software",
+			"Operate with over 450Hz refresh rate",
+			"Continuous current: 35A",
+			"Handle fast refresh rates",
+			"ESCs operate with over 450Hz refresh rate",
+			"ESC firmware is optimized for quadcopters / multicopters",
+			"Excellent reliability"
+		],
+		"spec": {
+			"0": "Application: RC Multirotor",
+			"1": "Burst current(10sec): 50A",
+			"2": "Lipo: 2-4cells",
+			"3": "NiMh: 5-12cells",
+			"4": "BEC: 5V/3A linear mode",
+			"5": "Program device: Transmitter"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/user-manual-maytech-esc-simonk.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/lynxmotion-t-hex-3dof-hexapod-robot-kit-botboarduino.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Lynxmotion >",
+			"2": "Hexapods >",
+			"3": "T-Hex Hexapod Kits >",
+			"4": "Lynxmotion T-Hex 3DOF Hexapod Robot Kit (BotBoarduino)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/l/y/lynxmotion-t-hex-3dof-hexapod-robot-kit-botboarduino-1.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/l/y/lynxmotion-t-hex-3dof-hexapod-robot-kit-botboarduino-1.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Lynxmotion T-Hex 3DOF Hexapod Robot Kit (BotBoarduino)",
+		"price": [
+			"USD $890.99"
+		],
+		"highlight": {
+			"0": "3DOF (degree of freedom) leg design robot to walk in any direction",
+			"1": "Perfect for adding weapons for local robot competition",
+			"2": "Made with ultra-tough aluminum servo erector set brackets",
+			"3": "Includes BotBoarduino microcontroller and SSC-32 servo controller"
+		},
+		"model": "RB-Lyn-732",
+		"spec": {
+			"0": "Chargers: NiCad & Ni-MH Universal Smart Charger",
+			"1": "Batteries: 6.0 Volt Ni-MH 2800mAh Battery Pack"
+		},
+		"related": {
+			"0": "http://www.lynxmotion.com/s-1-information.aspx"
+		}
+	},
+	"https://www.robotshop.com/en/sparkfun-qwiic-adapter.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Interface Adapters & Converters >",
+			"4": "Misc. Adapters & Connectors >",
+			"5": "SparkFun Qwiic Adapter"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/s/p/sparkfun-qwiic-adapter_1.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/s/p/sparkfun-qwiic-adapter_1.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null,
+			"11": null,
+			"12": null
+		},
+		"product": "SparkFun Qwiic Adapter",
+		"price": [
+			"USD $1.50"
+		],
+		"highlight": {
+			"0": "Can be used to convert an old I2C-enabled device into a Qwiic-enabled board",
+			"1": "Two Qwiic connection ports all on the same I2C bus",
+			"2": "1mm pitch, 4-pin JST connector",
+			"3": "Four plated through holes are broken out for SCL, SDA, 3.3V and GND"
+		},
+		"model": "RB-Spa-1536",
+		"description": [
+			"The SparkFun Qwiic Adapter will help you make any old I2C board into a Qwiic-enabled board. This adapter breaks out the I2C pins from the Qwiic connectors to pins that you can easily solder with your favorite I2C-enabled device.",
+			"The Qwiic Adapter has two Qwiic connection ports, all on the same I2C bus. Four plated through holes are broken out for SCL, SDA, 3.3V and GND. These pins can be used to convert an old I2C-enabled device into a Qwiic-enabled board.",
+			"Can be used to convert an old I2C-enabled device into a Qwiic-enabled board",
+			"Two Qwiic connection ports all on the same I2C bus",
+			"1mm pitch, 4-pin JST connector",
+			"Four plated through holes are broken out for SCL, SDA, 3.3V and GND"
+		],
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/sparkfun-qwiic-adapter-schematic.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/wall-adapter-power-supply-12vdc-25a.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Power Systems >",
+			"4": "Power Regulators & Accessories >",
+			"5": "12.0 V DC Regulators >",
+			"6": "Wall Adapter Power Supply - 12VDC 2.5A"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/w/a/wall-adapter-power-supply-12vdc-25a.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/w/a/wall-adapter-power-supply-12vdc-25a.jpg",
+			"2": null,
+			"3": null,
+			"4": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Wall Adapter Power Supply - 12VDC 2.5A",
+		"price": [
+			"USD $25.99",
+			"USD $24.43",
+			"USD $22.96"
+		],
+		"highlight": {
+			"0": "Wall Adapter Power Supply - 12VDC 2.5A",
+			"1": "Features a frequency of 50/60Hz",
+			"2": "Ready for an Input Supply Voltage Range of 100-240Vac",
+			"3": "Provides an Output Connector Style OD Plug",
+			"4": "Comes with an Input Plug Style of USN"
+		},
+		"model": "RB-Sct-1074",
+		"description": [
+			"This Wall Adapter Power Supply - 12VDC 2.5A supplies power with its output Connector Style OD Plug and comes with an Input Plug Style of USN. It provides an Input Supply Voltage Range of 100-240Vac with a 50/60 Hz frequency and an output current of 2500 mA.",
+			"Wall Adapter Power Supply - 12VDC 2.5A",
+			"Features a frequency of 50/60Hz",
+			"Ready for an Input Supply Voltage Range of 100-240Vac",
+			"Provides an Output Connector Style OD Plug",
+			"Comes with an Input Plug Style of USN"
+		],
+		"spec": {
+			"0": "Case: Wall Plug in",
+			"1": "Frequency: 50/60Hz",
+			"2": "Input Current: 0.8A max",
+			"3": "Product Weight: 0.53 lbs",
+			"4": "Input Supply Voltage Range: 100-240Vac",
+			"5": "Input Plug Style: USN",
+			"6": "Output Connector Style: 2.5mm ID x 5.5mm OD Plug",
+			"7": "Output Voltage: 12 VDC Regulated",
+			"8": "Output Current: 2500 mA",
+			"9": "Power Rating: 30 Watts"
+		}
+	},
+	"https://www.robotshop.com/en/grove-mech-keycap.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Electronic Experimentation Parts >",
+			"4": "GROVE Parts >",
+			"5": "Grove Mech Keycap"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/g/r/grove-mech-keycap.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/g/r/grove-mech-keycap.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Grove Mech Keycap",
+		"price": [
+			"USD $3.90",
+			"USD $3.51",
+			"USD $3.12"
+		],
+		"highlight": {
+			"0": "Programmable LED",
+			"1": "Reliable mechanical structure",
+			"2": "Extremely long operating Life",
+			"3": "Grove connector"
+		},
+		"model": "RB-See-653",
+		"description": [
+			"The Grove Mech Keycap is a mechanical switch with a build-in LED. The 255 full color RGB LED makes it simple and easy to show the states of your switch. This keycap is very reliable with 20,000,000 times press operating life. You will find that this is an interesting and stable module to make some really fun project or product. Actually, you even can make a mechanical keyboard using several Grove-Mech keycaps.",
+			"Programmable LED",
+			"Reliable mechanical structure",
+			"Extremely long operating Life",
+			"Grove connector"
+		],
+		"spec": {
+			"0": "Weight G.W 10.30g",
+			"1": "Battery Exclude",
+			"2": "Working Voltage: 3.3V / 5V",
+			"3": "Insulation Resistance: 100MΩ Min.",
+			"4": "Contact Resistance: 200 mΩ Max.",
+			"5": "Operating Life without Load 20,000,000 (times)",
+			"6": "Automotive devices",
+			"7": "Visual devices",
+			"8": "Home electrical appliances",
+			"9": "Information devices"
+		}
+	},
+	"https://www.robotshop.com/en/tamiya-cam-programmable-robot-blue.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robots & Kits >",
+			"3": "Wheeled & Tracked Robots >",
+			"4": "Tamiya CAM Programmable Robot (Blue)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/c/a/cam-programmable-robot-blue.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/c/a/cam-programmable-robot-blue.jpg",
+			"2": null,
+			"3": null,
+			"4": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Tamiya CAM Programmable Robot (Blue)",
+		"price": [
+			"USD $39.95",
+			"USD $38.35",
+			"USD $36.82"
+		],
+		"highlight": {
+			"0": "Tamiya CAM Programmable Robot",
+			"1": "Color: Blue",
+			"2": "The dual motors power triangular tracks and left/right arms in unison",
+			"3": "Different assembly patterns create 2 different types of motion",
+			"4": "Includes everything needed for easy snap-fit/screw-together assembly"
+		},
+		"model": "RB-Tam-109",
+		"description": [
+			"The Tamiya CAM Programmable Robot (Blue) assembly kit creates a robot whose movement can be programmed by the use of cam parts. The dual motors power triangular tracks and left/right arms in unison.",
+			"Cams are inserted into the central program bar, and as it is pushed through the model by the program bar gear, the position of the cams is translated to the steering legs, which are lifted off the surface and cause the robot's motion to change.",
+			"Different assembly patterns create two different types of motion. Program bars give approximately 35 seconds of movement each, and can be joined together for longer patterns. Includes everything needed for easy snap-fit/screw-together assembly. Requires one R6/AA/UM3 battery (sold separately).",
+			"Cams are translated into movement as they push down the steering legs on either side, which raises that side's track off the ground. The model offers 2 different types of movement: the first (Type A) has the robot move forward when no cam is present, turn in that direction when there is a cam on one side only, and stop when there are cams on both sides.",
+			"Tamiya CAM Programmable Robot",
+			"Color: Blue",
+			"The dual motors power triangular tracks and left/right arms in unison",
+			"Different assembly patterns create 2 different types of motion",
+			"Includes everything needed for easy snap-fit/screw-together assembly"
+		],
+		"spec": {
+			"0": "Includes everything needed for easy snap-fit/screw-together assembly",
+			"1": "Two Type 130 motors included",
+			"2": "Easy snap-fit/screw-together assembly",
+			"3": "Requires one R6/AA/UM3 battery (sold separately)"
+		}
+	},
+	"https://www.robotshop.com/en/elecrow-1-2-in-water-flow-sensor.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Sensors >",
+			"4": "Miscellaneous Sensors >",
+			"5": "Elecrow 1/2-In Water Flow Sensor"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/e/l/elecrow-1-2-in-water-flow-sensor.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/e/l/elecrow-1-2-in-water-flow-sensor.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Elecrow 1/2-In Water Flow Sensor",
+		"price": [
+			"USD $5.50",
+			"USD $5.12",
+			"USD $4.76"
+		],
+		"highlight": {
+			"0": "Elecrow 1/2-In Water Flow Sensor",
+			"1": "Has a magnetic core and a rotation impeller",
+			"2": "The hall-effect sensor outputs the corresponding pulse signals",
+			"3": "Detects flow in water dispenser or coffee machine"
+		},
+		"model": "RB-Ecw-25",
+		"description": [
+			"The Elecrow 1/2-In Water Flow Sensor consists of a magnetic core, rotating impeller, external casing and sensor, and a hall-effect sensor.",
+			"When water flows through the rotor, rotor rolls, it activates the magnetic core to trigger switch action speed changes with different rate of flow. The hall-effect sensor outputs the corresponding pulse signals, users can get the flow speed via detecting the pulse. It is suitable to detect flow in water dispenser or coffee machine.",
+			"Elecrow 1/2-In Water Flow Sensor",
+			"Has a magnetic core and a rotation impeller",
+			"The hall-effect sensor outputs the corresponding pulse signals",
+			"Detects flow in water dispenser or coffee machine"
+		],
+		"spec": {
+			"0": "Min. Working Voltage: DC 4.5V",
+			"1": "Max. Working Current: 15mA (DC 5V)",
+			"2": "Working Voltage: 5V ～ 24V",
+			"3": "Flow Rate Range: 1 ～ 30 L/min",
+			"4": "Load Capacity: ≤10mA (DC 5V)",
+			"5": "Operating Temperature: ≤80 ℃",
+			"6": "Liquid Temperature: ≤120 ℃",
+			"7": "Operating Humidity: 35% ～ 90%RH",
+			"8": "Water Pressure:  ≤2.0MPa",
+			"9": "Storage Temperature: -25 ℃ ～ +80 ℃",
+			"10": "Storage Humidity: 25% ～ 95%RH"
+		}
+	},
+	"https://www.robotshop.com/en/industrial-shields-m-duino-plc-arduino-ethernet-38r-i-o-relay-plus.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Microcontrollers >",
+			"4": "Arduino >",
+			"5": "Industrial Shields M-DUINO PLC Arduino Ethernet 38R I/O Relay PLUS"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/m/-/m-duino-plc-arduino-ethernet-38r-i-os-relay-analog-digital-plus.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/m/-/m-duino-plc-arduino-ethernet-38r-i-os-relay-analog-digital-plus.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Industrial Shields M-DUINO PLC Arduino Ethernet 38R I/O Relay PLUS",
+		"price": [
+			"USD $432.41"
+		],
+		"highlight": {
+			"0": "Industrial Shields M-DUINO PLC Arduino Ethernet 38R I/O Relay PLUS",
+			"1": "Features 12 Inputs and 22 Outputs",
+			"2": "Offers a full/half duplex RS485 port and a µSD Socket",
+			"3": "Works directly with an SD memory card"
+		},
+		"model": "RB-Ind-24",
+		"description": [
+			"This is the Industrial Shields M-DUINO PLC Arduino Ethernet 38R I/O Relay PLUS technology designed for professional use. This PLC has 34I/Os.",
+			"It also contains several communication ports which provide more flexibility and control. The M-DUINO family offers the possibility to expand up to 127 modules through I2C, which means that you can have until 7100 Inputs / Outputs in Master-Slave connections, additionally to sensors, etc. Can possibly be used with MODBUS RTU using the RS485 port working as a hardware Serial.",
+			"This PLC can be programmed using the Arduino IDE platform. The PLC M-DUINO is programmed through the USB ports. This PLC can also be programmed through Ethernet port remotely.",
+			"This offers immediate access to the program, maintain and control. Also, you can continuously monitor the status for all the variables, inputs, outputs, etc. It is compatible with the Ardbox PLC Range and the Touchberry Pi with an instantaneous connection.",
+			"Industrial Shields M-DUINO PLC Arduino Ethernet 38R I/O Relay PLUS",
+			"Features 12 Inputs and 22 Outputs",
+			"Offers a full/half duplex RS485 port and a µSD Socket",
+			"Works directly with an SD memory card"
+		],
+		"spec": {
+			"0": "(1x) Ethernet port",
+			"1": "(1x) USB port (Type B)",
+			"2": "(1x) I2C port. (Interface with other Industrial Shields, sensors, I/Os modules)",
+			"3": "(3x) TTL ports",
+			"4": "(1x) RS-232 port",
+			"5": "(1x) HALF/FULL Duplex RS-485 port",
+			"6": "(1x) SPI external port (Using MOSI, MISO, SS pins of Arduino)",
+			"7": "TCP IP / Modbus TCP. / Modbus RTU",
+			"8": "WebServer capacity",
+			"9": "Industrial Protocols",
+			"10": "RTC (Real Time Clock. NOTE: I2C port used. See pinout modification)",
+			"11": "µSD Socket (using SPI port, chip select D53 pin)",
+			"12": "100x75x115mm",
+			"13": "DIN Rail mounting",
+			"14": "Max consum.: 1.2A",
+			"15": "Flash Memory: 256kB (8kB for bootloader)",
+			"16": "SRAM: 8kB",
+			"17": "EEPROM: 4kB",
+			"18": "Clock Speed: 16MHz"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/content/i/ind/pdf/m-duino-plc-arduino-ethernet-38r-i-os-relay-analog-digital-plus-datasheet.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/energy-propel-4108-40a-390kv-cw-brushless-motor-esc.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "UAVs & Drones >",
+			"3": "Energy Propel 4108-40A 390KV CW Brushless Motor w/ESC"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/e/n/energy-propel-4108-40a-390kv-cw-brushless-motor-esc.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/e/n/energy-propel-4108-40a-390kv-cw-brushless-motor-esc.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Energy Propel 4108-40A 390KV CW Brushless Motor w/ESC",
+		"price": [
+			"USD $64.99",
+			"USD $62.39",
+			"USD $59.89"
+		],
+		"highlight": {
+			"0": "KV Rating: 320KV",
+			"1": "Motor and ESC combination provides a lightweight",
+			"2": "High performance, efficient motor",
+			"3": "Programmable speed control",
+			"4": "Updateable firmware",
+			"5": "BLHeli featuring active braking/damping light",
+			"6": "Simple wiring eliminates failure points",
+			"7": "Ideal for 600 ~ 800mm multirotors"
+		},
+		"model": "RB-Hit-244",
+		"description": [
+			"Energy Propel 4108-40A 390KV CW Brushless Motor w/ESC Motor combines a high performance, efficient motor with a programmable ESC. Flashed with the popular BLHeli firmware which employs the Active Braking (damping light) feature for improved throttle responsiveness as well as the ONESHOT communication protocol for fast refresh rates, the Energy Propel 4108/40 Motor will have your 600 ~ 800mm multirotor performing better than imagined.",
+			"KV Rating: 320KV",
+			"Motor and ESC combination provides a lightweight",
+			"High performance, efficient motor",
+			"Programmable speed control",
+			"Updateable firmware",
+			"BLHeli featuring active braking/damping light",
+			"Simple wiring eliminates failure points",
+			"Ideal for 600 ~ 800mm multirotors"
+		],
+		"spec": {
+			"0": "Stator Diameter: 40.6mm",
+			"1": "Stator Thickness: 8mm",
+			"2": "Poles: 24N 22P",
+			"3": "KV Rating: 320KV",
+			"4": "Resistance: 0.2708Ω",
+			"5": "Idle Current: 0.57A",
+			"6": "Max Watts: 350W",
+			"7": "Input Voltage: 3-6S Lipo",
+			"8": "Rotor Diameter: 47mm",
+			"9": "Shaft Diameter: 4mm",
+			"10": "ESC Cont.Current: 40A",
+			"11": "ESC burst Current: 50A",
+			"12": "Programmable: Yes",
+			"13": "BEC output: No",
+			"14": "Reverse Switch: Yes"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/energy-propel-4108-40a-390kv-cw-brushless-motor-esc-datasheet.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/official-raspberry-pi-zero-case.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Microcontroller Accessories >",
+			"4": "Raspberry Pi Accessories / HATs >",
+			"5": "Official Raspberry Pi Zero Case"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/o/f/official-raspberry-pi-zero-case.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/o/f/official-raspberry-pi-zero-case.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Official Raspberry Pi Zero Case",
+		"price": [
+			"USD $8.10",
+			"USD $7.61",
+			"USD $7.16"
+		],
+		"highlight": {
+			"0": "Case compatible with all models of Raspberry Pi Zero/Zero W",
+			"1": "Includes four rubber feet and a short ribbon cable",
+			"2": "Features a cut-out GPIO access (allowing access to the pins for HATs, pHATs etc.)",
+			"3": "Camera mount & lens hole"
+		},
+		"model": "RB-Pis-32",
+		"description": [
+			"The Official Raspberry Pi Zero Case comes with an exclusive short ribbon cable that will connect your official camera module to your Raspberry Pi Zero. Also included with the case, there are four sticky, rubber feet that fit into the indents on the underside of the case.",
+			"The underside of the case features a cut-out for the GPIO pins which means you always have access to expand your Raspberry Pi and add sensors, LEDs, switches and all manner of other things.",
+			"Case compatible with all models of Raspberry Pi Zero/Zero W",
+			"Includes four rubber feet and a short ribbon cable",
+			"Features a cut-out GPIO access (allowing access to the pins for HATs, pHATs etc.)",
+			"Camera mount & lens hole"
+		]
+	},
+	"https://www.robotshop.com/en/electro-fashion-tilt-switch-e-textile.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Wearable Technology >",
+			"2": "DIY Wearables >",
+			"3": "Electro-Fashion Tilt Switch for E-Textile"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/e/l/electro-fashion-tilt-switch-e-textile.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/e/l/electro-fashion-tilt-switch-e-textile.jpg",
+			"2": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Electro-Fashion Tilt Switch for E-Textile",
+		"price": [
+			"USD $1.95",
+			"USD $1.83",
+			"USD $1.72"
+		],
+		"highlight": {
+			"0": "Electro-Fashion Tilt Switch for E-Textile",
+			"1": "Can be used to activate your E-Textiles project when it is tilted",
+			"2": "Provides 2 connection points",
+			"3": "Offers double-sided PCBs for reliable connections"
+		},
+		"model": "RB-Ktr-43",
+		"description": [
+			"The Electro-Fashion Tilt Switch for E-Textile can be used to activate your E-Textiles project when it is tilted. When horizontal, the switch is off. When tilted, the switch is on. This sewable tilt switches from Kitronik can be used to activate your e-textiles project when it is tilted.",
+			"It has two connection points to which the conductive thread is connected. The PCBs are double sided making the conductive thread connection very reliable.",
+			"Electro-Fashion Tilt Switch for E-Textile",
+			"Can be used to activate your E-Textiles project when it is tilted",
+			"Provides 2 connection points",
+			"Offers double-sided PCBs for reliable connections"
+		],
+		"spec": {
+			"0": "Maximum Switch Rating Voltage DC: 24 V",
+			"1": "Maximum Switch Rating Current: 0.025 A (25 mA)"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/content/k/ktr/pdf/electro-fashion-tilt-switch-e-textile-datasheet.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/electro-fashion-sewable-slide-switch.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Wearable Technology >",
+			"2": "DIY Wearables >",
+			"3": "Electro-Fashion Sewable Slide Switch"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/e/l/electro-fashion-sewable-slide-switch.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/e/l/electro-fashion-sewable-slide-switch.jpg",
+			"2": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Electro-Fashion Sewable Slide Switch",
+		"price": [
+			"USD $1.24",
+			"USD $1.15",
+			"USD $1.07"
+		],
+		"highlight": {
+			"0": "Electro-Fashion Sewable Slide Switch",
+			"1": "Features a two-position miniature slide switch",
+			"2": "Offers double-sided PCBs for reliable connections",
+			"3": "Has 2 connection points to which the conductive thread is connected"
+		},
+		"model": "RB-Ktr-67",
+		"description": [
+			"The Electro-Fashion Sewable Slide Switch features a two-position miniature slide switch that has two connection points to which the conductive thread is connected.",
+			"The PCBs are double sided making the conductive thread connection very reliable.",
+			"Electro-Fashion Sewable Slide Switch",
+			"Features a two-position miniature slide switch",
+			"Offers double-sided PCBs for reliable connections",
+			"Has 2 connection points to which the conductive thread is connected"
+		],
+		"spec": {
+			"0": "Maximum Switch Rating Voltage DC: 6V",
+			"1": "Maximum Switch Rating Current: 0.03 A (30 mA)"
+		}
+	},
+	"https://www.robotshop.com/en/allbot-programmable-four-legged-robot-kit.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robots & Kits >",
+			"3": "Quadruped Robots >",
+			"4": "ALLBOT Programmable Four Legged Robot kit"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/a/l/allbot-programmable-four-legged-robot.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/a/l/allbot-programmable-four-legged-robot.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "ALLBOT Programmable Four Legged Robot kit",
+		"price": [
+			"USD $189.00",
+			"USD $175.77",
+			"USD $163.47"
+		],
+		"highlight": {
+			"0": "Can be programed to be independent",
+			"1": "Arduino Uno  not included",
+			"2": "Can be controlled through infrared",
+			"3": "Servo motor connector shield has an on board IR receiver",
+			"4": "Operate using its free app with your smartphones"
+		},
+		"model": "RB-Vel-26",
+		"description": [
+			"Build and program your own robot with the ALLBOT Programmable Four Legged Robot. The Velleman ALLBOT modular robots are compatible with your Arduino Uno  or Mega boards .",
+			"The ALLBOT Programmable Four Legged Robot comes with a servo motor connector shield, battery shield, plastic parts, 8 servo motors, VR001 (infrared transmitter) and hardware. The manual provides all the information you need for building your ALLBOT and gets you started programming it too. You can program your ALLBOT to be independent or control it through infrared using the free app. The servo motor connector shield has an on board IR receiver and the VR001 plugs into the audio port of your smartphone or tablet. The app is free and available for either Android or iOS.",
+			"Can be programed to be independent",
+			"Arduino Uno  not included",
+			"Can be controlled through infrared",
+			"Servo motor connector shield has an on board IR receiver",
+			"Operate using its free app with your smartphones"
+		],
+		"spec": {
+			"0": "8 x 9G servo motors",
+			"1": "Smartphone IR transmitter (VR001)",
+			"2": "Servo motor connector shield (VRSSM):\nCompatible with Arduino UNO and Arduino MEGA (not included)\nArduino UNO can drive max. 12 servo motors\nArduino MEGA can drive max. 36 servo motors\nIR receiver\nBeeper\nPower indicator LEDs",
+			"3": "Compatible with Arduino UNO and Arduino MEGA (not included)",
+			"4": "Arduino UNO can drive max. 12 servo motors",
+			"5": "Arduino MEGA can drive max. 36 servo motors",
+			"6": "IR receiver",
+			"7": "Beeper",
+			"8": "Power indicator LEDs",
+			"9": "Battery shield (VRBS1):\nPower supply: 12 V booster for Arduino board (4 x AA batteries, alkaline or NiMH recommended but not included)\nON-OFF switch",
+			"10": "Power supply: 12 V booster for Arduino board (4 x AA batteries, alkaline or NiMH recommended but not included)",
+			"11": "ON-OFF switch"
+		}
+	},
+	"https://www.robotshop.com/en/lens-evaluation-kit-lh112.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Sensors >",
+			"4": "Cameras & Vision Sensors >",
+			"5": "Lens Evaluation Kit (LH112)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/l/e/lens-evaluation-kit-lh112.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/l/e/lens-evaluation-kit-lh112.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Lens Evaluation Kit (LH112)",
+		"price": [
+			"USD $37.50"
+		],
+		"highlight": {
+			"0": "Lens Evaluation Kit (LH112)",
+			"1": "Offers two different lenses, a cover, and a holder",
+			"2": "Comes in two versions",
+			"3": "Made of Polyamide",
+			"4": "ROHS3 compliant",
+			"5": "Designed for High Performance Radar Module (XM112)"
+		},
+		"model": "RBC-Acc-04",
+		"description": [
+			"The Lens Evaluation Kit (LH112) delivered as kits with two different lenses, a cover, and a holder. The holder comes in two versions LH112 used for XR112 and XM112.",
+			"Lens Evaluation Kit (LH112)",
+			"Offers two different lenses, a cover, and a holder",
+			"Comes in two versions",
+			"Made of Polyamide",
+			"ROHS3 compliant",
+			"Designed for High Performance Radar Module (XM112)"
+		],
+		"spec": {
+			"0": "RoHS Status: ROHS3 Compliant",
+			"1": "Moisture Sensitivity Level (MSL): 1"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/content/a/acc/pdf/lens-evaluation-kit-lh112-datasheet.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/micro-dc-worm-gear-motorwith-encoder-6v-19rpm.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Motors & Actuators >",
+			"4": "Gear Motors >",
+			"5": "Gear Motors (Rear Shaft) >",
+			"6": "Micro DC Worm Gear Motor with encoder - 6V 19RPM"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/r/m/rm-esmo-050_9363c.png.png",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/r/m/rm-esmo-050_9363c.png.png",
+			"2": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Micro DC Worm Gear Motor with encoder - 6V 19RPM",
+		"price": [
+			"USD $15.70",
+			"USD $14.20",
+			"USD $13.05"
+		],
+		"highlight": {
+			"0": "high precision, high torque",
+			"1": "Self-locking function",
+			"2": "Magnetic encoder, 7ppr",
+			"3": "RoHS compliant",
+			"4": "Shaft length 8mm"
+		},
+		"model": "RM-ESMO-050",
+		"description": [
+			"This is a 6V 19RPM horizontal shaped stainless steel mini gear DC motor with encoder.This high torque horizontal shaped metal gear mini DC motor is perfect for hobbyists and students who want to build robotic projects such as two and four wheel drive platforms as well as any rotating mechanical device. Benefiting from its high torque, compact size and weight, these DC motors provide an excellent and reliable motion source for the inventor.",
+			"high precision, high torque",
+			"Self-locking function",
+			"Magnetic encoder, 7ppr",
+			"RoHS compliant",
+			"Shaft length 8mm"
+		],
+		"related": {
+			"0": "https://cdn.robotshop.com/rbm/a00a7635-653b-4220-aac9-b0c23c5c5e2c/a/a22a5567-9187-4e06-8d53-e794e1286cf4/601eef25_N20-encoder.pdf",
+			"1": "https://cdn.robotshop.com/rbm/a00a7635-653b-4220-aac9-b0c23c5c5e2c/a/a22a5567-9187-4e06-8d53-e794e1286cf4/dddd334b_N20-worm-gear-motor-with-encoder.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/1001-micro-metal-gearmotor-hp.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Motors & Actuators >",
+			"4": "Gear Motors >",
+			"5": "Spur Gear Motors >",
+			"6": "100:1 Micro Metal Gearmotor HP"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/1/0/1001-micro-metal-gearmotor-hp.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/1/0/1001-micro-metal-gearmotor-hp.jpg",
+			"2": null,
+			"3": null,
+			"4": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "100:1 Micro Metal Gearmotor HP",
+		"price": [
+			"USD $10.00",
+			"USD $9.20",
+			"USD $8.46"
+		],
+		"highlight": {
+			"0": "DC Gearmotor",
+			"1": "Nominal Voltage: 6V",
+			"2": "No Load RPM: 320",
+			"3": "Stall Current: 1.6A",
+			"4": "Stall Torque: 30 oz-in",
+			"5": "Shaft Diameter: 3 mm",
+			"6": "Extended Backshaft: 6mm Length x 1mm Diameter"
+		},
+		"model": "RB-Cyt-168",
+		"description": [
+			"DC Gearmotor",
+			"Nominal Voltage: 6V",
+			"No Load RPM: 320",
+			"Stall Current: 1.6A",
+			"Stall Torque: 30 oz-in",
+			"Shaft Diameter: 3 mm",
+			"Extended Backshaft: 6mm Length x 1mm Diameter"
+		],
+		"spec": {
+			"0": "Gear Ratio: 100.37:1",
+			"1": "Nominal Voltage: 6V",
+			"2": "No Load RPM: 320",
+			"3": "No Load Current: 0.12A",
+			"4": "Rated RPM: 251",
+			"5": "Rated Torque: 6.5 oz-in",
+			"6": "Stall Current: 1.6A",
+			"7": "Stall Torque: 30 oz-in",
+			"8": "Shaft Type: D-Shaped"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/spg10-hp-dimension.pdf",
+			"1": "https://www.robotshop.com/media/files/pdf2/115-rb-sct-168.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/proximity-sensor-eopd-compatible-lego-mindstorms-nxt.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Sensors >",
+			"4": "Infrared & Light Sensors >",
+			"5": "Light Sensors >",
+			"6": "Proximity Sensor EOPD (compatible with Lego Mindstorms NXT)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/l/e/lego-mindstorms-proximity-sensor-eopd-1.png",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/l/e/lego-mindstorms-proximity-sensor-eopd-1.png",
+			"2": null,
+			"3": null,
+			"4": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Proximity Sensor EOPD (compatible with Lego Mindstorms NXT)",
+		"price": [
+			"USD $26.95",
+			"USD $54.95"
+		],
+		"highlight": {
+			"0": "Electro-Optical Proximity Detector (EOPD)",
+			"1": "Generates and uses its own internal light source",
+			"2": "Accurately detect objects and small changes in distance to a target",
+			"3": "Two modes of operation, x1 sensitivity and x4 sensitivity",
+			"4": "RobotShop is not affiliated with and this product and is not endorsed by LEGO"
+		},
+		"model": "RB-Htr-04",
+		"description": [
+			"The Proximity Sensor EOPD (compatible with Lego Mindstorms NXT) accurately detects objects and small changes in distance to a target with the HiTechnic EOPD. The EOPD or Electro Optical Proximity Detector uses an internal light source to detect the presence of a target or determine changes in distance to a target. By generating its own light source, the EOPD is able to filter out all external light signals so as a robot moves from bright areas to dimmly lit areas or through shadows, the EOPD automatically compensates and only returns a signal based on its own light source. Targets can be accurately detected over distances up to about 8 inches (20 cm), depending on the target size, shape and reflective qualities.",
+			"Electro-Optical Proximity Detector (EOPD)",
+			"Generates and uses its own internal light source",
+			"Accurately detect objects and small changes in distance to a target",
+			"Two modes of operation, x1 sensitivity and x4 sensitivity",
+			"RobotShop is not affiliated with and this product and is not endorsed by LEGO"
+		],
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/introduction-neo1048.pdf"
+		}
+	}
+}

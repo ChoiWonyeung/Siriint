@@ -1,0 +1,1 @@
+from komachine_1depth import c

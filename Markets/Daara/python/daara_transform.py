@@ -1,6 +1,7 @@
 from Markets.Daara.python.config import *
 from common import *
 from ETC import format_json
+import pandas as pd
 
 def transformation(dic_daara, save=False):
     """
@@ -38,9 +39,20 @@ def transformation(dic_daara, save=False):
             json_daara[key]['related_doc_url_2'] = dic_daara[key]['반품·교환안내']
         except:
             pass
-
-        json_daara[key]["shipping"]["methods"] = dic_daara[key]["배송안내"]
-        json_daara[key]["shipping"]["calculation"] = dic_daara[key]["결제 안내"]
+        try:
+            json_daara[key]["shipping"]["methods"] = dic_daara[key]["배송안내"]
+        except:
+            pass
+        try:
+            json_daara[key]["shipping"]["calculation"] = dic_daara[key]["결제 안내"]
+        except:
+            pass
     if save:
-        json_save('./json/daara_result.json', json_daara)
+        df_daara = pd.DataFrame(json_daara).transpose()
+        df_daara.to_csv('../json/daara.csv')
+        json_save('../json/daara_result__.json', json_daara)
     return json_daara
+
+if __name__ == '__main__':
+    dic_daara = json_load('../json/daara_2depth_.json')
+    transformation(dic_daara, save=True)

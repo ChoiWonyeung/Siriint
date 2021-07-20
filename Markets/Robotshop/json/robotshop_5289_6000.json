@@ -1,0 +1,54 @@
+{
+	"https://www.robotshop.com/en/seeedstudio-non-invasive-ac-current-sensor-100a-max.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Sensors >",
+			"4": "Current & Voltage Sensors >",
+			"5": "SeeedStudio Non-Invasive AC Current Sensor (100A Max)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/s/e/seeedstudio-non-invasive-ac-current-sensor-100a-max.png",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/s/e/seeedstudio-non-invasive-ac-current-sensor-100a-max.png",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "SeeedStudio Non-Invasive AC Current Sensor (100A Max)",
+		"price": [
+			"USD $12.08",
+			"USD $11.84",
+			"USD $11.60"
+		],
+		"highlight": {
+			"0": "Non-invasive AC current sensor (100A max)",
+			"1": "Output mode: 0-50mA",
+			"2": "Opening size: 13mm x 13mm",
+			"3": "Leading wire: 1m"
+		},
+		"model": "RB-See-114",
+		"description": [
+			"This is the SeeedStudio Non-Invasive AC Current Sensor (100A Max). It is a non-invasive current transformer. Use this sensor clip to build your own personal energy monitor. It is suitable for the current measuring monitoring and protection of AC motor lighting equipment, air compressor and so on. It is made with Ferrite core material and it's opening size 13mm x 13mm meets your requirements.",
+			"https://www.robotshop.com/media/files/images/seeedstudio-non-invasive-ac-current-sensor-100a-max-a.jpg",
+			"Non-invasive AC current sensor (100A max)",
+			"Output mode: 0-50mA",
+			"Opening size: 13mm x 13mm",
+			"Leading wire: 1m"
+		],
+		"spec": {
+			"0": "Input current: 0~100A AC",
+			"1": "Non-linearity: ±3%",
+			"2": "Turn ratio: 100A:0.05A",
+			"3": "Resistance grade: Grade B",
+			"4": "Work temperature: -25°C to +70°C",
+			"5": "Dielectric strength(between shell and output): 1000V AC/1min 5mA",
+			"6": "Leading wire in length: 1m"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/zip/documentation-thm105c4b.zip"
+		}
+	}
+}

@@ -1,0 +1,3038 @@
+{
+	"https://www.robotshop.com/en/prototyping-board-raspberry-pi.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Microcontroller Accessories >",
+			"4": "Raspberry Pi Accessories / HATs >",
+			"5": "Prototyping Board for Raspberry Pi"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/p/r/prototyping-board-raspberry-pi-1.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/p/r/prototyping-board-raspberry-pi-1.jpg",
+			"2": null,
+			"3": null,
+			"4": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "Prototyping Board for Raspberry Pi",
+		"price": [
+			"USD $5.99",
+			"USD $5.75",
+			"USD $5.52"
+		],
+		"highlight": {
+			"0": "Raspberry Pi prototyping board",
+			"1": "Gold-plated (ENIG) PCB for durability",
+			"2": "Raspberry Pi I/O broken out next to the prototyping area",
+			"3": "Featured with labelled breakout pins for all GPIOs"
+		},
+		"model": "RB-Fee-54",
+		"description": [
+			"The Prototyping Board for Raspberry Pi is all you need if you want to attach some electronic components or sensors to your Raspberry Pi. It provides labelled breakout pins for all GPIOs, a large prototyping area with solder pads, and power rails for easy power connection. This board is compatible with all Raspberry Pi and equivalent boards with a 40-pin expansion header, including:Raspberry Pi model A+,B+ and 2.\n\nFeatures:",
+			"Note: Raspberry Pi not included.",
+			"Raspberry Pi prototyping board",
+			"Gold-plated (ENIG) PCB for durability",
+			"Raspberry Pi I/O broken out next to the prototyping area",
+			"Featured with labelled breakout pins for all GPIOs",
+			"Large prototyping area to place your own parts",
+			"GND and 3.3V power rails",
+			"Pinout markings on both the top and bottom",
+			"Includes 2 nuts, bolts, spacers, and washers for firm mounting"
+		]
+	},
+	"https://www.robotshop.com/en/parallax-propeller-40-pin-dip-chip-p8x32a-d40.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Microcontrollers >",
+			"4": "Parallax >",
+			"5": "Propeller >",
+			"6": "Parallax Propeller 40-Pin DIP Chip - P8X32A-D40"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/p/a/parallax-propeller-40-pin-dip-chip-p8x32a-d40.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/p/a/parallax-propeller-40-pin-dip-chip-p8x32a-d40.jpg",
+			"2": null
+		},
+		"product": "Parallax Propeller 40-Pin DIP Chip - P8X32A-D40",
+		"price": [
+			"USD $7.99",
+			"USD $7.75",
+			"USD $7.19"
+		],
+		"highlight": {
+			"0": "Propeller 40-Pin DIP Chip - P8X32A-D40",
+			"1": "Global RAM/ROM: 64 K bytes; 32 K RAM / 32 K ROM",
+			"2": "System Clock Speed: DC to 80 MHz",
+			"3": "RoHS Compliant"
+		},
+		"model": "RB-Plx-29",
+		"description": [
+			"The Parallax Propeller 40-Pin DIP Chip - P8X32A-D40 is Parallax's own all-custom silicon, designed at the transistor level by schematic. The Propeller module is a multi-processing chip, with shared memory and a built-in interpreter for programming in a high-level object-oriented language, called SpinT, and low-level (assembly) language. With the set of pre-built Parallax 'objects' for video, mouse, keyboards, NTSC/VGA displays, LCDs, stepper motors and sensors your application is a matter of high-level integration with Propeller chips. The Propeller chips are designed for high-speed embedded processing, while maintaining low power, low current consumption and a small physical footprint.",
+			"The P8X32A-D40 is most useful for prototyping in its 40-pin DIP package. Connect the Propeller module to your computer's serial or USB port using the Prop Plug for programming is quite simple. The Propeller chip can run on its own with a power supply, internal clock and using RAM for code storage. Add an external EEPROM for non-volatile code storage.",
+			"Features:",
+			"Pin Assignments:",
+			"Propeller 40-Pin DIP Chip - P8X32A-D40",
+			"Global RAM/ROM: 64 K bytes; 32 K RAM / 32 K ROM",
+			"System Clock Speed: DC to 80 MHz",
+			"RoHS Compliant",
+			"Model Number: P8X32A-D40",
+			"Processors (cogs): Eight",
+			"Architecture: 32-bits",
+			"System Clock Speed: DC to 80 MHz",
+			"Global RAM/ROM: 64 K bytes; 32 K RAM / 32 K ROM",
+			"Cog RAM: 512 x 32 bits each",
+			"I/O Pins: 32 (simultaneously addressable by all eight cogs)",
+			"Current Source/Sink per I/O: 40 mA",
+			"Clock Modes: (a) External crystal 4 -8 MHz (16 x PLL) (b) Internal oscillator ~12 MHz or ~20 kHz (c) Direct drive",
+			"Package Type: 40-pin DIP",
+			"P0-P31: General purpose I/O.  Can source/sink 40 mA each at 3.3 VDC",
+			"P31: Rx from host (general purpose I/O after boot up).",
+			"P30: Tx to host (general purpose I/O after boot up/download).",
+			"P29: I2C SDA connection to external EEPROM (general purpose I/O after boot up).",
+			"P28: I2C SCL connection to external EEPROM (general purpose I/O after boot up).",
+			"Vdd: 3.3 V power (2.7 - 3.6 VDC).",
+			"Vss: Ground (0 VDC).",
+			"BOEn: Brown Out Enable (active low). Must be connected to either Vdd or Vss.  If low, RESn becomes a weak output (~5 KO) for monitoring purposes but can be driven low to cause reset. If high, RESn is a CMOS input with Schmitt Trigger.",
+			"RESn: Reset (active low). When low, resets the Propeller chip; all cogs disabled and I/O pins floating. Propeller restarts 50 ms after RESn transitions from low to high.",
+			"XI: Crystal / clock input. Can connect to crystal or oscillator.",
+			"XO: Crystal Output. Provides feedback for an external crystal. Internal C and R selectable for crystals (no other components required)."
+		],
+		"spec": {
+			"0": "Power requirements: 2.7 to 3.3 VDC",
+			"1": "Communication: Serial for programming",
+			"2": "Dimensions: 0.48 x 2.0 x 0.13 in (12.3 x 51 x 3.41 mm)",
+			"3": "Operating temp range: -67 to +257 °F (-55 to +125 °C)"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/propeller-manual-p8x32a-d40.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/achs-7121-current-sensor-carrier-10a.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Sensors >",
+			"4": "Current & Voltage Sensors >",
+			"5": "ACHS-7121 Current Sensor Carrier (±10A)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/a/c/achs-7121-current-sensor-carrier-10a.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/a/c/achs-7121-current-sensor-carrier-10a.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null,
+			"15": null,
+			"16": "https://www.robotshop.com/skin/frontend/rb/2018/fixtures/build/images/store-common/ico-expert.png"
+		},
+		"product": "ACHS-7121 Current Sensor Carrier (±10A)",
+		"price": [
+			"USD $4.95",
+			"USD $4.55",
+			"USD $4.19",
+			"USD $3.85"
+		],
+		"highlight": {
+			"0": "ACHS-7121 Current Sensor Carrier (±10A)",
+			"1": "Has typically a conductive path internal resistance of 0.7 mΩ",
+			"2": "Features a PCB made with 2-oz copper",
+			"3": "Is able to electrically isolate the current path",
+			"4": "Allows the sensor to be inserted anywhere along the current path"
+		},
+		"model": "RB-Pol-821",
+		"description": [
+			"The ACHS-7121 Current Sensor Carrier (±10A) is a simple carrier of Broadcom’s ±10A ACHS-7121 Hall effect-based linear current sensor, which offers a low-resistance (~0.7 mΩ) current path and electrical isolation up to 3 kV RMS.",
+			"This version accepts a bidirectional current input with a magnitude up to 10 A and outputs a proportional analog voltage (185 mV/A) centered at 2.5 V with a typical error of ±1.5%. It operates from 4.5 V to 5.5 V and is intended for use in 5 V systems. A bandwidth of 80 kHz can optionally be decreased by adding a capacitor across the board pins marked “filter”.",
+			"ACHS-7121 Current Sensor Carrier (±10A)",
+			"Has typically a conductive path internal resistance of 0.7 mΩ",
+			"Features a PCB made with 2-oz copper",
+			"Is able to electrically isolate the current path",
+			"Allows the sensor to be inserted anywhere along the current path"
+		],
+		"spec": {
+			"0": "Current sense: 0.185 V/A",
+			"1": "Minimum logic voltage: 4.5 V",
+			"2": "Maximum logic voltage: 5.5 V",
+			"3": "Weight: 1.1 g",
+			"4": "Supply current: 15 mA",
+			"5": "Version: -10 to +10 A"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/content/p/pol/pdf/achs-7121-current-sensor-carrier-10a-datasheet.pdf",
+			"1": "https://www.robotshop.com/media/files/content/p/pol/pdf/achs-7121-current-sensor-carrier-10a-schematic.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/lynxmotion-aluminum-offset-servo-bracket.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Lynxmotion >",
+			"2": "Mechanical >",
+			"3": "Hardware >",
+			"4": "Standard Hitec Brackets >",
+			"5": "Lynxmotion Aluminum Offset Servo Bracket with Ball Bearings Two Pack ASB-11"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/l/y/lynxmotion-aluminum-offset-servo-bracket_4.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/900x900/9df78eab33525d08d6e5fb8d27136e95/l/y/lynxmotion-aluminum-offset-servo-bracket_4.jpg",
+			"2": null,
+			"3": null,
+			"4": null,
+			"5": null,
+			"6": null
+		},
+		"product": "Lynxmotion Aluminum Offset Servo Bracket with Ball Bearings Two Pack ASB-11",
+		"price": [
+			"USD $12.90",
+			"USD $12.25",
+			"USD $11.64"
+		],
+		"highlight": {
+			"0": "High quality, black anodized aluminum \"C\" bracket with ball bearings",
+			"1": "The offset hinge was made specifically for use in biped robot shoulders",
+			"2": "Can also be used anywhere an offset is required",
+			"3": "Works great with our Multi-Purpose Servo Bracket or Heavy Duty Servo Hinge (sold separately)",
+			"4": "Useful for making your own arms and legs with ball bearings",
+			"5": "Fits standard size servo motors",
+			"6": "Sold in a 2-pack"
+		},
+		"model": "RB-Lyn-103",
+		"description": [
+			"High quality, black anodized aluminum \"C\" bracket with ball bearings",
+			"The offset hinge was made specifically for use in biped robot shoulders",
+			"Can also be used anywhere an offset is required",
+			"Works great with our Multi-Purpose Servo Bracket or Heavy Duty Servo Hinge (sold separately)",
+			"Useful for making your own arms and legs with ball bearings",
+			"Fits standard size servo motors",
+			"Sold in a 2-pack"
+		],
+		"related": {
+			"0": "http://www.lynxmotion.com/s-1-information.aspx"
+		}
+	},
+	"https://www.robotshop.com/en/lynxmotion-quadrature-motor-encoder-v2-cable.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Lynxmotion >",
+			"2": "Electronics >",
+			"3": "Sensors >",
+			"4": "Lynxmotion Quadrature Motor Encoder V2 (w/Cable)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/l/y/lynxmotion-quadrature-motor-encoder-v2-cable.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/l/y/lynxmotion-quadrature-motor-encoder-v2-cable.jpg",
+			"2": null
+		},
+		"product": "Lynxmotion Quadrature Motor Encoder V2 (w/Cable)",
+		"price": [
+			"USD $31.50",
+			"USD $30.24",
+			"USD $29.03"
+		],
+		"highlight": {
+			"0": "Quadrature encoder with two output signals",
+			"1": "Designed specifically for the Lynxmotion 12VDC 200rpm, 0.78Kg-cm GHM-16 w/ rear shaft and 7.2VDC 291RPM 11oz-in GHM-03 Spur Gear Head Motor (w/ Rear Shaft)",
+			"2": "Mounts to the output shaft of the gearbox",
+			"3": "Cable is included",
+			"4": "Motor and mount are not included"
+		},
+		"model": "RB-Lyn-929",
+		"description": [
+			"The Lynxmotion Quadrature Motor Encoder V2 (w/Cable) is designed for the 12VDC, 200rpm, 0.78Kg-cm GHM-16 (w/ rear shaft) and 7.2VDC 291RPM 11oz-in GHM-03 Spur Gear Head Motor (w/ Rear Shaft) , sold separately. The original V1 encoder was discontinued, while the replacement does not properly fit over the plastic around the rear shaft, so a lexan spacer and tape is included.",
+			"Quadrature encoder with two output signals",
+			"Designed specifically for the Lynxmotion 12VDC 200rpm, 0.78Kg-cm GHM-16 w/ rear shaft and 7.2VDC 291RPM 11oz-in GHM-03 Spur Gear Head Motor (w/ Rear Shaft)",
+			"Mounts to the output shaft of the gearbox",
+			"Cable is included",
+			"Motor and mount are not included"
+		],
+		"spec": {
+			"0": "Cycles per revolution: 100",
+			"1": "Quadrature counts per revolution: 400",
+			"2": "Frequency: 30kHz"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf2/lynxmotionquadraturemotorencoderv2wcable.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/cubepilot-450mm-multi-rotor-uav-frame.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "UAVs & Drones >",
+			"3": "UAV & Drone Kits >",
+			"4": "CubePilot 450mm Multi-Rotor UAV Frame"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/c/u/cubepilot-450mm-multi-rotor-uav-frame-1.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/c/u/cubepilot-450mm-multi-rotor-uav-frame-1.jpg",
+			"4": null,
+			"5": null,
+			"6": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/c/u/cubepilot-450mm-multi-rotor-uav-frame-1.jpg",
+			"7": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/c/u/cubepilot-450mm-multi-rotor-uav-frame-1.jpg",
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"product": "CubePilot 450mm Multi-Rotor UAV Frame",
+		"price": [
+			""
+		],
+		"highlight": {
+			"0": "Multi-Rotor UAV 450mm Frame Kit for ArduPilot FC",
+			"1": "Contains four motors, ESCs, and propellers",
+			"2": "Perfectly suits the cube mini and full carrier board",
+			"3": "Carbon fibre material for light weight, high strength"
+		},
+		"model": "RB-Htl-18",
+		"description": [
+			"The Multi-Rotor UAV 450mm Frame Kit for ArduPilot FC is an awesome reference/education drone. It perfectly suits the cube mini and full carrier board. This new version offers a brand new design on its copter arms for better aerodynamics provided by the drop-shaped structure.",
+			"The set contains propellers, motors, and ESCs. Also included are a landing gears, a bottom and top plate as well as a GPS stand set and a power distributor board. Carbon fibre material provides light weight, high strength and the new designed holders help lower the centre of gravity, providing safer and stabler flights.",
+			"Multi-Rotor UAV 450mm Frame Kit for ArduPilot FC",
+			"Contains four motors, ESCs, and propellers",
+			"Perfectly suits the cube mini and full carrier board",
+			"Carbon fibre material for light weight, high strength"
+		],
+		"spec": {
+			"0": "Motor: T-Motor 2216 880KV",
+			"1": "ESC: Hobbywing Rotor 20 A",
+			"2": "Propeller: T-Motor 1045",
+			"3": "Weight: 847 g (w/ battery)",
+			"4": "Max. Payload: 960 g",
+			"5": "Battery recommendation: 4S 5 Ah (not included)"
+		}
+	},
+	"https://www.robotshop.com/en/sparkfun-third-hand-magnifying-glass.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Tools & Equipment >",
+			"3": "Soldering Equipment >",
+			"4": "Sparkfun Third Hand with Magnifying Glass"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/p/sparkfun-third-hand-magnifying-glass_1.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/p/sparkfun-third-hand-magnifying-glass_1.jpg",
+			"2": null
+		},
+		"product": "Sparkfun Third Hand with Magnifying Glass",
+		"price": [
+			"USD $9.95",
+			"USD $8.96",
+			"USD $7.96"
+		],
+		"highlight": {
+			"0": "Best helper equipment for Solderer's",
+			"1": "Helps prevent accidents and melt marks",
+			"2": "Includes soldering iron holder and magnifying glass",
+			"3": "RoHS compliant"
+		},
+		"model": "RB-Spa-834",
+		"description": [
+			"The Sparkfun Third Hand with Magnifying Glass comes with a heavy base, two alligator clips, a soldering iron holder and a good magnifying glass.",
+			"Best helper equipment for Solderer's",
+			"Helps prevent accidents and melt marks",
+			"Includes soldering iron holder and magnifying glass",
+			"RoHS compliant"
+		]
+	},
+	"https://www.robotshop.com/en/cable-penetrator-blank-no-hole.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Mechanics >",
+			"4": "UUV / ROV Parts >",
+			"5": "Cable Penetrator Blank (No Hole)"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/c/a/cable-penetrator-blank-no-hole.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/c/a/cable-penetrator-blank-no-hole.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/c/a/cable-penetrator-blank-no-hole.jpg",
+			"9": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/c/a/cable-penetrator-blank-no-hole.jpg",
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null
+		},
+		"product": "Cable Penetrator Blank (No Hole)",
+		"price": [
+			"USD $4.00",
+			"USD $3.84",
+			"USD $3.69"
+		],
+		"highlight": {
+			"0": "Anodized aluminum construction for corrosion resistance and high strength",
+			"1": "Captive O-ring face seal that works on any smooth surface",
+			"2": "Wrench flats for easy tightening",
+			"3": "Provided with no hole"
+		},
+		"model": "RB-Blu-31",
+		"description": [
+			"The Cable Penetrator Blank (No Hole) is provided with no hole. You can use it to seal an extra 10mm hole or to drill out to custom diameter.",
+			"Anodized aluminum construction for corrosion resistance and high strength",
+			"Captive O-ring face seal that works on any smooth surface",
+			"Wrench flats for easy tightening",
+			"Provided with no hole"
+		]
+	},
+	"https://www.robotshop.com/en/hs-77bb-low-profile-servo.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Motors & Actuators >",
+			"4": "Servo Motors >",
+			"5": "Hitec Servo Motors >",
+			"6": "HS-77BB Low Profile Servo"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/h/s/hs-77bb-low-profile-servo-2.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/h/s/hs-77bb-low-profile-servo-2.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null,
+			"11": null,
+			"12": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/h/s/hs-77bb-low-profile-servo-2.jpg",
+			"13": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/h/s/hs-77bb-low-profile-servo-2.jpg",
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": null,
+			"19": null,
+			"20": null,
+			"21": null,
+			"22": null
+		},
+		"product": "HS-77BB Low Profile Servo",
+		"price": [
+			"USD $29.99"
+		],
+		"highlight": {
+			"0": "HS-77BB low profile servo",
+			"1": "Torque (kg./cm): 4.4 / 5.5 (4.8 V / 6.0 V)",
+			"2": "Speed: 0.18 sec / 0.14 sec (4.8 V / 6.0 V) @ 60 deg",
+			"3": "3 pole motor with top ball bearing"
+		},
+		"model": "RB-Hit-175",
+		"description": [
+			"The HS-77BB Low Profile Servo is a great choice for wing or tail mounting in aircrafts up to 1.20 size, with its low profile design and strong standing torque. Submarines, boats, cars and trucks can also benefit from this servo’s strength and compact size.",
+			"Features",
+			"HS-77BB low profile servo",
+			"Torque (kg./cm): 4.4 / 5.5 (4.8 V / 6.0 V)",
+			"Speed: 0.18 sec / 0.14 sec (4.8 V / 6.0 V) @ 60 deg",
+			"3 pole motor with top ball bearing",
+			"Low profile compact design",
+			"High torque three-pole ferrite motor",
+			"Durable nylon gears",
+			"Top ball bearings"
+		],
+		"spec": {
+			"0": "Motor type: 3 Pole",
+			"1": "Bearing type: Top ball bearing",
+			"2": "Speed (4.8V/6.0V): 0.18 / 0.14 sec @ 60 deg.",
+			"3": "Torque (4.8V/6.0V): 61 oz.-in. / 76 oz.-in.",
+			"4": "Torque (4.8V/6.0V): 4.4 kg.-cm. / 5.5 kg.-cm."
+		}
+	},
+	"https://www.robotshop.com/en/sdp-mini-rplidar-experimental-2wd-robot-platform.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robots & Kits >",
+			"3": "Wheeled & Tracked Robots >",
+			"4": "2 & 3 Wheel Robots >",
+			"5": "SDP Mini RPlidar Experimental 2WD Robot Platform"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/d/sdp-mini-rplidar-experimental-2wd-robot-platform-4_2.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/d/sdp-mini-rplidar-experimental-2wd-robot-platform-4_2.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null,
+			"11": null,
+			"12": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/s/d/sdp-mini-rplidar-experimental-2wd-robot-platform-4_2.jpg",
+			"13": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/d/sdp-mini-rplidar-experimental-2wd-robot-platform-4_2.jpg",
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": null,
+			"19": null,
+			"20": null,
+			"21": null,
+			"22": null
+		},
+		"product": "SDP Mini RPlidar Experimental 2WD Robot Platform",
+		"price": [
+			"USD $499.00",
+			"USD $469.00",
+			"USD $449.00",
+			"USD $429.00"
+		],
+		"highlight": {
+			"0": "2WD Mini Robot platform with the Slamware Solution",
+			"1": "For evaluating the performance of modular autonomous robot localization and navigation solution",
+			"2": "Supported to run in Windows/Linux/IOS and Android environment",
+			"3": "Includes Slamware Core, RPLIDAR A2 and Breakout 3.0 board"
+		},
+		"model": "RB-Rpk-04",
+		"description": [
+			"The SDP Mini RPlidar Experimental 2WD Robot Platform is a small-size development platform designed by Slamtec with which users can have a general understanding about the Slamware solution and examine its basic performance. The SDP Mini is a compact structure suitable for the preliminary evaluation of Slamware solution or the development of robots with basic needs for localization and navigation function.",
+			"It is assembled by key components including Slamware Core, RPLidar A2 and Breakout 3.0 board, and requires only 8 AA batteries. The SDK of SDP Mini, supported to run in Windows/Linux/IOS and Android environment, integrates the whole Slamware solution and extra reserved sensor interfaces.",
+			"2WD Mini Robot platform with the Slamware Solution",
+			"For evaluating the performance of modular autonomous robot localization and navigation solution",
+			"Supported to run in Windows/Linux/IOS and Android environment",
+			"Includes Slamware Core, RPLIDAR A2 and Breakout 3.0 board"
+		],
+		"spec": {
+			"0": "Weight: G.W 1408g",
+			"1": "Battery: Exclude",
+			"2": "Maximum diameter: 185 mm±5mm",
+			"3": "Height: 100 mm±5mm",
+			"4": "Weight: 0.85kg ±0.05kg",
+			"5": "Material: Acrylic (upper board is 4mm and lower board is 5mm)",
+			"6": "Height: 47mm",
+			"7": "Location: 5mm backward of the center point",
+			"8": "Maximum distance range: 8m(based on white objects with 90% reflected)",
+			"9": "Resolution: 5cm",
+			"10": "Maximum mapping area: Varies in different environments and with different batteries",
+			"11": "Normal speed: 0.25m/s",
+			"12": "Maximum speed: 0.35m/s",
+			"13": "Software interfaces: SLAMWARETM Windows/Linux/Android/IOS SDK",
+			"14": "Operating current: 0.7A",
+			"15": "Endurance: 2h",
+			"16": "Temperature: -10℃ ～ 40℃",
+			"17": "Humidity: 30％ ～ 70％",
+			"18": "Power: 8 AA batteries"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/content/r/rpk/pdf/sd001_slamtec_slamwarecore_datasheet_b1m1_v1.8_en.pdf",
+			"1": "https://www.robotshop.com/media/files/content/r/rpk/pdf/sq101_slamtec_slamwaresdp_quickstart_b1m1_v1.8_en.pdf",
+			"2": "https://www.slamtec.com/en/Support#slamware-sdp-mini"
+		}
+	},
+	"https://www.robotshop.com/en/12v-22a-step-down-voltage-regulator-d24v22f12.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Power Systems >",
+			"4": "Power Regulators & Accessories >",
+			"5": "12.0 V DC Regulators >",
+			"6": "12V, 2.2A Step-Down Voltage Regulator D24V22F12"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/2/12v-22a-step-down-voltage-regulator-d24v22f12.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/2/12v-22a-step-down-voltage-regulator-d24v22f12.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null,
+			"11": null,
+			"12": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/1/2/12v-22a-step-down-voltage-regulator-d24v22f12.jpg",
+			"13": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/2/12v-22a-step-down-voltage-regulator-d24v22f12.jpg",
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": null,
+			"19": null,
+			"20": null,
+			"21": null,
+			"22": null
+		},
+		"product": "12V, 2.2A Step-Down Voltage Regulator D24V22F12",
+		"price": [
+			"USD $19.95",
+			"USD $19.75",
+			"USD $19.55"
+		],
+		"highlight": {
+			"0": "Supports input voltages up to 36 V",
+			"1": "Fixed 12 V output with 4% accuracy",
+			"2": "Typical maximum continuous output current: 2.2 A",
+			"3": "Typical efficiency of 90% to 95%, depending on input voltage and load"
+		},
+		"model": "RB-Pol-331",
+		"description": [
+			"The 12V, 2.2A Step-Down Voltage Regulator D24V22F12 is a small synchronous switching step-down (or buck) regulator takes an input voltage of up to 36 V and efficiently reduces it to 12 V. The board measures only 0.7″ × 0.7″ yet delivers a typical continuous output current of up to 2.2 A and features reverse voltage protection.",
+			"Supports input voltages up to 36 V",
+			"Fixed 12 V output with 4% accuracy",
+			"Typical maximum continuous output current: 2.2 A",
+			"Typical efficiency of 90% to 95%, depending on input voltage and load"
+		],
+		"spec": {
+			"0": "Minimum operating voltage: 12.7 V",
+			"1": "Maximum operating voltage: 36 V",
+			"2": "Continuous output current: 2.2 A",
+			"3": "Output voltage: 12 V",
+			"4": "Reverse voltage protection?: Yes",
+			"5": "Maximum quiescent current: 4 mA",
+			"6": "PCB dev codes: reg19a",
+			"7": "Other PCB markings: 0J9251"
+		}
+	},
+	"https://www.robotshop.com/en/nimh-2000mah-battery-pack-11002.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Power Systems >",
+			"4": "Nickel-Metal Hydride (NiMH) >",
+			"5": "4.8V NiMH 2000mAh Battery Pack"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/4/-/4-8v-nimh-2000mah-battery-pack.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/4/-/4-8v-nimh-2000mah-battery-pack.jpg",
+			"2": null
+		},
+		"product": "4.8V NiMH 2000mAh Battery Pack",
+		"price": [
+			"USD $15.49",
+			"USD $14.25",
+			"USD $13.11"
+		],
+		"highlight": {
+			"0": "Nominal Voltage: 4.8V",
+			"1": "Chemistry: NiMH",
+			"2": "Capacity: 2 Ah",
+			"3": "Continuous Discharge: 2 A",
+			"4": "Connector Type: JR 3-pin F"
+		},
+		"model": "RB-Ten-06",
+		"description": [
+			"The 4.8V NiMH 2000mAh Battery Pack is the rechargeable Receiver Battery Pack for Futaba, Hitec, JR or compatible style Radio Systems.",
+			"Nominal Voltage: 4.8V",
+			"Chemistry: NiMH",
+			"Capacity: 2 Ah",
+			"Continuous Discharge: 2 A",
+			"Connector Type: JR 3-pin F"
+		],
+		"spec": {
+			"0": "Nominal Voltage: 4.8V",
+			"1": "Chemistry: NiMH",
+			"2": "Capacity: 2 Ah",
+			"3": "Continuous Discharge: 2 A",
+			"4": "Connector: JR 3-pin F",
+			"5": "Cell Type: AA (4 Cells)"
+		}
+	},
+	"https://www.robotshop.com/en/adeept-uno-r3-microcontroller.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Microcontrollers >",
+			"4": "Arduino >",
+			"5": "Adeept Uno R3 Microcontroller"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/d/adeept-arduino-uno-r3-microcontroller.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/d/adeept-arduino-uno-r3-microcontroller.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/a/d/adeept-arduino-uno-r3-microcontroller.jpg",
+			"11": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/d/adeept-arduino-uno-r3-microcontroller.jpg",
+			"12": null,
+			"13": null,
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": null
+		},
+		"product": "Adeept Uno R3 Microcontroller",
+		"price": [
+			"USD $9.99"
+		],
+		"highlight": {
+			"0": "Adeept Uno R3 Microcontroller",
+			"1": "Features a microcontroller board based on the ATmega328",
+			"2": "Has 14 digital Input/Output pins",
+			"3": "Contains everything needed to support the microcontroller",
+			"4": "Features the Atmega16U2, programmed as a USB-to-serial converter"
+		},
+		"model": "RBC-Apt-20",
+		"description": [
+			"The Adeept Uno R3 Microcontroller based on the ATmega328 has 14 digital input-output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz ceramic resonator, a USB connection, a power jack, an ICSP header, and a reset button.",
+			"It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with an AC-to-DC adapter or battery to get started.",
+			"The Uno differs from all preceding boards in that it does not use the FTDI USB-to-serial driver chip. Instead, it features the Atmega16U2 (Atmega8U2 up to version R2) programmed as a USB-to-serial converter.",
+			"Adeept Uno R3 Microcontroller",
+			"Features a microcontroller board based on the ATmega328",
+			"Has 14 digital Input/Output pins",
+			"Contains everything needed to support the microcontroller",
+			"Features the Atmega16U2, programmed as a USB-to-serial converter"
+		],
+		"spec": {
+			"0": "Microcontroller: ATmega328",
+			"1": "Operating Voltage: DC 5 V",
+			"2": "Input Voltage (recommended): 7-12 V",
+			"3": "Input Voltage (limits): 6-20 V",
+			"4": "Digital IO Pins: 14 (of which 6 provide PWM output)",
+			"5": "Analog Input Pins: 6",
+			"6": "DC Current per IO Pin: 40 mA",
+			"7": "DC Current for 3.3 V Pin: 50 mA",
+			"8": "Flash Memory: 32 KB (ATmega328) of which 0.5 KB used by bootloader",
+			"9": "SRAM: 2 KB",
+			"10": "EEPROM: 1 KB",
+			"11": "Clock Speed: 16 MHz"
+		}
+	},
+	"https://www.robotshop.com/en/m5stack-cardkb-mini-keyboard-unit-mega328p.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Data Communication and Human Input Devices >",
+			"4": "Misc. Handheld Controllers >",
+			"5": "M5Stack CardKB Mini Keyboard Unit (MEGA328P)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/m/5/m5stack-cardkb-mini-keyboard-unit-mega328p.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/m/5/m5stack-cardkb-mini-keyboard-unit-mega328p.jpg",
+			"2": null
+		},
+		"product": "M5Stack CardKB Mini Keyboard Unit (MEGA328P)",
+		"price": [
+			"",
+			"USD $8.08",
+			"USD $7.67"
+		],
+		"highlight": {
+			"0": "M5Stack CardKB Mini Keyboard Unit (MEGA328P)",
+			"1": "Offers a full-function QWERTY keyboard, multi-key combination",
+			"2": "Has a GROVE interface",
+			"3": "Supports UIFlow, and Arduino",
+			"4": "Communication via an I2C interface",
+			"5": "Features Two Lego compatible holes"
+		},
+		"model": "RB-Mst-12",
+		"description": [
+			"The M5Stack CardKB Mini Keyboard Unit (MEGA328P) is a unit that can implement a full-featured QWERTY keyboard. Consider that you want to make some cool stuff that requires keyboard typing and interaction, but M5 core itself just have 3 buttons, here comes the flexible and powerful CardKB unit.",
+			"It also can achieve button combination (Sym+Key, Shift+Key, Fn+Key) and output richer key value. This unit communicates with M5Core through GROVE A port (IIC interface). The address is 0x5F.",
+			"M5Stack CardKB Mini Keyboard Unit (MEGA328P)",
+			"Offers a full-function QWERTY keyboard, multi-key combination",
+			"Has a GROVE interface",
+			"Supports UIFlow, and Arduino",
+			"Communication via an I2C interface",
+			"Features Two Lego compatible holes"
+		],
+		"spec": {
+			"0": "Number of keys: 50",
+			"1": "RGB LED: x1",
+			"2": "Communication method: I2C"
+		},
+		"related": {
+			"0": "https://github.com/m5stack/M5Stack/tree/master/examples/Unit/CardKB"
+		}
+	},
+	"https://www.robotshop.com/en/dfrobotshop-rover-tracked-robot-bluetooth-kit.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robotics Education >",
+			"3": "High Schools >",
+			"4": "DFRobotShop Rover V2 - Arduino Compatible Tracked Robot (Bluetooth Kit)"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/d/f/dfrobotshop-rover-tracked-robot-bluetooth-kit_1.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/d/f/dfrobotshop-rover-tracked-robot-bluetooth-kit_1.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/d/f/dfrobotshop-rover-tracked-robot-bluetooth-kit_1.jpg",
+			"9": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/d/f/dfrobotshop-rover-tracked-robot-bluetooth-kit_1.jpg",
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null
+		},
+		"product": "DFRobotShop Rover V2 - Arduino Compatible Tracked Robot (Bluetooth Kit)",
+		"price": [
+			"USD $122.99"
+		],
+		"highlight": {
+			"0": "Bluetooth version of the DFRobotShop Rover",
+			"1": "Versatile, programmable robot tank kit",
+			"2": "Onboard LiPo battery charger",
+			"3": "Complete Arduino board built-in (Arduino Uno)",
+			"4": "Dual H-bridge and onboard voltage regulator (only one battery needed)",
+			"5": "Compatible with a variety of shields",
+			"6": "1x Bluetooth module included",
+			"7": "Onboard charger and included",
+			"8": "XBee headers need to be soldered",
+			"9": "Please verify the polarity of the connector before using this battery as it may differ from the image"
+		},
+		"model": "RB-Rbo-41",
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/dfrobotshop-rover-user-guide.pdf",
+			"1": "https://www.robotshop.com/media/files/pdf/dfrobotshop-rover-schematic.pdf",
+			"2": "https://www.robotshop.com/media/files/pdf/datasheet-tel0023.pdf",
+			"3": "https://www.robotshop.com/media/files/dfrobotshop_rover_schematic_v2.pdf",
+			"4": "https://www.robotshop.com/arduino-5min-tutorial-1.html",
+			"5": "https://www.robotshop.com/forum/forumdisplay.php?46-DFRobotShop-Rover",
+			"6": "https://www.robotshop.com/content/ZIP/dfrobotshop-rover-pcb.zip",
+			"7": "https://www.robotshop.com/content/ZIP/dfrobotshop_rover_sample_code.zip",
+			"8": "https://www.robotshop.com/blog/en/robots/gorobotics/tutorials/dfrobotshop-tutorials"
+		}
+	},
+	"https://www.robotshop.com/en/interface-manager-kit-herkulex-servo.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Construction Kit Parts >",
+			"4": "Hovis / HerculeX Parts >",
+			"5": "Interface Manager Kit for HerkuleX Servo"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/i/n/interface-manager-kit-herkulex-servo_1.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/i/n/interface-manager-kit-herkulex-servo_1.jpg",
+			"2": null
+		},
+		"product": "Interface Manager Kit for HerkuleX Servo",
+		"price": [
+			"USD $35.00",
+			"USD $33.60",
+			"USD $32.26"
+		],
+		"highlight": {
+			"0": "Manage HerkuleX servos with a PC",
+			"1": "Includes HerkuleX Manager Kit, Serial Cable, USB Gender, Battery cable and RS232 Cable",
+			"2": "Enables the user to maintain and set-up HerkuleX servos operating parameters using a PC"
+		},
+		"model": "RB-Das-45",
+		"description": [
+			"Manage HerkuleX servos with a PC",
+			"Includes HerkuleX Manager Kit, Serial Cable, USB Gender, Battery cable and RS232 Cable",
+			"Enables the user to maintain and set-up HerkuleX servos operating parameters using a PC"
+		]
+	},
+	"https://www.robotshop.com/en/sfe-mini-power-switch.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Electronic Components >",
+			"4": "SPDT Mini Power Switch"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/f/sfe-mini-power-switch_1.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/f/sfe-mini-power-switch_1.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/s/f/sfe-mini-power-switch_1.jpg",
+			"9": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/f/sfe-mini-power-switch_1.jpg",
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null
+		},
+		"product": "SPDT Mini Power Switch",
+		"price": [
+			"USD $1.50",
+			"USD $1.35",
+			"USD $1.20"
+		],
+		"highlight": {
+			"0": "Mini Power Switch (on/off)",
+			"1": "Standard 0.1\" Spacing (great for breadboards)",
+			"2": "Rated at 30V / 200mA"
+		},
+		"model": "RB-Spa-155",
+		"description": [
+			"Mini Power Switch (on/off)",
+			"Standard 0.1\" Spacing (great for breadboards)",
+			"Rated at 30V / 200mA"
+		],
+		"related": {}
+	},
+	"https://www.robotshop.com/en/arduino-mkr1000-wifi-microcontroller.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Internet of Things (IoT) >",
+			"4": "Arduino MKR1000 WiFi Microcontroller"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/r/arduino-mkr1000-wifi-microcontroller.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/r/arduino-mkr1000-wifi-microcontroller.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/a/r/arduino-mkr1000-wifi-microcontroller.jpg",
+			"11": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/r/arduino-mkr1000-wifi-microcontroller.jpg",
+			"12": null,
+			"13": null,
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": null
+		},
+		"product": "Arduino MKR1000 WiFi Microcontroller",
+		"price": [
+			"USD $39.00",
+			"USD $37.00",
+			"USD $34.00"
+		],
+		"highlight": {
+			"0": "SAMD21 Cortex-M0+ 32bit low power ARM MCU",
+			"1": "WINC1500 low power 2.4GHz IEEE 802.11 b/g/n Wi-Fi",
+			"2": "ECC508 Crypto Authentication",
+			"3": "For makers seeking to add Wi-Fi connectivity to their projects",
+			"4": "Designed for IoT projects and devices"
+		},
+		"model": "RB-Ard-100",
+		"description": [
+			"Arduino MKR1000 WiFi Microcontroller has been designed to offer a practical and cost effective solution for makers seeking to add Wi-Fi connectivity to their projects with minimal previous experience in networking. It is based on the Atmel ATSAMW25 SoC (System on Chip), that is part of the Smart Connect family of Atmel Wireless devices, specifically designed for IoT projects and devices.",
+			"The design includes a Li-Po charging circuit that allows the Arduino/Genuino MKR1000 to run on battery power or external 5V, charging the Li-Po battery while running on external power. Switching from one source to the other is done automatically. A good 32 bit computational power similar to the Zero board, the usual rich set of I/O interfaces, low power Wi-Fi with a Cryptochip for secure communication, and the ease of use of the Arduino Software (IDE) for code development and programming.",
+			"SAMD21 Cortex-M0+ 32bit low power ARM MCU",
+			"WINC1500 low power 2.4GHz IEEE 802.11 b/g/n Wi-Fi",
+			"ECC508 Crypto Authentication",
+			"For makers seeking to add Wi-Fi connectivity to their projects",
+			"Designed for IoT projects and devices"
+		],
+		"spec": {
+			"0": "Microcontroller: SAMD21 Cortex-M0+ 32bit low power ARM MCU",
+			"1": "Board Power Supply (USB/VIN): 5V",
+			"2": "Supported Battery(*): Li-Po single cell, 3.7V, 700mAh minimum",
+			"3": "Circuit Operating Voltage: 3.3V",
+			"4": "Digital I/O Pins: 8",
+			"5": "PWM Pins: 12 (0, 1, 2, 3, 4, 5, 6, 7, 8, 10, A3 - or 18 -, A4 -or 19)",
+			"6": "UART: 1",
+			"7": "SPI: 1",
+			"8": "I2C: 1",
+			"9": "Analog Input Pins: 7 (ADC 8/10/12 bit)",
+			"10": "Analog Output Pins: 1 (DAC 10 bit)",
+			"11": "External Interrupts: 8 (0, 1, 4, 5, 6, 7, 8, A1 -or 16-, A2 - or 17)",
+			"12": "DC Current per I/O Pin: 7 mA",
+			"13": "Flash Memory: 256 KB",
+			"14": "SRAM: 32 KB",
+			"15": "EEPROM: No",
+			"16": "Clock Speed: 32.768 kHz (RTC), 48 MHz",
+			"17": "LED_BUILTIN: 6",
+			"18": "Full-Speed USB Device and embedded Host",
+			"19": "LED_BUILTIN: 6"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/arduino-mkr1000-wifi-microcontroller-schematic.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/pololu-33v-600ma-step-down-voltage-regulator-d36v6f3.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Power Systems >",
+			"4": "Power Regulators & Accessories >",
+			"5": "3.3 V DC Regulators >",
+			"6": "Pololu 3.3V, 600mA Step-Down Voltage Regulator D36V6F3"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/3/3/33v-600ma-step-down-voltage-regulator-d36v6f3.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/3/3/33v-600ma-step-down-voltage-regulator-d36v6f3.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/3/3/33v-600ma-step-down-voltage-regulator-d36v6f3.jpg",
+			"11": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/3/3/33v-600ma-step-down-voltage-regulator-d36v6f3.jpg",
+			"12": null,
+			"13": null,
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": null
+		},
+		"product": "Pololu 3.3V, 600mA Step-Down Voltage Regulator D36V6F3",
+		"price": [
+			"USD $4.95",
+			"USD $4.55",
+			"USD $4.19",
+			"USD $3.85",
+			"USD $3.55"
+		],
+		"highlight": {
+			"0": "Pololu Step-Down Voltage Regulator D36V6F3",
+			"1": "Operating voltage: 4 - 50 V",
+			"2": "Maximum output current:  600 mA",
+			"3": "Output voltage: 3.3 V",
+			"4": "No Reverse voltage protection"
+		},
+		"model": "RB-Pol-674",
+		"description": [
+			"The Pololu 3.3V, 600mA Step-Down Voltage Regulator D36V6F3 takes input voltages between 4 V and 50 V and efficiently reduces them to 3.3 V while allowing for a maximum output current of 600 mA. The pins have a 0.1″ spacing, making this board compatible with standard solderless breadboards and perfboards.",
+			"Pololu Step-Down Voltage Regulator D36V6F3",
+			"Operating voltage: 4 - 50 V",
+			"Maximum output current:  600 mA",
+			"Output voltage: 3.3 V",
+			"No Reverse voltage protection"
+		],
+		"spec": {
+			"0": "Minimum operating voltage: 4 V",
+			"1": "Maximum operating voltage: 50 V",
+			"2": "Maximum output current:  600 mA",
+			"3": "Output voltage: 3.3 V",
+			"4": "No Reverse voltage protection",
+			"5": "Maximum quiescent current: 0.1 mA",
+			"6": "Output type: fixed 3.3V"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/content/p/pol/pdf/33v-600ma-step-down-voltage-regulator-d36v6f3-schematic.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/2-100w-class-d-bluetooth-audio-amplifier-board-tsa7498.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Data Communication and Human Input Devices >",
+			"4": "Data Telemetry >",
+			"5": "Bluetooth >",
+			"6": "2 x 100W Class D Bluetooth Audio Amplifier Board - TSA7498"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/2/-/2-x-100w-class-d-bluetooth-audio-amplifier-board-tsa7498_1.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/2/-/2-x-100w-class-d-bluetooth-audio-amplifier-board-tsa7498_1.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/2/-/2-x-100w-class-d-bluetooth-audio-amplifier-board-tsa7498_1.jpg",
+			"11": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/2/-/2-x-100w-class-d-bluetooth-audio-amplifier-board-tsa7498_1.jpg",
+			"12": null,
+			"13": null,
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": null
+		},
+		"product": "2 x 100W Class D Bluetooth Audio Amplifier Board - TSA7498",
+		"price": [
+			"USD $43.50",
+			"USD $39.00",
+			"USD $35.00"
+		],
+		"highlight": {
+			"0": "2 x 100W audio amplifier board with AudioB plus Bluetooth module",
+			"1": "Features one ST high performance TDA7498 which supports dual channel audio amplification",
+			"2": "Audio source: RCA input or Bluetooth",
+			"3": "Compatible with all Bluetooth devices that support media audio, including iPhone, Android",
+			"4": "Frequency Response (dB): ±3dB, 20-22k",
+			"5": "Version with a PCB antenna"
+		},
+		"model": "RB-Tys-07",
+		"description": [
+			"The 2 x 100W Class D Bluetooth Audio Amplifier Board - TSA7498 has an integrated ST high performance TDA7498 which supports dual channel audio amplification. Both channels can output nominal power simultaneously and continuously. This board can be powered by any DC14V-39V power supply. It has a smart cooling system.",
+			"It's perfect for your Hi-Fi application! The audio source can be RCA input or Bluetooth. It is compatible with all Bluetooth devices that support media audio, including iPhone, Android.",
+			"2 x 100W audio amplifier board with AudioB plus Bluetooth module",
+			"Features one ST high performance TDA7498 which supports dual channel audio amplification",
+			"Audio source: RCA input or Bluetooth",
+			"Compatible with all Bluetooth devices that support media audio, including iPhone, Android",
+			"Frequency Response (dB): ±3dB, 20-22k",
+			"Version with a PCB antenna"
+		],
+		"spec": {
+			"0": "Supply Voltage (v): Min 14, Typ 36, Max 40",
+			"1": "Quiescent Current (mA): FAN ON,STBY Disable: Typ 90, FAN ON,STBY Enable: 50, FAN OFF,STBY Disable: 40, FAN OFF,STBY Enable: 10",
+			"2": "Input Impedance (Kohm): Min  48, Typ 60",
+			"3": "Output Power (W rms): THD = 10%, Typ 100",
+			"4": "Efficiency (%):  Conditon: Both channels output rating power. Typ>90",
+			"5": "Minimum Load (ohm): Typ 6",
+			"6": "Frequency Response (dB): Condition ±3dB, Min 20, Max 22k",
+			"7": "Operating Temperature (℃): Typ 20, Max 50",
+			"8": "Smart cooling system",
+			"9": "Bluetooth 4.0",
+			"10": "External mute control port",
+			"11": "Working voltage: DC14V-39V",
+			"12": "Over/under voltage protection",
+			"13": "Over current protection",
+			"14": "Over temperature protection",
+			"15": "Personal computer",
+			"16": "Background music system",
+			"17": "Musical instrument amplifiers",
+			"18": "Home DIY",
+			"19": "Car audio"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/2-x-100w-class-d-bluetooth-audio-amplifier-board-tsa7498-schematic.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/cytron-2x10a-motor-driver-hat-for-raspberry-pi.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Microcontroller Accessories >",
+			"4": "Raspberry Pi Accessories / HATs >",
+			"5": "Cytron 2x10A Motor Driver HAT For Raspberry PI"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/2/x/2x10a-motor-driver-hat-for-rasberry-pi.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/2/x/2x10a-motor-driver-hat-for-rasberry-pi.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/2/x/2x10a-motor-driver-hat-for-rasberry-pi.jpg",
+			"9": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/2/x/2x10a-motor-driver-hat-for-rasberry-pi.jpg",
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null
+		},
+		"product": "Cytron 2x10A Motor Driver HAT For Raspberry PI",
+		"price": [
+			"USD $21.25"
+		],
+		"highlight": {
+			"0": "Bi-directional control for two brushed DC motor",
+			"1": "Support motor voltage ranges from 6VDC to 24VDC",
+			"2": "On board test button for manual control of motor",
+			"3": "Every channel output built with LED indicator"
+		},
+		"model": "RB-Cyt-218",
+		"description": [
+			"The Cytron 2x10A Motor Driver HAT For Raspberry PI is designed for driving two high-current brushed DC motors up to 10A continuously by using Raspberry Pi as the controller.",
+			"It offers signed-magnitude PWM control of direction and speed. It uses full solid state components which results in faster response time and eliminates the wear and tear of the mechanical relay. Not to forget there is a current limiting sensor and auto cut set at 30A peak to protect the motor driver from overcurrent.",
+			"Features:",
+			"Bi-directional control for two brushed DC motor",
+			"Support motor voltage ranges from 6VDC to 24VDC",
+			"On board test button for manual control of motor",
+			"Every channel output built with LED indicator",
+			"Maximum current up to 10A continuous (without heatsink at 25℃) and 30A peak (10 seconds)",
+			"Current limiting at 30A",
+			"Raspberry Pi compatible connector",
+			"Solid state components provide a faster response time",
+			"Fully NMOS H-Bridge for better efficiency and no heat sink is required",
+			"Speed control PWM frequency up to 20KHz (Actual output frequency is the same as input frequency from Raspberry Pi)",
+			"Support sign-magnitude PWM operation",
+			"Support TTL PWM from a microcontroller, not PWM from RC receiver"
+		],
+		"spec": {
+			"0": "Motor Channel: 2",
+			"1": "Operating Voltage (VDC): 6 to 24",
+			"2": "Peak Current (A): 30 (10 seconds)",
+			"3": "Continuous Current (A): 10",
+			"4": "Arduino Shield: No- can be used with Wire connection",
+			"5": "PWM (Lock-Antiphase and Sign-Magnitude): Yes",
+			"6": "UART: No",
+			"7": "Analog: No",
+			"8": "RC Servo Signal: No",
+			"9": "Polarity Protection: No",
+			"10": "Current / Thermal Protection: Current Limit",
+			"11": "LEDs Indicator: Yes",
+			"12": "Test/Manual Button: Yes",
+			"13": "Cooling Fan: No",
+			"14": "Other Features",
+			"15": "Extra Socket: Raspberry Pi compatible connector"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/2x10a-motor-driver-hat-for-rasberry-pi-Users-Manual.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/0375-x-100-servo-shaft.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Mechanics >",
+			"4": "Hardware >",
+			"5": "0.375\" x 1.00\" Servo Shaft"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/0/3/0375-x-100-servo-shafts-4.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/0/3/0375-x-100-servo-shafts-4.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/0/3/0375-x-100-servo-shafts-4.jpg",
+			"9": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/0/3/0375-x-100-servo-shafts-4.jpg",
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null
+		},
+		"product": "0.375\" x 1.00\" Servo Shaft",
+		"price": [
+			"USD $5.99",
+			"USD $5.63",
+			"USD $5.29"
+		],
+		"highlight": {
+			"0": "0.375\" x 1.00\" Servo Shaft",
+			"1": "Is able to fasten directly to a servo",
+			"2": "Installing the stock servo screw down through the hollow bore",
+			"3": "Provides an excellent surface to install a bearing",
+			"4": "Offers a non-marring, super strong connection"
+		},
+		"model": "RB-Sct-1201",
+		"description": [
+			"This 0.375\" x 1.00\" Servo Shaft is able to fasten directly to a servo with by installing the stock servo screw down through the hollow bore of the shaft and into the servo spline. The 0.375\" outside diameter provides an excellent surface to install a bearing onto in order to isolate the radial load from being applied directly to the spline of your servo.",
+			"0.375\" x 1.00\" Servo Shaft",
+			"Is able to fasten directly to a servo",
+			"Installing the stock servo screw down through the hollow bore",
+			"Provides an excellent surface to install a bearing",
+			"Offers a non-marring, super strong connection"
+		],
+		"spec": {
+			"0": "Material: Aluminum"
+		}
+	},
+	"https://www.robotshop.com/en/sfe-xbee-explorer-usb.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Interface Adapters & Converters >",
+			"4": "XBee >",
+			"5": "XBee Explorer USB"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/f/sfe-xbee-explorer-usb-6_1.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/f/sfe-xbee-explorer-usb-6_1.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/s/f/sfe-xbee-explorer-usb-6_1.jpg",
+			"11": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/f/sfe-xbee-explorer-usb-6_1.jpg",
+			"12": null,
+			"13": null,
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": null
+		},
+		"product": "XBee Explorer USB",
+		"price": [
+			"USD $25.95",
+			"USD $24.65",
+			"USD $22.06"
+		],
+		"highlight": {
+			"0": "Simple to use USB to serial base unit XBee line",
+			"1": "Works with all XBee modules including Series 1 & 2.5, standard and Pro",
+			"2": "Built-in FT231X USB-to-Serial converter",
+			"3": "RX, TX, RSSI (signal-strength indicator) and power indicator"
+		},
+		"model": "RB-Spa-145",
+		"description": [
+			"The XBee Explorer USB is a simple to use, USB to serial base unit for the XBee line. This unit works with all XBee modules including the Series 1 and Series 2.5, standard and Pro version. Plug the unit into the XBee Explorer, attach a mini USB cable, and you will have direct access to the serial and programming pins on the XBee unit. The highlight of this board is an FT231X USB-to-Serial converter. That's what translates data between your computer and the XBee. There's also a reset button, and a voltage regulator to supply the XBee with plenty of power. In addition, there are four LEDs that'll help if you ever need to debug your XBee: RX, TX, RSSI (signal-strength indicator), and power indicator.",
+			"This board also breaks out each of the XBee's I/O pins to a pair of breadboard-compatible headers. So if you want to make use of the XBee's extended functionality, you can solder some header pins into those, or even just solder some wire.",
+			"Note: There is no XBee included with this Explorer USB",
+			"https://www.robotshop.com/media/files/images2/sfe-xbee-explorer-usb-2.jpg",
+			"Simple to use USB to serial base unit XBee line",
+			"Works with all XBee modules including Series 1 & 2.5, standard and Pro",
+			"Built-in FT231X USB-to-Serial converter",
+			"RX, TX, RSSI (signal-strength indicator) and power indicator"
+		],
+		"related": {}
+	},
+	"https://www.robotshop.com/en/pololu-qtr-8a-infrared-sensor-array.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Sensors >",
+			"4": "Infrared & Light Sensors >",
+			"5": "Line Sensors >",
+			"6": "Pololu QTR-8A Reflectance Sensor Array"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/p/o/pololu-qtr-8a-infrared-sensor-array.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/p/o/pololu-qtr-8a-infrared-sensor-array.jpg",
+			"4": null,
+			"5": null,
+			"6": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/p/o/pololu-qtr-8a-infrared-sensor-array.jpg",
+			"7": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/p/o/pololu-qtr-8a-infrared-sensor-array.jpg",
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"product": "Pololu QTR-8A Reflectance Sensor Array",
+		"price": [
+			"USD $9.95",
+			"USD $8.95",
+			"USD $7.95"
+		],
+		"highlight": {
+			"0": "Infrared phototransistor based reflectance sensor array",
+			"1": "3.3V to 5V operation",
+			"2": "Measures only 2.95\" x 0.5\" x 0.125\" and weighs 3.09 grams"
+		},
+		"model": "RB-Pol-51",
+		"description": [
+			"The Pololu QTR-8A Reflectance Sensor Array has 8 IR LED/phototransistor pairs mounted on a 0.375\" pitch, making it a great detector for a line-following robot. Pairs of LEDs are arranged in series to halve current consumption, and a MOSFET allows the LEDs to be turned off for additional sensing or power-savings options. Each sensor provides a separate analog voltage output.",
+			"The QTR-8A reflectance sensor array is intended as a line sensor, but it can be used as a general-purpose proximity or reflectance sensor. The module is a convenient carrier for eight IR emitter and receiver (phototransistor) pairs evenly spaced at intervals of 0.375\" (9.525 mm). Each phototransistor is connected to a pull-up resistor to form a voltage divider that produces an analog voltage output between 0 V and VIN (which is typically 5 V) as a function of the reflected IR. Lower output voltage is an indication of greater reflection.",
+			"The outputs are all independent, but the LEDs are arranged in pairs to halve current consumption. The LEDs are controlled by a MOSFET with a gate normally pulled high, allowing the LEDs to be turned off by setting the MOSFET gate to a low voltage. Turning the LEDs off might be advantageous for limiting power consumption when the sensors are not in use or for varying the effective brightness of the LEDs through PWM control.",
+			"The LED current-limiting resistors for 5 V operation are arranged in two stages; this allows a simple bypass of one stage to enable operation at 3.3 V. The LED current is approximately 20-25 mA, making the total board consumption just under 100 mA.",
+			"Breaking the Module in Two:\nIf you don't need or cannot fit all eight sensors, you can break off two sensors and still use all 8 sensors as two separate modules, as shown above. The PCB can be scored from both sides along the perforation and then bent until it snaps apart. Each of the two resulting pieces will function as an independent line sensor.",
+			"https://www.robotshop.com/media/files/images/pololu-qtr-8a-infrared-sensor-array.jpg",
+			"Infrared phototransistor based reflectance sensor array",
+			"3.3V to 5V operation",
+			"Measures only 2.95\" x 0.5\" x 0.125\" and weighs 3.09 grams"
+		],
+		"spec": {
+			"0": "Operating Voltage: 3.3-5.0V",
+			"1": "Supply Current: 100mA",
+			"2": "Output Format: 8 Analog Voltages",
+			"3": "Output Voltage Range: 0V to supplied voltage",
+			"4": "Optimal Sensing Distance: 0.125\" (3 mm)",
+			"5": "Maximum Recommended Sensing Distance: 0.25\" (6 mm)"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/pololu-qtr-8x-reflectance-sensor-array-user-guide.pdf",
+			"1": "https://www.robotshop.com/media/files/pdf/pololu-qtr-8x-reflectance-sensor-array-application-notes.pdf",
+			"2": "https://www.robotshop.com/media/files/pdf/pololu-qtr-reflectance-sensor-arduino-library.pdf",
+			"3": "https://www.robotshop.com/media/files/pdf/pololu-avr-library-commands-reference.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/actobotics-0770-x-0625-hub-adapter.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Construction Kit Parts >",
+			"4": "Actobotics Parts >",
+			"5": "Actobotics 0.770\" x 0.625\" Hub Adapter"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/c/actobotics-0770-0625-hub-adapter.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/c/actobotics-0770-0625-hub-adapter.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null,
+			"15": null,
+			"16": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/a/c/actobotics-0770-0625-hub-adapter.jpg",
+			"17": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/c/actobotics-0770-0625-hub-adapter.jpg",
+			"18": null,
+			"19": null,
+			"20": null,
+			"21": null,
+			"22": null,
+			"23": null,
+			"24": null,
+			"25": null,
+			"26": null,
+			"27": null,
+			"28": null,
+			"29": null,
+			"30": null
+		},
+		"product": "Actobotics 0.770\" x 0.625\" Hub Adapter",
+		"price": [
+			"USD $3.99",
+			"USD $3.75",
+			"USD $3.53"
+		],
+		"highlight": {
+			"0": "Actobotics 0.770'' x 0.625'' Hub Adapter",
+			"1": "Compatible with the Actobotics Product Line",
+			"2": "Sturdy Modular Robot Component"
+		},
+		"model": "RB-Sct-357",
+		"description": [
+			"The Actobotics 0.770'' x 0.625'' Hub Adapter is designed to allow you to attach parts with the 0.770'' hub pattern to parts with the 0.625'' hub pattern.",
+			"Actobotics 0.770'' x 0.625'' Hub Adapter",
+			"Compatible with the Actobotics Product Line",
+			"Sturdy Modular Robot Component"
+		]
+	},
+	"https://www.robotshop.com/en/servocity-32-pitch-5mm-bore-gearmotor-pinion-gear.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Mechanics >",
+			"4": "Gears, Belts, Pulleys, Tracks, Sprockets & Chains >",
+			"5": "Servocity 32 Pitch 5mm Bore Gearmotor Pinion Gear"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/e/servocity-32-pitch-5mm-bore-gearmotor-pinion-gears.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/e/servocity-32-pitch-5mm-bore-gearmotor-pinion-gears.jpg",
+			"4": null,
+			"5": null,
+			"6": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/s/e/servocity-32-pitch-5mm-bore-gearmotor-pinion-gears.jpg",
+			"7": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/e/servocity-32-pitch-5mm-bore-gearmotor-pinion-gears.jpg",
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"product": "Servocity 32 Pitch 5mm Bore Gearmotor Pinion Gear",
+		"price": [
+			"USD $7.99",
+			"USD $7.51",
+			"USD $7.06"
+		],
+		"highlight": {
+			"0": "Servocity Gearmotor Pinion Gear",
+			"1": "Pitch: 32 / 16 teeth",
+			"2": "Attaches directly to any 5-millimeter output shaft",
+			"3": "3/32inch Hex Key required (sold separately)"
+		},
+		"model": "RB-Sct-1031",
+		"description": [
+			"This Servocity 32 Pitch 5mm Bore Gearmotor Pinion Gear attaches directly to any 5mm diameter gear motor or stepper motor output shaft. Simply slide them on and tighten the 10-32 set screw. This gear has a 20 degree pressure angle. Manufactured from hardened brass gear stock.  The set screw requires a 3/32inch Hex Key (sold separately).",
+			"Servocity Gearmotor Pinion Gear",
+			"Pitch: 32 / 16 teeth",
+			"Attaches directly to any 5-millimeter output shaft",
+			"3/32inch Hex Key required (sold separately)"
+		],
+		"spec": {
+			"0": "Product Weight: 0.25 oz",
+			"1": "Material: Hardened Brass",
+			"2": "Pitch Diameter: 0.500\"",
+			"3": "Bore: 5mm"
+		}
+	},
+	"https://www.robotshop.com/en/actobotics-perpendicular-standard-gripper-kit-b.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Construction Kit Parts >",
+			"4": "Actobotics Parts >",
+			"5": "Actobotics Perpendicular Standard Gripper Kit B"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/c/actobotics-perpendicular-standard-gripper-kit-b-1_1.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/c/actobotics-perpendicular-standard-gripper-kit-b-1_1.jpg",
+			"4": null,
+			"5": null,
+			"6": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/a/c/actobotics-perpendicular-standard-gripper-kit-b-1_1.jpg",
+			"7": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/c/actobotics-perpendicular-standard-gripper-kit-b-1_1.jpg",
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"product": "Actobotics Perpendicular Standard Gripper Kit B",
+		"price": [
+			"USD $9.99",
+			"USD $9.59",
+			"USD $9.21"
+		],
+		"highlight": {
+			"0": "Actobotics perpendicular standard gripper kit B",
+			"1": "Great for all kinds of robotic applications",
+			"2": "Can grab items up to 4.20'' wide.",
+			"3": "Easy to assemble kit",
+			"4": "Compatible with any standard size Hitec or Futaba servo (NOT included)"
+		},
+		"model": "RB-Sct-868",
+		"description": [
+			"The Actobotics Perpendicular Standard Gripper Kit B is easy to assemble, durable, and fun. The design allows for a super-wide grip, and the mounting plate mates up perfectly with aluminum channels.",
+			"Actobotics perpendicular standard gripper kit B",
+			"Great for all kinds of robotic applications",
+			"Can grab items up to 4.20'' wide.",
+			"Easy to assemble kit",
+			"Compatible with any standard size Hitec or Futaba servo (NOT included)"
+		]
+	},
+	"https://www.robotshop.com/en/uctronics-wifi-smart-robot-car-camera-arduino.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robots & Kits >",
+			"3": "Wheeled & Tracked Robots >",
+			"4": "2 & 3 Wheel Robots >",
+			"5": "UCTRONICS WiFi Smart Robot Car w/ Camera for Arduino"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/u/c/uctronics-wifi-smart-robot-car-camera-arduino-1.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/u/c/uctronics-wifi-smart-robot-car-camera-arduino-1.jpg",
+			"4": null,
+			"5": null,
+			"6": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/u/c/uctronics-wifi-smart-robot-car-camera-arduino-1.jpg",
+			"7": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/u/c/uctronics-wifi-smart-robot-car-camera-arduino-1.jpg",
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"product": "UCTRONICS WiFi Smart Robot Car w/ Camera for Arduino",
+		"price": [
+			"USD $49.99",
+			"USD $48.49",
+			"USD $47.04"
+		],
+		"highlight": {
+			"0": "UCTRONICS WiFi Smart Robot Car w/ Camera for Arduino",
+			"1": "Features a smart robot that facilitates STEM education",
+			"2": "Can be controlled by Android & iOS Smartphone",
+			"3": "Offers multiple working modes to make it be extremely entertaining",
+			"4": "Provides push-and-run controlling in a simple and effective way"
+		},
+		"model": "RB-Adu-89",
+		"description": [
+			"The UCTRONICS WiFi Smart Robot Car Kit is a smart robot that facilitates STEM education. UCBOT supports UCTRONICS designed visual programming software. You can drag and drop to arrange the blocks so that UCBOT follows a certain algorithm you’ve designed. It makes the robot more interesting and intelligent when they complete certain tasks.",
+			"Multiple Features: obstacle avoidance, line tracking, following, tracking color code, playing piano and music, photos/videos shooting, wireless real-time video transmission.",
+			"App Controlled Robot with Camera: iOS device search mobile app “UCBOT” in APP Store; Android device search app “UCBOT” in Google Play. See what the robot sees with easy-to-use WIFI connection.",
+			"NOTE: Batteries not included, need 4 AAA batteries to work.",
+			"UCTRONICS WiFi Smart Robot Car w/ Camera for Arduino",
+			"Features a smart robot that facilitates STEM education",
+			"Can be controlled by Android & iOS Smartphone",
+			"Offers multiple working modes to make it be extremely entertaining",
+			"Provides push-and-run controlling in a simple and effective way"
+		],
+		"spec": {
+			"0": "Obstacle avoidance",
+			"1": "Line tracking",
+			"2": "Following",
+			"3": "Tracking color code",
+			"4": "Playing piano and music",
+			"5": "Photos/videos shooting",
+			"6": "Wireless real-time video transmission",
+			"7": "App main interface",
+			"8": "Speed Calibration"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/content/a/adu/pdf/uctronics-wifi-smart-robot-car-camera-arduino-android-manual.pdf",
+			"1": "https://www.robotshop.com/media/files/content/a/adu/pdf/uctronics-wifi-smart-robot-car-camera-arduino-ios-manual.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/156-1920x1080-lcd-screen-hdmi-case.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "LCD & Display >",
+			"4": "15.6\" 1920x1080 LCD Screen w/ HDMI and Case"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/5/156-1920x1080-lcd-screen-hdmi-case.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/5/156-1920x1080-lcd-screen-hdmi-case.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/1/5/156-1920x1080-lcd-screen-hdmi-case.jpg",
+			"19": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/5/156-1920x1080-lcd-screen-hdmi-case.jpg",
+			"20": null,
+			"21": null,
+			"22": null,
+			"23": null,
+			"24": null,
+			"25": null,
+			"26": null,
+			"27": null,
+			"28": null,
+			"29": null,
+			"30": null,
+			"31": null,
+			"32": null,
+			"33": null,
+			"34": null
+		},
+		"product": "15.6\" 1920x1080 LCD Screen w/ HDMI and Case",
+		"price": [
+			"USD $219.99",
+			"USD $211.19",
+			"USD $202.74"
+		],
+		"highlight": {
+			"0": "15.6 inch LCD Screen w/ HDMI and Case",
+			"1": "Features an IPS screen with a resolution of 1920 x 1080",
+			"2": "Is made of toughened 6H glass",
+			"3": "Supports Microsoft XBOX360, Sony PS4, and Nintendo Switch",
+			"4": "Offers a multi languages OSD menu",
+			"5": "Comes with a 55° tilt angle stand"
+		},
+		"model": "RB-Wav-172",
+		"description": [
+			"The 15.6 inch 1920x1080 LCD Screen w/ HDMI and Case with Toughened Glass Cover, Supports Multi mini-PCs, Multi Systems. Supports popular mini PCs such as Raspberry Pi, Jetson Nano, BB Black, as well as general desktop computers.",
+			"When working with Raspberry Pi, it supports Raspbian/Ubuntu/Kali/Retropie/WIN10 IOT, and is driver free. When working as a computer monitor, it supports Windows 10/8.1/8/7, ten-points touch, and is also driver free.",
+			"The screen supports popular game consoles like Microsoft XBOX360, Sony PS4, and Nintendo Switch.",
+			"15.6 inch LCD Screen w/ HDMI and Case",
+			"Features an IPS screen with a resolution of 1920 x 1080",
+			"Is made of toughened 6H glass",
+			"Supports Microsoft XBOX360, Sony PS4, and Nintendo Switch",
+			"Offers a multi languages OSD menu",
+			"Comes with a 55° tilt angle stand"
+		],
+		"spec": {
+			"0": "15.6 inch IPS screen,1920 x 1080 hardware resolution",
+			"1": "Embedded ferrite Hi-Fi speaker",
+			"2": "Also supports VGA input (specific cable is required and should be purchased separately)",
+			"3": "75 x 75mm spacing mounting holes (M4 screw hole) for general wall mount",
+			"4": "3.5 mm audio jack, supports HDMI audio output"
+		}
+	},
+	"https://www.robotshop.com/en/monk-makes-squid-rgb-led-raspberry-pi.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Microcontroller Accessories >",
+			"4": "Raspberry Pi Accessories / HATs >",
+			"5": "Monk Makes Squid RGB LED for Raspberry Pi"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/m/o/monk-makes-squid-rgb-led-raspberry-pi.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/m/o/monk-makes-squid-rgb-led-raspberry-pi.jpg",
+			"4": null,
+			"5": null,
+			"6": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/m/o/monk-makes-squid-rgb-led-raspberry-pi.jpg",
+			"7": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/m/o/monk-makes-squid-rgb-led-raspberry-pi.jpg",
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"product": "Monk Makes Squid RGB LED for Raspberry Pi",
+		"price": [
+			"USD $3.89",
+			"USD $3.66",
+			"USD $3.44"
+		],
+		"highlight": {
+			"0": "Bright RGB LED with built-in resistors",
+			"1": "Female header leads",
+			"2": "Plug directly into the GPIO pins of a Raspberry Pi"
+		},
+		"model": "RB-Mok-05",
+		"description": [
+			"The Monk Makes Squid RGB LED for Raspberry Pi is a bright RGB (Red, Green, Blue) LED with built-in resistors and female header leads that can just plug directly into the GPIO pins of a Raspberry Pi.",
+			"Bright RGB LED with built-in resistors",
+			"Female header leads",
+			"Plug directly into the GPIO pins of a Raspberry Pi"
+		]
+	},
+	"https://www.robotshop.com/en/seeedstudio-125khz-rfid-tags.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "RFID >",
+			"4": "Seeedstudio 125KHz RFID Tags (3x Key Fob + 2x Cards)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/e/seeedstudio-125khz-rfid-tags.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/e/seeedstudio-125khz-rfid-tags.jpg",
+			"2": null
+		},
+		"product": "Seeedstudio 125KHz RFID Tags (3x Key Fob + 2x Cards)",
+		"price": [
+			"USD $2.57",
+			"USD $2.49",
+			"USD $2.42"
+		],
+		"highlight": {},
+		"model": "RB-See-38",
+		"description": [
+			"• 125Khz, EM4100 standard\n• Three key tags in different colors\n• Two blank cards with serial number\n• Compatible with RDM630 module",
+			"The Seeedstudio 125KHz RFID Tags (3x Key Fob + 2x Cards) includes three key tags in different colors and two blank cards with serial number. The Seeedstudio 125KHz RFID Tags are compatible with RDM630 module."
+		]
+	},
+	"https://www.robotshop.com/en/elecrow-uln2003-stepper-motor-driver-board.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Motor Controllers >",
+			"4": "Stepper Motor Controllers >",
+			"5": "Elecrow ULN2003 Stepper Motor Driver Board"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/e/l/elecrow-uln2003-stepper-motor-driver-board_1.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/e/l/elecrow-uln2003-stepper-motor-driver-board_1.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/e/l/elecrow-uln2003-stepper-motor-driver-board_1.jpg",
+			"9": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/e/l/elecrow-uln2003-stepper-motor-driver-board_1.jpg",
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null
+		},
+		"product": "Elecrow ULN2003 Stepper Motor Driver Board",
+		"price": [
+			"USD $1.78",
+			"USD $1.67",
+			"USD $1.57"
+		],
+		"highlight": {
+			"0": "Elecrow ULN2003 Stepper Motor Driver Board",
+			"1": "Uses ULN2003 DARLINGTON ARRAYS",
+			"2": "Provides 4-phase 5-wire stepper motor (5 -12 V)",
+			"3": "Easy to use with Arduino or other development platforms",
+			"4": "Drive the stepper motor by this driver board"
+		},
+		"model": "RB-Ecw-09",
+		"description": [
+			"The Elecrow ULN2003 Stepper Motor Driver Board is using the ULN2003 DARLINGTON ARRAYS to drive the 4-phase 5-wire stepper motor (5 - 12 V).",
+			"It's easy to use Arduino or other development platforms to drive the stepper motor by this driver board.",
+			"https://www.robotshop.com/media/files/content/e/ecw/img/elecrow-uln2003-stepper-motor-driver-board-7.jpg",
+			"Elecrow ULN2003 Stepper Motor Driver Board",
+			"Uses ULN2003 DARLINGTON ARRAYS",
+			"Provides 4-phase 5-wire stepper motor (5 -12 V)",
+			"Easy to use with Arduino or other development platforms",
+			"Drive the stepper motor by this driver board"
+		],
+		"spec": {
+			"0": "The logic control voltage:3 ~ 5.5 V",
+			"1": "Motor Supply Voltage: 5 ~ 15 V",
+			"2": "It can sink 500mA from a 50 V supply, but you'd better limit the driver voltage under 15 V",
+			"3": "Operating temperature: -25 °C ~ +90 °C"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/content/e/ecw/pdf/elecrow-uln2003-stepper-motor-driver-board-datasheet.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/elenco-sr-6-deluxe-40w-soldering-iron.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Tools & Equipment >",
+			"3": "Soldering Equipment >",
+			"4": "SR-6 Deluxe 40W Soldering Iron"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/e/l/elenco-sr-6-deluxe-40w-soldering-iron_1.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/e/l/elenco-sr-6-deluxe-40w-soldering-iron_1.jpg",
+			"2": null
+		},
+		"product": "SR-6 Deluxe 40W Soldering Iron",
+		"price": [
+			"USD $12.95",
+			"USD $12.30",
+			"USD $11.69"
+		],
+		"highlight": {
+			"0": "Deluxe 40W Soldering Iron",
+			"1": "3 wire grounded plug",
+			"2": "Screw-in tip",
+			"3": "Rubber sleeve handle with long-life plated tip",
+			"4": "Conical Tip included"
+		},
+		"model": "RB-Ibo-113",
+		"description": [
+			"WARNING: Cancer and Reproductive Harm-www.P65Warnings.ca.gov.",
+			"Deluxe 40W Soldering Iron",
+			"3 wire grounded plug",
+			"Screw-in tip",
+			"Rubber sleeve handle with long-life plated tip",
+			"Conical Tip included"
+		]
+	},
+	"https://www.robotshop.com/en/hexa-base-rotate-kit-no-servos.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Mechanics >",
+			"4": "Direct Drive Pan & Tilt >",
+			"5": "Hexa Base Rotate Kit (No Servos)"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/h/e/hexa-base-rotate-kit-no-servos-2.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/h/e/hexa-base-rotate-kit-no-servos-2.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/h/e/hexa-base-rotate-kit-no-servos-2.jpg",
+			"9": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/h/e/hexa-base-rotate-kit-no-servos-2.jpg",
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null
+		},
+		"product": "Hexa Base Rotate Kit (No Servos)",
+		"price": [
+			"USD $19.95",
+			"USD $19.15",
+			"USD $18.39"
+		],
+		"highlight": {
+			"0": "Hexa base rotate kit",
+			"1": "Support 10lbs of weight"
+		},
+		"model": "RB-Dfr-614",
+		"description": [
+			"The Hexa Base Rotate Kit (no servos) is perfect for rotating a large mass. It can easily support 10lbs of weight. It's injected mold is made from ultra strong ABS plastic. With its unique hexagonal design, users can pile mutliple turntables in a row or make a real hive.",
+			"Hexa base rotate kit",
+			"Support 10lbs of weight"
+		],
+		"spec": {
+			"0": "Hitec HS-311 Servo Motor",
+			"1": "Hitec HS-422 Servo Motor",
+			"2": "Hitec HS-645MG Servo Motor",
+			"3": "Hitec HSR-1425CR Continuous Rotation Servo"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/zip/documentation-rob0114.zip"
+		}
+	},
+	"https://www.robotshop.com/en/tamiya-male-to-xt60-female-conversion-adapter-42mm.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "UAVs & Drones >",
+			"3": "UAV & Drone Parts & Accessories >",
+			"4": "UAV & Drone Power & Wiring >",
+			"5": "Tamiya Male to XT60 Female Conversion Adapter (42mm)"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/t/a/tamiya-male-to-xt60-female-conversion-adapter-42mm.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/t/a/tamiya-male-to-xt60-female-conversion-adapter-42mm.jpg",
+			"2": null
+		},
+		"product": "Tamiya Male to XT60 Female Conversion Adapter (42mm)",
+		"price": [
+			"",
+			"",
+			"USD $1.78"
+		],
+		"highlight": {
+			"0": "Conversion adapter cable",
+			"1": "Tamiya male to XT60 female",
+			"2": "42mm length"
+		},
+		"model": "RB-Gog-36",
+		"description": [
+			"Conversion adapter cable",
+			"Tamiya male to XT60 female",
+			"42mm length"
+		]
+	},
+	"https://www.robotshop.com/en/shaft-axle-connector-pair-3mm-compatible-with-lego-blocks.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Construction Kit Parts >",
+			"4": "LEGO Mindstorms Parts >",
+			"5": "Shaft/Axle Connector Pair 3mm (compatible with LEGO blocks)"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/l/e/lego-compatible-shaft-axle-connector-pair-3mm.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/l/e/lego-compatible-shaft-axle-connector-pair-3mm.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/l/e/lego-compatible-shaft-axle-connector-pair-3mm.jpg",
+			"11": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/l/e/lego-compatible-shaft-axle-connector-pair-3mm.jpg",
+			"12": null,
+			"13": null,
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": null
+		},
+		"product": "Shaft/Axle Connector Pair 3mm (compatible with LEGO blocks)",
+		"price": [
+			"USD $2.95",
+			"USD $2.65",
+			"USD $1.99"
+		],
+		"highlight": {
+			"0": "Connects 3mm hexagonal shafts to LEGO wheels",
+			"1": "Can be used with any LEGO wheel that accepts a standard axle",
+			"2": "Made of ABS plastic",
+			"3": "Shaft diameter: 3mm",
+			"4": "Sold in pairs",
+			"5": "RobotShop is not affiliated with and this product and is not endorsed by LEGO"
+		},
+		"model": "RB-Pol-138",
+		"description": [
+			"Connects 3mm hexagonal shafts to LEGO wheels",
+			"Can be used with any LEGO wheel that accepts a standard axle",
+			"Made of ABS plastic",
+			"Shaft diameter: 3mm",
+			"Sold in pairs",
+			"RobotShop is not affiliated with and this product and is not endorsed by LEGO"
+		],
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/datasheet-1011.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/led-assortment-set-25pk.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Lighting >",
+			"4": "LED Assortment Set (25pk)"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/l/e/led-assortment-set-25pk_1.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/l/e/led-assortment-set-25pk_1.jpg",
+			"4": null,
+			"5": null,
+			"6": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/l/e/led-assortment-set-25pk_1.jpg",
+			"7": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/l/e/led-assortment-set-25pk_1.jpg",
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"product": "LED Assortment Set (25pk)",
+		"price": [
+			"USD $3.95",
+			"USD $3.71",
+			"USD $3.49"
+		],
+		"highlight": {
+			"0": "5mm round LEDs",
+			"1": "Five each of Red, Yellow, Green, Blue, and White",
+			"2": "Widely used in flashlights and general lighting applications",
+			"3": "Compatible with Infrared Reflow Solder and Wave Solder Process"
+		},
+		"model": "RB-Oel-93",
+		"description": [
+			"5mm round LEDs",
+			"Five each of Red, Yellow, Green, Blue, and White",
+			"Widely used in flashlights and general lighting applications",
+			"Compatible with Infrared Reflow Solder and Wave Solder Process"
+		]
+	},
+	"https://www.robotshop.com/en/grove-gps-module.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Electronic Experimentation Parts >",
+			"4": "GROVE Parts >",
+			"5": "Grove GPS Module"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/g/r/grove-gps-module_1.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/g/r/grove-gps-module_1.jpg",
+			"2": null
+		},
+		"product": "Grove GPS Module",
+		"price": [
+			"USD $23.50",
+			"USD $22.56",
+			"USD $21.66"
+		],
+		"highlight": {
+			"0": "Armed with a SIM28 and serial communication configuration",
+			"1": "Supports NMEA and U-Blox 6 protocols",
+			"2": "22 tracking / 66 acquisition channel GPS receiver",
+			"3": "Configurable baud rates",
+			"4": "3.3/5V working voltage"
+		},
+		"model": "RB-See-562",
+		"description": [
+			"The Grove GPS Module is a cost-efficient and field-programmable gadget armed with a SIM28 (U-blox 6 is old version) and serial communication configuration. It features a 22 tracking / 66 acquisition channel GPS receiver.",
+			"The sensitivity of tracking and acquisition both reach up to -160dBm, making it a great choice for personal navigation projects and location services, as well as an outstanding one among products of the same price class.",
+			"Armed with a SIM28 and serial communication configuration",
+			"Supports NMEA and U-Blox 6 protocols",
+			"22 tracking / 66 acquisition channel GPS receiver",
+			"Configurable baud rates",
+			"3.3/5V working voltage"
+		],
+		"spec": {
+			"0": "Input Voltage: 3.3/5V",
+			"1": "BaudRate: 4800 - 57600( u-blox version)",
+			"2": "BaudRate: 9600 - 115200",
+			"3": "Default BaudRate: 9600",
+			"4": "Supports NMEA and U-Blox 6 protocols.",
+			"5": "Low power consumption",
+			"6": "Grove compatible interface"
+		}
+	},
+	"https://www.robotshop.com/en/4mm-aluminum-mounting-hub-60mm-mecanum-wheel.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Mechanics >",
+			"4": "Hubs & Couplers >",
+			"5": "4mm Aluminum Mounting Hub for 60mm Mecanum Wheel"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/4/m/4mm-aluminum-mounting-hub-60mm-mecanum-wheel.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/4/m/4mm-aluminum-mounting-hub-60mm-mecanum-wheel.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/4/m/4mm-aluminum-mounting-hub-60mm-mecanum-wheel.jpg",
+			"11": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/4/m/4mm-aluminum-mounting-hub-60mm-mecanum-wheel.jpg",
+			"12": null,
+			"13": null,
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": null
+		},
+		"product": "4mm Aluminum Mounting Hub for 60mm Mecanum Wheel",
+		"price": [
+			"USD $6.21",
+			"USD $5.84",
+			"USD $5.49"
+		],
+		"highlight": {
+			"0": "Universal aluminum mounting hubs",
+			"1": "Used to connect 60mm aluminum mecanum wheel and a motor",
+			"2": "Diameters: 4mm(inner), 28mm(outer)",
+			"3": "Bore length: 16mm"
+		},
+		"model": "RB-Nex-79",
+		"description": [
+			"The 4mm Aluminum Mounting Hub for 60mm Mecanum Wheel allows you to mount robot wheels and mechanisms to motor shafts. Designed to connect 60mm aluminum mecanum wheel and a motor.",
+			"Universal aluminum mounting hubs",
+			"Used to connect 60mm aluminum mecanum wheel and a motor",
+			"Diameters: 4mm(inner), 28mm(outer)",
+			"Bore length: 16mm"
+		],
+		"related": {
+			"0": "https://www.robotshop.com/media/files/zip/documentation-18019.zip"
+		}
+	},
+	"https://www.robotshop.com/en/m5stack-esp32-psram-timer-camera-x-ov3660.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Sensors >",
+			"4": "Cameras & Vision Sensors >",
+			"5": "M5Stack ESP32 PSRAM Timer Camera X (OV3660)"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/m/5/m5stack-esp32-psram-timer-camera-x-ov3660-5.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/m/5/m5stack-esp32-psram-timer-camera-x-ov3660-5.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/m/5/m5stack-esp32-psram-timer-camera-x-ov3660-5.jpg",
+			"15": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/m/5/m5stack-esp32-psram-timer-camera-x-ov3660-5.jpg",
+			"16": null,
+			"17": null,
+			"18": null,
+			"19": null,
+			"20": null,
+			"21": null,
+			"22": null,
+			"23": null,
+			"24": null,
+			"25": null,
+			"26": null
+		},
+		"product": "M5Stack ESP32 PSRAM Timer Camera X (OV3660)",
+		"price": [
+			"USD $17.95",
+			"USD $17.23",
+			"USD $16.54"
+		],
+		"highlight": {
+			"0": "M5Stack ESP32 PSRAM Timer Camera X (OV3660)",
+			"1": "Features ultra-low power consumption design",
+			"2": "Provides timing sleep and wake-up",
+			"3": "Built-in 140 mAh battery",
+			"4": "Lets you WiFi image transmission",
+			"5": "Programming platform：ESP-IDF/Arduino/UIFlow"
+		},
+		"model": "RB-Mst-79",
+		"description": [
+			"The M5Stack ESP32 PSRAM Timer Camera X (OV3660) is a camera module based on ESP32, integrated with an ESP32 chip and 8M-PSRAM. The camera (OV3660) with 3 million pixels can view 66.5° and shoot 1600 x at most 1200 resolution photo.",
+			"Built-in 140 mAh battery and LED status indicator, featuring ultra-low power consumption design. There is a reset button under the LED. Through RTC (BM8563), timing sleep and wake-up can be realized.",
+			"Applications",
+			"M5Stack ESP32 PSRAM Timer Camera X (OV3660)",
+			"Features ultra-low power consumption design",
+			"Provides timing sleep and wake-up",
+			"Built-in 140 mAh battery",
+			"Lets you WiFi image transmission",
+			"Programming platform：ESP-IDF/Arduino/UIFlow",
+			"Take pictures regularly",
+			"Remote video monitoring"
+		],
+		"spec": {
+			"0": "PSRAM: 8 MB",
+			"1": "Flash: 4M",
+			"2": "Image Sensor: OV3660",
+			"3": "Maximum resolution: 300w pixels",
+			"4": "Output format: 8-/10-Bit RAW, RGB and YCbCr output, compression.",
+			"5": "FOV: 66.5°",
+			"6": "Battery: 140 mAh",
+			"7": "Weight: 15 g"
+		}
+	},
+	"https://www.robotshop.com/en/lynxmotion-lss-150mm-serial-cable.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Construction Kit Parts >",
+			"4": "Lynxmotion SES V2 Parts >",
+			"5": "Lynxmotion (LSS) - 150mm Serial Cable"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/l/y/lynxmotion-smart-servo-lss-150mm-serial-cable.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/l/y/lynxmotion-smart-servo-lss-150mm-serial-cable.jpg",
+			"4": null,
+			"5": null,
+			"6": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/l/y/lynxmotion-smart-servo-lss-150mm-serial-cable.jpg",
+			"7": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/l/y/lynxmotion-smart-servo-lss-150mm-serial-cable.jpg",
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"product": "Lynxmotion (LSS) - 150mm Serial Cable",
+		"price": [
+			"USD $0.85",
+			"USD $0.78",
+			"USD $0.72"
+		],
+		"highlight": {
+			"0": "Lynxmotion (LSS) - 150mm Serial Cable",
+			"1": "4-Pin Molex connector #50-37-5043",
+			"2": "2.50mm pitch spacing",
+			"3": "Cable length is 150mm"
+		},
+		"model": "RB-Lyn-997",
+		"description": [
+			"The Lynxmotion (LSS) - 150mm Serial Cable is used to connect two devices together.",
+			"Lynxmotion (LSS) - 150mm Serial Cable",
+			"4-Pin Molex connector #50-37-5043",
+			"2.50mm pitch spacing",
+			"Cable length is 150mm"
+		],
+		"spec": {
+			"0": "Cable Length: 150 mm +/- 5 mm",
+			"1": "Cable Style: Flat Ribbon (fused)",
+			"2": "Cable Gauge: 24AWG multi-strand",
+			"3": "Cable Color: Black",
+			"4": "Connector: Molex 50-37-5043"
+		},
+		"related": {
+			"0": "http://www.lynxmotion.com/",
+			"1": "https://www.robotshop.com/info/wiki/lynxmotion/lynxmotion-wiki",
+			"2": "https://www.robotshop.com/info/wiki/lynxmotion/view/servo-erector-set-system/ses-electronics/ses-wiring/"
+		}
+	},
+	"https://www.robotshop.com/en/emlid-camera-hot-shoe-adapter-reach-m.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "UAVs & Drones >",
+			"3": "UAV & Drone Parts & Accessories >",
+			"4": "UAV & Drone Electronics >",
+			"5": "UAV & Drone Misc. Electronics >",
+			"6": "Emlid Camera Hot Shoe Adapter for Reach M+"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/c/a/camera-hot-shoe-adapter-reach-m.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/c/a/camera-hot-shoe-adapter-reach-m.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/c/a/camera-hot-shoe-adapter-reach-m.jpg",
+			"11": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/c/a/camera-hot-shoe-adapter-reach-m.jpg",
+			"12": null,
+			"13": null,
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": null
+		},
+		"product": "Emlid Camera Hot Shoe Adapter for Reach M+",
+		"price": [
+			"USD $53.90"
+		],
+		"highlight": {
+			"0": "Hot shoe adapter for REACH M+ RTK GNSS Module for Positioning & Mapping",
+			"1": "Wires the flash sync pulse from camera to Reach M+",
+			"2": "Designed to work with any camera with hot shoe connector",
+			"3": "Compatible with Sony, Canon, and Nikon"
+		},
+		"model": "RB-Eml-25",
+		"description": [
+			"The Emlid Camera Hot Shoe Adapter for Reach M+ wires the flash sync pulse from camera to Reach M+ for precise time stamping of each picture. Necessary for PPK workflow.",
+			"Designed to work with any camera with hot shoe connector, tested to work with Sony, Canon, and Nikon. Not compatible with the original, Edison-based, Reach module.",
+			"Hot shoe adapter for REACH M+ RTK GNSS Module for Positioning & Mapping",
+			"Wires the flash sync pulse from camera to Reach M+",
+			"Designed to work with any camera with hot shoe connector",
+			"Compatible with Sony, Canon, and Nikon"
+		],
+		"spec": {
+			"0": "Weight: 0.02 kg"
+		}
+	},
+	"https://www.robotshop.com/en/elecfreaks-microbit-basic-kit.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Microcontrollers >",
+			"4": "Microcontroller Kits >",
+			"5": "Other Microcontroller Kits >",
+			"6": "ElecFreaks micro:bit Basic Kit"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/e/l/elecfreaks-microbit-basic-kit-1.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/e/l/elecfreaks-microbit-basic-kit-1.jpg",
+			"4": null,
+			"5": null,
+			"6": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/e/l/elecfreaks-microbit-basic-kit-1.jpg",
+			"7": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/e/l/elecfreaks-microbit-basic-kit-1.jpg",
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"product": "ElecFreaks micro:bit Basic Kit",
+		"price": [
+			"USD $34.85",
+			"USD $33.46",
+			"USD $32.12"
+		],
+		"highlight": {
+			"0": "ElecFreaks micro:bit Basic Kit",
+			"1": "Entry-level set",
+			"2": "Easily connected to micro:bit via basic:bit",
+			"3": "BBC micro:bit Programmable Board included"
+		},
+		"model": "RB-Elf-316",
+		"description": [
+			"The ElecFreaks micro:bit basic kit is an entry-level kit. The 5 most common electric bricks, which can be easily connected to micro:bit via basic:bit. This kit can help students learn how to build their micro:bit projects quickly. These electric bricks can be driven by Makecode defaulted blocks directly. You don't have to add any extra package. It is helpful for students to understand the usage of electric bricks from its principle.",
+			"ElecFreaks micro:bit Basic Kit",
+			"Entry-level set",
+			"Easily connected to micro:bit via basic:bit",
+			"BBC micro:bit Programmable Board included"
+		],
+		"spec": {
+			"0": "Voltage: 3.3V （Powered by micro:bit）",
+			"1": "IO Ports: 3"
+		},
+		"related": {
+			"0": "https://www.elecfreaks.com/learn-en/basic_bit/"
+		}
+	},
+	"https://www.robotshop.com/en/152mm-omnidirectional-wheel.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Mechanics >",
+			"4": "Wheels & Casters >",
+			"5": "152mm Omnidirectional Wheel (Brass Bearing for Rollers)"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/5/152mm-omnidirectional-wheel_2.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/5/152mm-omnidirectional-wheel_2.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/1/5/152mm-omnidirectional-wheel_2.jpg",
+			"9": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/5/152mm-omnidirectional-wheel_2.jpg",
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null
+		},
+		"product": "152mm Omnidirectional Wheel (Brass Bearing for Rollers)",
+		"price": [
+			"USD $63.36",
+			"USD $59.56",
+			"USD $55.98"
+		],
+		"highlight": {
+			"0": "152mm double plate plastic omni wheel",
+			"1": "Load capacity: 40kg",
+			"2": "Axial width: 29mm",
+			"3": "Number of rollers: 28"
+		},
+		"model": "RB-Nex-10",
+		"description": [
+			"Nexus Robot introduces the 152mm Omnidirectional Wheel (Brass Bearing for Rollers). The Omni-directional wheels are unique as they are able to roll freely in two directions. The Omni-direction wheels allow a robot to convert from a non-holonomic to a holonomic robot. A non-holonomic robot that uses normal wheels has only 2 out of 3 controllable degrees-of-freedom - moving forward/backwards and rotation. Not being able to move side ways makes a robot slower and less efficient in reaching its given goal.",
+			"https://www.robotshop.com/media/files/images/152mm-omnidirectional-wheel-1.jpg",
+			"152mm double plate plastic omni wheel",
+			"Load capacity: 40kg",
+			"Axial width: 29mm",
+			"Number of rollers: 28"
+		],
+		"spec": {
+			"0": "Roller bearing material: Brass tube",
+			"1": "Roller diameter: 19mm",
+			"2": "Net weight: 630g",
+			"3": "Body material: Aluminium alloy",
+			"4": "Roller material: Rubber"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/datasheet-14085.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/64mm-mecanum-wheel-set-2x-left-2x-right.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Mechanics >",
+			"4": "Wheels & Casters >",
+			"5": "64mm Mecanum Wheel Set (2x Left, 2x Right)"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/6/4/64mm-mecanum-wheel-set-2x-left-2x-right.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/6/4/64mm-mecanum-wheel-set-2x-left-2x-right.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/6/4/64mm-mecanum-wheel-set-2x-left-2x-right.jpg",
+			"9": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/6/4/64mm-mecanum-wheel-set-2x-left-2x-right.jpg",
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null
+		},
+		"product": "64mm Mecanum Wheel Set (2x Left, 2x Right)",
+		"price": [
+			"USD $39.90",
+			"USD $36.71",
+			"USD $33.77"
+		],
+		"highlight": {
+			"0": "64mm Mecanum Wheel Set (2x Left, 2x Right)",
+			"1": "Features an omni-directional wheel with a compact structure",
+			"2": "Offers flexible movement in all directions"
+		},
+		"model": "RB-Elf-342",
+		"description": [
+			"The 64mm Mecanum Wheel Set (2x Left, 2x Right) is an omni-directional wheel with a compact structure, flexible movement. Four wheels make it possible for moving in all directions. Adaptable for TT Motors and 9g servos. The adapter helps to connect TT motors and servo quickly.",
+			"64mm Mecanum Wheel Set (2x Left, 2x Right)",
+			"Features an omni-directional wheel with a compact structure",
+			"Offers flexible movement in all directions"
+		],
+		"spec": {
+			"0": "Diameter: 64 mm",
+			"1": "Thickness: 30 mm",
+			"2": "Material: Plastic",
+			"3": "Color: Grey",
+			"4": "Weight: 240 g"
+		}
+	},
+	"https://www.robotshop.com/en/radiolink-t8fbbt-24ghz-8ch-transmitter-w--r8ef-8ch-receiver.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "UAVs & Drones >",
+			"3": "UAV & Drone Parts & Accessories >",
+			"4": "UAV & Drone Remote Control >",
+			"5": "RadioLink T8FB(BT) 2.4GHz 8CH Transmitter w/ R8EF 8CH Receiver"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/r/a/radiolink-t8fbbt-24ghz-8ch-transmitter-w--r8ef-8ch-receiver-2.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/r/a/radiolink-t8fbbt-24ghz-8ch-transmitter-w--r8ef-8ch-receiver-2.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null,
+			"11": null,
+			"12": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/r/a/radiolink-t8fbbt-24ghz-8ch-transmitter-w--r8ef-8ch-receiver-2.jpg",
+			"13": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/r/a/radiolink-t8fbbt-24ghz-8ch-transmitter-w--r8ef-8ch-receiver-2.jpg",
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": null,
+			"19": null,
+			"20": null,
+			"21": null,
+			"22": null
+		},
+		"product": "RadioLink T8FB(BT) 2.4GHz 8CH Transmitter w/ R8EF 8CH Receiver",
+		"price": [
+			"USD $54.99",
+			"USD $50.59",
+			"USD $46.54"
+		],
+		"highlight": {
+			"0": "RadioLink T8FB(BT) 2.4GHz 8CH Transmitter w/ R8EF 8CH Receiver",
+			"1": "Offers a control distance of 2000 meters (1.24 Miles)",
+			"2": "Provides a transmission rate 3x faster than Open TX",
+			"3": "Anti-polarity connect protection",
+			"4": "Compatible with SBUS, PPM, and PWM",
+			"5": "Parameters can be easily set up and modified with mobile APP",
+			"6": "Low consumption of battery"
+		},
+		"model": "RB-Rlk-40",
+		"description": [
+			"The RadioLink T8FB(BT) 2.4GHz 8CH Transmitter w/ R8EF 8CH Receiver is achieving a better anti-interference ability to both the same frequency band and different frequency bands. The control distance of T8FB is 2000 meters (1.24 Miles) in the air.",
+			"Parameters can be easily set up and modified with a mobile APP connected via Bluetooth. USB upgrades with new functions added and keeps T8FB(BT) always advanced. Countless sets of model data can be stored.",
+			"0.5 us Gimbal Precision: The optimal design of the PCB layout ensures a maximum PWM jitter of 1.84 us with a standard of just 0.5 us. It is 14 times better than the regular jitter 7us of the mainstream 16-channel transmitter in the market. The same joystick components as AT9S Pro.",
+			"Real-time Telemetry: Real-time model data feedback function allows users to receive the transmitter voltage and RSSI information.",
+			"Compatible with SBUS, PPM, and PWM: Standard receiver R8EF packed is the receiver with SBUS, PPM, and PWM signal output, no need for extra cables or any signal converter, reducing the weight of aircraft.",
+			"Anti-polarity Connect Protection: The voltage protection software technology of RadioLink ensures both transmitter and receiver are protected from a reverse polarity connection.",
+			"Low Consumption of Battery: Switching Mode Power Supply (SMPS) keeps the operating current of T8FB less than 80 mA. With a 3S 1800 mAh LiPo battery in T8FB, the RC fun lasts more than 20 hours.",
+			"RadioLink T8FB(BT) 2.4GHz 8CH Transmitter w/ R8EF 8CH Receiver",
+			"Offers a control distance of 2000 meters (1.24 Miles)",
+			"Provides a transmission rate 3x faster than Open TX",
+			"Anti-polarity connect protection",
+			"Compatible with SBUS, PPM, and PWM",
+			"Parameters can be easily set up and modified with mobile APP",
+			"Low consumption of battery"
+		],
+		"spec": {
+			"0": "Output Frequency: 2.4 GHz ISM band (2400 ~2483.5 MHz)",
+			"1": "Modulation Mode: GFSK",
+			"2": "Channel Bandwidth: 400 KHz",
+			"3": "Channel Pacing: 1200 KHz",
+			"4": "Spread Spectrum: FHSS, 67 channels pseudo-random frequency hopping",
+			"5": "Adjacent Channel Rejection: >36 dBM",
+			"6": "Transmitter Power: <100 mW (20 dBM)",
+			"7": "Reception Sensitivity: -104 dBM",
+			"8": "Transmission Rate: 38 kbps",
+			"9": "PWM Output Range: 1 ~2 ms",
+			"10": "Section Precision: 4096, 0.5 us per section",
+			"11": "Cycle: 15 ms/per frame",
+			"12": "T8FB(BT) Operating Voltage: 4.8 ~18 V",
+			"13": "T8FB(BT) Operating Current: <80 mA",
+			"14": "R8EF Operating Voltage: 4.6 ~10 V",
+			"15": "R8EF Operating Current: <30 mA",
+			"16": "Compatible Receivers: R8EF (Std), R8FM, R8SM, R8F, R7FG, R6FG, R6F, R4FGM, R4F",
+			"17": "Weight (with R8EF): 0.47 kg"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/content/r/rlk/pdf/radiolink-t8fbbt-24ghz-8ch-transmitter-w--r8ef-8ch-receiver-user-manual.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/actobotics-16t-gearmotor-pinion-gear-6mm.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Robot Construction Kit Parts >",
+			"4": "Actobotics Parts >",
+			"5": "Actobotics 16T Gearmotor Pinion Gear (6mm)"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/c/actobotics-16t-gearmotor-pinion-gear-6mm_1.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/c/actobotics-16t-gearmotor-pinion-gear-6mm_1.jpg",
+			"4": null,
+			"5": null,
+			"6": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/a/c/actobotics-16t-gearmotor-pinion-gear-6mm_1.jpg",
+			"7": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/c/actobotics-16t-gearmotor-pinion-gear-6mm_1.jpg",
+			"8": null,
+			"9": null,
+			"10": null
+		},
+		"product": "Actobotics 16T Gearmotor Pinion Gear (6mm)",
+		"price": [
+			"USD $7.99",
+			"USD $7.50",
+			"USD $7.05"
+		],
+		"highlight": {
+			"0": "Actobotics 16T Gearmotor Pinion Gear (6mm)",
+			"1": "Compatible with the Actobotics Product Line",
+			"2": "Sturdy Modular Robot Component",
+			"3": "Made from Hardened Brass"
+		},
+		"model": "RB-Sct-396",
+		"description": [
+			"The Actobotics 16T Gearmotor Pinion Gear (6mm) attaches directly to all of manufacturer's 6mm shaft gearmotors.",
+			"Actobotics 16T Gearmotor Pinion Gear (6mm)",
+			"Compatible with the Actobotics Product Line",
+			"Sturdy Modular Robot Component",
+			"Made from Hardened Brass"
+		],
+		"spec": {
+			"0": "Pitch: 32",
+			"1": "Teeth: 16T",
+			"2": "Bore: 6mm",
+			"3": "Pressure Angle: 20°"
+		}
+	},
+	"https://www.robotshop.com/en/adeept-bbc-microbit-sensor-starter-kit.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Microcontrollers >",
+			"4": "Microcontroller Kits >",
+			"5": "Other Microcontroller Kits >",
+			"6": "Adeept BBC micro:bit Sensor Starter Kit"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/d/adeept-bbc-microbit-sensor-starter-kit_1.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/d/adeept-bbc-microbit-sensor-starter-kit_1.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/a/d/adeept-bbc-microbit-sensor-starter-kit_1.jpg",
+			"19": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/a/d/adeept-bbc-microbit-sensor-starter-kit_1.jpg",
+			"20": null,
+			"21": null,
+			"22": null,
+			"23": null,
+			"24": null,
+			"25": null,
+			"26": null,
+			"27": null,
+			"28": null,
+			"29": null,
+			"30": null,
+			"31": null,
+			"32": null,
+			"33": null,
+			"34": null
+		},
+		"product": "Adeept BBC micro:bit Sensor Starter Kit",
+		"price": [
+			"USD $69.99"
+		],
+		"highlight": {
+			"0": "Adeept BBC micro:bit Sensor Starter Kit",
+			"1": "Features a BBC micro:bit board plus an Adeept expansion board",
+			"2": "Includes a PS2 joystick, a breadboard and a servo",
+			"3": "Comes with many sensor modules",
+			"4": "Provides an excellent 124 pages pdf manual"
+		},
+		"model": "RBC-Apt-45",
+		"description": [
+			"The Adeept BBC micro:bit Sensor Starter Kit includes a BBC micro:bit board as well as an Adeept micro:bit expansion board. It comes with a PS2 joystick, a breadboard, and a servo.",
+			"This kit contains a wide variety of sensor modules, e.g. PIR, flame, soil moisture, water level, line finder - The best choice for learning electronics, programming and IoT.",
+			"This sensor starter kit provides an excellent 124-pages pdf manual with 35 projects to give you detailed guidance.",
+			"Adeept BBC micro:bit Sensor Starter Kit",
+			"Features a BBC micro:bit board plus an Adeept expansion board",
+			"Includes a PS2 joystick, a breadboard and a servo",
+			"Comes with many sensor modules",
+			"Provides an excellent 124 pages pdf manual"
+		],
+		"related": {
+			"0": "https://www.adeept.com/video/static1/itemsfile/380935AdeeptSensorKitforBBCMicrobit.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/grove-light-sensor-v12.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Electronic Experimentation Parts >",
+			"4": "GROVE Parts >",
+			"5": "Grove Light Sensor v1.2"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/g/r/grove-light-sensor-v12.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/g/r/grove-light-sensor-v12.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/g/r/grove-light-sensor-v12.jpg",
+			"9": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/g/r/grove-light-sensor-v12.jpg",
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null
+		},
+		"product": "Grove Light Sensor v1.2",
+		"price": [
+			"USD $2.90",
+			"USD $2.50",
+			"USD $2.30"
+		],
+		"highlight": {
+			"0": "Easy to use since it is interfaced with Grove port",
+			"1": "High reliability and sensibility",
+			"2": "Small footprint",
+			"3": "Recognizes wider spectrum"
+		},
+		"model": "RB-See-580",
+		"description": [
+			"As an updated version of Grove - Light Sensor 1.0, the Grove Light Sensor v1.2 is also aimed at measuring light levels, however with higher reliability and sensibility. It is an analog module and output various electrical signals which can be converted to different ranges (It depends on the Analog-to-Digital-Converter on your controller board.)It integrates a high-sensitive and reliable phototriode, and just like other grove modules, it is interfaced with Grove port which can save you a lot work in wiring.",
+			"Easy to use since it is interfaced with Grove port",
+			"High reliability and sensibility",
+			"Small footprint",
+			"Recognizes wider spectrum"
+		],
+		"spec": {
+			"0": "Operating voltage(V): 3-5 V",
+			"1": "Operating current(mA): 0.5-3 mA",
+			"2": "Response time: 20 ~ 30 milliseconds",
+			"3": "Peak Wavelength: 540 nm",
+			"4": "Phototriode: GL5528"
+		}
+	},
+	"https://www.robotshop.com/en/simultaneous-rfid-reader-m6e-nano.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "RFID >",
+			"4": "Simultaneous RFID Reader - M6E Nano"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/i/simultaneous-rfid-reader-m6e-nano.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/i/simultaneous-rfid-reader-m6e-nano.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/s/i/simultaneous-rfid-reader-m6e-nano.jpg",
+			"19": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/s/i/simultaneous-rfid-reader-m6e-nano.jpg",
+			"20": null,
+			"21": null,
+			"22": null,
+			"23": null,
+			"24": null,
+			"25": null,
+			"26": null,
+			"27": null,
+			"28": null,
+			"29": null,
+			"30": null,
+			"31": null,
+			"32": null,
+			"33": null,
+			"34": null
+		},
+		"product": "Simultaneous RFID Reader - M6E Nano",
+		"price": [
+			"USD $235.95",
+			"USD $226.51",
+			"USD $217.45"
+		],
+		"highlight": {
+			"0": "EPCglobal Gen 2 (ISO 18000-6C) with nominal backscatter rate of 250kbps",
+			"1": "Separate read and write levels, command adjustable from 0dBm to 27dBm in 0.01 dB steps",
+			"2": "0.84W in ready mode / 0.00025W in shutdown mode",
+			"3": "Up to 150 tags/sec to read 96-bit EPC",
+			"4": "80msec typical for standard write of 96-bit EPC"
+		},
+		"model": "RB-Spa-1405",
+		"description": [
+			"The Simultaneous RFID Reader - M6E Nano is an Arduino-compatible board to get you started with the M6E Nano UHF RFID Reader. Radio Frequency Identification (RFID) is becoming popular everywhere for tracking practically everything. Whether you want to get started by adding an RFID reader on your toolbox with tags on all your tools or allowing access to the tree house for your secret society meetings, this board may be for you!",
+			"With the Arduino shield footprint, you can connect this directly to an Arduino-compatible board, or a different microcontroller. You can also connect directly to your computer using the FTDI header on the board and read data using the Universal Reader Assistant.",
+			"Once you’ve started, this board will read EPCglobal Gen 2 tags (see Recommended Products) at up to 150 tags per second. Writing of tags is also possible at 80msec standard write. The board has adjustable power output from 0dBm to 27dBm, meaning that with the correct antenna you can read up to 16 feet (4.9m), or 1 to 2 feet with the onboard antenna.",
+			"EPCglobal Gen 2 (ISO 18000-6C) with nominal backscatter rate of 250kbps",
+			"Separate read and write levels, command adjustable from 0dBm to 27dBm in 0.01 dB steps",
+			"0.84W in ready mode / 0.00025W in shutdown mode",
+			"Up to 150 tags/sec to read 96-bit EPC",
+			"80msec typical for standard write of 96-bit EPC"
+		],
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/simultaneous-rfid-reader-m6e-nano-datasheet-1.pdf",
+			"1": "https://www.robotshop.com/media/files/pdf/simultaneous-rfid-reader-m6e-nano-datasheet-2.pdf",
+			"2": "https://www.robotshop.com/media/files/pdf/simultaneous-rfid-reader-m6e-nano-schematic.pdf",
+			"3": "https://www.robotshop.com/media/files/zip/documentation-sen-14066.zip"
+		}
+	},
+	"https://www.robotshop.com/en/6v-pololu-751-micro-metal-gearmotor-extended-motor-shaft.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Motors & Actuators >",
+			"4": "Gear Motors >",
+			"5": "Spur Gear Motors >",
+			"6": "6V Pololu 75:1 Micro Metal Gearmotor w/ Extended Motor Shaft"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/6/v/6v-pololu-751-micro-metal-gearmotor-extended-motor-shaft-1.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/6/v/6v-pololu-751-micro-metal-gearmotor-extended-motor-shaft-1.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null,
+			"11": null,
+			"12": null,
+			"13": null,
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/6/v/6v-pololu-751-micro-metal-gearmotor-extended-motor-shaft-1.jpg",
+			"19": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/6/v/6v-pololu-751-micro-metal-gearmotor-extended-motor-shaft-1.jpg",
+			"20": null,
+			"21": null,
+			"22": null,
+			"23": null,
+			"24": null,
+			"25": null,
+			"26": null,
+			"27": null,
+			"28": null,
+			"29": null,
+			"30": null,
+			"31": null,
+			"32": null,
+			"33": null,
+			"34": null
+		},
+		"product": "6V Pololu 75:1 Micro Metal Gearmotor w/ Extended Motor Shaft",
+		"price": [
+			"USD $18.95",
+			"USD $16.11",
+			"USD $14.21"
+		],
+		"highlight": {
+			"0": "400 RPM and 120 mA with no load",
+			"1": "22 oz-in (1.6 kg-cm) and 1.6 A at stall",
+			"2": "Long-life carbon brushes",
+			"3": "75.81:1 metal gearbox",
+			"4": "Compatible with 12 CPR Magnetic Encoder Pair Kit for Micro Metal (HPCB Compatible)"
+		},
+		"model": "RB-Pol-447",
+		"description": [
+			"The 6V Pololu 75:1 Micro Metal Gearmotor w/ Extended Motor Shaft is a miniature high-power, 6 V brushed DC motor with long-life carbon brushes and a 75.81:1 metal gearbox. It has a cross section of 10 × 12 mm, and the D-shaped gearbox output shaft is 9 mm long and 3 mm in diameter. This version also has a 4.5 × 1 mm extended motor shaft.",
+			"400 RPM and 120 mA with no load",
+			"22 oz-in (1.6 kg-cm) and 1.6 A at stall",
+			"Long-life carbon brushes",
+			"75.81:1 metal gearbox",
+			"Compatible with 12 CPR Magnetic Encoder Pair Kit for Micro Metal (HPCB Compatible)"
+		],
+		"spec": {
+			"0": "Gear ratio: 75.81:1",
+			"1": "Free-run speed @ 6V: 400 rpm",
+			"2": "Free-run current @ 6V: 120 mA",
+			"3": "Stall current @ 6V: 1600 mA",
+			"4": "Stall torque @ 6V: 22 oz·in",
+			"5": "Extended motor shaft?: Y",
+			"6": "Long-life carbon brushes?: Y",
+			"7": "Motor type: 1.6A stall @ 6V (HPCB 6V - carbon brush)"
+		}
+	},
+	"https://www.robotshop.com/en/raspberry-pi-camera-module-adjustable-focus-night-vision.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Microcontroller Accessories >",
+			"4": "Raspberry Pi Accessories / HATs >",
+			"5": "Raspberry Pi Camera Module w/ Adjustable Focus and Night Vision"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-camera-module-adjustable-focus-night-vision.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-camera-module-adjustable-focus-night-vision.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null,
+			"11": null,
+			"12": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/r/a/raspberry-pi-camera-module-adjustable-focus-night-vision.jpg",
+			"13": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/r/a/raspberry-pi-camera-module-adjustable-focus-night-vision.jpg",
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": null,
+			"19": null,
+			"20": null,
+			"21": null,
+			"22": null
+		},
+		"product": "Raspberry Pi Camera Module w/ Adjustable Focus and Night Vision",
+		"price": [
+			"USD $22.99",
+			"USD $21.59",
+			"USD $20.99"
+		],
+		"highlight": {
+			"0": "Raspberry Pi night vision camera module",
+			"1": "Supports all revisions of the Pi",
+			"2": "5 megapixel OV5647 sensor",
+			"3": "3.6mm adjustable focal lenght"
+		},
+		"model": "RB-Wav-90",
+		"description": [
+			"Raspberry Pi night vision camera module",
+			"Supports all revisions of the Pi",
+			"5 megapixel OV5647 sensor",
+			"3.6mm adjustable focal lenght"
+		],
+		"spec": {
+			"0": "CCD size : 1/4 inch",
+			"1": "Aperture (F) : 1.8",
+			"2": "Focal Length : 3.6MM (adjustable)",
+			"3": "Diagonal : 75.7 degree",
+			"4": "Sensor best resolution : 1080p",
+			"5": "Used for attachment",
+			"6": "Provides 3.3V power output",
+			"7": "Supports connecting infrared LED and/or fill flash LED"
+		},
+		"related": {
+			"0": "https://www.robotshop.com/media/files/pdf/raspberry-pi-camera-module-adjustable-focus-night-vision-User-Manual.pdf"
+		}
+	},
+	"https://www.robotshop.com/en/rplidar-usb-adapter-board-a1m8.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "Robot Parts >",
+			"3": "Interface Adapters & Converters >",
+			"4": "Misc. Adapters & Connectors >",
+			"5": "RPLidar USB Adapter Board for A1M8"
+		},
+		"image": {
+			"0": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/r/p/rplidar-usb-adapter-board-a1m8.jpg",
+			"1": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/r/p/rplidar-usb-adapter-board-a1m8.jpg",
+			"2": null
+		},
+		"product": "RPLidar USB Adapter Board for A1M8",
+		"price": [
+			"USD $14.99",
+			"USD $13.79",
+			"USD $12.69"
+		],
+		"highlight": {
+			"0": "Replacement adapter board for RPLidar A1M8 - 360 Degree Laser Scanner Development Kit"
+		},
+		"model": "RB-Rpk-09",
+		"description": [
+			"Replacement adapter board for RPLidar A1M8 - 360 Degree Laser Scanner Development Kit"
+		]
+	},
+	"https://www.robotshop.com/en/cubepilot-cube-mini-carrier-board.html": {
+		"category": {
+			"0": "Home >",
+			"1": "Robots to Build & Experiment >",
+			"2": "UAVs & Drones >",
+			"3": "UAV & Drone Parts & Accessories >",
+			"4": "UAV & Drone Electronics >",
+			"5": "UAV & Drone Misc. Electronics >",
+			"6": "CubePilot Cube Mini Carrier Board"
+		},
+		"image": {
+			"0": null,
+			"1": null,
+			"2": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/c/u/cube-mini-carrier-board.jpg",
+			"3": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/c/u/cube-mini-carrier-board.jpg",
+			"4": null,
+			"5": null,
+			"6": null,
+			"7": null,
+			"8": null,
+			"9": null,
+			"10": null,
+			"11": null,
+			"12": "https://www.robotshop.com/media/catalog/product/cache/image/200x200/3524282ca8bb6d36151c67ddbba511c2/c/u/cube-mini-carrier-board.jpg",
+			"13": "https://www.robotshop.com/media/catalog/product/cache/image/400x400/9df78eab33525d08d6e5fb8d27136e95/c/u/cube-mini-carrier-board.jpg",
+			"14": null,
+			"15": null,
+			"16": null,
+			"17": null,
+			"18": null,
+			"19": null,
+			"20": null,
+			"21": null,
+			"22": null
+		},
+		"product": "CubePilot Cube Mini Carrier Board",
+		"price": [
+			""
+		],
+		"highlight": {
+			"0": "",
+			"1": "",
+			"2": "",
+			"3": ""
+		},
+		"model": "RB-Htl-10",
+		"description": [
+			"The Mini Carrier Board for the Cube has the standardized DF17 connector which allows user to connect it to every version of the Cube flight controller. With smaller size and almost the same capability with Pixhawk 2.1 standard carrier board, it can better fit-in to those applications which have size limits.",
+			"Also, it can be equipped with the Cube Mini to better fulfill the requests from customers.",
+			"Mini Carrier Board for the Cube",
+			"Dual power input",
+			"Offers power distribution and voltage protection",
+			"Designed for the CubePilot The Cube Black (not included)"
+		]
+	}
+}

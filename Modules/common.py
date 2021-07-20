@@ -4,9 +4,12 @@ import requests
 import time
 import random
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 import pickle
 import json
 
+
+path_webdriver = '/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/ETC/Selenium/Chromedriver/chromedriver'
 
 def pickle_save(file, obj):
     with open(file, 'wb') as f:
@@ -24,14 +27,27 @@ def json_save(file, object):
         json.dump(object, file_json, indent='\t', ensure_ascii=False)
 
 
-def get_webdriver(wait_time=10):
+def json_load(file):
+    with open(file) as json_file:
+        result = json.load(json_file)
+        return result
+
+
+def get_webdriver(path_webdriver, headless=True, wait_time=3):
     """
     :param path_webdriver:
     :param wait_time:
     :return:
     """
-    path_webdriver = '..ETC/Chromedriver/chromedriver'
-    driver = webdriver.Chrome(path_webdriver)
+
+    options = Options()
+    options.add_argument('headless')  # disable-gpu와 같이 사용. 크롬 드라이버의 표시를 막아줌(리소스 최적화 및 속도 향상)
+    options.add_argument("disable-gpu")
+    options.add_argument('window-size=1920x1080')  # 크롬 드라이버 화면 사이즈 지정
+    if headless == True:
+        driver = webdriver.Chrome(path_webdriver, chrome_options=options)  # 크롬드라이버 실행
+    else:
+        driver = webdriver.Chrome(path_webdriver)
     driver.implicitly_wait(wait_time)
     return driver
 
