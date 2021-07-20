@@ -39,7 +39,7 @@ def crawl_key(save=False, headless=True, sample=False):
         dic_bothive[url2] = {}
         dic_bothive[url2]['Product'] = [product[idx]]
         dic_bothive[url2]['Brand'] = [brand[idx]]
-        dic_bothive[url2]['Information'] = [type1[idx]]
+        dic_bothive[url2]['type'] = [type1[idx]]
         dic_bothive[url2]['Image'] = [image[idx]]
 
     if save == True:
