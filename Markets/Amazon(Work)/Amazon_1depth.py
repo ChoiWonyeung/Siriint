@@ -9,6 +9,7 @@ from Pickle import *
 
 #아마존은 쿠키를 체크해 봇을 차단하여 리퀘스트 사용이 불가능함에 따라 셀레니움으로 진행하였습니다.
 def getList() -> list:
+    ###
     dic_amazons = []#Url을 담을 리스트
     url = 'https://www.amazon.com/s?k=robot&i=toys-and-games&rh=n%3A343404011&dc&page={page}&qid=1626742020&rnid=2941120011&ref=sr_pg_2'#페이지 부분에 포멧 설정
     '''
