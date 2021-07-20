@@ -8,8 +8,7 @@ def crawl_detail(dic_bothive, save=False, headless=True):
     # validation
     source_pre0 = pickle_load('/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/Markets/Bothive/save/pickles/bothive_2depth.pkl')
     source_pre = list(source_pre0.keys())
-    source0 = pickle_load('/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/Markets/Bothive/save/pickles/bothive_2depth.pkl')
-    source = list(source0.keys())
+    source = list(dic_bothive.keys())
     update = [key for key in source if key not in source_pre]
     if update == []:
         source = source
