@@ -100,6 +100,7 @@ def getPost() -> list:
                 Price = soup.find('span', {'id': 'priceblock_dealprice'}).text
             except:
                 Price = soup.find('span', {'id': 'priceblock_saleprice'}).text
+                try:Price = '품절'
         try:
             dic_amazon[post]['Price'] = listprice+"/"+saveprice+"/"+Price
         except:
@@ -111,8 +112,13 @@ def getPost() -> list:
         except:
             dic_amazon[post]['Warranty'] = None
 
-        dic_amazon[post]['Shipping'] = None
-        dic_amazon[post]['ShippingDate'] = None
+        if '품절' in Price :
+            dic_amazon[post]['Shipping'] = '품절로 인해 배송 불가'
+        else : dic_amazon[post]['Shipping'] = soup.find('span', {'id':'tabular-buybox-truncate-0'}).text
+
+        if '품절' in Price :
+            dic_amazon[post]['ShippingDate'] = '품절로 인해 배송 불가'
+        else : dic_amazon[post]['ShippingDate'] = None
         dic_amazon[post]['Specification'] = None
 
         #패키징 적재 없을시 None
@@ -129,14 +135,23 @@ def getPost() -> list:
             brandnum = brandnum + 2
 
 
-        dic_amazon[post]['Order'] = None
-
         #판매자 적재
         try:
             dic_amazon[post]['Seller'] = soup.find('a',{'id':'sellerProfileTriggerId'}).text
-        except:dic_amazon[post]['Seller'] = 'Amazon.com'
+        except:
+            if '품절' in Price :
+                dic_amazon[post]['Seller'] = '품절로 인해 판매자 없음'
+            else : dic_amazon[post]['Seller'] = 'Amazon.com'
 
-        dic_amazon[post]['Information'] = None
+        #인포메이션 적재
+        try:
+            information = soup.find('table',{'id':'productDetails_detailBullets_sections1'}).findAll('tr')
+            dic_amazon[post]['Information'] = []
+            for infor in information:
+                inforout = {delrn(infor.find('th').text) : delrn(infor.find('td').text)}
+                dic_amazon[post]['Information'].append(inforout)
+        except:
+            dic_amazon[post]['Information'] = None
 
         #상품정보 적재
         try:
@@ -154,6 +169,5 @@ def getPost() -> list:
         dic_amazon[post]['Url'] = url
 
         print(dic_amazon[post])
-        if counter == 10 : break
     pd.DataFrame(dic_amazon).to_csv("data/"+ 'amazon' + ".csv",encoding='utf-8-sig')
 getPost()
