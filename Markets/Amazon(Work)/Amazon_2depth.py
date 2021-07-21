@@ -5,7 +5,6 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 from Pickle import *
 import pandas as pd
-
 import time
 
 
@@ -20,18 +19,45 @@ def getPost() -> list:
     dic_amazon = pickle_load('pickle/dic_amazon_1depth.pkl')
     ls_source = list(dic_amazon.keys())
     #####
+    counter = 0
     for post in ls_source:
+        counter = counter + 1
+        print(str(counter)+'번째 수집중')
         url = post
         driver.get(post)
         time.sleep(1)
         source = driver.page_source
         soup = BeautifulSoup(source, 'html.parser')
 
-        #dic_amazon[post]['Brand'] =
+        #브랜드명 적재 없을시 None
+        lsbrand = soup.find('div',{'id':'productOverview_feature_div'}).findAll('td')
+        brandnum = 0
+        for brand in lsbrand :
+            try:
+                if 'Brand' in lsbrand[brandnum].text:
+                    dic_amazon[post]['Brand'] = delrn(lsbrand[brandnum+1].text)
+                    break
+                else: dic_amazon[post]['Brand'] = None
+            except:
+                dic_amazon[post]['Brand'] = None
+                break
+            brandnum = brandnum + 2
 
+        #프로덕트 적재
         dic_amazon[post]['Product'] = delrn(soup.find('span',{'id':'productTitle'}).text)
 
-        #dic_amazon[post]['Model'] =
+        #모델명 적재 없을시 None
+        brandnum = 0
+        for brand in lsbrand :
+            try:
+                if 'Model' in lsbrand[brandnum].text:
+                    dic_amazon[post]['Model'] = delrn(lsbrand[brandnum+1].text)
+                    break
+                else: dic_amazon[post]['Model'] = None
+            except:
+                dic_amazon[post]['Model'] = None
+                break
+            brandnum = brandnum + 2
 
         # 이미지 미리보기 갯수, 태그 찾기
         imageclick = soup.findAll('li',{'class':'a-declarative'})
@@ -55,45 +81,79 @@ def getPost() -> list:
             dic_amazon[post]['Video'] =soup.find('div',{'class':'airy-renderer-container'}).find('video')['src']
         except:
             dic_amazon[post]['Video'] = None
-        #dic_amazon[post]['Files'] =
 
-        #dic_amazon[post]['Option'] =
+        dic_amazon[post]['Files'] =None
 
-        #가격 수집
-        dic_amazon[post]['Price'] =soup.find('span',{'id':'priceblock_ourprice'}).text
+        dic_amazon[post]['Option'] =None
+
+        #가격 수집 할인이 될 경우 할인전 가격/할인되는 가격/할인 후 가격 으로 표기
+        try:
+            listprice = delrn(soup.find('span', {'class': 'priceBlockStrikePriceString'}).text)
+            saveprice = delrn(soup.find('td', {'class': 'priceBlockSavingsString'}).text)
+        except:
+            listprice=None
+            saveprice=None
+        try:
+            Price = soup.find('span', {'id':'priceblock_ourprice'}).text.replace(' ', '')
+        except:
+            try:
+                Price = soup.find('span', {'id': 'priceblock_dealprice'}).text
+            except:
+                Price = soup.find('span', {'id': 'priceblock_saleprice'}).text
+        try:
+            dic_amazon[post]['Price'] = listprice+"/"+saveprice+"/"+Price
+        except:
+            dic_amazon[post]['Price'] = Price
 
         #워런티가 비어있는 경우 데이터는 None으로 적재
         try:
-            dic_amazon[post]['Warranty'] =delrn(soup.find('div',{'id':'prodDetails'}).find('div',{'class':'a-span-last'}).find('div',{'class':'a-section'}).text).replace('Product Warranty: ', '')
+            dic_amazon[post]['Warranty'] =delrn(soup.find('div', {'id':'prodDetails'}).find('div', {'class':'a-span-last'}).find('div', {'class':'a-section'}).text).replace('Product Warranty: ', '')
         except:
             dic_amazon[post]['Warranty'] = None
-        #dic_amazon[post]['Shipping'] =
-        #dic_amazon[post]['ShippingDate'] =
-        #dic_amazon[post]['Specification'] =
-        #dic_amazon[post]['Package'] =
-        #dic_amazon[post]['Order'] =
-        #판매자 적재재
-        dic_amazon[post]['Seller'] = soup.find('a',{'id':'sellerProfileTriggerId'}).text
-        #dic_amazon[post]['Information'] =
 
+        dic_amazon[post]['Shipping'] = None
+        dic_amazon[post]['ShippingDate'] = None
+        dic_amazon[post]['Specification'] = None
+
+        #패키징 적재 없을시 None
+        brandnum = 0
+        for brand in lsbrand:
+            try:
+                if 'Dimensions' in lsbrand[brandnum].text:
+                    dic_amazon[post]['Package'] = delrn(lsbrand[brandnum+1].text)
+                    break
+                else: dic_amazon[post]['Package'] = None
+            except:
+                dic_amazon[post]['Package'] = None
+                break
+            brandnum = brandnum + 2
+
+
+        dic_amazon[post]['Order'] = None
+
+        #판매자 적재
+        try:
+            dic_amazon[post]['Seller'] = soup.find('a',{'id':'sellerProfileTriggerId'}).text
+        except:dic_amazon[post]['Seller'] = 'Amazon.com'
+
+        dic_amazon[post]['Information'] = None
+
+        #상품정보 적재
         try:
             DesText = delrn(soup.find('div',{'data-cel-widget':'aplus'}).text)
         except:DesText = None
-
         DesImage = []
         try:
             for img in soup.find('div',{'data-cel-widget':'aplus'}).findAll('img'):
                 if 'grey-pixel' in img['src']:continue
                 DesImage.append(img['src'])
-                print(img['src'])
-
         except:DesText = None
         dic_amazon[post]['Description'] = {'Text':DesText, 'Image':DesImage}
-        print(dic_amazon[post]['Description'])
 
-        dic_amazon[post]['Url'] =url
+        #상품 Url 적재
+        dic_amazon[post]['Url'] = url
 
         print(dic_amazon[post])
-        break
-    pd.DataFrame(dic_amazon).to_csv("/data/"+ 'amazon' + ".csv",encoding='utf-8-sig')
+        if counter == 10 : break
+    pd.DataFrame(dic_amazon).to_csv("data/"+ 'amazon' + ".csv",encoding='utf-8-sig')
 getPost()
