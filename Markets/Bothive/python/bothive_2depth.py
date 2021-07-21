@@ -1,5 +1,3 @@
-import json
-
 from Modules.common import *
 import Markets.Bothive.configuration.bothive_config as config
 
