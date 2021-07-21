@@ -1,10 +1,9 @@
-import config as config
 from Modules.common import *
 from Modules.table_make import table_make
 import re
 
-
-def crawl_detail(result, sample=False, save=False):
+##
+def crawl_detail(result, save=False):
     """
     다아라 수집 값의 dictionary(hash)를 만드는 함수.
     source(url, key)를 반복하여 접속하여 수집 항목에 따라 dictionary 구성
