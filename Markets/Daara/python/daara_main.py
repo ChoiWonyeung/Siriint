@@ -1,5 +1,4 @@
-import json
-from common import *
+from Modules.common import *
 from Markets.Daara.python.daara_1depth import crawl_key
 from Markets.Daara.python.daara_2depth import crawl_detail
 from Markets.Daara.python.daara_transform import transformation
