@@ -1,4 +1,4 @@
-from common import *
+from Modules.common import *
 import Markets.Cobot.crawl.cobot_config as config
 
 

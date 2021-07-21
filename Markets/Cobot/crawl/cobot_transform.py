@@ -1,4 +1,4 @@
-from common import *
+from Modules.common import *
 from ETC.format_json import format_json
 import pandas as pd
 

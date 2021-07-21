@@ -1,4 +1,4 @@
-from common import *
+from Modules.common import *
 
 
 def crawl_detail(dic_cobot, save=False, sample=False):
@@ -89,6 +89,6 @@ def crawl_detail(dic_cobot, save=False, sample=False):
             break
         cnt += 1
     if save== True:
-        json_save('./json/cobot_2depth.json', dic_cobot)
-        pickle_save('./pickles/dic_cobot_2depth.pkl', dic_cobot)
+        json_save('./json/cobot_2depth__.json', dic_cobot)
+        pickle_save('./pickles/dic_cobot_2depth__.pkl', dic_cobot)
     return dic_cobot
