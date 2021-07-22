@@ -130,6 +130,7 @@ def getPost(ls_source) -> list:
         if '품절' in Price:dic_amazon[post]['Shipping'] = '품절로 인해 배송 불가'
         else:dic_amazon[post]['Shipping'] = soup.find('span', {'id':'tabular-buybox-truncate-0'}).find('span').text
 
+########### DEVZONE ###########
         #배송기간
         if '품절' in Price:dic_amazon[post]['ShippingDate'] = '품절로 인해 배송 불가'
         else :
@@ -141,7 +142,7 @@ def getPost(ls_source) -> list:
                     datetime.today(year)+' '+monthnum+' '+shipdate.split(' ')[-1]
 
                 monthnum = monthnum + 1
-
+########### DEVZONE ###########
 
             dic_amazon[post]['ShippingDate'] = None
 
