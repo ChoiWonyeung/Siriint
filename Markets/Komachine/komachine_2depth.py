@@ -1,88 +1,100 @@
-import komachine_config as config
 from Modules.common import *
-import Modules.table_make
-import re
 
 
-def crawl_detail(result, sample=False, save=False):
-
-    """
-    komachine 수집 값의 dictionary(hash)를 만드는 함수.
-    source(url, key)를 반복하여 접속하여 수집 항목에 따라 dictionary 구성
-    정제 단계에서 모든 dictionary는 list 형태로 구성
-    :param result:
-    :param sample:
-    :param save:
-    :return:
-    """
-
-    cnt = 1
-    for key, value in result.items():
-        print(f"{cnt}번째 반복문 실행중...")
-
-        soup = req_bsEncoding(key)
+def crawl_detail(dic_komachine, sample=False, save=False):
+    source = list(dic_komachine.keys())
+    for dic_key, value in dic_komachine.items():
+        print(f"{source.index(dic_key)}번째 반복문 실행중...")
+        soup = req_bsEncoding(dic_key)
         sleep_random(print_time=True)
 
-        result[key]['describe img'] = {}
+        div_product_info = soup.select('section.product-info')
+        # image
+        try:
+            image_ls = div_product_info[0].select('div.slide img')
+            image1 = [i['src'] for i in image_ls]
+            image = {}
+            for idx, v in enumerate(image1):
+                image[idx] = v
+            dic_komachine[dic_key]['image'] = image
+        except:
+            pass
 
         try:
-
-            result[key]['catalog'] = {'{}'.format('pdf 파일'): '{}'.format(soup.select('div.product-doc a')[0]['href'])}
-            result[key]['describe'] = {'{}'.format('제품 설명'): '{}'.format(soup.select('section.product-desc.fr-view p')[1].text.replace('\n', '').strip().replace(' ', ''))}
+            video_ls = div_product_info[0].select('div.slide iframe')
+            video1 = [i['src'] for i in video_ls]
+            video = {}
+            for idx, v in enumerate(video1):
+                video[idx] = v
+            dic_komachine[dic_key]['video'] = video
 
         except:
-
-            result[key]['catalog'] = {}
-            result[key]['describe'] = {'{}'.format('제품 설명'): '{}'.format(soup.select('section.product-desc.fr-view p')[1].text.replace('\n', '').strip().replace(' ', ''))}
-
-        else:
-            result[key]['catalog'] = {}
-            result[key]['describe'] = {}
+            pass
 
 
-        img_list = []
-        result[key]['img'] = {}
-
+        # product name
         try:
+            table = div_product_info[0].select('div.product-doc table tr')
 
-            result[key]['thumbnail'] = {'썸네일 이미지' : '{}'.format(soup.select('div.wrapper.img img')[0]['src'])}
+            # product
+            product = table[0].select('td')
+            dic_komachine[dic_key]['product'] = product[0].text.strip()
 
+            # model
+            model = table[1].select('td')
+            dic_komachine[dic_key]['model'] = model[0].text.strip()
+
+            # type
+            type = table[2].select('td')
+            dic_komachine[dic_key]['type'] = type[0].text.strip()
+
+            # catalog
+            catalog = {}
+            catalog_ls = table[3].select('td a')
+            catalog1 = [i['href'] for i in catalog_ls]
+            for idx, v in enumerate(catalog1):
+                catalog[idx] = v
+            dic_komachine[dic_key]['catalog'] = catalog
         except:
+            pass
 
-            result[key]['thumbnail'] = {}
-
-        img_list += [i['src'] for i in soup.select("div.product-detail-tab-contents img")]
-
-        # 이미지 이름 넣는곳
+        # description
         try:
+            section_description = soup.select('section.product-desc')
+            description_ls = section_description[0].select('p')
+            description_image1 = section_description[0].select('p img')
+            description_text1 = [i.text.strip() for i in description_ls]
+            description_text2 = [i.replace('\n', '') for i in description_text1]
+            description_text = list(filter(None, description_text2))
+            description_image = []
 
-            img_list_name = [i.text for i in soup.select('div.product-detail-tabs span')]
-            result[key]['img'] = {'{}'.format(img_list_name[d]): '{}'.format(i) for d, i in enumerate(img_list)}
+            for i in description_image1:
+                try:
+                    description_image.append(i['href'])
+                except:
+                    description_image.append(i['src'])
+            ls_description = description_image + description_text
+            description = {}
+            for idx, v in enumerate(ls_description):
+                description[idx] = v
+            dic_komachine[dic_key]['description'] = description
 
-        except:
+            # product description_add
+            div_product_tabs = section_description[0].select('div.product-detail-tab > a')
+            div_product_tabs_contents = section_description[0].select('div.product-detail-tab-contents img')
 
-            result[key]['img'] = {'no_{}'.format(d): '{}'.format(i) for d, i in enumerate(img_list)}
+            description_tab = {}
+            product_tab = [i.text for i in div_product_tabs]
+            product_tab_contents = [i['href'] for i in div_product_tabs_contents]
+            for tab, contents in zip(product_tab, product_tab_contents):
+                description_tab[tab] = contents
+            dic_komachine[dic_key]['description']['tab'] = description_tab
 
-        result[key]['brand'] = {'제조사': '{}'.format(i.replace('\n', '').strip()) for i in
-                                (soup.select('div.title__short-desc div')[0])}
+        except Exception as e:
+            print(e)
+            pass
 
-        result[key]['brand describe'] = {'제조사 설명': '{}'.format(i.replace('\n', '').strip()) for i in
-                                         (soup.select('div.title__short-desc div')[1])}
-
-
-        if cnt % 30 == 0 and save == True:
-            print(f"{cnt} 번째에서 json 파일 생성중")
-            json_save('./json/komachine_2depth.json', result)
-
-        if sample == True and cnt != 30:
-            cnt += 1
-            continue
-
-    return result
+        # categories:
 
 
-# import json
-# with open('C:/Users/LG/Desktop/crolling/komachine/json/komachine_1depth.json', encoding='utf8') as json_file:
-#     result = json.load(json_file)
-#
-# final_result_2 = crawl_detail(result, sample=True, save=True)
+    return dic_komachine

@@ -23,12 +23,12 @@ def crawl_key(sample=False, save=False):
     soup = req_bsEncoding(config.url_robot)
     sleep_random(2, 4, print_time=True)
     source_ls = soup.select('div.wrapper > a')
-    source += [i['href'] for i in source_ls]
+    source += ['https://www.komachine.com' + i['href'] for i in source_ls]
     for key in source:
         dic_komachine[key] = {}
     if save == True:
-        json_save('Bigwave-Robotics/Markets/Komachine/json/komachine_1depth.json', dic_komachine)
-    pickle_save('Bigwave-Robotics/Markets/komachine/pickles/komachine_1depth.pkl', dic_komachine)
+        json_save('./json/komachine_1depth.json', dic_komachine)
+    pickle_save('./pickles/komachine_1depth.pkl', dic_komachine)
     return dic_komachine
 
 # soup = req_bsEncoding('https://www.komachine.com/ko/companies/abb/products/')
