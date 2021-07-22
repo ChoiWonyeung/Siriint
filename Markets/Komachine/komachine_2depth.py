@@ -1,6 +1,6 @@
 import komachine_config as config
-from common import *
-import table_make
+from Modules.common import *
+import Modules.table_make
 import re
 
 

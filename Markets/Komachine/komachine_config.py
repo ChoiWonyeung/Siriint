@@ -1,5 +1,6 @@
 # 페이지 url (페이지 넘버 없음)
-url_page = 'https://www.komachine.com/ko/categories/fa-factory-automation/?type=product&page='
+url_fa = 'https://www.komachine.com/ko/categories/fa-factory-automation/?type=product&page='
+url_robot = 'https://www.komachine.com/ko/companies/abb/products/'
 
 # 1차 크롤링 셀렉터
 selector_product = '.model'
