@@ -1,0 +1,393 @@
+{
+	"https://unchainedrobotics.de/en/products/robot/omron-en/omron-tm12/": {
+		"Brand": "Omron",
+		"Category": "Robot",
+		"Product": "Omron TM12",
+		"Model": "Omron TM12",
+		"Image": [
+			"https://unchainedrobotics.de/wp-content/uploads/2020/11/Omron_TM12_1.jpg",
+			"https://unchainedrobotics.de/wp-content/uploads/2020/11/TM_Omron_2.jpg",
+			"https://unchainedrobotics.de/wp-content/uploads/2020/11/TM_Omron_3.jpg"
+		],
+		"File": "https://unchainedrobotics.de/wp-content/uploads/2020/11/i837_collaborative_robots_datasheet_en.pdf",
+		"Price": "33.000,00€",
+		"Specification": {
+			"Range": "1300 mm",
+			"Payload": "12000 g",
+			"Repeatability": "0,1 mm",
+			"Footprint": "203 mm",
+			"Clean Room": "Yes",
+			"Joint speed": "180 °/s",
+			"Linear speed": "1,3 m/s",
+			"Weight": "33300 g",
+			"IP-Code": "–"
+		},
+		"Seller": {
+			"Name": "Unchained Robotics",
+			"Phone": "+49 1522 2798924"
+		},
+		"Description": {
+			"Text": "SpecificationsFor more than 85 years, Omron has been a leading developer of machines that make life easier for people. The state-of-the-art TM series of collaborative robots are designed to work together with people and machines and represent the latest of countless innovations in industrial automation. The TM12 is easy to transport and features an integrated vision system, allowing for quick start up and product changes. Thanks to the intuitive software, the robot can be taught almost any task imaginable. It relieves your employees of repetitive tasks and contributes to an increase in productivity. Rapid start up and quick product changes Downtime costs money, so you need a robot that starts quickly and works reliably. Thanks to Omron's plug-and-play software, this robot is ready for use immediately. The software is so intuitive that programming during start up and product change is no problem and you can get your production up and running very quickly. Faster setup thanks to integrated image processing The Omron TM Cobot series has an integrated image processing system. The camera detects objects in a wide field of view and the advanced illumination technology ensures flawless object detection in almost all conditions. Pick & Place The image processing system increases reliability, consistency and precision, e.g., of pick & place processes. In addition, you benefit from many functions, such as pattern recognition, barcode capture and color recognition, without any additional effort, which is essential for many inspection, measuring, and sorting applications. Security For man and machine to work together harmoniously, safety must be the top priority. Omron's Cobots meet the pertinent legal safety requirements.",
+			"Image": [
+				"https://unchainedrobotics.de/wp-content/uploads/2020/11/TM_Omron_thumb2.jpg",
+				"https://unchainedrobotics.de/wp-content/uploads/2020/11/TM_Omron_thumb1.jpg",
+				"https://unchainedrobotics.de/wp-content/uploads/2020/11/TM_Omron_thumb4.jpg",
+				"https://unchainedrobotics.de/wp-content/uploads/2020/11/TM_Omron_thumb3.jpg"
+			]
+		},
+		"Url": "https://unchainedrobotics.de/en/products/robot/omron-en/omron-tm12/"
+	},
+	"https://unchainedrobotics.de/en/products/gripper/onrobot-en-2/onrobot-2fg7/": {
+		"Brand": "OnRobot",
+		"Category": "Gripper",
+		"Product": "OnRobot 2FG7",
+		"Model": "OnRobot 2FG7",
+		"Image": [
+			"https://unchainedrobotics.de/wp-content/uploads/2021/01/02_2FG7_closer_fingers.png",
+			"https://unchainedrobotics.de/wp-content/uploads/2021/01/01_2FG7_closer_fingers.png",
+			"https://unchainedrobotics.de/wp-content/uploads/2021/01/00_2FG7_closer_fingers.png"
+		],
+		"File": "https://unchainedrobotics.de/wp-content/uploads/2021/01/Datasheet_2FG7_v1.0_EN_0.pdf",
+		"Price": "2.995,00€",
+		"Specification": {
+			"Category": "–",
+			"Payload": "11000 g",
+			"Weight": "1100 g",
+			"Hub": "83 mm",
+			"Force": "140 N",
+			"Number of gripping elements": "2",
+			"IP-Code": "–"
+		},
+		"Seller": {
+			"Name": "Unchained Robotics",
+			"Phone": "+49 1522 2798924"
+		},
+		"Description": {
+			"Text": "FeaturesSmaller and more powerful than other 2 finger grippers, the 2FG7 is perfect for use in applications with limited maneuvering space. Boasting a maximum payload of 11 kg (24.3 lb), an external grip range of up to 73 mm (2.87 in), and a gripping force of 20 N to 140 N, the versatile 2FG7 can easily handle heavy or bulky payloads. And with IP67 rating for harsh environments and ISO Class 5 certification for cleanroom use, the 2FG7 is ready to work almost anywhere you need it.Production ready Built to withstand harsh manufacturing conditions and applications, can handle demanding payloads even in tight spaces.One gripper for a wide range of applications Strong yet flexible, with precise adjustment of force and stroke to fit your specific application requirements.Extended automation possibilites Cleanroom certification for straightforward deployment in pharmaceutical and electronics industry.   Affordable Easy to use  and  cost effective, the 2FG7 gripper can  be deployed within minutes for many different applications.   IP67 rating for harsh environments 2FG7 can withstand harsh manufacturing conditions and applications such as in machine tending applications.   Ideal for small spaces With powerful grip and small footprint,  2FG7 is the perfect gripper to use in small work envelopes and in applications with tight quarters for maneuvering, even with heavy payloads.   ISO Class 5 certification for cleanroom use Compliant with ISO Class 5 required for many handling applications, the 2FG7 is ready to use in pharmaceuticals and electronics industries.   No compressed air required Electric parallel gripper, 2FG7 is ideal for high-mix/low-volume production since it allows for quick and easy deployement and redeployment.",
+			"Image": []
+		},
+		"Url": "https://unchainedrobotics.de/en/products/gripper/onrobot-en-2/onrobot-2fg7/"
+	},
+	"https://unchainedrobotics.de/en/products/gripper/schunk-en-2/schunk-co-act-egp-c/": {
+		"Brand": "SCHUNK",
+		"Category": "Gripper",
+		"Product": "Co-act EGP-C",
+		"Model": "Co-act EGP-C",
+		"Image": [
+			"https://unchainedrobotics.de/wp-content/uploads/2021/04/Schunk-Co-act-egp-c-RS-1.png",
+			"https://unchainedrobotics.de/wp-content/uploads/2021/04/schunk-co-act-egp-c-RS-2.png"
+		],
+		"File": null,
+		"Price": "1.750,00€",
+		"Specification": {
+			"Category": "–",
+			"Payload": "1150 g",
+			"Weight": "1380 g",
+			"Hub": "20 mm",
+			"Force": "230 N",
+			"Number of gripping elements": "2",
+			"IP-Code": "–"
+		},
+		"Seller": {
+			"Name": "Unchained Robotics",
+			"Phone": "+49 1522 2798924"
+		},
+		"Description": {
+			"Text": "FeaturesThe Co-act-EGP-C from SCHUNK is an electric gripper for flexible handling of workpieces. With a max. gripping force of 230N, workpiece weights up to 1.15kg are recommended for handling.Depending on the model, the stroke per jaw is 10mm, providing a total stroke of 20mm. With a dead weight of 1.38kg, the electric gripper without fingertips is wonderfully suited for use on the collaborative robots (cobots) of the Universal Robots, Doosan and Omron/TM brands.There are several variants for this model, which differ in stroke and max. gripping force and thus in max. payload. Based on your requirements, we will be happy to help you choose the appropriate variant. In a smaller version with a recommendation for handling workpieces up to 0.7kg, the gripper is also suitable for Doosan cobots.The Co-act-EGP-C is part of the Plug & Work portfolio, which includes electrically and pneumatically controlled grippers, quick-change modules and force-torque sensors. The SCHUNK end-of-arm modular system allows a wide range of combinations to handle the product of your choice.Technical data:Stroke: 6 – 20 mm Gripping force: 40 – 230 N Weight: 0.36 – 1.38 kg Recommended payload: 0,2 – 1,15 kg Cable length: 90 – 4000 mm   Certified gripping unit   Functional Security   Pre-assembled gripper unit with robot interface",
+			"Image": []
+		},
+		"Url": "https://unchainedrobotics.de/en/products/gripper/schunk-en-2/schunk-co-act-egp-c/"
+	},
+	"https://unchainedrobotics.de/en/products/robot/universal-robots-en/universal-robots-ur10e/": {
+		"Brand": "Universal Robots",
+		"Category": "Robot",
+		"Product": "Universal Robots UR10e",
+		"Model": "Universal Robots UR10e",
+		"Image": [
+			"https://unchainedrobotics.de/wp-content/uploads/2020/11/UniversalRobots_UR10e_1.jpg",
+			"https://unchainedrobotics.de/wp-content/uploads/2020/11/UniversalRobots_UR10e_2.jpg",
+			"https://unchainedrobotics.de/wp-content/uploads/2020/11/UniversalRobots_UR10e_3.jpg",
+			"https://unchainedrobotics.de/wp-content/uploads/2020/11/UniversalRobots_UR10e_4.jpg"
+		],
+		"File": "https://unchainedrobotics.de/wp-content/uploads/2020/11/Technische-Daten-UR10e.pdf",
+		"Price": "35.500,00€",
+		"Specification": {
+			"Range": "1300 mm",
+			"Payload": "12500 g",
+			"Repeatability": "0,05 mm",
+			"Footprint": "190 mm",
+			"Clean Room": "Yes",
+			"Joint speed": "180 °/s",
+			"Linear speed": "1 m/s",
+			"Weight": "33500 g",
+			"IP-Code": "–"
+		},
+		"Seller": {
+			"Name": "Unchained Robotics",
+			"Phone": "+49 1522 2798924"
+		},
+		"Description": {
+			"Text": "SpecificationsThe Universal Robots UR10e is an extremely versatile collaborative industrial robot arm with a high payload (10kg) and long reach capability.  Its 1300mm reach spans wide workspaces without compromising precision or payload performance.  UR10e addresses a wide range of applications in machine tending, palletizing, and packaging. The UR10e industrial robot is ideal for collaborative processes such as packaging, palletizing, assembly, and pick and place. With its large working radius, the UR10e ensures high efficiency for tasks that require a longer reach. This can save time on production lines where distance can be an important factor. Easy programming Patented technology lets operators with no programming experience quickly set up and operate our cobots with intuitive, 3D visualization. Simply move the robot arm to desired waypoints or touch the arrow keys on the easy-to-use touchscreen tablet. Fast setup Universal Robots has revolutionized cobot set-up, reducing typical robotic deployment measured in weeks to a matter of hours. The average set-up time reported by our customers is only half a day. The out-of-box experience for an untrained operator to unpack the cobot, mount it, and program the first simple task is typically less than an hour. Flexible use Don’t be limited by dedicated robotics. Universal Robots are lightweight, space-saving, and easy to re-deploy to multiple applications without changing your production layout. Moving the cobot to new processes is fast and easy, giving you the agility to automate almost any manual task, including those with small batches or fast changeovers. The cobot is able to re-use programs for recurrent tasks. Collaborative and secure Now you can replace human operators in dirty, dangerous, and dull jobs to reduce repetitive strain and accidental injuries. Eighty percent of the thousands of UR robots worldwide operate with no safety guarding (after risk assessment), right beside human operators. The safety system of our robots is approved and certified by TÜV (The German Technical Inspection Association).",
+			"Image": [
+				"https://unchainedrobotics.de/wp-content/uploads/2020/11/UR10e_thumb1.jpg",
+				"https://unchainedrobotics.de/wp-content/uploads/2020/11/UR10e_thumb3.jpg",
+				"https://unchainedrobotics.de/wp-content/uploads/2020/11/UR10e_thumb2.jpg",
+				"https://unchainedrobotics.de/wp-content/uploads/2020/11/UR10e_thumb4.jpg"
+			]
+		},
+		"Url": "https://unchainedrobotics.de/en/products/robot/universal-robots-en/universal-robots-ur10e/"
+	},
+	"https://unchainedrobotics.de/en/products/robot/doosan-en/doosan-robotics-h2017/": {
+		"Brand": "Doosan",
+		"Category": "Robot",
+		"Product": "Doosan Robotics H2017",
+		"Model": "Doosan Robotics H2017",
+		"Image": [
+			"https://unchainedrobotics.de/wp-content/uploads/2020/11/Doosan_Robotics_H2017.jpg",
+			"https://unchainedrobotics.de/wp-content/uploads/2020/11/doosan_h20171.jpg",
+			"https://unchainedrobotics.de/wp-content/uploads/2020/11/doosan_h2017_3.jpg",
+			"https://unchainedrobotics.de/wp-content/uploads/2020/11/doosan_h2017_2.jpg"
+		],
+		"File": "https://unchainedrobotics.de/wp-content/uploads/2020/11/brochure_ENG150.pdf",
+		"Price": "44.000,00€",
+		"Specification": {
+			"Range": "1700 mm",
+			"Payload": "20000 g",
+			"Repeatability": "0,1 mm",
+			"Footprint": "–",
+			"Clean Room": "No",
+			"Joint speed": "180 °/s",
+			"Linear speed": "1 m/s",
+			"Weight": "74.000 g",
+			"IP-Code": "–"
+		},
+		"Seller": {
+			"Name": "Unchained Robotics",
+			"Phone": "+49 1522 2798924"
+		},
+		"Description": {
+			"Text": "SpecificationsThe High-Power series from Doosan impresses with its high payloads. With payloads of up to 25kg, this series is particularly suitable for applications such as palletizing, machine loading, or the handling of heavy materials. The 6 built-in torque sensors ensure maximum safety at high loads. High payload The impressive payload allows for the easy handling of heavy objects up to 20 kg. High security Get outstanding safety with the industry's best collision sensitivity, driven by 6 torque sensors and a compensation mechanism. Low dead weight The Cobot has a low tare weight and is therefore only half as heavy as comparable Cobots in its class. This has numerous benefits for payload, speed, and possible deployment areas. High productivity The shorter cycle time and cost effectiveness maximize efficiency and productivity, ensuring the fastest possible payback.",
+			"Image": [
+				"https://unchainedrobotics.de/wp-content/uploads/2020/11/doosan_h2017_thumbnail2.jpg",
+				"https://unchainedrobotics.de/wp-content/uploads/2020/11/doosan_h20171.jpg",
+				"https://unchainedrobotics.de/wp-content/uploads/2020/11/doosan_h2017_3.jpg",
+				"https://unchainedrobotics.de/wp-content/uploads/2020/11/doosan_h2017_thumbnail1.jpg"
+			]
+		},
+		"Url": "https://unchainedrobotics.de/en/products/robot/doosan-en/doosan-robotics-h2017/"
+	},
+	"https://unchainedrobotics.de/en/products/gripper/softgripping-en/softgripping-3-finger-zentrischgreifer/": {
+		"Brand": "SoftGripping",
+		"Category": "Gripper",
+		"Product": "SoftGripping 3 Finger Centric Gripper",
+		"Model": "SoftGripping 3 Finger Centric Gripper",
+		"Image": [
+			"https://unchainedrobotics.de/wp-content/uploads/2020/11/Softgripping_3finger_1.jpg",
+			"https://unchainedrobotics.de/wp-content/uploads/2020/11/Softgripping_3finger_2.jpg",
+			"https://unchainedrobotics.de/wp-content/uploads/2020/11/Softgripping_3finger_3.jpg"
+		],
+		"File": "https://unchainedrobotics.de/wp-content/uploads/2020/11/SG.GB_.3F.C1_data_sheet.pdf",
+		"Price": "1.798,00€",
+		"Specification": {
+			"Category": "Soft Gripper",
+			"Payload": "300 g",
+			"Weight": "242 g",
+			"Hub": "90 mm",
+			"Force": "11 N",
+			"Number of gripping elements": "3",
+			"IP-Code": "–"
+		},
+		"Seller": {
+			"Name": "Unchained Robotics",
+			"Phone": "+49 1522 2798924"
+		},
+		"Description": {
+			"Text": "FeaturesThis package is designed to get your SoftGripper up and running in no time. It contains a pneumatic accessory kit to operate the SoftGripper with a Festo solenoid valve and a pressure regulator to control the pressure. The magnetic valve can provide two positions: gripping and releasing. Of course, all necessary hoses, connections, and screws are also included. Please note that the connection on the SoftGripper is ISO 9404-1-31.5-2-M5. For logistics The grippers are specially designed for the logistics industry. If many different products are to be processed and packaged, then the SoftGripping gripper is the right choice. Flexibility and robustness are the big advantages of this modular system. It can work more than 1 million cycles safely and error-free.For the food industry Foodstuffs have special requirements for cleanliness, hygiene, and sensitivity. SoftGripping grippers are designed to handle a wide variety of food and packaging. From chocolates and strawberries to baked goods, there are no limits to the applications.For safety SoftGrippers are specially designed to grip objects carefully and sensitively. This means that a combination with collaborative robots makes the implementation of a safe application very easy.   Modularity All components are modular and therefore interchangeable. The SoftGripping fingers can be exchanged within seconds.   Changing conditions A large number of different products are processed in logistics. The perfect gripper must be flexible, robust, and fault tolerant. With SoftGripping you can design the right gripper for the job.   Food Handling Special silicones and a simple design allow for the hygienic handling of food. Cleaning the grippers is extremely easy. Soft food is gripped sensitively.   Collaborative Attach your SoftGripping gripper to a Cobot and easily create a safe and collaborative interface between man and machine.",
+			"Image": []
+		},
+		"Url": "https://unchainedrobotics.de/en/products/gripper/softgripping-en/softgripping-3-finger-zentrischgreifer/"
+	},
+	"https://unchainedrobotics.de/en/products/robot/kassow-robots-en/kassow-robots-kr810/": {
+		"Brand": "Kassow Robots",
+		"Category": "Robot",
+		"Product": "Kassow Robots KR810",
+		"Model": "Kassow Robots KR810",
+		"Image": [
+			"https://unchainedrobotics.de/wp-content/uploads/2021/01/KR810RS1.png",
+			"https://unchainedrobotics.de/wp-content/uploads/2021/01/KR810RS3.png",
+			"https://unchainedrobotics.de/wp-content/uploads/2021/01/KR810RS2.png"
+		],
+		"File": "https://unchainedrobotics.de/wp-content/uploads/2021/01/Kassow-Robots-Flyer.pdf",
+		"Price": "29.100,00€",
+		"Specification": {
+			"Range": "850 mm",
+			"Payload": "10000 g",
+			"Repeatability": "0,1 mm",
+			"Footprint": "130 mm",
+			"Clean Room": "–",
+			"Joint speed": "225 °/s",
+			"Linear speed": "1 m/s",
+			"Weight": "24000 g",
+			"IP-Code": "–"
+		},
+		"Seller": {
+			"Name": "Unchained Robotics",
+			"Phone": "+49 1522 2798924"
+		},
+		"Description": {
+			"Text": "SpecificationsTrue to the motto “strong, fast, simple”, Kassow Robots develops and produces uniquely efficient lightweight industrial collaborative robots with 7 axes. With maximum payloads of up to 18 kilograms and maximum reaches of up to 1800 millimeters, Kassow Robots’ cobots are powerful, fast and suitable for use in small spaces due to their maneuverability. They also enable small and medium-sized enterprises (SMEs) to implement both simple and complex automation flexibly, independently and cost-effectively.Kassow’s technology is built around their robots’ extraordinarily strong joints. Not only are the joints robust, but they also enable lateral movements thanks to their 7th axis and optimally reproduce the motor function of human arms. This innovation was combined with simple, intuitive programming and operation based on well-known standard tablet technology.These innovative cobots were developed by a team led by Kassow Robots founder and CEO Kristian Kassow, who has already made a significant mark on the industry with his past contributions to the robotics industry.6 axes good, 7 axes better Most modern robot arms have only six axes (or degrees of freedom). The Cobot KR810 from Kassow Robots, unlike most other manufacturers, offers a 7th axis - and that in combination with unique efficiency. These 7 fully controlled axes allow for significantly more flexibility, because the robot arms can replicate the motor activity of real human arms much better and can even reach around corners. The result: more flexibility in movements. A robot with curves Thanks to their special kinematics, Kassow Robots' cobots can easily follow a given path – moving not only in straight lines, but also in curves - constantly and at a given speed.  This allows the cobot to be used for welding, gluing and more tasks that require a non-linear application at constant speed without settling. A truly collaborative robot The Kassow KR810 is a lightweight collaborative robot (cobot). It is designed to work with humans in an industrial environment. After a risk analysis, the robot can work with no or limited safety restrictions, which allows it to work with or collaborate with other employees. Innovative Software Interface The Kassow KR810 cobot is easy to operate and program, even small businesses and medium-sized companies can do this independently.  In addition, intelligent features such as a data Ethernet connection have been built into the cobots.",
+			"Image": [
+				"https://unchainedrobotics.de/wp-content/uploads/2021/01/KRpeople2.png",
+				"https://unchainedrobotics.de/wp-content/uploads/2021/01/KR1018RS5.png",
+				"https://unchainedrobotics.de/wp-content/uploads/2021/01/KRpeople1.png",
+				"https://unchainedrobotics.de/wp-content/uploads/2021/01/KRscreenRS.png"
+			]
+		},
+		"Url": "https://unchainedrobotics.de/en/products/robot/kassow-robots-en/kassow-robots-kr810/"
+	},
+	"https://unchainedrobotics.de/en/products/gripper/robotiq-en/robotiq-2f-140/": {
+		"Brand": "Robotiq",
+		"Category": "Gripper",
+		"Product": "Robotiq 2F-140",
+		"Model": "Robotiq 2F-140",
+		"Image": [
+			"https://unchainedrobotics.de/wp-content/uploads/2021/05/robotiq-2-finger-140-mm.png"
+		],
+		"File": "https://unchainedrobotics.de/wp-content/uploads/2021/05/Product-sheet-Adaptive-Grippers-EN.pdf",
+		"Price": "3.850,00€",
+		"Specification": {
+			"Category": "–",
+			"Payload": "2500 g",
+			"Weight": "1000 g",
+			"Hub": "140 mm",
+			"Force": "125 N",
+			"Number of gripping elements": "2",
+			"IP-Code": "–"
+		},
+		"Seller": {
+			"Name": "Unchained Robotics",
+			"Phone": "+49 1522 2798924"
+		},
+		"Description": {
+			"Text": "FeaturesRobotiq 2-Finger grippers, like the 2F-140, are the ideal solution for any solution that requires variable gripper stroke. With the Robotiq 2F-85 gripper you can use the same gripper for a large variety of part sizes and shapes, all the way up to 140 mm in width. This kind of adaptive, dual finger set up is ideal for small batch/rapid changeover production. With the 2F-140 gripper from Robotiq, there is no need to change out the gripper to prepare for a new production run.This reduces both set up and maintenance costs, as there are fewer hardware adjustments to be made between applications. Don’t build expensive and specialized single use tools, with the Robotiq 2-Finger gripper you have a gripper that can be a used again and again for a myriad of applciations.   Integrated Software Solution Robotiq's adaptive grippers come with intutive and easy-to-use software that greatly simplifies programming.   Variable part sizes Thanks to its unique variable design, the 2F-140 can pick parts of all sizes between 0 to 140 mm.   PlugnPlay compatible cobot brands AUBO, Doosan, Hanwha, OMRON/TM, Universal Robots, Yaskawa   Internal or external The gripper's design allows it to pick up products either externally or internally.",
+			"Image": []
+		},
+		"Url": "https://unchainedrobotics.de/en/products/gripper/robotiq-en/robotiq-2f-140/"
+	},
+	"https://unchainedrobotics.de/en/products/gripper/schunk-en-2/schunk-pzn-plus/": {},
+	"https://unchainedrobotics.de/en/products/robot/aubo-robotics-en/aubo-robotics-i5/": {},
+	"https://unchainedrobotics.de/en/products/robot/yuanda-en/yuanda-robotics/": {},
+	"https://unchainedrobotics.de/en/products/gripper/spin-robotics-en/spin-robotics-sd35-echt/": {},
+	"https://unchainedrobotics.de/en/products/gripper/coval-en/coval-cvgl/": {},
+	"https://unchainedrobotics.de/en/products/robot/universal-robots-en/universal-robots-ur5e/": {},
+	"https://unchainedrobotics.de/en/products/robot/omron-en/omron-tm14/": {},
+	"https://unchainedrobotics.de/en/products/gripper/robotiq-en/robotiq-airpick/": {},
+	"https://unchainedrobotics.de/en/products/robot/doosan-en/doosan-robotics-m1013/": {},
+	"https://unchainedrobotics.de/en/products/gripper/onrobot-en-2/onrobot-mg10/": {},
+	"https://unchainedrobotics.de/en/products/gripper/softgripping-en/softgripping-4-finger-basic-eoat/": {},
+	"https://unchainedrobotics.de/en/products/robot/denso-en/denso-cobotta/": {},
+	"https://unchainedrobotics.de/en/products/gripper/onrobot-en-2/onrobot-rg2-ft/": {},
+	"https://unchainedrobotics.de/en/products/robot/universal-robots-en/universal-robots-ur3e/": {},
+	"https://unchainedrobotics.de/en/products/gripper/schunk-en-2/schunk-jgp/": {},
+	"https://unchainedrobotics.de/en/products/robot/doosan-en/doosan-robotics-h2515/": {},
+	"https://unchainedrobotics.de/en/products/robot/aubo-robotics-en/aubo-robotics-i10/": {},
+	"https://unchainedrobotics.de/en/products/gripper/robotiq-en/robotiq-hand-e/": {},
+	"https://unchainedrobotics.de/en/products/robot/omron-en/omron-tm5-900/": {},
+	"https://unchainedrobotics.de/en/products/gripper/onrobot-en-2/onrobot-sander/": {},
+	"https://unchainedrobotics.de/en/products/robot/doosan-en/doosan-robotics-a0509/": {},
+	"https://unchainedrobotics.de/en/products/gripper/robotiq-en/robotiq-3-finger/": {},
+	"https://unchainedrobotics.de/en/products/robot/doosan-en/doosan-robotics-m0617/": {},
+	"https://unchainedrobotics.de/en/products/robot/omron-en/omron-tm5-700/": {},
+	"https://unchainedrobotics.de/en/products/end-of-arm-accessories-en/nordbo-robotics-end-of-arm-accessories-en/force-torque-sensor-nrs-6050-d80-ur/": {},
+	"https://unchainedrobotics.de/en/products/robot/doosan-en-3/doosan-smart-vision-module/": {},
+	"https://unchainedrobotics.de/en/products/robot/aubo-robotics-en/aubo-robotics-i16/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/easyrobotics-en/easyrobotics-profeeder-x/": {},
+	"https://unchainedrobotics.de/en/products/gripper/onrobot-en-2/onrobot-rg2/": {},
+	"https://unchainedrobotics.de/en/products/robot/dobot-en/dobot-m1-scara-roboter/": {},
+	"https://unchainedrobotics.de/en/products/end-of-arm-accessories-en/nordbo-robotics-end-of-arm-accessories-en/force-torque-sensor-high-torque-nrs-6200-d80-ur/": {},
+	"https://unchainedrobotics.de/en/products/gripper/schunk-en-2/schunk-egl/": {},
+	"https://unchainedrobotics.de/en/products/camera/mech-mind-en/mech-mind-pro-s-enhanced/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/easyrobotics-en/easyrobotics-profeeder-flex/": {},
+	"https://unchainedrobotics.de/en/products/robot/doosan-en/doosan_robotics_a0912/": {},
+	"https://unchainedrobotics.de/en/products/gripper/onrobot-en-2/onrobot-rg6/": {},
+	"https://unchainedrobotics.de/en/products/camera/framos-en/framos-d435e/": {},
+	"https://unchainedrobotics.de/en/products/teaching-kits-en/nordbo-robotics-teaching-kits-en/mimic-kit-for-ur-npr-r50-ur/": {},
+	"https://unchainedrobotics.de/en/products/gripper/schunk-en-2/schunk-egp/": {},
+	"https://unchainedrobotics.de/en/products/camera/mech-mind-en/mech-mind-pro-m/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/easyrobotics-en/easyrobotics-easypedestal/": {},
+	"https://unchainedrobotics.de/en/products/robot/universal-robots-en/universal-robots-ur16e/": {},
+	"https://unchainedrobotics.de/en/products/gripper/onrobot-en-2/onrobot-soft-gripper/": {},
+	"https://unchainedrobotics.de/en/products/robot/hanwha-en/hanwha-hcr-3a/": {},
+	"https://unchainedrobotics.de/en/products/end-of-arm-accessories-en/nordbo-robotics-end-of-arm-accessories-en/magnetic-tool-changer-ntc-e10/": {},
+	"https://unchainedrobotics.de/en/products/camera/mech-mind-en/mech-mind-pro-m-enhanced/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/easyrobotics-en/easyrobotics-er-work/": {},
+	"https://unchainedrobotics.de/en/products/gripper/onrobot-en-2/onrobot_3fg15/": {},
+	"https://unchainedrobotics.de/en/products/gripper/onrobot-en-2/onrobot-vg10/": {},
+	"https://unchainedrobotics.de/en/products/camera/ifm-en-2/ifm-o2v-objektinspektion/": {},
+	"https://unchainedrobotics.de/en/products/camera/framos-en/framos-industrial-depth-camera-d415e-starter-kit/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/freise-automation-en/hcr-a-starter-kit/": {},
+	"https://unchainedrobotics.de/en/products/gripper/schunk-en-2/schunk-flexible-gripper-egh/": {},
+	"https://unchainedrobotics.de/en/products/camera/mech-mind-en/mech-mind-pro-l/": {},
+	"https://unchainedrobotics.de/en/products/turnkey-solutions/ibk-en-2/ibk-cobotpalettierer/": {},
+	"https://unchainedrobotics.de/en/products/camera/ifm-en-2/ifm-o2d220/": {},
+	"https://unchainedrobotics.de/en/products/gripper/onrobot-en-2/onrobot-vgc10/": {},
+	"https://unchainedrobotics.de/en/products/camera/ifm-en-2/ifm-codeleser-1d-2d/": {},
+	"https://unchainedrobotics.de/en/products/robot/hanwha-en/hanwha-hcr-5a/": {},
+	"https://unchainedrobotics.de/en/products/gripper/onrobot-en-2/onrobot-vgp20/": {},
+	"https://unchainedrobotics.de/en/products/end-of-arm-accessories-en/schunk-end-of-arm-accessories-en/schunk-ftn-axia/": {},
+	"https://unchainedrobotics.de/en/products/camera/mech-mind-en/mech-mind-mech-eye-laser/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/easyrobotics-en/easyrobotics-easypalletizer/": {},
+	"https://unchainedrobotics.de/en/products/camera/ifm-en-2/ifm-o3d3/": {},
+	"https://unchainedrobotics.de/en/products/camera/omron-en-2/omron-fhv7h-kamera/": {},
+	"https://unchainedrobotics.de/en/products/robot/hanwha-en/hanwha-hcr-12a/": {},
+	"https://unchainedrobotics.de/en/products/end-of-arm-accessories-en/smartshift-end-of-arm-accessories-en/smartshift-light-manual-toolchanger/": {},
+	"https://unchainedrobotics.de/en/products/camera/mech-mind-en/mech-mind-nano/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/easyrobotics-en/easyrobotics-profeeder/": {},
+	"https://unchainedrobotics.de/en/products/gripper/onrobot-en-2/onrobot-gecko-single-pad/": {},
+	"https://unchainedrobotics.de/en/products/camera/onrobot-kamera-en/onrobot-eyes/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/ibk-en/cobot-wagen/": {},
+	"https://unchainedrobotics.de/en/products/end-of-arm-accessories-en/smartshift-end-of-arm-accessories-en/smartshift-robotbase-starter-kit/": {},
+	"https://unchainedrobotics.de/en/products/gripper/schunk-en-2/schunk-kgg/": {},
+	"https://unchainedrobotics.de/en/products/gripper/aim-robotics-en/aim-robotics-fd310-fluid-dispenser/": {},
+	"https://unchainedrobotics.de/en/products/robot/doosan-en/doosan-robotics-m0609/": {},
+	"https://unchainedrobotics.de/en/products/gripper/onrobot-en-2/onrobot-screwdriver/": {},
+	"https://unchainedrobotics.de/en/products/camera/omron-en-2/omron-f430/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/ibk-en/cobot-sockel/": {},
+	"https://unchainedrobotics.de/en/products/end-of-arm-accessories-en/smartshift-end-of-arm-accessories-en/smartshift-automatic-tool-changer/": {},
+	"https://unchainedrobotics.de/en/products/gripper/schunk-en-2/schunk-pgn-plus-p/": {},
+	"https://unchainedrobotics.de/en/products/gripper/aim-robotics-en/sd-30-55-syringe-dispenser/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/ibk-en/cobotwagen-kassow-edition/": {},
+	"https://unchainedrobotics.de/en/products/end-of-arm-accessories-en/smartshift-end-of-arm-accessories-en/smartshift-manual-tool-changer/": {},
+	"https://unchainedrobotics.de/en/products/gripper/schunk-en-2/scunk-psh/": {},
+	"https://unchainedrobotics.de/en/products/gripper/aim-robotics-en/aim-robotics-fd400-fluid-dispenser/": {},
+	"https://unchainedrobotics.de/en/products/robot/doosan-en/doosan-robotics-m1509/": {},
+	"https://unchainedrobotics.de/en/products/gripper/softgripping-en/softgripping-2-finger-parallel-softgripper/": {},
+	"https://unchainedrobotics.de/en/products/robot/kassow-robots-en/kassow-robots-kr1018-cobot/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/ibk-en/cobotstation-kassow-edition/": {},
+	"https://unchainedrobotics.de/en/products/gripper/coval-en/coval-cvgc150x150/": {},
+	"https://unchainedrobotics.de/en/products/camera/mech-mind-en/mech-mind-pro-s/": {},
+	"https://unchainedrobotics.de/en/products/gripper/aim-robotics-en/aim-robotics-fd-high-v-fluid-dispenser/": {},
+	"https://unchainedrobotics.de/en/products/robot/kassow-robots-en/kassow-robots-kr1205/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/ibk-en/cobotbediensaeule-kassow-edition/": {},
+	"https://unchainedrobotics.de/en/products/end-of-arm-accessories-en/schunk-end-of-arm-accessories-en/schunk-manual-quick-change-system-shs/": {},
+	"https://unchainedrobotics.de/en/products/gripper/softgripping-en/softgripping-4-finger-parallel-softgripper/": {},
+	"https://unchainedrobotics.de/en/products/robot/kassow-robots-en/kassow-robots-kr1410/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/ibk-en/cobotwagen-yuanda-edition/": {},
+	"https://unchainedrobotics.de/en/products/gripper/coval-en/coval-cvgc240x120/": {},
+	"https://unchainedrobotics.de/en/products/end-of-arm-accessories-en/onrobot-en-eoa/onrobot-dual-quick-changer/": {},
+	"https://unchainedrobotics.de/en/products/gripper/robotiq-en/robotiq-epick/": {},
+	"https://unchainedrobotics.de/en/products/gripper/softgripping-en/softgripping-4-finger-zentrischgreifer/": {},
+	"https://unchainedrobotics.de/en/products/robot/kassow-robots-en/kassow-robots-kr1805/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/ibk-en/cobotstation-yuanda-edition/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/variobotic-en/variobotic-varioshaker-540/": {},
+	"https://unchainedrobotics.de/en/products/end-of-arm-accessories-en/onrobot-en-eoa/onrobot-quick-changer/": {},
+	"https://unchainedrobotics.de/en/products/gripper/robotiq-en/robotiq-2f-85/": {},
+	"https://unchainedrobotics.de/en/products/robot/aubo-robotics-en/aubo-robotics-i3/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/ibk-en/tooldocking-onrobot-edition/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/variobotic-en/variobotic-varioshaker-270/": {},
+	"https://unchainedrobotics.de/en/products/end-of-arm-accessories-en/onrobot-en-eoa/hex-force-torque-sensor/": {},
+	"https://unchainedrobotics.de/en/products/gripper/softgripping-en/softgripping-8-finger-basic-eoat/": {},
+	"https://unchainedrobotics.de/en/products/robot/doosan-en-2/doosan-mobile-base/": {},
+	"https://unchainedrobotics.de/en/products/turnkey-solutions/lorenscheit-automatisierungstechnik/lorenscheit-flex-series-palletizer/": {},
+	"https://unchainedrobotics.de/en/products/starter-kit-en/easyrobotics-en/easyrobotics-profeeder-table/": {}
+}
