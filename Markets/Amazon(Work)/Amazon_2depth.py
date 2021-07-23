@@ -222,7 +222,7 @@ def getPost(ls_source) -> list:
         dic_amazon[post]['Url'] = url
 
         print(dic_amazon[post])
-        #if counter == 15:break
+
     pickle_save('pickle/dic_amazon_2depth.pkl', dic_amazon)
     pd.DataFrame(dic_amazon).to_csv("data/amazon.csv",encoding='utf-8-sig')
     json_save("data/amazon.json", dic_amazon)
