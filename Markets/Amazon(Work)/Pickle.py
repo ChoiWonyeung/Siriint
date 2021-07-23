@@ -10,11 +10,11 @@ def pickle_load(file):
         obj = pickle.load(f)
         return obj
 
-def json_save(file, obj):
-    with open(file, 'w') as f:
-        json.dump(obj, f)
+def json_save(file, object):
+    with open(file, 'w', encoding='utf-8') as file_json:
+        json.dump(object, file_json, indent='\t', ensure_ascii=False)
 
 def json_load(file):
-    with open(file, 'r') as f:
+    with open(file, 'r', encoding='utf-8') as f:
         obj = json.load(f)
         return  obj

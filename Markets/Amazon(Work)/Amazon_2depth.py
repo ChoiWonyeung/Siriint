@@ -76,7 +76,7 @@ def getPost(ls_source) -> list:
         imageclick = soup.findAll('li',{'class':'a-declarative'})#이미지 갯수만큼 반복
         imagenum = int(soup.find('li', {'class': 'a-declarative'}).find('span',{'class':'a-button-thumbnail'})['id'].replace('a-autoid-',''))#이미지 위치가 어디부터인지 찾기
 
-        #이미지 미리보기 갯수만큼 반복하여 이미지 활성화
+        #이미지 미리보기 갯수만큼 반복하여 이미지 활성화\####
         for clicked in imageclick:
             clickpoint = driver.find_element_by_id('a-autoid-'+str(imagenum))
             ActionChains(driver).move_to_element(clickpoint).perform()
@@ -226,10 +226,14 @@ def getPost(ls_source) -> list:
     pickle_save('pickle/dic_amazon_2depth.pkl', dic_amazon)
     pd.DataFrame(dic_amazon).to_csv("data/amazon.csv",encoding='utf-8-sig')
     json_save("data/amazon.json", dic_amazon)
-#getPost(ls_source)
-try:getPost(ls_source)
-except Exception as error:
-    print(error)
-    pickle_save('pickle/dic_amazon_2depth.pkl', dic_amazon)
-    pd.DataFrame(dic_amazon).to_csv("data/amazon.csv", encoding='utf-8-sig')
-    json_save("data/amazon.json", dic_amazon)
+
+
+
+getPost(ls_source)
+#try:getPost(ls_source)
+
+#except Exception as error:
+    #print(error)
+    #pickle_save('pickle/dic_amazon_2depth.pkl', dic_amazon)
+    #pd.DataFrame(dic_amazon).to_csv("data/amazon.csv",encoding='utf-8-sig')
+    #json_save("data/amazon.json", dic_amazon)
