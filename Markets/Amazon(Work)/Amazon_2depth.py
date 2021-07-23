@@ -119,7 +119,9 @@ def getPost(ls_source) -> list:
                     Price = soup.find('span', {'id': 'priceblock_dealprice'}).text
                 except:
                     Price = soup.find('span', {'id': 'priceblock_saleprice'}).text
-            try:dic_amazon[post]['Price'] = listprice+"/"+saveprice+"/"+Price
+            try:
+                dic_amazon[post]['Price']['Original'] = listprice
+                dic_amazon[post]['Price']['Discount'] = Price
             except:dic_amazon[post]['Price'] = Price
         except :
             Price = '품절'
@@ -220,7 +222,7 @@ def getPost(ls_source) -> list:
         dic_amazon[post]['Url'] = url
 
         print(dic_amazon[post])
-        if counter == 15:break
+        #if counter == 15:break
     pickle_save('pickle/dic_amazon_2depth.pkl', dic_amazon)
     pd.DataFrame(dic_amazon).to_csv("data/amazon.csv",encoding='utf-8-sig')
     json_save("data/amazon.json", dic_amazon)
