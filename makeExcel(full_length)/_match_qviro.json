@@ -1,0 +1,3391 @@
+{
+	"https://qviro.com/product/panda": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "FRANKA EMIKA",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/FRANKA-EMIKA-Panda-400x400.png, https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka_Panda_204.jpg, https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka_Panda_cooperation.jpg, https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka_Panda_explosion.jpg, https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka_Panda_moon.jpg, https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka_Panda_teaching.jpg, //www.youtube.com/embed/bXo68UFNyhk?rel=0",
+		"name": {
+			"0": "PANDA"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"Franka Emika´s robot is agile and sensitive — like a human arm. Programming is workflow-based and intuitive, interaction is seamless.",
+			"Panda is currently the fastest-selling industrial robotic system in the world. For Panda, Franka Emika received the German President‘s Award for Innovation in Science and Technology and was the only German company to make it onto the cover of TIME Magazine's \"Best Inventions 2018\" edition.",
+			"Best for",
+			"The Panda is used a lot in research.",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "3 kg",
+			"Reach": "800 mm",
+			"Repeatability": "0.1 mm",
+			"Linear speed": "2000 mm/s",
+			"Number of Axes": "7",
+			"Robot mass": "18.5 kg",
+			"Extra info": "Programming: C++ / ROS"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [
+			"/images/slider-angle-left.png",
+			"/images/slider-angle-right.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka-Emika-Panda-technical-qviro-1.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka-Emika-Panda-technical-qviro-2.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/Franka-Emika-Panda-technical-qviro-3.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/Franka-Emika-Panda-technical-qviro-1.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/Franka-Emika-Panda-technical-qviro-2.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/Franka-Emika-Panda-technical-qviro-3.jpg"
+		],
+		"related_doc_url_4": {
+			"0": "https://www.youtube.com/embed/f5Il5x3lY1c"
+		},
+		"related_doc_url_5": {
+			"0": "Solution  The Franka Emika Panda performs all sequential operations that an operator would do. It opens the door of the CNC machine, picks the raw material, inserts it into the machine, closes the door and starts the machine by pushing the button. The solution is provided by the company Vision Lasertechnik.  Outcome  This solution provides a stable production process with a very predictable daily output. The production is more balanced and all bottlenecks in the process are removed.  Partners    FRANKA EMIKA"
+		},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/tm5-700": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "OMRON",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/TECHMAN-ROBOT-TM-5-700-400x400.png, https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/robot_arm_tm5_tm5a_700_190x232_prod.jpg",
+		"name": {
+			"0": "TM5-700"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"The TM5-700 is safer, simpler to program, and easier to integrate with other equipment than ever before, representing a big step toward creating an intelligent manufacturing environment where humans and machines work in harmony.",
+			"Best for",
+			"Product variants",
+			"The TM5-700 is a variant of the TM5-900.",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "6 kg",
+			"Reach": "700 mm",
+			"Repeatability": "0.05 mm",
+			"Linear speed": "1100 mm/s",
+			"Number of Axes": "6",
+			"Robot mass": "22.1 kg",
+			"Extra info": "Programming: TMflow, flowchart based"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [
+			"/images/slider-angle-left.png",
+			"/images/slider-angle-right.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/i850_tm_collaborative_robot_brochure_en.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/TM-datasheet-1837-E-09.fm.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/i850_tm_collaborative_robot_brochure_en.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/TM-datasheet-1837-E-09.fm.png",
+			"https://img.youtube.com/vi/mEg3o6u9GXY/hqdefault.jpg"
+		],
+		"related_doc_url_4": {
+			"0": "https://www.youtube.com/embed/QgJz3LYs51g",
+			"1": "https://www.youtube.com/embed/pGjeMqRekRQ",
+			"2": "https://www.youtube.com/embed/pvxJsRCkoSw"
+		},
+		"related_doc_url_5": {
+			"0": "Problem  Fischer Gears (Randers Tandhjulsfabrik A/S) is a family-owned company based in Randers, Denmark. It has been producing gears and gearboxes for the industrial and maritime markets since 1920, and has become a leading supplier. The company’s state-of-the-art machinery uses the latest technologies and processes. Most recently, Fischer Gears invested in two Omron TM cobots, which are used to automate the feeding of metal parts into four CNC (computer numerical control) machines. This was previously a manual process.  Solution  Although the company already uses traditional industrial robots, its investment in cobots still represents a paradigm shift. Factory manager, Lars Bo Nielsen, explains: “It's not just another investment in robotics. Collaborative robots bring a whole new way of thinking because unlike traditional robots, the Omron TM robots don’t have to be hidden away behind a fence. And if this project is a success, these probably won't be the last cobots we will use in the production line.”  Outcome  Fischer Gears produces their products with series sizes that can vary from one item to several hundred pieces. The investment in Omron’s cobots will enable the company to become much more competitive in the future with these larger orders. The cobots will be part of a production cell consisting of four CNC machines, and will be moved between the machines as needed. “The robots can feed items in and out of the machines even after usual working hours, which allows us to make the most of the production line and increase efficiency, giving us a competitive edge on the larger series at the same time,” explains Lars Bo Nielsen. In addition to reducing the production costs of the large series, the Omron cobots also help to free the company’s employees to carry out more value-adding production tasks. “The robots are an investment in a better working environment. Virtually all of our employees are skilled workers with a good education, and we can now use them for far more exciting tasks than the manual feeding of items,” the factory manager explains.  Partners    OMRON",
+			"1": "Problem  Leica Geosystems is a global company that specialises in supplying premium sensors, software and services to professionals in surveying, construction, infrastructure, mining, aerospace, manufacturing and other industries. At its machine control facility in Odense, Denmark, the company needed a flexible, accurate and safe way of moving trays from a rack. These then needed to be placed precisely so that the items on the tray could be filled with epoxy material. The new solution also needed to be scalable.  Solution  One of the key issues was that epoxy fumes can be harmful to people, as they can cause inflammation and irritation of the nose, throat and lungs. The OMRON TM cobot provided a perfect solution, as it can be easily deployed in areas that can be hazardous for people to work in. Other components of the solution include OMRON’s NX and NXIO systems of machine control and its Sysmac machine automation platform. The solution was easy to install in Leica’s production process and Gibotech carried out the system integration. So, how does the OMRON TM cobot automate the tray handling process? Firstly, it picks up a tray of units from a rack, using the TM landmark. This is a logo or marker that can be attached to the rack and can be easily detected by the cobot’s vision camera. The marker provides a reference point for the cobot’s movements, as other points can be defined in relation to the landmark’s position. This means that the cobot can be trained to identify the location of an item. It can then use the landmark to pick and place each item with great accuracy. Even if the rack is moved, the cobot still knows where to move based on the landmark’s position. For the Leica process, the cobot collects the tray and moves it so that it’s underneath an epoxy extruder. It adjusts the position of the tray so that the various types of items on the tray can be filled with epoxy material. The cobot then places the tray with the epoxy units in racks for curing and hardening for several hours. Following this, it replaces the tray in the rack, again using the TM landmark as a locator.  Outcome  The new system means that different items on the trays can now be filled with epoxy material without any people being present. This improves ergonomics and safety in the working environment and protects Leica’s employees, who have been moved to other business-critical tasks. At the same time, the new solution has also reduced labour and production costs for the company. OMRON’s Project Manager, Kenneth Jochumsen, comments: “This was a very special and innovative cobot application never seen before in the Nordics. We were able to develop it due to our integrated technology solutions and our extensive knowledge of industrial automation. The whole project was in line with OMRON’s underlying philosophy of interactive and safe collaboration between people and machines.” Bent Andersen, Product Supply and Process Service Manager for Leica Geosystems, adds: “Our company expects to expand significantly in the future, so it was important to find a solution that can grow as the company grows. We therefore particularly liked the flexibility and scalability of OMRON’s automation solution, and the implications it has for greater worker safety.”  Partners    OMRON",
+			"2": "Problem  CLECA was formed in Italy in 1939 and has since developed creative cuisine solutions, leading to the company becoming a point of reference in the food sector, due to the high quality of its products. The key to its success is its blend of innovative products and great classics, as shown by its S. Martino pudding. The company recently decided to improve its maintenance and shipping operations by boosting the productivity of the entire packaging department at its main plant in San Martino dall'Argine. An essential element of this has been the introduction of a pair of collaborative robots.  Solution  Following CLECA’s review of its packaging processes, it decided to deploy OMRON TM12 cobots at the end of the packaging line, in a palletizing application. This decision was received very well by the operators, who soon noticed a clear improvement in their work conditions. They experienced a reduction in repetitive operations (as these were delegated to the machine), as well as improved change-over times.  Outcome  The introduction of cobots at CLECA coincided with the implementation of key automation solutions relating to Industry 4.0, including the connection and interface with the factory’s manufacturing execution system (MES). The integration of the collaborative cell and the machines present in the plant was made possible by the Ethernet communication integrated between various OMRON programmable logic controllers in CLECA's San Martino dall'Argine plant. The increase in productivity and process efficiency achieved by using the cobots, combined with the reduction of indirect costs, will enable CLECA to achieve a return on investment (ROI) in less than a year from the start-up of the collaborative cell.  Partners    OMRON"
+		},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/crx-10ia-l": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "FANUC",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/fanuc-crx10ia.jpg",
+		"name": {
+			"0": "CRX-10iA/L"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "10 kg",
+			"Reach": "1418 mm",
+			"Repeatability": "0.04 mm",
+			"Linear speed": "1000 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "190 mm",
+			"Robot mass": "40 kg"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [
+			"/images/slider-angle-left.png",
+			"/images/slider-angle-right.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/stop-function.PNG",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/CRX-10iA-black-background.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/CRX-manual-guided-teaching.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/stop-function.PNG",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/CRX-10iA-black-background.jpg",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/CRX-manual-guided-teaching.jpg"
+		],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/hc10": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "YASKAWA",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/YASKAWA-MOTOMAN-HC10-400x400.png, //www.youtube.com/embed/pwB78hUqKXM?rel=0",
+		"name": {
+			"0": "HC10"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"The HC10 is a 6 axes human-collaborative robot with a payload of up to 10 kg. Operator’s safety is assured by a Power and Force Limit technology that stops the robot in case of contact with an operator.",
+			"The robot arm can be hand guided by an operator and robot positions and gripper operation can be registered via so called “Easy Teaching Switch Box”. These features offer time saving during the robot programming. The robots arm geometry was designed to avoid pinch points (finger).",
+			"The HC10 robot can operate without additional protective measures like a safety fence, depending on the risk assessment. This saves space and costs. Its installation area is very flexible and therefore able to operate at different workplaces.",
+			"Product variants",
+			"The HC10DT is a variant of the HC10.",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "10 kg",
+			"Reach": "1200 mm",
+			"Repeatability": "0.1 mm",
+			"Linear speed": "1000 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "232 mm",
+			"Robot mass": "47 kg"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [
+			"/images/slider-angle-left.png",
+			"/images/slider-angle-right.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC10-technical-1.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC10-technical-2.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC10-technical-3.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC10-technical-4.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC10-technical-5.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC10-technical-6.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC10-technical-7.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/HC10-technical-1.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/HC10-technical-2.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/HC10-technical-3.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/HC10-technical-4.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/HC10-technical-5.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/HC10-technical-6.png",
+			"https://s3.eu-west-3.amazonaws.com/virtual-industry/_productThumbnail/HC10-technical-7.png"
+		],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/i10": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "AUBO",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/AUBO-I10-400x400.png",
+		"name": {
+			"0": "I10"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"The Aubo i Series of robots use the CAN bus networks to communicate between joints. Low cost of ownership and high positional repeatability are some of the other criteria that makes up the outstanding features of this robot. Aubo Robotics holds several core patents and has strategic cooperation with several public companies leveraging the best of all new technologies.",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "10 kg",
+			"Reach": "1350 mm",
+			"Repeatability": "0.05 mm",
+			"Number of Axes": "6"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/tm14": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "OMRON",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/TECHMAN-ROBOT-TM-14-400x400.png",
+		"name": {
+			"0": "TM14"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"The TM14 offers class-leading payload and reach capabilities. Like the TM5 the new increased specification robots are easy to deploy, are highly flexible, are maintenance-free, and provide a high-performance automation solution for manufacturing.",
+			"TM Robot comes with built-in vision hardware and integrated vision software with a human-machine interface. Function such as shape matching, barcode & QR code reading, color recognition, OCR, etc is all easily configured from the integral robot design toolbox.",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "14 kg",
+			"Reach": "1100 mm",
+			"Repeatability": "0.1 mm",
+			"Linear speed": "1100 mm/s",
+			"Number of Axes": "6",
+			"Robot mass": "32.6 kg",
+			"Extra info": "Programming: TMflow, flowchart based"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/tm5-900": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "OMRON",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/TECHMAN-ROBOT-TM-5-900-400x400.png",
+		"name": {
+			"0": "TM5-900"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"The TM5 collaborative robot features simple programming, innovative integrated vision capabilities together with the latest safety functionality, all leading to rapid deployment in a huge variety of applications. Having vision identification functionality completely integrated within the collaborative robot platform, provides an easy and intuitive way to achieve robot calibration to work piece or tooling, product selection, 1D or 2D barcodes and a host of other vision applications, delivering a true Industry 4.0 solution.",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "4 kg",
+			"Reach": "900 mm",
+			"Repeatability": "0.05 mm",
+			"Linear speed": "1400 mm/s",
+			"Number of Axes": "6",
+			"Robot mass": "22.6 kg",
+			"Extra info": "Programming: TMflow, flowchart based"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/cr-35ia": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "FANUC",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/FANUC-CR35iA-400x400.png",
+		"name": {
+			"0": "CR-35iA"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "35 kg",
+			"Reach": "1813 mm",
+			"Repeatability": "0.03 mm",
+			"Linear speed": "750 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "650 mm",
+			"Robot mass": "990 kg"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/cr-7ia": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "FANUC",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/FANUC-CR7iA-400x400.png",
+		"name": {
+			"0": "CR-7iA"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "7 kg",
+			"Reach": "717 mm",
+			"Repeatability": "0.01 mm",
+			"Linear speed": "1000 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "296.5 mm",
+			"Robot mass": "53 kg"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/hc20": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "YASKAWA",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/YASKAWA-MOTOMAN-HC20-NEW-400x400.png",
+		"name": {
+			"0": "HC20"
+		},
+		"summary": {},
+		"description": [],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "20 kg",
+			"Reach": "1700 mm",
+			"Number of Axes": "6"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/cr-4ia": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "FANUC",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/FANUC-CR4iA-400x400.png",
+		"name": {
+			"0": "CR-4iA"
+		},
+		"summary": {},
+		"description": [
+			"About"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "4 kg",
+			"Reach": "550 mm",
+			"Repeatability": "0.01 mm",
+			"Linear speed": "1000 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "296.5 mm",
+			"Robot mass": "48 kg"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/panda-research-robot": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "FRANKA EMIKA",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/FRANKA-EMIKA-Panda-400x400.png",
+		"name": {
+			"0": "PANDA RESEARCH ROBOT"
+		},
+		"summary": {},
+		"description": [
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "3 kg",
+			"Reach": "855 mm",
+			"Repeatability": "0.1 mm",
+			"Linear speed": "2000 mm/s",
+			"Number of Axes": "7",
+			"Robot mass": "18 kg",
+			"Extra info": "Programming: App based"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/lbr-iisy": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "KUKA",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/KUKA-LBR-IISY-400x400.png",
+		"name": {
+			"0": "LBR IISY"
+		},
+		"summary": {},
+		"description": [],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "3 kg",
+			"Reach": "600 mm",
+			"Number of Axes": "6"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/lbr-iiwa-7": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "KUKA",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/product/_productMain/KUKA_LBR_IIWA_7_2021-05-04-190306.png, https://s3.eu-west-3.amazonaws.com/virtual-industry/product/_productMain/KUKA_LBR_IIWA_7_2.png",
+		"name": {
+			"0": "LBR IIWA 7 R800"
+		},
+		"summary": {},
+		"description": [],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "7 kg",
+			"Reach": "800 mm",
+			"Repeatability": "0.1 mm",
+			"Number of Axes": "",
+			"Robot mass": "22.3 kg"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/crx-10ia": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "FANUC",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/FANUC-CRX10IA-400x400.png",
+		"name": {
+			"0": "CRX-10iA"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "10 kg",
+			"Reach": "1249 mm",
+			"Repeatability": "0.04 mm",
+			"Linear speed": "1000 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "190 mm",
+			"Robot mass": "40 kg"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/hc10dt-ip67": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "YASKAWA",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/product/_productMain/Yaskawa_HC10DT_IP67_web.png",
+		"name": {
+			"0": "HC10DT IP67"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"The MOTOMAN HC10DT-IP67 is a human-collaborative robot with a payload of 10 kg and a reach of 1.200mm.",
+			"",
+			"Best for",
+			"Specifications like high IP67 (dust/liquid proof) protection rating, food-grade grease lubrication in all joints, and a special drip-proof coating allow the robot to be used in certain food-related applications."
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "10 kg",
+			"Reach": "1200 mm",
+			"Repeatability": "0.1 mm",
+			"Number of Axes": "6",
+			"Footprint": "255 mm",
+			"Robot mass": "58 kg",
+			"Industry": "Automotive Food and Beverage Packaging Healthcare Electronics Aerospace and Defense Energy and Utilities"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/cr-7ia-l": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "FANUC",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/FANUC-CR7LiA-400x400.png",
+		"name": {
+			"0": "CR-7iA/L"
+		},
+		"summary": {},
+		"description": [
+			"About"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "7 kg",
+			"Reach": "911 mm",
+			"Repeatability": "0.01 mm",
+			"Linear speed": "1000 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "296.5 mm",
+			"Robot mass": "55 kg"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/hc10dtf": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "YASKAWA",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/product/_productMain/HC10DTF_web.png",
+		"name": {
+			"0": "HC10DTF"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"The MOTOMAN HC10DTF robots are 6 axes, human-collaborative robots with a payload of up to 10 kg. The operator’s safety is assured by a Power and Force Limit technology that stops the robot in case of contact with an operator.",
+			"Best for",
+			"Complying with EN 60529-IP67, they are dust and waterproof protected to operate in harsh environments. The chemical-proof surface resists acid or alkaline cleaning fluid. Protection class IP67 for Food Grade Grease and ISO cleanroom class 5 allow these robots to be used in food-related applications, as well as in Life Science Applications."
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "10 kg",
+			"Reach": "1200 mm",
+			"Repeatability": "0.05 mm",
+			"Number of Axes": "6",
+			"Industry": "Automotive Food and Beverage Packaging Healthcare Electronics Aerospace and Defense Energy and Utilities",
+			"": ""
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/cr-14ia-l": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "FANUC",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/hauptbild20cr-14ial.jpg",
+		"name": {
+			"0": "CR-14iA/L"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "14 kg",
+			"Reach": "911 mm",
+			"Repeatability": "0.01 mm",
+			"Linear speed": "500 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "296.5 mm",
+			"Robot mass": "55 kg"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/tm12": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "OMRON",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/TECHMAN-ROBOT-TM-12-400x400.png",
+		"name": {
+			"0": "TM12"
+		},
+		"summary": {},
+		"description": [
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "12 kg",
+			"Reach": "1300 mm",
+			"Repeatability": "0.1 mm",
+			"Linear speed": "1300 mm/s",
+			"Number of Axes": "6",
+			"Robot mass": "33.3 kg",
+			"Extra info": "Programming: TMflow, flowchart based"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/irb-14050-yumi": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "ABB",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/ABB-IRB-14050-YUMI-400x400.png",
+		"name": {
+			"0": "IRB 14050 YUMI"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"Best-in-class safety. Ultimate flexibility. Approachable design. YuMi was engineered to work directly alongside your people, and boost productivity.",
+			"From handling small parts to inspection tasks, YuMi was designed to work side-by-side with your people. Light, agile, and flexible as it gets, YuMi is also easy to move and reprogram if your needs change.",
+			"Single-arm YuMi is compact and lightweight and supports mounting in any direction including ceiling, table, and wall mounting for rapid and flexible installation to fit into existing production lines. The ultra-light magnesium arm rotates on seven axes to mimic human-like movements with greater agility than 6-axis robots.",
+			"Best for",
+			"Designed to meet the flexible production needs required by small parts assembly processes including consumer electronics, consumer goods, and small and medium enterprises.",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "0.5 kg",
+			"Reach": "559 mm",
+			"Repeatability": "0.02 mm",
+			"Number of Axes": "7"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/gofa-crb-15000": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "ABB",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/product/_productMain/ABB-GoFa-CRB-15000.jpg",
+		"name": {
+			"0": "GoFa CRB 15000"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"GoFa incorporates a range of features that allow it to be used safely, directly alongside human workers and without the need to design and build bulky barriers or fencing. GoFa can continuously share workspace with people, giving it maximum flexibility and efficiency. Robot and human cooperate on the same tasks, without jeopardizing productivity or safety.",
+			"With a class-leading reach of 950mm, and the ability to handle payloads up to 5kg, GoFa loves demanding, repetitive tasks. For maximum safety, it also features intelligent sensors in every joint that stop the robot within milliseconds if contact is detected.",
+			"With a top speed of 2.2m/s, GoFa is faster than other cobots in its class. Excellent position repeatability and superior motion control from ABB also enable it to perform its tasks accurately and precisely.",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "5.0 kg",
+			"Reach": "950 mm",
+			"Repeatability": "0.05 mm",
+			"Linear speed": "2200 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "165 mm",
+			"Robot mass": "27 kg",
+			"Protection rating": "IP54"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/cr-15ia": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "FANUC",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/FANUC-CR15iA-400x400.png",
+		"name": {
+			"0": "CR-15iA"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "15 kg",
+			"Reach": "1441 mm",
+			"Repeatability": "0.02 mm",
+			"Linear speed": "1500 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "346 mm",
+			"Robot mass": "255 kg"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/lwr": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "KUKA",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/KUKA-LWR-400x400.png",
+		"name": {
+			"0": "LWR"
+		},
+		"summary": {},
+		"description": [],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "7 kg",
+			"Reach": "790 mm",
+			"Repeatability": "0.05 mm",
+			"Number of Axes": "7"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/lbr-iiwa-14-r820": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "KUKA",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/KUKA-LBR-IIWA-14-R820-400x400.png",
+		"name": {
+			"0": "LBR IIWA 14 R820"
+		},
+		"summary": {},
+		"description": [],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "14 kg",
+			"Reach": "820 mm",
+			"Repeatability": "0.1 mm",
+			"Number of Axes": "7"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/swifti-crb-1100-0-58": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "ABB",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/product/_productMain/ABB-Swifty.jpg",
+		"name": {
+			"0": "SWIFTI CRB 1100/0.58"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"A lightning-fast cobot that combines industrial-level performance and innovative safety. SWIFTI gets the job done faster and more accurately than you can imagine.",
+			"SWIFTI bridges the gap between collaborative and industrial robots. It enables proven safe collaborative operation to be achieved, even in applications that demand industrial-level speed and lifting capabilities.",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "4 kg",
+			"Reach": "580 mm",
+			"Repeatability": "0.01 mm",
+			"Linear speed": "5050 mm/s",
+			"Number of Axes": "6",
+			"Protection rating": "IP40"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/i7": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "AUBO",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/AUBO-I7-400x400.png",
+		"name": {
+			"0": "I7"
+		},
+		"summary": {},
+		"description": [],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "7 kg",
+			"Reach": "1150 mm",
+			"Repeatability": "0.03 mm",
+			"Number of Axes": "6"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/hc10dt": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "YASKAWA",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/YASKAWA-MOTOMAN-HC10DT-400x400.png",
+		"name": {
+			"0": "HC10DT"
+		},
+		"summary": {},
+		"description": [
+			"About"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "10 kg",
+			"Reach": "1200 mm",
+			"Repeatability": "0.1 mm",
+			"Number of Axes": "6",
+			"Footprint": "255 mm",
+			"Robot mass": "48 kg"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/i16": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "AUBO",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/AUBO-I16-400x400.png",
+		"name": {
+			"0": "I16"
+		},
+		"summary": {},
+		"description": [
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "16 kg",
+			"Reach": "960 mm",
+			"Repeatability": "0.05 mm",
+			"Number of Axes": "6"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/hc20dt": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "YASKAWA",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/HC20DT.jpg",
+		"name": {
+			"0": "HC20DT"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "20 kg",
+			"Reach": "1700 mm",
+			"Repeatability": "0.05 mm",
+			"Linear speed": "1000 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "380 mm",
+			"Robot mass": "140 kg"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/cobotta": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "DENSO",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/DENSO-COBOTTA-400x400.png",
+		"name": {
+			"0": "COBOTTA"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"The human-friendly, compact, and portable design allows you to take COBOTTA anywhere, and automate tasks right away. No expert knowledge is required, making operation amazingly easy. Do you need that extra hand? Do you want to leave simple tasks to robots, and make more time for creative work? COBOTTA will open infinite possibilities to address your needs, and realize creative, new ideas.",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "0.5 kg",
+			"Reach": "342 mm",
+			"Repeatability": "0.05 mm",
+			"Linear speed": "250 mm/s",
+			"Number of Axes": "6",
+			"Footprint": "170 mm",
+			"Robot mass": "4 kg"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/i5": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "AUBO",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/AUBO-I5-400x400.png",
+		"name": {
+			"0": "I5"
+		},
+		"summary": {},
+		"description": [
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "5 kg",
+			"Reach": "924 mm",
+			"Repeatability": "0.02 mm",
+			"Number of Axes": "6"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/i3": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "AUBO",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/AUBO-I3-400x400.png",
+		"name": {
+			"0": "I3"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"The I3 Cobot combines user-friendliness and high repeatability. Low cost of ownership and high positional repeatability are some of the other criteria that make up the outstanding features of this robot.",
+			"Product variants",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "3 kg",
+			"Reach": "625 mm",
+			"Repeatability": "0.03 mm",
+			"Number of Axes": "6",
+			"Robot mass": "15.5 kg",
+			"Protection rating": "IP54",
+			"Extra info": "The open-source architecture enables the robot operating system (ROS) to be supported through API for both industrial and academic use. AUBO robot uses the Canbus network to communicate between harmonic drives."
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/irb-14000-yumi": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "ABB",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/_productMain/ABB-IRB-1400-YUMI-400x400.png",
+		"name": {
+			"0": "IRB 14000 YUMI"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"Innovative human - friendly dual arm robot with breakthrough functionality designed to unlock vast global additional automation potential in industry. YuMi® is designed for a new era of automation, for example in small parts assembly, where people and robots work side-by-side on the same tasks. Safety is built into the functionality of the robot itself. YuMi® removes the barriers to collaboration by making fencing and cages a thing of the past.",
+			"Pricing Overview"
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "0.5 kg",
+			"Reach": "500 mm",
+			"Repeatability": "0.02 mm",
+			"Number of Axes": "7"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	},
+	"https://qviro.com/product/cz10": {
+		"slug": "",
+		"type": "Collaborative Robots",
+		"available": "",
+		"bundled": "",
+		"vendor": "",
+		"brand": "NACHI",
+		"collections": [],
+		"catalogs": [
+			{
+				"title": {},
+				"description": {},
+				"image": ""
+			}
+		],
+		"thumbnail": "https://s3.eu-west-3.amazonaws.com/virtual-industry/product/_productMain/Nachi-CZ10.jpg",
+		"name": {
+			"0": "CZ10"
+		},
+		"summary": {},
+		"description": [
+			"About",
+			"Nachi's new robot, CZ10, has several people-friendly functions and structures.Makes it easier to install a robot with various applications."
+		],
+		"notices": [
+			{
+				"slug": "",
+				"title": {},
+				"items": [
+					{
+						"title": {},
+						"description": {}
+					}
+				]
+			}
+		],
+		"price": {
+			"original": "",
+			"type": ""
+		},
+		"discount": {
+			"type": "",
+			"value": ""
+		},
+		"taxCategories": [],
+		"shipping": {
+			"methods": [],
+			"calculation": ""
+		},
+		"options": [
+			{
+				"name": {},
+				"priority": "",
+				"variations": [
+					{
+						"value": {},
+						"priority": ""
+					}
+				]
+			}
+		],
+		"bundles": [
+			{
+				"required": "",
+				"name": {},
+				"items": [
+					{
+						"product": "",
+						"variant": ""
+					}
+				]
+			}
+		],
+		"model_name": {},
+		"weight": {},
+		"dimension": {
+			"Payload": "10 kg",
+			"Reach": "1300 mm",
+			"Repeatability": "0.1 mm",
+			"Number of Axes": "6",
+			"Robot mass": "61 kg",
+			"Protection rating": "IP54"
+		},
+		"payload": {},
+		"reach": {},
+		"autonomous": {},
+		"warranty": {},
+		"related_doc_url_1": {},
+		"related_doc_url_2": {},
+		"related_doc_url_3": [],
+		"related_doc_url_4": {},
+		"related_doc_url_5": {},
+		"related_doc_url_6": {},
+		"meta": "object"
+	}
+}
