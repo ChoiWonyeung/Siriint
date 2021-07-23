@@ -2,13 +2,13 @@ from bs4 import BeautifulSoup
 from IO import *
 import time
 import requests
-import pickle
 import random
 import pandas as pd
+import urllib3
 
 dic_unchained = pickle_load('pickle/dic_unchained_1depth.pkl')
 ls_source = list(dic_unchained.keys())
-
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 def delrn(text):
     return text.replace('\xa0', ' ').replace('"', '').replace("\t", "").replace("\n", "").replace("\r", "").lstrip().rstrip()
 
