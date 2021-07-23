@@ -16,9 +16,9 @@ def delrn(text):
 
 def getPost(ls_source) -> list:
     options = Options()
-    #options.add_argument('headless')  # disable-gpu와 같이 사용. 크롬 드라이버의 표시를 막아줌(리소스 최적화 및 속도 향상)
-    #options.add_argument("disable-gpu")
-    #options.add_argument('window-size=1920x1080')  # 크롬 드라이버 화면 사이즈 지정
+    options.add_argument('headless')  # disable-gpu와 같이 사용. 크롬 드라이버의 표시를 막아줌(리소스 최적화 및 속도 향상)
+    options.add_argument("disable-gpu")
+    options.add_argument('window-size=1920x1080')  # 크롬 드라이버 화면 사이즈 지정
     driver = webdriver.Chrome('D:/Utility/chromedriver', chrome_options=options)  # 크롬드라이버 실행
     #####
     counter = 0
@@ -32,27 +32,30 @@ def getPost(ls_source) -> list:
         soup = BeautifulSoup(source, 'html.parser')
 
         #브랜드명 적재
-        lsbrand = soup.find('div',{'id':'productOverview_feature_div'}).findAll('td')
-        brandnum = 0
-        dic_amazon[post]['Brand'] = delrn(soup.find('span', {'id': 'productTitle'}).text).split(' ')[0]
-        for brand in lsbrand :
-            try:
-                if 'Brand' in lsbrand[brandnum].text:
-                    dic_amazon[post]['Brand'] = delrn(lsbrand[brandnum+1].text)
-                    break
-                else: dic_amazon[post]['Brand'] = delrn(soup.find('span',{'id':'productTitle'}).text).split(' ')[0]
-            except:
-                dic_amazon[post]['Brand'] = delrn(soup.find('span',{'id':'productTitle'}).text).split(' ')[0]
-                break
-            brandnum = brandnum + 2
-        if 'Robot' == dic_amazon[post]['Brand']:
-            try:dic_amazon[post]['Brand'] = soup.find('a',{'id':'sellerProfileTriggerId'}).text
-            except:
+        try:
+            lsbrand = soup.find('div',{'id':'productOverview_feature_div'}).findAll('td')
+            brandnum = 0
+            dic_amazon[post]['Brand'] = delrn(soup.find('span', {'id': 'productTitle'}).text).split(' ')[0]
+            for brand in lsbrand :
                 try:
-                    dic_amazon[post]['Brand'] = soup.find('a',{'id':'bylineInfo'}).text
+                    if 'Brand' in lsbrand[brandnum].text:
+                        dic_amazon[post]['Brand'] = delrn(lsbrand[brandnum+1].text)
+                        break
+                    else: dic_amazon[post]['Brand'] = delrn(soup.find('span',{'id':'productTitle'}).text).split(' ')[0]
                 except:
-                    dic_amazon[post]['Brand'] = None
-                    #상품명 적재
+                    dic_amazon[post]['Brand'] = delrn(soup.find('span',{'id':'productTitle'}).text).split(' ')[0]
+                    break
+                brandnum = brandnum + 2
+            if 'Robot' == dic_amazon[post]['Brand']:
+                try:dic_amazon[post]['Brand'] = soup.find('a',{'id':'sellerProfileTriggerId'}).text
+                except:
+                    try:
+                        dic_amazon[post]['Brand'] = soup.find('a',{'id':'bylineInfo'}).text
+                    except:
+                        dic_amazon[post]['Brand'] = None
+        except:dic_amazon[post]['Brand']=None
+
+        #상품명 적재
         dic_amazon[post]['Product'] = delrn(soup.find('span',{'id':'productTitle'}).text)
 
 
@@ -128,23 +131,33 @@ def getPost(ls_source) -> list:
 
         #배송사
         if '품절' in Price:dic_amazon[post]['Shipping'] = '품절로 인해 배송 불가'
-        else:dic_amazon[post]['Shipping'] = soup.find('span', {'id':'tabular-buybox-truncate-0'}).find('span').text
+        else:
+            try:dic_amazon[post]['Shipping'] = soup.find('span', {'id':'tabular-buybox-truncate-0'}).find('span').text
+            except:dic_amazon[post]['Shipping'] = '한국 배송 불가능'
 
-########### DEVZONE ###########
         #배송기간
         if '품절' in Price:dic_amazon[post]['ShippingDate'] = '품절로 인해 배송 불가'
+        if '불가능' in dic_amazon[post]['Shipping']: dic_amazon[post]['ShippingDate'] = '한국 배송 불가능'
         else :
-            shipdate = soup.find('div', {'id': 'deliveryBlock_feature_div'}).find('b').text.split(', ')[1]
-            monthnum = 0
-            monthtext = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
-            for montht in monthtext:
-                if montht in shipdate:
-                    datetime.today(year)+' '+monthnum+' '+shipdate.split(' ')[-1]
 
-                monthnum = monthnum + 1
-########### DEVZONE ###########
+            try:
+                shipdate = soup.find('div', {'id': 'deliveryBlock_feature_div'}).find('b').text.split(', ')[1]
+                shipdate = str(datetime.date.today().year)+'-'+shipdate.split(' ')[0]+'-'+shipdate.split(' ')[1]
+                today = datetime.datetime.today()
+                try:
+                    shipdate = datetime.datetime.strptime(shipdate,'%Y-%b-%d')
+                    shipdate = shipdate.date() - today.date()
+                    dic_amazon[post]['ShippingDate'] = shipdate.days
 
-            dic_amazon[post]['ShippingDate'] = None
+                except:
+                    try:
+                        shipdate = datetime.datetime.strptime(shipdate,'%Y-%B-%d')
+                        shipdate = shipdate.date() - today.date()
+                        dic_amazon[post]['ShippingDate'] = shipdate.days
+                    except:dic_amazon[post]['ShippingDate'] = None
+            except:dic_amazon[post]['ShippingDate'] = None
+
+
 
         #상품스펙정보
         dic_amazon[post]['Specification']=[]
@@ -207,7 +220,7 @@ def getPost(ls_source) -> list:
         dic_amazon[post]['Url'] = url
 
         print(dic_amazon[post])
-        #if counter == 15:break
+        if counter == 15:break
     pickle_save('pickle/dic_amazon_2depth.pkl', dic_amazon)
     pd.DataFrame(dic_amazon).to_csv("data/amazon.csv",encoding='utf-8-sig')
     json_save("data/amazon.json", dic_amazon)
