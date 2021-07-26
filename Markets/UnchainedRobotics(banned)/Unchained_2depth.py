@@ -60,6 +60,9 @@ def getPost(ls_source) -> list:
 
         dic_unchained[post]['Seller'] = {'Name':'Unchained Robotics', 'Phone':'+49 1522 2798924'}
 
+        dic_unchained[post]['Information'] = delrn(soup.find('div',{'class':'elementor-jet-single-excerpt'}).text)
+
+
         try:DesText = delrn(soup.find('div',{'data-elementor-type':'jet-woo-builder'}).findAll('section')[10].text)
         except:DesText = None
         DesImage = []
@@ -77,7 +80,6 @@ def getPost(ls_source) -> list:
         dic_unchained[post]['Url'] = url
         print(dic_unchained[post])
         counter = counter + 1
-
     pickle_save('pickle/dic_unchained_2depth.pkl', dic_unchained)
     pd.DataFrame(dic_unchained).to_csv("data/unchained.csv",encoding='utf-8-sig')
     json_save("data/unchained.json", dic_unchained)
