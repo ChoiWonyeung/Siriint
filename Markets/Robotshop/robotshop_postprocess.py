@@ -1,5 +1,5 @@
 import pandas as pd
-from common import *
+from Modules.common import *
 from glob import glob
 import json
 
