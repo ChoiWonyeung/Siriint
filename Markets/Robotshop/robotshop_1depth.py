@@ -1,4 +1,4 @@
-from common import *
+from Modules.common import *
 import robotshop_config
 
 # def crawl_key():

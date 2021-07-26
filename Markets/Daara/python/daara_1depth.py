@@ -1,4 +1,4 @@
-from common import *
+from Modules.common import *
 import Markets.Daara.python.config as config
 
 def crawl_key(save=False, sample=False):

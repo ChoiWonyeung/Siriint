@@ -6,8 +6,9 @@ from Markets.Cobot.crawl.cobot_transform import transform
 def main():
     dic_cobot1 = crawl_key(sample=False, save=False)
     dic_cobot2 = crawl_detail(dic_cobot1, save=True)
-    # json_cobot = transform(dic_cobot)
+    json_cobot = transform(dic_cobot2)
     # json_save('./json/cobot_result.json', json_cobot)
+    return json_cobot
 
 
 if __name__ == '__main__':

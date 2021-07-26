@@ -1,4 +1,4 @@
-import common
+from Modules import common
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import thinksolutions_config as config

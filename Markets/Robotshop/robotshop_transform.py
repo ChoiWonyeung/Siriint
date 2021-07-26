@@ -1,4 +1,4 @@
-from common import *
+from Modules.common import *
 from ETC import format_json
 import pandas as pd
 
@@ -24,4 +24,4 @@ def transformation(dic_robotshop, save=False):
 
 if __name__ == '__main__':
     dic_robotshop = pickle_load('./pickles/robotshop.pkl')
-    transformation(dic_robotshop, save=True)
+    json_robotshop = transformation(dic_robotshop, save=True)

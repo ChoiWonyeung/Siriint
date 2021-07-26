@@ -1,7 +1,4 @@
-import thinksolutions_config as config
-from common import *
-from table_make import table_make
-import re
+from Modules.common import *
 
 
 def crawl_detail(result, sample=False, save=False):
