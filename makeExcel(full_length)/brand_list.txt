@@ -1,0 +1,88 @@
+ABB,에이비비,애이비비
+AUBO,아우보
+Comau,코마우
+DELTA
+DENSO
+EPSON
+FANUC
+Kawasaki
+KUKA
+NACHI
+Panasonic
+TM
+UR
+YASKAWA
+YUSHIN
+뉴로메카
+두산로보틱스
+레인보우로보틱스
+로보스타
+한화기계
+현대로보틱스
+BOSTON Dynamics
+GEEK+
+PUDU
+Robotiq
+UNITREE Robotics
+로아스
+삼미AGV
+트위니
+포테닛
+현대로템
+두산모빌리티이노베이션
+아르고스다인
+Mech Mind
+OnRobot
+로보케어
+Kinova
+Agile-X
+Fetch
+SHADOW ROBOT COMPANY
+제우스
+FRANKA EMIKA
+Staubli
+드림로봇
+Clearpath
+한양로보틱스
+휴림로봇
+MiR
+OMRON
+FRT
+CMES
+COGNEX
+Keyence
+PickIt
+SICK
+Solomon
+DH Robotics
+Gimatic
+Piab
+Schmalz
+Schunk
+SMC
+ZIMMER
+주강로보테크
+아이로보
+STUDIO3S
+델타봇
+베어로보틱스
+비트
+시스콘
+오션파라다이스
+Visionnav
+HAI ROBOTICS
+큐렉소
+RGT
+Orion Stars
+Dobot
+Elephant Robotics
+Elibot
+Vention
+Easy Robotics
+LG 클로이
+KT
+Keenon
+로보티즈
+원익로보틱스
+도구공간
+한컴로보틱스
