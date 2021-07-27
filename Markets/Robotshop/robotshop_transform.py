@@ -11,10 +11,12 @@ def transformation(dic_robotshop, save=False):
         json_robotshop[dic_key]['name'] = dic_robotshop[dic_key]['product']
         json_robotshop[dic_key]['price'] = dic_robotshop[dic_key]['price']
         json_robotshop[dic_key]['summary'] = dic_robotshop[dic_key]['highlight']
-        json_robotshop[dic_key]['model_name'] = {dic_robotshop[dic_key]['model']}
+        json_robotshop[dic_key]['model_name'] = dic_robotshop[dic_key]['model']
         json_robotshop[dic_key]['description'] = dic_robotshop[dic_key]['description']
         json_robotshop[dic_key]['dimension'] = dic_robotshop[dic_key]['spec']
         json_robotshop[dic_key]['related_doc_url_1'] = dic_robotshop[dic_key]['related']
+        # with open('./json/robotshop_result.json', 'w', encoding='utf-8') as file:
+        #     json.dump(json_robotshop, file, indent='\t')
 
     if save == True:
         df_robotshop = pd.DataFrame(json_robotshop).transpose()

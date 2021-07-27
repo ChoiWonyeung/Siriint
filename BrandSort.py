@@ -1,5 +1,6 @@
 import pandas as pd
 from Modules.common import *
+from glob import glob
 
 
 def brand_make():
@@ -10,9 +11,36 @@ def brand_make():
     brand_ls = sorted(brand_ls)
     return brand_ls
 
+def brand_make_():
+    lines = open().splitlines()
+    brands = []
+    for line in lines:
+        temps = line.split(',')
+        brands.append(temps)
 
-def market_key(brand_ls, file='/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/makeExcel(full_length)/daara_result.json'):
-    dic_raw = json_load(file)
+    # brand
+    """
+    {
+        'ABB' : ['ABB' , '에이비비, ...]
+    }
+    [
+         ['ABB' , '에이비비, ...],
+         ['AUBO', '아우보', ]
+    ]
+    """
+
+    return brands
+
+
+def market_key(brand_ls):
+    file_ls = glob('./makeExcel(full_length)/*_result.json')
+    dic_raw = {}
+    for file in file_ls:
+        file_loaded = json_load(file)
+        file_key = list(file_loaded.keys())
+        for i in file_key:
+            dic_raw[i] = file_loaded[i]
+
     ls_marketKey = list(dic_raw.keys())
 
     a = []
@@ -23,13 +51,19 @@ def market_key(brand_ls, file='/Users/kimkangnam/PycharmProjects/CompanyProject/
     for i in sorted(brand_ls):
         dic_brand[i] = {}
         dic_brand[i][0] = i
+    json_save('./makeExcel(full_length)/__allResults.json', dic_raw)
     return dic_brand, dic_raw
 
 
 def dictionary_normalize(dic_brand):
-    dic_brand['ABB'][1] = 'ABB Robotics UK'
-    dic_brand['AUBO'][1] = '아우보'
+    dic_brand['ABB'][1] = 'abb', '에이비비', ''
+    dic_brand['ABB'][2] = 'ABB Robotics UK'
+    dic_brand['ABB'][3] = '에이비비'
+    dic_brand['AUBO'][1] = 'aubo'
+    dic_brand['AUBO'][2] = 'Aubo'
+    dic_brand['AUBO'][3] = '아우보'
     dic_brand['BOSTON Dynamics'][1] = 'Boston Dynamics'
+    dic_brand['BOSTON Dynamics'][2] = 'boston dynamics'
     dic_brand['DENSO'][1] = 'DENSO Robotics'
     dic_brand['EPSON'][1] = '엡손'
     dic_brand['EPSON'][2] = 'Epson Robotics'
@@ -77,6 +111,7 @@ def check_brandIn(dic_raw, dic_inverted):
             print(i)
     print(f'{cnt}개의 브랜드가 매치됩니다.')
 
+
 def brand_sorting(dic_raw, dic_brandInverted):
     dic_new = {}
     for key in list(dic_raw.keys()):
@@ -86,47 +121,47 @@ def brand_sorting(dic_raw, dic_brandInverted):
             dic_new[key]['brand'] = dic_brandInverted[brand]
     return dic_new
 
+def make_excel(dic_new):
+    df1 = pd.DataFrame(dic_new).transpose()
+    df2 = df1.sort_values(by=['brand'], axis=0, ignore_index=False)
+    df = df2
+    df_brand1 = df2['brand'].tolist()
+    df_brand = []
+    for i in df_brand1:
+        if i not in df_brand:
+            df_brand.append(i)
+
+    for i in df_brand:
+        if not os.path.exists(
+                '/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/makeExcel(full_length)/__allResults.xlsx'):
+            with pd.ExcelWriter(
+                    '/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/makeExcel(full_length)/__allResults.xlsx',
+                    mode='w', engine='openpyxl') as writer:
+                df[df['brand'] == i].to_excel(writer, index=True, sheet_name=i)
+        else:
+            with pd.ExcelWriter(
+                    '/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/makeExcel(full_length)/__allResults.xlsx',
+                    mode='a', engine='openpyxl') as writer:
+                df[df['brand'] == i].to_excel(writer, index=True, sheet_name=i)
+
 
 def main():
     brand_ls = brand_make()
-    dic_brand, dic_raw = market_key(brand_ls, '/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/makeExcel(full_length)/qviro_result.json')
+    dic_brand, dic_raw = market_key(brand_ls)
     dic_brandNormalized = dictionary_normalize(dic_brand)
     dic_brandInverted = dictionary_invert(dic_brandNormalized)
     check_brandIn(dic_raw, dic_brandInverted)
     dic_new = brand_sorting(dic_raw, dic_brandInverted)
+    make_excel(dic_new)
     return dic_new
 
 
 if __name__ == '__main__':
-    test = {0:'a',
-            1:'b',
-            '2':'c',
-            '3':'d'}
-    for i in test:
-        test[int(i)] = test[i]
-    # conv = int(test)
-    # print(test, conv)
-
-    # dic_new = main()
-    # json_save('/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/makeExcel(full_length)/_match_qviro.json', dic_new)
+    dic_new = main()
 
 
-    # brand_ls = brand_make()
-    # dic_brand, dic_raw = market_key(brand_ls, '/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/makeExcel(full_length)/komachine_result.json')
-    # dic_normalized = dictionary_normalize(dic_brand)
-    # dic_brandInverted = dictionary_invert(dic_normalized)
-
-    # key_ls = list(dic_raw.keys())
-    # for key in key_ls:
-    #     dic_raw[key]['brand'] = 'ABB'
-
-    # brand_dup = [dic_raw[key]['brand'] for key in key_ls]
-    # brand = []
-    # for i in brand_dup:
-    #     if i not in brand:
-    #         brand.append(i)
-    #
-    # brand = sorted(brand)
+    # json_save('/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/makeExcel(full_length)/__allResults.json', dic_new)
+    # df.to_csv('/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/makeExcel(full_length)/__allResults.csv')
 
 
 

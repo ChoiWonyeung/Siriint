@@ -160,7 +160,7 @@ def format_json_____(key=''):
     return key
 
 
-def format_json(key='') -> object:
+def format_json(key: object = '') -> object:
     key = \
         {
             'slug': '',
@@ -248,3 +248,5 @@ def format_json(key='') -> object:
             'meta': Object  # 상품의 커스텀 정보
         }
     return key
+
+
