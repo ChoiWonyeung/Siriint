@@ -1,0 +1,88 @@
+ABB, 에이비비, 애이비비, ABB Robotics UK, 에이비비로보틱스, 애이비비로보틱스, 에이비비로봇, ABB Robotics
+Agile-X, AgileX, 에자일액스, 에자일엑스, 애자일액스, 애자일엑스
+AUBO, 아우보
+BOSTON Dynamics, boston dynamics, 보스턴 다이나믹스, 보스톤 다이나믹스, 보스턴 다이내믹스
+CMES
+COGNEX
+Comau, 코마우
+Clearpath, 클리어패스
+DELTA, 델타
+DENSO, DENSO Robotics, 덴소, 덴소로보틱스, 댄소, 댄소로보틱스
+DH Robotics
+Dobot
+Easy Robotics, 이지로보틱스
+Elephant Robotics
+Elibot, 엘리봇, 앨리봇
+EPSON, 엡손, 앱손, Epson Robotics, 엡손로보틱스, 앱손로보틱스
+FANUC, 화낙, 화낙(FANUC), FANUC UK
+FRANKA EMIKA, Franka Emika, 프랑카에미카
+Fetch
+FRT
+GEEK+
+Gimatic
+HAI ROBOTICS
+Kawasaki, 가와사키, 카와사키, 가와사끼, 카와사끼, 가와사키 로보틱스, 카와사키 로보틱스, 가와사끼 로보틱스, 카와사끼 로보틱스, Kaasaki Robotics
+Keenon, 키논, 퀴논
+Keyence
+Kinova 키노바, 퀴노바, 키노버, 퀴노버
+KT, 케이티
+KUKA, 쿠카, Kuka UK,
+LG 클로이
+Mech Mind, 메크마인드
+MiR
+NACHI, 나치, 나치 로보틱스, 나치 로보틱스 시스템즈, NACHI ROBOTICS, NACHI ROBOTICS SYSTEMS, Nachi Robotics Systems Inc.
+OMRON, 오므론, 옴론, Omron
+Orion Stars
+OnRobot, 온로봇
+Panasonic, 파나소닉
+Piab
+PickIt
+PUDU
+RGT
+Robotiq, 로보티크, 로보티큐
+Schmalz, 슈말츠, 슈말쯔, 슈마츠, 슈마쯔
+Schunk, Schunk Intec Ltd
+SHADOW ROBOT COMPANY
+SICK
+Solomon, 솔로몬
+Staubli
+SMC
+STUDIO3S, 스튜디오쓰리에스
+TM
+UNITREE Robotics
+UR
+Vention
+Visionnav
+YASKAWA, 야스가와, 야스카와, 야스까와, Yaskawa Motoman
+YUSHIN
+ZIMMER
+뉴로메카
+델타봇
+도구공간
+두산로보틱스, Doosan Robotics
+두산모빌리티이노베이션
+드림로봇
+레인보우로보틱스
+로보스타, Robostar
+로보케어
+로보티즈
+로아스
+베어로보틱스
+비트
+삼미AGV
+시스콘
+아르고스다인
+아이로보
+오션파라다이스
+원익로보틱스
+제우스
+주강로보테크
+큐렉소
+트위니
+포테닛
+현대로보틱스, Hyundai Robotics, Hyundai
+현대로템
+한양로보틱스, Hanyang Robotics
+한컴로보틱스, Hancom Robotics
+한화기계, 한화, 한화로보틱스, 한화테크윈, Hanwha, Hanhwa ,Hanwha Robotics, Hanhwa Robotics
+휴림로봇
