@@ -109,11 +109,12 @@ def main():
     dic_filter_by_brand = brand_filtering(dic_all_markets, dic_brand)
     # make_excel(dic_filter_by_brand, 'test')
     count_brand_match(dic_all_markets, dic_brand)
-    return dic_filter_by_brand
+    return dic_filter_by_brand, dic_brand
 
 
 if __name__ == '__main__':
-    dic_filter_by_brand = main()
+
+    dic_filter_by_brand, dic_brand = main()
 
     # json_save('/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/makeExcel(full_length)/__allResults.json', dic_new)
     # df.to_csv('/Users/kimkangnam/PycharmProjects/CompanyProject/DataVoucher/Bigwave-Robotics/makeExcel(full_length)/__allResults.csv')
